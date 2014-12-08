@@ -1,143 +1,143 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802464f07f2",
-    "title": "Blackwater Kinect",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  \"Blackwater Kinect is a casual, first-person shooter, utilizing Kinect's full-body motion sensing capabilities. Supported languages: English (Voice over) and English, French, Spanish, German, Italian (On screen text).\"",
-    "genres": [
-        {
-            "label": "Shooter"
-        },
-        {
-            "label": "Kinect"
-        }
-    ],
-    "publisher": "505 Games",
-    "studio": "Zombie Studios",
-    "originalReleaseDate": "/Date(1318896000000)/",
-    "contentRating": {
-        "label": "T (Teen)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-        "age": 13,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Violence",
-                "image": null
-            },
-            {
-                "label": "Mild Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802464f07f2",
+	"title": "Blackwater Kinect",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  \"Blackwater Kinect is a casual, first-person shooter, utilizing Kinect's full-body motion sensing capabilities. Supported languages: English (Voice over) and English, French, Spanish, German, Italian (On screen text).\"",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "505 Games",
+	"studio": "Zombie Studios",
+	"originalReleaseDate": "/Date(1318896000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
 
-        ]
-    },
-    "trailers": [
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg6.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Blackwater-Kinect/66acd000-77fe-1000-9115-d802464f07f2",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 3,
-            "Count": 3841
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802464f07f2/Children",
-    "childDownloads": [
-        {
-            "id": "66acd000-77fe-1000-9115-d802464f07f2",
-            "title": "Blackwater Kinect",
-            "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  \"Blackwater Kinect is a casual, first-person shooter, utilizing Kinect's full-body motion sensing capabilities. Supported languages: English (Voice over) and English, French, Spanish, German, Italian (On screen text).\"",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3,
-                    "Count": 3841
-                }
-            },
-            "originalReleaseDate": "/Date(1342515600000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Mild Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Blackwater-Kinect/66acd000-77fe-1000-9115-d802464f07f2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 3841
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802464f07f2/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802464f07f2",
+			"title": "Blackwater Kinect",
+			"description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  \"Blackwater Kinect is a casual, first-person shooter, utilizing Kinect's full-body motion sensing capabilities. Supported languages: English (Voice over) and English, French, Spanish, German, Italian (On screen text).\"",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 3841
+				}
+			},
+			"originalReleaseDate": "/Date(1342515600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": [
-                "Game"
-            ],
-            "genres": [
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802464f07f2",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802464f07f2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

@@ -1,1389 +1,1389 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d80253510802",
-    "title": "Tomb Raider",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, Dutch, Portuguese and Spanish  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Armed with only the raw instincts and physical ability to push beyond the limits of human endurance, Tomb Raider delivers an intense and gritty story into the origins of Lara Croft and her ascent from a frightened young woman to a hardened survivor.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        }
-    ],
-    "publisher": "Square Enix",
-    "studio": "Crystal Dynamics",
-    "originalReleaseDate": "/Date(1362441600000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
-        "http://download.xbox.com/content/53510802/Crossroads%20Trailer.asx"
-    ],
-    "gameManual": "http://download.xbox.com/content/53510802/TR_360_MAN_ENG_GonD.pdf",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg9.jpg"
-    ],
-    "detailsUrl": "/en-us/Product/Tomb-Raider/66acd000-77fe-1000-9115-d80253510802",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 41397
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameVideo",
-        "GameAddon",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-us/X8/Game/66acd000-77fe-1000-9115-d80253510802/Children",
-    "childDownloads": [
-        {
-            "id": "1023ddec-2b2d-49ef-a053-c6cf733dc86a",
-            "title": "1939 Multiplayer Map Pack",
-            "description": "Hangar Multiplayer Map: A former military planning, maintenance, and aircraft storage facility. The winding hallways are bathed in an eerie yellow light and are some old turrets that are still functional. Forest Meadow: This forest meadow is a hunting ground, filled with open spaces that can be advantageous and dangerous at the same time. (multiplayer map) (These maps are only accessible in \"Free For All\" game types)",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 185
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80253510802",
+	"title": "Tomb Raider",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, Dutch, Portuguese and Spanish  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Armed with only the raw instincts and physical ability to push beyond the limits of human endurance, Tomb Raider delivers an intense and gritty story into the origins of Lara Croft and her ascent from a frightened young woman to a hardened survivor.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Square Enix",
+	"studio": "Crystal Dynamics",
+	"originalReleaseDate": "/Date(1362441600000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/53510802/Crossroads%20Trailer.asx"
+	],
+	"gameManual": "http://download.xbox.com/content/53510802/TR_360_MAN_ENG_GonD.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-us/Product/Tomb-Raider/66acd000-77fe-1000-9115-d80253510802",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 41397
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"GameAddon",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-us/X8/Game/66acd000-77fe-1000-9115-d80253510802/Children",
+	"childDownloads": [
+		{
+			"id": "1023ddec-2b2d-49ef-a053-c6cf733dc86a",
+			"title": "1939 Multiplayer Map Pack",
+			"description": "Hangar Multiplayer Map: A former military planning, maintenance, and aircraft storage facility. The winding hallways are bathed in an eerie yellow light and are some old turrets that are still functional. Forest Meadow: This forest meadow is a hunting ground, filled with open spaces that can be advantageous and dangerous at the same time. (multiplayer map) (These maps are only accessible in \"Free For All\" game types)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 185
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/1023ddec-2b2d-49ef-a053-c6cf733dc86a/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/1023ddec-2b2d-49ef-a053-c6cf733dc86a",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "9f01f609-687b-4191-b2e7-8f8550818b0d",
-            "title": "Agency SPS 12",
-            "description": "The shotgun that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 129
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/9f01f609-687b-4191-b2e7-8f8550818b0d/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/9f01f609-687b-4191-b2e7-8f8550818b0d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "82a82d03-f19f-4e28-8027-541f8c74a1e1",
-            "title": "Agility",
-            "description": "The Agility skill lets Lara ascend mountain faces more quickly and ensures she lands safely from higher falls (single player upgrade).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 214
-                }
-            },
-            "originalReleaseDate": "/Date(1363078800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/82a82d03-f19f-4e28-8027-541f8c74a1e1/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/82a82d03-f19f-4e28-8027-541f8c74a1e1",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "11752b96-6038-464f-8795-9f7e6333f461",
-            "title": "Animal Instinct",
-            "description": "The Animal instinct skill lights up XP-laden animals in Survival Instinct mode, to help Lara upgrade more quickly (single player upgrade).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 173
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/11752b96-6038-464f-8795-9f7e6333f461/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/11752b96-6038-464f-8795-9f7e6333f461",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "65292529-9bde-49ec-8ed3-249fbf2f3623",
-            "title": "Aviatrix Skin",
-            "description": "This outfit dresses Lara up as a classic 1930s adventurer, bomber jacket and all (single player outfit).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 126
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/65292529-9bde-49ec-8ed3-249fbf2f3623/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/65292529-9bde-49ec-8ed3-249fbf2f3623",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "737e5445-586e-4d56-a721-816a45e3293f",
-            "title": "Caves and Cliffs Multiplayer Map Pack",
-            "description": "Scavenger Caverns: A massive network of caves used by the scavengers as both a prison and a torture area. Cliff Shantytown: This settlement was built high in the island cliffs.  Its many layers hide some of the deadliest traps on the island. The Burning Village: A fire has erupted in an abandoned Japanese village. The burning buildings offer multiple ways to escape your enemies, but enter them at your own peril.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 181
-                }
-            },
-            "originalReleaseDate": "/Date(1363683600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1023ddec-2b2d-49ef-a053-c6cf733dc86a/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/1023ddec-2b2d-49ef-a053-c6cf733dc86a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9f01f609-687b-4191-b2e7-8f8550818b0d",
+			"title": "Agency SPS 12",
+			"description": "The shotgun that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 129
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9f01f609-687b-4191-b2e7-8f8550818b0d/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/9f01f609-687b-4191-b2e7-8f8550818b0d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "82a82d03-f19f-4e28-8027-541f8c74a1e1",
+			"title": "Agility",
+			"description": "The Agility skill lets Lara ascend mountain faces more quickly and ensures she lands safely from higher falls (single player upgrade).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 214
+				}
+			},
+			"originalReleaseDate": "/Date(1363078800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/82a82d03-f19f-4e28-8027-541f8c74a1e1/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/82a82d03-f19f-4e28-8027-541f8c74a1e1",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "11752b96-6038-464f-8795-9f7e6333f461",
+			"title": "Animal Instinct",
+			"description": "The Animal instinct skill lights up XP-laden animals in Survival Instinct mode, to help Lara upgrade more quickly (single player upgrade).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 173
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/11752b96-6038-464f-8795-9f7e6333f461/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/11752b96-6038-464f-8795-9f7e6333f461",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "65292529-9bde-49ec-8ed3-249fbf2f3623",
+			"title": "Aviatrix Skin",
+			"description": "This outfit dresses Lara up as a classic 1930s adventurer, bomber jacket and all (single player outfit).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 126
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/65292529-9bde-49ec-8ed3-249fbf2f3623/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/65292529-9bde-49ec-8ed3-249fbf2f3623",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "737e5445-586e-4d56-a721-816a45e3293f",
+			"title": "Caves and Cliffs Multiplayer Map Pack",
+			"description": "Scavenger Caverns: A massive network of caves used by the scavengers as both a prison and a torture area. Cliff Shantytown: This settlement was built high in the island cliffs.  Its many layers hide some of the deadliest traps on the island. The Burning Village: A fire has erupted in an abandoned Japanese village. The burning buildings offer multiple ways to escape your enemies, but enter them at your own peril.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 181
+				}
+			},
+			"originalReleaseDate": "/Date(1363683600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/737e5445-586e-4d56-a721-816a45e3293f/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/737e5445-586e-4d56-a721-816a45e3293f",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "93ce0876-8774-4fc5-a785-9fcb2098ba34",
-            "title": "Demolition Skin",
-            "description": "Outfit Lara with the Demolition Gear, featuring an engineering jumpsuit and belt pack (single player outfit).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 50
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/93ce0876-8774-4fc5-a785-9fcb2098ba34/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/93ce0876-8774-4fc5-a785-9fcb2098ba34",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f270f924-a7c3-48b1-b338-3a466b877e16",
-            "title": "Fisherman",
-            "description": "The stalwart crew Fisherman",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 76
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/f270f924-a7c3-48b1-b338-3a466b877e16/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/f270f924-a7c3-48b1-b338-3a466b877e16",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f5b6c836-4e57-453e-86bb-6acfe754bb6f",
-            "title": "Guerilla Skin",
-            "description": "This outfit makes Lara look like a jungle warfare guerilla (single player outfit).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 123
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/f5b6c836-4e57-453e-86bb-6acfe754bb6f/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/f5b6c836-4e57-453e-86bb-6acfe754bb6f",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "81d5044f-5c90-4122-a602-334fd12db750",
-            "title": "Headshot Reticle ",
-            "description": "The headshot reticule lets Lara utilize her weapons more accurately. When used with the pistol silencer, it makes for a deadly combination (single player upgrade). ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 111
-                }
-            },
-            "originalReleaseDate": "/Date(1363683600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/81d5044f-5c90-4122-a602-334fd12db750/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/81d5044f-5c90-4122-a602-334fd12db750",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "28575744-8b61-46e1-b4c9-51069a754f56",
-            "title": "Hitman: Absolution™ Weapons Pack 1",
-            "description": "A 3-pack bundle of the weapons Agent 47 uses in Hitman: Absolution™ (multiplayer weapon pack).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 187
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/737e5445-586e-4d56-a721-816a45e3293f/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/737e5445-586e-4d56-a721-816a45e3293f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "93ce0876-8774-4fc5-a785-9fcb2098ba34",
+			"title": "Demolition Skin",
+			"description": "Outfit Lara with the Demolition Gear, featuring an engineering jumpsuit and belt pack (single player outfit).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/93ce0876-8774-4fc5-a785-9fcb2098ba34/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/93ce0876-8774-4fc5-a785-9fcb2098ba34",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f270f924-a7c3-48b1-b338-3a466b877e16",
+			"title": "Fisherman",
+			"description": "The stalwart crew Fisherman",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 76
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f270f924-a7c3-48b1-b338-3a466b877e16/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/f270f924-a7c3-48b1-b338-3a466b877e16",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f5b6c836-4e57-453e-86bb-6acfe754bb6f",
+			"title": "Guerilla Skin",
+			"description": "This outfit makes Lara look like a jungle warfare guerilla (single player outfit).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 123
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f5b6c836-4e57-453e-86bb-6acfe754bb6f/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/f5b6c836-4e57-453e-86bb-6acfe754bb6f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "81d5044f-5c90-4122-a602-334fd12db750",
+			"title": "Headshot Reticle ",
+			"description": "The headshot reticule lets Lara utilize her weapons more accurately. When used with the pistol silencer, it makes for a deadly combination (single player upgrade). ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 111
+				}
+			},
+			"originalReleaseDate": "/Date(1363683600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/81d5044f-5c90-4122-a602-334fd12db750/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/81d5044f-5c90-4122-a602-334fd12db750",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "28575744-8b61-46e1-b4c9-51069a754f56",
+			"title": "Hitman: Absolution™ Weapons Pack 1",
+			"description": "A 3-pack bundle of the weapons Agent 47 uses in Hitman: Absolution™ (multiplayer weapon pack).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 187
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/28575744-8b61-46e1-b4c9-51069a754f56/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/28575744-8b61-46e1-b4c9-51069a754f56",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "7dc6a415-553a-4a50-add7-5e2de66dcc04",
-            "title": "Hitman: Absolution™ Weapons Pack 2",
-            "description": "A 3-pack bundle of the weapons Agent 47 uses in Hitman: Absolution™ (multiplayer weapon pack).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 122
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/7dc6a415-553a-4a50-add7-5e2de66dcc04/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/7dc6a415-553a-4a50-add7-5e2de66dcc04",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "21332f5e-daef-41df-ada2-9e6f0b7d781d",
-            "title": "Hunter Skin",
-            "description": "This outfit camouflages Lara in a heavy coating of mud, action movie-style (single player outfit).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 114
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/21332f5e-daef-41df-ada2-9e6f0b7d781d/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/21332f5e-daef-41df-ada2-9e6f0b7d781d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "598838a7-93ca-49b4-a1ad-6188e908fce9",
-            "title": "HX AP-15",
-            "description": "The SMG that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 63
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/598838a7-93ca-49b4-a1ad-6188e908fce9/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/598838a7-93ca-49b4-a1ad-6188e908fce9",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "78132890-d71e-4b23-8c96-8ca7cf66dc35",
-            "title": "JAGD P22G",
-            "description": "A second Pistol that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/78132890-d71e-4b23-8c96-8ca7cf66dc35/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/78132890-d71e-4b23-8c96-8ca7cf66dc35",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-be48-a212-c35b-efb853510802",
-            "title": "Lara Croft Avatar",
-            "description": "Be prepared for adventure at every turn with this original Lara Croft costume for your avatar.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 16
-                }
-            },
-            "originalReleaseDate": "/Date(1362135600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-be48-a212-c35b-efb853510802/1033/thumblg.png",
-            "url": "/en-us/X8/Game/00000ab8-be48-a212-c35b-efb853510802",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "a9c981f4-ddb5-4c83-96e3-2c72bc217a47",
-            "title": "M590 12ga",
-            "description": "A second shotgun that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 56
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/a9c981f4-ddb5-4c83-96e3-2c72bc217a47/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/a9c981f4-ddb5-4c83-96e3-2c72bc217a47",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "208d6f11-704f-4136-aad9-8fb8894ed0c7",
-            "title": "Tomb Raider: Monastery Escape Gameplay Walkthrough",
-            "description": "Lara makes her way from a Monastery to the edge of a Scavenger shanty town, using the environment to succeed in brutal combat.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 145
-                }
-            },
-            "originalReleaseDate": "/Date(1360918800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/28575744-8b61-46e1-b4c9-51069a754f56/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/28575744-8b61-46e1-b4c9-51069a754f56",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7dc6a415-553a-4a50-add7-5e2de66dcc04",
+			"title": "Hitman: Absolution™ Weapons Pack 2",
+			"description": "A 3-pack bundle of the weapons Agent 47 uses in Hitman: Absolution™ (multiplayer weapon pack).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 122
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/7dc6a415-553a-4a50-add7-5e2de66dcc04/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/7dc6a415-553a-4a50-add7-5e2de66dcc04",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "21332f5e-daef-41df-ada2-9e6f0b7d781d",
+			"title": "Hunter Skin",
+			"description": "This outfit camouflages Lara in a heavy coating of mud, action movie-style (single player outfit).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 114
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/21332f5e-daef-41df-ada2-9e6f0b7d781d/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/21332f5e-daef-41df-ada2-9e6f0b7d781d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "598838a7-93ca-49b4-a1ad-6188e908fce9",
+			"title": "HX AP-15",
+			"description": "The SMG that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 63
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/598838a7-93ca-49b4-a1ad-6188e908fce9/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/598838a7-93ca-49b4-a1ad-6188e908fce9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "78132890-d71e-4b23-8c96-8ca7cf66dc35",
+			"title": "JAGD P22G",
+			"description": "A second Pistol that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/78132890-d71e-4b23-8c96-8ca7cf66dc35/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/78132890-d71e-4b23-8c96-8ca7cf66dc35",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-be48-a212-c35b-efb853510802",
+			"title": "Lara Croft Avatar",
+			"description": "Be prepared for adventure at every turn with this original Lara Croft costume for your avatar.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1362135600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-be48-a212-c35b-efb853510802/1033/thumblg.png",
+			"url": "/en-us/X8/Game/00000ab8-be48-a212-c35b-efb853510802",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a9c981f4-ddb5-4c83-96e3-2c72bc217a47",
+			"title": "M590 12ga",
+			"description": "A second shotgun that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 56
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a9c981f4-ddb5-4c83-96e3-2c72bc217a47/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/a9c981f4-ddb5-4c83-96e3-2c72bc217a47",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "208d6f11-704f-4136-aad9-8fb8894ed0c7",
+			"title": "Tomb Raider: Monastery Escape Gameplay Walkthrough",
+			"description": "Lara makes her way from a Monastery to the edge of a Scavenger shanty town, using the environment to succeed in brutal combat.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 145
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/208d6f11-704f-4136-aad9-8fb8894ed0c7",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "32f8e94e-5f8b-4cfe-88ca-0c3fcee93432",
-            "title": "Mountaineer Skin",
-            "description": "The Mountaineer outfit features the padded vest, grapples, and harness of an expert climber (single player outfit).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 48
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/32f8e94e-5f8b-4cfe-88ca-0c3fcee93432/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/32f8e94e-5f8b-4cfe-88ca-0c3fcee93432",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "7e350a4f-07ef-41d9-ad11-2ba5c1990520",
-            "title": "Pistol Burst",
-            "description": "The three-shot burst pistol upgrade lets Lara unleash a hail of firepower on her foes (single player upgrade). ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 102
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/7e350a4f-07ef-41d9-ad11-2ba5c1990520/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/7e350a4f-07ef-41d9-ad11-2ba5c1990520",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "549593df-6816-45a9-a990-d654f7184d35",
-            "title": "Pistol Silencer",
-            "description": "The pistol silencer lets Lara use stealthy tactics to overcome even the trickiest of situations (single player upgrade). ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 203
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/549593df-6816-45a9-a990-d654f7184d35/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/549593df-6816-45a9-a990-d654f7184d35",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2d820ca0-9beb-40e7-ad30-d1d20e562817",
-            "title": "Scavenger Bandit",
-            "description": "The crafty Scavenger Bandit (multiplayer playable character).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 65
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/2d820ca0-9beb-40e7-ad30-d1d20e562817/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/2d820ca0-9beb-40e7-ad30-d1d20e562817",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "c4b052d8-0abe-4ee1-9806-3a8d3bfe890d",
-            "title": "Scavenger Executioner",
-            "description": "The deadly Scavenger Executioner (multiplayer playable character).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 35
-                }
-            },
-            "originalReleaseDate": "/Date(1370336400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/c4b052d8-0abe-4ee1-9806-3a8d3bfe890d/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/c4b052d8-0abe-4ee1-9806-3a8d3bfe890d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "7ea1dcaf-d809-4be3-97a7-3cc4e4135f13",
-            "title": "Scavenger Scout",
-            "description": "The wily Scavenger Scout (multiplayer playable character).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 63
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/7ea1dcaf-d809-4be3-97a7-3cc4e4135f13/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/7ea1dcaf-d809-4be3-97a7-3cc4e4135f13",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "dad9fc6b-800c-4fa0-90d1-a75325cc2d9d",
-            "title": "Shanty Town",
-            "description": "Shanty Town Multiplayer Map: This ramshackle area features steep climbs, multiple ziplines for quick escapes, and deadly traps to set for your enemies (multiplayer map).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 228
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/208d6f11-704f-4136-aad9-8fb8894ed0c7",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "32f8e94e-5f8b-4cfe-88ca-0c3fcee93432",
+			"title": "Mountaineer Skin",
+			"description": "The Mountaineer outfit features the padded vest, grapples, and harness of an expert climber (single player outfit).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 48
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/32f8e94e-5f8b-4cfe-88ca-0c3fcee93432/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/32f8e94e-5f8b-4cfe-88ca-0c3fcee93432",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7e350a4f-07ef-41d9-ad11-2ba5c1990520",
+			"title": "Pistol Burst",
+			"description": "The three-shot burst pistol upgrade lets Lara unleash a hail of firepower on her foes (single player upgrade). ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 102
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/7e350a4f-07ef-41d9-ad11-2ba5c1990520/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/7e350a4f-07ef-41d9-ad11-2ba5c1990520",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "549593df-6816-45a9-a990-d654f7184d35",
+			"title": "Pistol Silencer",
+			"description": "The pistol silencer lets Lara use stealthy tactics to overcome even the trickiest of situations (single player upgrade). ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 203
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/549593df-6816-45a9-a990-d654f7184d35/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/549593df-6816-45a9-a990-d654f7184d35",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2d820ca0-9beb-40e7-ad30-d1d20e562817",
+			"title": "Scavenger Bandit",
+			"description": "The crafty Scavenger Bandit (multiplayer playable character).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 65
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2d820ca0-9beb-40e7-ad30-d1d20e562817/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/2d820ca0-9beb-40e7-ad30-d1d20e562817",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c4b052d8-0abe-4ee1-9806-3a8d3bfe890d",
+			"title": "Scavenger Executioner",
+			"description": "The deadly Scavenger Executioner (multiplayer playable character).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1370336400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c4b052d8-0abe-4ee1-9806-3a8d3bfe890d/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/c4b052d8-0abe-4ee1-9806-3a8d3bfe890d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7ea1dcaf-d809-4be3-97a7-3cc4e4135f13",
+			"title": "Scavenger Scout",
+			"description": "The wily Scavenger Scout (multiplayer playable character).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 63
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/7ea1dcaf-d809-4be3-97a7-3cc4e4135f13/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/7ea1dcaf-d809-4be3-97a7-3cc4e4135f13",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "dad9fc6b-800c-4fa0-90d1-a75325cc2d9d",
+			"title": "Shanty Town",
+			"description": "Shanty Town Multiplayer Map: This ramshackle area features steep climbs, multiple ziplines for quick escapes, and deadly traps to set for your enemies (multiplayer map).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 228
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/dad9fc6b-800c-4fa0-90d1-a75325cc2d9d/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/dad9fc6b-800c-4fa0-90d1-a75325cc2d9d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f4d85160-c83f-4f04-9fe5-ad86b423e8aa",
-            "title": "Shipwrecked Multiplayer Map Pack",
-            "description": "Lost Fleet: A massive beached ship serves as a dangerous battleground filled with twists, turns, and traps.   Himiko's Cradle: This temple is carved out of the solid rock of a mountain. Full of twists and turns, the scavengers have overrun this place, corrupting its once stunning beauty, and have placed deadly traps and zip lines. Stay sharp, the threats are everywhere.  These maps are only accessible in \"Free For All\" game types",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 66
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/dad9fc6b-800c-4fa0-90d1-a75325cc2d9d/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/dad9fc6b-800c-4fa0-90d1-a75325cc2d9d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f4d85160-c83f-4f04-9fe5-ad86b423e8aa",
+			"title": "Shipwrecked Multiplayer Map Pack",
+			"description": "Lost Fleet: A massive beached ship serves as a dangerous battleground filled with twists, turns, and traps.   Himiko's Cradle: This temple is carved out of the solid rock of a mountain. Full of twists and turns, the scavengers have overrun this place, corrupting its once stunning beauty, and have placed deadly traps and zip lines. Stay sharp, the threats are everywhere.  These maps are only accessible in \"Free For All\" game types",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 66
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/f4d85160-c83f-4f04-9fe5-ad86b423e8aa/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/f4d85160-c83f-4f04-9fe5-ad86b423e8aa",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2f3f6ec2-f5e7-4a37-ac6f-33103d6aa08c",
-            "title": "Silverballer",
-            "description": "The signature Pistol that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 72
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/2f3f6ec2-f5e7-4a37-ac6f-33103d6aa08c/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/2f3f6ec2-f5e7-4a37-ac6f-33103d6aa08c",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "d0ff3dc0-4642-4e97-991a-fb1d796cf513",
-            "title": "STG 58 Elite",
-            "description": "A second SMG that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 80
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/d0ff3dc0-4642-4e97-991a-fb1d796cf513/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/d0ff3dc0-4642-4e97-991a-fb1d796cf513",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "1250d753-d80c-4309-92ea-ba31a6eb65fc",
-            "title": "Sure-Shot Skin",
-            "description": "With the Sure-Shot outfit, Lara wears a competition style archery suit with high boots and forearm guards (single player outfit).",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 61
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/1250d753-d80c-4309-92ea-ba31a6eb65fc/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/1250d753-d80c-4309-92ea-ba31a6eb65fc",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "6e2a5e23-7c2c-44bd-bacf-5ede641fda39",
-            "title": "The Final Hours of Tomb Raider - Episode 1",
-            "description": "Crystal Dynamics has partnered with video game journalist Geoff Keighley to produce an innovative new installment in his well-regarded Final Hours documented series, to be hosted by actor and gamer Zachary Levi. The Final Hours of Tomb Raider will give fans an unprecedented, fly-on-the-wall perspective of the twists and turns of game development and highlight the key creative forces responsible for reimagining the iconic video game franchise Tomb Raider.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 464
-                }
-            },
-            "originalReleaseDate": "/Date(1342515600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f4d85160-c83f-4f04-9fe5-ad86b423e8aa/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/f4d85160-c83f-4f04-9fe5-ad86b423e8aa",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2f3f6ec2-f5e7-4a37-ac6f-33103d6aa08c",
+			"title": "Silverballer",
+			"description": "The signature Pistol that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 72
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2f3f6ec2-f5e7-4a37-ac6f-33103d6aa08c/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/2f3f6ec2-f5e7-4a37-ac6f-33103d6aa08c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d0ff3dc0-4642-4e97-991a-fb1d796cf513",
+			"title": "STG 58 Elite",
+			"description": "A second SMG that Agent 47 uses in Hitman: Absolution™ (multiplayer weapon).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 80
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d0ff3dc0-4642-4e97-991a-fb1d796cf513/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/d0ff3dc0-4642-4e97-991a-fb1d796cf513",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1250d753-d80c-4309-92ea-ba31a6eb65fc",
+			"title": "Sure-Shot Skin",
+			"description": "With the Sure-Shot outfit, Lara wears a competition style archery suit with high boots and forearm guards (single player outfit).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 61
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1250d753-d80c-4309-92ea-ba31a6eb65fc/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/1250d753-d80c-4309-92ea-ba31a6eb65fc",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6e2a5e23-7c2c-44bd-bacf-5ede641fda39",
+			"title": "The Final Hours of Tomb Raider - Episode 1",
+			"description": "Crystal Dynamics has partnered with video game journalist Geoff Keighley to produce an innovative new installment in his well-regarded Final Hours documented series, to be hosted by actor and gamer Zachary Levi. The Final Hours of Tomb Raider will give fans an unprecedented, fly-on-the-wall perspective of the twists and turns of game development and highlight the key creative forces responsible for reimagining the iconic video game franchise Tomb Raider.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 464
+				}
+			},
+			"originalReleaseDate": "/Date(1342515600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg",
-            "url": "/en-us/X8/Game/6e2a5e23-7c2c-44bd-bacf-5ede641fda39",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg",
+			"url": "/en-us/X8/Game/6e2a5e23-7c2c-44bd-bacf-5ede641fda39",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

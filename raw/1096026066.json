@@ -1,201 +1,201 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802415407d2",
-    "title": "Operation Darkness(NA)",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   History and fantasy collide as you combat the occult forces of Hitler's regime, including Nazis, vampires, zombies, and more in this alternate WWII experience!",
-    "genres": [
-        {
-            "label": "Strategy & Simulation"
-        }
-    ],
-    "publisher": "ATLUS INC.",
-    "studio": "SUCCESS Corporation",
-    "originalReleaseDate": "/Date(1214265600000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood",
-                "image": null
-            },
-            {
-                "label": "Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802415407d2",
+	"title": "Operation Darkness(NA)",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   History and fantasy collide as you combat the occult forces of Hitler's regime, including Nazis, vampires, zombies, and more in this alternate WWII experience!",
+	"genres": [
+		{
+			"label": "Strategy & Simulation"
+		}
+	],
+	"publisher": "ATLUS INC.",
+	"studio": "SUCCESS Corporation",
+	"originalReleaseDate": "/Date(1214265600000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://epix.xbox.com/shaXam/0201/22/e6/22e634d9-2798-4eda-92e9-5357ea0f1888.PDF?v=1#OpDark_en.PDF",
-    "screenshots": [
-        "http://mktplassets.xbox.com/NR/rdonlyres/9A61607E-7B4B-4B4D-A98B-0D60B750FC08/0/simoperationDarkness00.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg10.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Operation-Darkness-NA/66acd000-77fe-1000-9115-d802415407d2",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 3.75,
-            "Count": 4343
-        }
-    },
-    "price": {
-        "goldPrice": "$14.99",
-        "silverPrice": "$14.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 14.99,
-            "display": "$14.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415407d2/Children",
-    "childDownloads": [
-        {
-            "id": "00000000-0000-400d-80df-0001415487d4",
-            "title": "Operation Darkness Demo",
-            "description": "Enter an alternate WWII-era world where history and fantasy collide! Leading an army of ruthless officers and unearthly creatures, Adolf Hitler marches through Europe, leaving behind a trail of death and destruction. With his powers on the rise and his armies on the move, it falls on you and your team of elite soldiers to cut deep into the heart of the Third Reich and strike a fatal blow to Hitler’s ever-growing legion of evil! Learn more at www.atlus.com/operationdarkness Strategy RPG / Single Player / 4 Player Online Co-op.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 386
-                }
-            },
-            "originalReleaseDate": "/Date(1209632400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": "http://epix.xbox.com/shaXam/0201/22/e6/22e634d9-2798-4eda-92e9-5357ea0f1888.PDF?v=1#OpDark_en.PDF",
+	"screenshots": [
+		"http://mktplassets.xbox.com/NR/rdonlyres/9A61607E-7B4B-4B4D-A98B-0D60B750FC08/0/simoperationDarkness00.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Operation-Darkness-NA/66acd000-77fe-1000-9115-d802415407d2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 4343
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415407d2/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400d-80df-0001415487d4",
+			"title": "Operation Darkness Demo",
+			"description": "Enter an alternate WWII-era world where history and fantasy collide! Leading an army of ruthless officers and unearthly creatures, Adolf Hitler marches through Europe, leaving behind a trail of death and destruction. With his powers on the rise and his armies on the move, it falls on you and your team of elite soldiers to cut deep into the heart of the Third Reich and strike a fatal blow to Hitler’s ever-growing legion of evil! Learn more at www.atlus.com/operationdarkness Strategy RPG / Single Player / 4 Player Online Co-op.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 386
+				}
+			},
+			"originalReleaseDate": "/Date(1209632400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Strategy & Simulation"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001415487d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400d-80df-0001415487d4",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802415407d2",
-            "title": "Operation Darkness(NA)",
-            "description": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   History and fantasy collide as you combat the occult forces of Hitler's regime, including Nazis, vampires, zombies, and more in this alternate WWII experience!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 4343
-                }
-            },
-            "originalReleaseDate": "/Date(1294736400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo"
-            ],
-            "genres": [
-                {
-                    "label": "Strategy & Simulation"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415407d2",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$14.99",
-                "silverPrice": "$14.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 14.99,
-                    "display": "$14.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001415487d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400d-80df-0001415487d4",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802415407d2",
+			"title": "Operation Darkness(NA)",
+			"description": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   History and fantasy collide as you combat the occult forces of Hitler's regime, including Nazis, vampires, zombies, and more in this alternate WWII experience!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 4343
+				}
+			},
+			"originalReleaseDate": "/Date(1294736400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407d2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415407d2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

@@ -1,1377 +1,1377 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d8024d5308ab",
-    "title": "Gears of War 3",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  “Gears of War 3” is the spectacular conclusion to one of the most memorable and celebrated sagas in videogames. Developed by Epic Games exclusively for Xbox 360, “Gears of War 3” plunges players into a harrowing tale of hope, survival and brotherhood.  In “Gears of War 3,” players fight on as Marcus Fenix, the grizzled war hero and leader of Delta Squad. Eighteen months after the fall of the last human city, the war against the Locust rages on. Meanwhile, deep beneath the surface, a fearsome new threat is infecting the planet from within. With survivors scattered and civilization in ruins, time is running out for Marcus and his comrades as they fight to save the human race.",
-    "genres": [
-        {
-            "label": "Shooter"
-        }
-    ],
-    "publisher": "Microsoft Studios",
-    "studio": "Epic Games, Inc",
-    "originalReleaseDate": "/Date(1316476800000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
-        "http://download.xbox.com/content/4d5308ab/Gears%20Of%20War%203%20War%20Pigs%20ESRB.asx"
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg10.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg11.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg12.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg13.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg14.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Gears-of-War-3/66acd000-77fe-1000-9115-d8024d5308ab",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 284076
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "GamerPic",
-        "Theme",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d5308ab/Children",
-    "childDownloads": [
-        {
-            "id": "00000544-ca47-4283-cd8a-deae4d5308ab",
-            "title": "Armored Kantus Mask ",
-            "description": "The Armored Kantus Mask serves as an elegant accoutrement for any attire--guaranteed to be the talk of dinner parties, business meetings, or Locust onslaughts. \"My, those sparks look sharp!\" your friends or pathetic human victims will exclaim. \"Grovel, meat!\" you'll snarl in response. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1316509200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-ca47-4283-cd8a-deae4d5308ab/0/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-ca47-4283-cd8a-deae4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-67fd-b2a1-cec2-f5c94d5308ab",
-            "title": "Baird Tee ",
-            "description": "Fans of Baird know that he is the joke cracking member of Delta Squad.  That is not more apparent than in the saying on this tee, inspired by Baird. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 54
-                }
-            },
-            "originalReleaseDate": "/Date(1306620000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-67fd-b2a1-cec2-f5c94d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-67fd-b2a1-cec2-f5c94d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-e349-c272-cf3a-7e1f4d5308ab",
-            "title": "Baird Tee ",
-            "description": "Fans of Baird know that he is the joke cracking member of Delta Squad.  That is not more apparent than in the saying on this tee, inspired by Baird. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1306620000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-e349-c272-cf3a-7e1f4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-e349-c272-cf3a-7e1f4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-e36c-8281-c9fc-14364d5308ab",
-            "title": "Barrick Armor ",
-            "description": "Is your avatar’s outfit as stranded as Michael Barrick was in the comic series Hollow? Then, suit up in Barrick’s armor and join the forces of fashion. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 53
-                }
-            },
-            "originalReleaseDate": "/Date(1324458000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-e36c-8281-c9fc-14364d5308ab/0/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-e36c-8281-c9fc-14364d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-057d-1242-c746-d0d54d5308ab",
-            "title": "Barrick Armor ",
-            "description": "Is your avatar’s outfit as stranded as Michael Barrick was in the comic series Hollow? Then, suit up in Barrick’s armor and join the forces of fashion. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1324458000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-057d-1242-c746-d0d54d5308ab/0/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-057d-1242-c746-d0d54d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-f0e5-c263-cf22-90234d5308ab",
-            "title": "Berserker Pet ",
-            "description": "Now available in cute and super-cute, the minature Berserker is the perfect little monster for your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 473
-                }
-            },
-            "originalReleaseDate": "/Date(1306620000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-f0e5-c263-cf22-90234d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-f0e5-c263-cf22-90234d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-2f45-1283-c223-afa44d5308ab",
-            "title": "Boomshield",
-            "description": "It's big, it's heavy... it's portable cover! What's not to love? Equip your avatar with the menacing Boomshield.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 237
-                }
-            },
-            "originalReleaseDate": "/Date(1316509200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-2f45-1283-c223-afa44d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-2f45-1283-c223-afa44d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "47782f9e-0ee6-4763-9e0d-01735b0625de",
-            "title": "Booster Map Pack ",
-            "description": "This required download to play on dedicated servers also adds five maps for public Versus play: two new--Bulletmarsh and Clocktower--and three previously only available for private matches (from Horde Command Pack)--Azura, Blood Drive, and Rustlung.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 3620
-                }
-            },
-            "originalReleaseDate": "/Date(1322125200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d5308ab",
+	"title": "Gears of War 3",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  “Gears of War 3” is the spectacular conclusion to one of the most memorable and celebrated sagas in videogames. Developed by Epic Games exclusively for Xbox 360, “Gears of War 3” plunges players into a harrowing tale of hope, survival and brotherhood.  In “Gears of War 3,” players fight on as Marcus Fenix, the grizzled war hero and leader of Delta Squad. Eighteen months after the fall of the last human city, the war against the Locust rages on. Meanwhile, deep beneath the surface, a fearsome new threat is infecting the planet from within. With survivors scattered and civilization in ruins, time is running out for Marcus and his comrades as they fight to save the human race.",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Epic Games, Inc",
+	"originalReleaseDate": "/Date(1316476800000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/4d5308ab/Gears%20Of%20War%203%20War%20Pigs%20ESRB.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/screenlg14.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Gears-of-War-3/66acd000-77fe-1000-9115-d8024d5308ab",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 284076
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d5308ab/Children",
+	"childDownloads": [
+		{
+			"id": "00000544-ca47-4283-cd8a-deae4d5308ab",
+			"title": "Armored Kantus Mask ",
+			"description": "The Armored Kantus Mask serves as an elegant accoutrement for any attire--guaranteed to be the talk of dinner parties, business meetings, or Locust onslaughts. \"My, those sparks look sharp!\" your friends or pathetic human victims will exclaim. \"Grovel, meat!\" you'll snarl in response. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1316509200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-ca47-4283-cd8a-deae4d5308ab/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-ca47-4283-cd8a-deae4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-67fd-b2a1-cec2-f5c94d5308ab",
+			"title": "Baird Tee ",
+			"description": "Fans of Baird know that he is the joke cracking member of Delta Squad.  That is not more apparent than in the saying on this tee, inspired by Baird. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 54
+				}
+			},
+			"originalReleaseDate": "/Date(1306620000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-67fd-b2a1-cec2-f5c94d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-67fd-b2a1-cec2-f5c94d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-e349-c272-cf3a-7e1f4d5308ab",
+			"title": "Baird Tee ",
+			"description": "Fans of Baird know that he is the joke cracking member of Delta Squad.  That is not more apparent than in the saying on this tee, inspired by Baird. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1306620000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-e349-c272-cf3a-7e1f4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-e349-c272-cf3a-7e1f4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-e36c-8281-c9fc-14364d5308ab",
+			"title": "Barrick Armor ",
+			"description": "Is your avatar’s outfit as stranded as Michael Barrick was in the comic series Hollow? Then, suit up in Barrick’s armor and join the forces of fashion. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 53
+				}
+			},
+			"originalReleaseDate": "/Date(1324458000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-e36c-8281-c9fc-14364d5308ab/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-e36c-8281-c9fc-14364d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-057d-1242-c746-d0d54d5308ab",
+			"title": "Barrick Armor ",
+			"description": "Is your avatar’s outfit as stranded as Michael Barrick was in the comic series Hollow? Then, suit up in Barrick’s armor and join the forces of fashion. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1324458000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-057d-1242-c746-d0d54d5308ab/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-057d-1242-c746-d0d54d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-f0e5-c263-cf22-90234d5308ab",
+			"title": "Berserker Pet ",
+			"description": "Now available in cute and super-cute, the minature Berserker is the perfect little monster for your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 473
+				}
+			},
+			"originalReleaseDate": "/Date(1306620000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-f0e5-c263-cf22-90234d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-f0e5-c263-cf22-90234d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-2f45-1283-c223-afa44d5308ab",
+			"title": "Boomshield",
+			"description": "It's big, it's heavy... it's portable cover! What's not to love? Equip your avatar with the menacing Boomshield.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 237
+				}
+			},
+			"originalReleaseDate": "/Date(1316509200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-2f45-1283-c223-afa44d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-2f45-1283-c223-afa44d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "47782f9e-0ee6-4763-9e0d-01735b0625de",
+			"title": "Booster Map Pack ",
+			"description": "This required download to play on dedicated servers also adds five maps for public Versus play: two new--Bulletmarsh and Clocktower--and three previously only available for private matches (from Horde Command Pack)--Azura, Blood Drive, and Rustlung.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 3620
+				}
+			},
+			"originalReleaseDate": "/Date(1322125200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/47782f9e-0ee6-4763-9e0d-01735b0625de/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/47782f9e-0ee6-4763-9e0d-01735b0625de",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2491fab4-0911-45cb-9489-2e86605bd2cb",
-            "title": "Brothers in Battle – Brothers to the End",
-            "description": "Brothers To the End - Diego Sanchez and his UFC brethren train together to win together.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 131
-                }
-            },
-            "originalReleaseDate": "/Date(1316768400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/47782f9e-0ee6-4763-9e0d-01735b0625de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/47782f9e-0ee6-4763-9e0d-01735b0625de",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2491fab4-0911-45cb-9489-2e86605bd2cb",
+			"title": "Brothers in Battle – Brothers to the End",
+			"description": "Brothers To the End - Diego Sanchez and his UFC brethren train together to win together.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 131
+				}
+			},
+			"originalReleaseDate": "/Date(1316768400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/2491fab4-0911-45cb-9489-2e86605bd2cb",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "e3284ff5-f7ed-4f10-8429-deaf5fddfb83",
-            "title": "Brothers in Battle – Gears and Guts",
-            "description": "Gears and Guts - Diego Sanchez and his dedicated trainers prepare for an upcoming UFC bout",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 179
-                }
-            },
-            "originalReleaseDate": "/Date(1316768640000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2491fab4-0911-45cb-9489-2e86605bd2cb",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e3284ff5-f7ed-4f10-8429-deaf5fddfb83",
+			"title": "Brothers in Battle – Gears and Guts",
+			"description": "Gears and Guts - Diego Sanchez and his dedicated trainers prepare for an upcoming UFC bout",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 179
+				}
+			},
+			"originalReleaseDate": "/Date(1316768640000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/e3284ff5-f7ed-4f10-8429-deaf5fddfb83",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "4592bf0a-8b0d-4d3e-b135-8bd1436f96f9",
-            "title": "Brothers in Battle – Horde Heroics",
-            "description": "Horde Heroics – UFC figher Diego Sanchez breaks down the mechanics of his favorite offensive and defensive moves.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 123
-                }
-            },
-            "originalReleaseDate": "/Date(1316768580000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e3284ff5-f7ed-4f10-8429-deaf5fddfb83",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4592bf0a-8b0d-4d3e-b135-8bd1436f96f9",
+			"title": "Brothers in Battle – Horde Heroics",
+			"description": "Horde Heroics – UFC figher Diego Sanchez breaks down the mechanics of his favorite offensive and defensive moves.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 123
+				}
+			},
+			"originalReleaseDate": "/Date(1316768580000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4592bf0a-8b0d-4d3e-b135-8bd1436f96f9",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "5816963d-2e70-448f-a4f5-a3c3cb0b7233",
-            "title": "Brothers in Battle – Survival of the Fittest",
-            "description": "Survival of the Fittest  - Diego Sanchez shares his secrets to being a champion",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 92
-                }
-            },
-            "originalReleaseDate": "/Date(1316768520000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4592bf0a-8b0d-4d3e-b135-8bd1436f96f9",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5816963d-2e70-448f-a4f5-a3c3cb0b7233",
+			"title": "Brothers in Battle – Survival of the Fittest",
+			"description": "Survival of the Fittest  - Diego Sanchez shares his secrets to being a champion",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 92
+				}
+			},
+			"originalReleaseDate": "/Date(1316768520000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/5816963d-2e70-448f-a4f5-a3c3cb0b7233",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "bda72059-3cba-4503-807e-cb8ee66ff18f",
-            "title": "Brothers to the End Theme",
-            "description": "Get the latest Gears of War 3  Theme Brothers to the End to your Xbox!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 2339
-                }
-            },
-            "originalReleaseDate": "/Date(1324976400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/bda72059-3cba-4503-807e-cb8ee66ff18f",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "0838f404-4246-4148-bf26-22b00af541a6",
-            "title": "Campaign Reveal Trailer",
-            "description": "Watch exclusive scenes from the Gears of War 3 campaign (originally debuted on Champions League Final, May 28). ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 139
-                }
-            },
-            "originalReleaseDate": "/Date(1306620000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5816963d-2e70-448f-a4f5-a3c3cb0b7233",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "bda72059-3cba-4503-807e-cb8ee66ff18f",
+			"title": "Brothers to the End Theme",
+			"description": "Get the latest Gears of War 3  Theme Brothers to the End to your Xbox!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 2339
+				}
+			},
+			"originalReleaseDate": "/Date(1324976400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bda72059-3cba-4503-807e-cb8ee66ff18f",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0838f404-4246-4148-bf26-22b00af541a6",
+			"title": "Campaign Reveal Trailer",
+			"description": "Watch exclusive scenes from the Gears of War 3 campaign (originally debuted on Champions League Final, May 28). ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 139
+				}
+			},
+			"originalReleaseDate": "/Date(1306620000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/0838f404-4246-4148-bf26-22b00af541a6",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-c80c-6213-cc48-11ba4d5308ab",
-            "title": "Carmine Helmet",
-            "description": "Outfit the helmet worn by Clayton Carmine, a COG soldier in Gears of War 3. The oldest of the Carmine clan, Clayton fights in memory of his brothers Anthony and Benjamin, who died fighting the Locust. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 359
-                }
-            },
-            "originalReleaseDate": "/Date(1280394000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-c80c-6213-cc48-11ba4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-c80c-6213-cc48-11ba4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-c882-62d1-cc31-c4774d5308ab",
-            "title": "Clayton Carmine Armor",
-            "description": "Outfit this armor to suit up as Clayton Carmine, a COG soldier in the upcoming Gears of War 3. Clayton, the oldest of the Carmine clan, fights in memory of his brothers Anthony and Benjamin, killed fighting the Locust in Gears of War and Gears of War 2. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 212
-                }
-            },
-            "originalReleaseDate": "/Date(1280394000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-c882-62d1-cc31-c4774d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-c882-62d1-cc31-c4774d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-49bd-d291-c3bb-67884d5308ab",
-            "title": "COG Armor",
-            "description": "This is the working uniform of the COG modified for summer heat.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 373
-                }
-            },
-            "originalReleaseDate": "/Date(1271754000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-49bd-d291-c3bb-67884d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-49bd-d291-c3bb-67884d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-8360-8232-ca05-99044d53082d",
-            "title": "COG Armor",
-            "description": "This sturdy design has endured longer than most COG soldiers who have worn it into battle.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 43
-                }
-            },
-            "originalReleaseDate": "/Date(1249981200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-8360-8232-ca05-99044d53082d/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-8360-8232-ca05-99044d53082d",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-42e2-3282-c127-307c4d5308ab",
-            "title": "COG Armor",
-            "description": "This is the working uniform of the COG modified for summer heat.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 38
-                }
-            },
-            "originalReleaseDate": "/Date(1271754000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-42e2-3282-c127-307c4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-42e2-3282-c127-307c4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000040-f37e-e203-cc5e-90bd4d5308ab",
-            "title": "COG Hoffman Hat",
-            "description": "This cap bears the rank insignia of Colonel Hoffman.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 290
-                }
-            },
-            "originalReleaseDate": "/Date(1271754000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000040-f37e-e203-cc5e-90bd4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000040-f37e-e203-cc5e-90bd4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-d17f-42d1-ce5c-958e4d5308ab",
-            "title": "COG Lancer Tee",
-            "description": "This is the COG Lancer Tee from the Gears of War 3 collection. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 251
-                }
-            },
-            "originalReleaseDate": "/Date(1271754000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-d17f-42d1-ce5c-958e4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-d17f-42d1-ce5c-958e4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-d64c-8252-ced0-b4ef4d5308ab",
-            "title": "COG Lancer Tee",
-            "description": "This is the COG Lancer Tee from the Gears of War 3 collection. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 29
-                }
-            },
-            "originalReleaseDate": "/Date(1271754000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-d64c-8252-ced0-b4ef4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-d64c-8252-ced0-b4ef4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "8d83e9a2-0013-4b32-bda2-9cba71cbf981",
-            "title": "COG Pack",
-            "description": "Download this collection of your favorite COG characters!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 2224
-                }
-            },
-            "originalReleaseDate": "/Date(1306832400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/8d83e9a2-0013-4b32-bda2-9cba71cbf981",
-            "downloadTypeClass": "GamerPic",
-            "downloadTypeText": "GamerPic",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-4937-8261-c167-d5ba4d5308ab",
-            "title": "Cole's Thrashball Uniform ",
-            "description": "The energetic and recognizable Cole brings his Thrashball uniform, from his days as a player with the Hanover Cougars, to your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1303722000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-4937-8261-c167-d5ba4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-4937-8261-c167-d5ba4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-8421-92b2-cd5e-103c4d5308ab",
-            "title": "Cole's Thrashball Uniform ",
-            "description": "The energetic and recognizable Cole brings his Thrashball uniform, from his days as a player with the Hanover Cougars, to your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1303722000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-8421-92b2-cd5e-103c4d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-8421-92b2-cd5e-103c4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-5087-8272-c434-bd164d5308ab",
-            "title": "Colonel Hoffman T-shirt ",
-            "description": "Bear the insignia of Colonel Victor Hoffman with this avatar T-shirt. Be proud and stand up straight, soldier! ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1316541600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-5087-8272-c434-bd164d5308ab/0/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-5087-8272-c434-bd164d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-92e2-2231-c162-6faa4d5308ab",
-            "title": "Colonel Hoffman T-shirt ",
-            "description": "Bear the insignia of Colonel Victor Hoffman with this avatar T-shirt. Be proud and stand up straight, soldier! ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 42
-                }
-            },
-            "originalReleaseDate": "/Date(1316541600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-92e2-2231-c162-6faa4d5308ab/0/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-92e2-2231-c162-6faa4d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-a5a4-b211-c98e-f4c94d5308ab",
-            "title": "Comic-Con 2011 Tee ",
-            "description": "Exclusive Comic-Con t-shirt created with our friends at Nerd Machine.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 50
-                }
-            },
-            "originalReleaseDate": "/Date(1311238800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-a5a4-b211-c98e-f4c94d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-a5a4-b211-c98e-f4c94d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-bb8b-9202-c2c3-fdc24d5308ab",
-            "title": "Comic-Con 2011 Tee ",
-            "description": "Exclusive Comic-Con t-shirt created with our friends at Nerd Machine.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1311238800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-bb8b-9202-c2c3-fdc24d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-bb8b-9202-c2c3-fdc24d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-6e43-0223-c393-73574d5308ab",
-            "title": "Cover Barrier",
-            "description": "Dig in and defend with the Gears of War 3 Cover Prop. Keep your head down! ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 213
-                }
-            },
-            "originalReleaseDate": "/Date(1316541600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-6e43-0223-c393-73574d5308ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-6e43-0223-c393-73574d5308ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0838f404-4246-4148-bf26-22b00af541a6",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-c80c-6213-cc48-11ba4d5308ab",
+			"title": "Carmine Helmet",
+			"description": "Outfit the helmet worn by Clayton Carmine, a COG soldier in Gears of War 3. The oldest of the Carmine clan, Clayton fights in memory of his brothers Anthony and Benjamin, who died fighting the Locust. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 359
+				}
+			},
+			"originalReleaseDate": "/Date(1280394000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-c80c-6213-cc48-11ba4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-c80c-6213-cc48-11ba4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-c882-62d1-cc31-c4774d5308ab",
+			"title": "Clayton Carmine Armor",
+			"description": "Outfit this armor to suit up as Clayton Carmine, a COG soldier in the upcoming Gears of War 3. Clayton, the oldest of the Carmine clan, fights in memory of his brothers Anthony and Benjamin, killed fighting the Locust in Gears of War and Gears of War 2. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 212
+				}
+			},
+			"originalReleaseDate": "/Date(1280394000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-c882-62d1-cc31-c4774d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-c882-62d1-cc31-c4774d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-49bd-d291-c3bb-67884d5308ab",
+			"title": "COG Armor",
+			"description": "This is the working uniform of the COG modified for summer heat.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 373
+				}
+			},
+			"originalReleaseDate": "/Date(1271754000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-49bd-d291-c3bb-67884d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-49bd-d291-c3bb-67884d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-8360-8232-ca05-99044d53082d",
+			"title": "COG Armor",
+			"description": "This sturdy design has endured longer than most COG soldiers who have worn it into battle.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 43
+				}
+			},
+			"originalReleaseDate": "/Date(1249981200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-8360-8232-ca05-99044d53082d/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-8360-8232-ca05-99044d53082d",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-42e2-3282-c127-307c4d5308ab",
+			"title": "COG Armor",
+			"description": "This is the working uniform of the COG modified for summer heat.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1271754000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-42e2-3282-c127-307c4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-42e2-3282-c127-307c4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-f37e-e203-cc5e-90bd4d5308ab",
+			"title": "COG Hoffman Hat",
+			"description": "This cap bears the rank insignia of Colonel Hoffman.  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 290
+				}
+			},
+			"originalReleaseDate": "/Date(1271754000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-f37e-e203-cc5e-90bd4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-f37e-e203-cc5e-90bd4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-d17f-42d1-ce5c-958e4d5308ab",
+			"title": "COG Lancer Tee",
+			"description": "This is the COG Lancer Tee from the Gears of War 3 collection. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 251
+				}
+			},
+			"originalReleaseDate": "/Date(1271754000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-d17f-42d1-ce5c-958e4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-d17f-42d1-ce5c-958e4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-d64c-8252-ced0-b4ef4d5308ab",
+			"title": "COG Lancer Tee",
+			"description": "This is the COG Lancer Tee from the Gears of War 3 collection. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1271754000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-d64c-8252-ced0-b4ef4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-d64c-8252-ced0-b4ef4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8d83e9a2-0013-4b32-bda2-9cba71cbf981",
+			"title": "COG Pack",
+			"description": "Download this collection of your favorite COG characters!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 2224
+				}
+			},
+			"originalReleaseDate": "/Date(1306832400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8d83e9a2-0013-4b32-bda2-9cba71cbf981",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-4937-8261-c167-d5ba4d5308ab",
+			"title": "Cole's Thrashball Uniform ",
+			"description": "The energetic and recognizable Cole brings his Thrashball uniform, from his days as a player with the Hanover Cougars, to your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1303722000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-4937-8261-c167-d5ba4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-4937-8261-c167-d5ba4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-8421-92b2-cd5e-103c4d5308ab",
+			"title": "Cole's Thrashball Uniform ",
+			"description": "The energetic and recognizable Cole brings his Thrashball uniform, from his days as a player with the Hanover Cougars, to your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1303722000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-8421-92b2-cd5e-103c4d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-8421-92b2-cd5e-103c4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5087-8272-c434-bd164d5308ab",
+			"title": "Colonel Hoffman T-shirt ",
+			"description": "Bear the insignia of Colonel Victor Hoffman with this avatar T-shirt. Be proud and stand up straight, soldier! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1316541600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5087-8272-c434-bd164d5308ab/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5087-8272-c434-bd164d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-92e2-2231-c162-6faa4d5308ab",
+			"title": "Colonel Hoffman T-shirt ",
+			"description": "Bear the insignia of Colonel Victor Hoffman with this avatar T-shirt. Be proud and stand up straight, soldier! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 42
+				}
+			},
+			"originalReleaseDate": "/Date(1316541600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-92e2-2231-c162-6faa4d5308ab/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-92e2-2231-c162-6faa4d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-a5a4-b211-c98e-f4c94d5308ab",
+			"title": "Comic-Con 2011 Tee ",
+			"description": "Exclusive Comic-Con t-shirt created with our friends at Nerd Machine.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1311238800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-a5a4-b211-c98e-f4c94d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-a5a4-b211-c98e-f4c94d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-bb8b-9202-c2c3-fdc24d5308ab",
+			"title": "Comic-Con 2011 Tee ",
+			"description": "Exclusive Comic-Con t-shirt created with our friends at Nerd Machine.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1311238800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-bb8b-9202-c2c3-fdc24d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-bb8b-9202-c2c3-fdc24d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-6e43-0223-c393-73574d5308ab",
+			"title": "Cover Barrier",
+			"description": "Dig in and defend with the Gears of War 3 Cover Prop. Keep your head down! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 213
+				}
+			},
+			"originalReleaseDate": "/Date(1316541600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-6e43-0223-c393-73574d5308ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-6e43-0223-c393-73574d5308ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

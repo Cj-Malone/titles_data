@@ -1,506 +1,506 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d8025553084c",
-    "title": "Child of Eden",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
-    "genres": [
-        {
-            "label": "Music"
-        },
-        {
-            "label": "Shooter"
-        },
-        {
-            "label": "Kinect"
-        }
-    ],
-    "publisher": "Ubisoft",
-    "studio": "Q Entertainment",
-    "originalReleaseDate": "/Date(1308009600000)/",
-    "contentRating": {
-        "label": "E10 (Everyone 10+)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-        "age": 10,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Mild Fantasy Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025553084c",
+	"title": "Child of Eden",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
+	"genres": [
+		{
+			"label": "Music"
+		},
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Q Entertainment",
+	"originalReleaseDate": "/Date(1308009600000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg4.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Child-of-Eden/66acd000-77fe-1000-9115-d8025553084c",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4,
-            "Count": 7588
-        }
-    },
-    "price": {
-        "goldPrice": "$29.99",
-        "silverPrice": "$29.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 29.99,
-            "display": "$29.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameVideo",
-        "Theme"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025553084c/Children",
-    "childDownloads": [
-        {
-            "id": "66acd000-77fe-1000-9115-d8025553084c",
-            "title": "Child of Eden",
-            "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 7588
-                }
-            },
-            "originalReleaseDate": "/Date(1324976400000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Fantasy Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameVideo",
-                "Theme"
-            ],
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025553084c",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$29.99",
-                "silverPrice": "$29.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 29.99,
-                    "display": "$29.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "aa90b62d-477e-442d-9bdc-6c5c10870285",
-            "title": "Child of Eden - Kinect Trailer",
-            "description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 63
-                }
-            },
-            "originalReleaseDate": "/Date(1307437200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Fantasy Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Child-of-Eden/66acd000-77fe-1000-9115-d8025553084c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 7588
+		}
+	},
+	"price": {
+		"goldPrice": "$29.99",
+		"silverPrice": "$29.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 29.99,
+			"display": "$29.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025553084c/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8025553084c",
+			"title": "Child of Eden",
+			"description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 7588
+				}
+			},
+			"originalReleaseDate": "/Date(1324976400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameVideo",
+				"Theme"
+			],
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025553084c",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$29.99",
+				"silverPrice": "$29.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 29.99,
+					"display": "$29.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "aa90b62d-477e-442d-9bdc-6c5c10870285",
+			"title": "Child of Eden - Kinect Trailer",
+			"description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 63
+				}
+			},
+			"originalReleaseDate": "/Date(1307437200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/aa90b62d-477e-442d-9bdc-6c5c10870285",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "d0ce6f3b-95ba-42f6-9df8-7a3415312ec8",
-            "title": "Child of Eden™ - How to Save Eden Trailer",
-            "description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1307437200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Fantasy Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/aa90b62d-477e-442d-9bdc-6c5c10870285",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d0ce6f3b-95ba-42f6-9df8-7a3415312ec8",
+			"title": "Child of Eden™ - How to Save Eden Trailer",
+			"description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1307437200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/d0ce6f3b-95ba-42f6-9df8-7a3415312ec8",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "a7c8134d-1593-429f-8702-c6964aaba7f6",
-            "title": "Child of Eden E3 Trailer",
-            "description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 32
-                }
-            },
-            "originalReleaseDate": "/Date(1308560400000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Fantasy Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d0ce6f3b-95ba-42f6-9df8-7a3415312ec8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a7c8134d-1593-429f-8702-c6964aaba7f6",
+			"title": "Child of Eden E3 Trailer",
+			"description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 32
+				}
+			},
+			"originalReleaseDate": "/Date(1308560400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/a7c8134d-1593-429f-8702-c6964aaba7f6",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "fc3adb12-a238-4732-b3a1-a0d288c0e6ad",
-            "title": "Child of Eden - Mood Trailer",
-            "description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 49
-                }
-            },
-            "originalReleaseDate": "/Date(1307437200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Fantasy Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a7c8134d-1593-429f-8702-c6964aaba7f6",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fc3adb12-a238-4732-b3a1-a0d288c0e6ad",
+			"title": "Child of Eden - Mood Trailer",
+			"description": "From Tetsuya Mizuguchi, creator of Rez & Lumines, Child of Eden™ is one of the most anticipated games of the year. Child of Eden™ thrusts the player into the center of a battle to save Eden from a virus and restore hope and happiness. Engage all your senses in this adventure with motion control, using the Kinect controller or the Xbox360 pad and discover a wonderful variety of musical and soothing environments.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 49
+				}
+			},
+			"originalReleaseDate": "/Date(1307437200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/fc3adb12-a238-4732-b3a1-a0d288c0e6ad",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "4f286227-3bfc-4b97-a022-c8c1026c1df6",
-            "title": "Child of Eden™ - Synesthesia Trailer",
-            "description": "Every sound has a movement, and every movement has a sound. Engage all your senses in Child of Eden™, using your whole body to control the sounds and visuals. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 50
-                }
-            },
-            "originalReleaseDate": "/Date(1307005200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Fantasy Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fc3adb12-a238-4732-b3a1-a0d288c0e6ad",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4f286227-3bfc-4b97-a022-c8c1026c1df6",
+			"title": "Child of Eden™ - Synesthesia Trailer",
+			"description": "Every sound has a movement, and every movement has a sound. Engage all your senses in Child of Eden™, using your whole body to control the sounds and visuals. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1307005200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4f286227-3bfc-4b97-a022-c8c1026c1df6",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "9c83a622-149c-40e6-8c8f-ad4c0c134baa",
-            "title": "Child of Eden Premium Theme",
-            "description": "One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 163
-                }
-            },
-            "originalReleaseDate": "/Date(1308042000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Shooter"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/9c83a622-149c-40e6-8c8f-ad4c0c134baa",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4f286227-3bfc-4b97-a022-c8c1026c1df6",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9c83a622-149c-40e6-8c8f-ad4c0c134baa",
+			"title": "Child of Eden Premium Theme",
+			"description": "One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the “multi-sensory shooter” that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 163
+				}
+			},
+			"originalReleaseDate": "/Date(1308042000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9c83a622-149c-40e6-8c8f-ad4c0c134baa",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

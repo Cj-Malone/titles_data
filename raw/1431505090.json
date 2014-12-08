@@ -1,2167 +1,2167 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802555308c2",
-    "title": "Assassin’s Creed® IV",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English.   French, German, Spanish, Italian, Russian and Portuguese support will require a separate language pack download, accessible via the Additional Content menu option within the game.  It is 1715. Pirates rule the Caribbean and have established a lawless Republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        }
-    ],
-    "publisher": "Ubisoft",
-    "studio": "Ubisoft",
-    "originalReleaseDate": "/Date(1383004800000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood",
-                "image": null
-            },
-            {
-                "label": "Sexual Themes",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            },
-            {
-                "label": "Use of Alcohol",
-                "image": null
-            },
-            {
-                "label": "Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802555308c2",
+	"title": "Assassin’s Creed® IV",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English.   French, German, Spanish, Italian, Russian and Portuguese support will require a separate language pack download, accessible via the Additional Content menu option within the game.  It is 1715. Pirates rule the Caribbean and have established a lawless Republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Ubisoft",
+	"originalReleaseDate": "/Date(1383004800000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Sexual Themes",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Use of Alcohol",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg7.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Assassins-Creed-IV/66acd000-77fe-1000-9115-d802555308c2",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 35462
-        }
-    },
-    "price": {
-        "goldPrice": "$29.99",
-        "silverPrice": "$29.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 29.99,
-            "display": "$29.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameVideo",
-        "GameAddon"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308c2/Children",
-    "childDownloads": [
-        {
-            "id": "14986e63-aeff-4184-8a0d-433599589861",
-            "title": "Assassin’s Creed®IV Time Saver: Activities Pack",
-            "description": "This pack will save you time by revealing all of the activity locations on your map.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 2.75,
-                    "Count": 498
-                }
-            },
-            "originalReleaseDate": "/Date(1383037200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Assassins-Creed-IV/66acd000-77fe-1000-9115-d802555308c2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 35462
+		}
+	},
+	"price": {
+		"goldPrice": "$29.99",
+		"silverPrice": "$29.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 29.99,
+			"display": "$29.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308c2/Children",
+	"childDownloads": [
+		{
+			"id": "14986e63-aeff-4184-8a0d-433599589861",
+			"title": "Assassin’s Creed®IV Time Saver: Activities Pack",
+			"description": "This pack will save you time by revealing all of the activity locations on your map.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 498
+				}
+			},
+			"originalReleaseDate": "/Date(1383037200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/14986e63-aeff-4184-8a0d-433599589861/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/14986e63-aeff-4184-8a0d-433599589861",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$0.99",
-                "silverPrice": "$0.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0.99,
-                    "display": "$0.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "963e054d-02ea-41d7-b355-f52a83cf72ab",
-            "title": "Assassin’s Creed®IV Multi-player Appearance Pack",
-            "description": "Look great as you hunt your targets.  This pack unlocks all multiplayer customization items including costumes, weapons, moves, emblems, and patron pictures from level 1-55.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 2.25,
-                    "Count": 614
-                }
-            },
-            "originalReleaseDate": "/Date(1382864400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/14986e63-aeff-4184-8a0d-433599589861/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/14986e63-aeff-4184-8a0d-433599589861",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "963e054d-02ea-41d7-b355-f52a83cf72ab",
+			"title": "Assassin’s Creed®IV Multi-player Appearance Pack",
+			"description": "Look great as you hunt your targets.  This pack unlocks all multiplayer customization items including costumes, weapons, moves, emblems, and patron pictures from level 1-55.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.25,
+					"Count": 614
+				}
+			},
+			"originalReleaseDate": "/Date(1382864400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/963e054d-02ea-41d7-b355-f52a83cf72ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/963e054d-02ea-41d7-b355-f52a83cf72ab",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$14.99",
-                "silverPrice": "$14.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 14.99,
-                    "display": "$14.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "4e2a9abc-2e47-4b5d-b949-ee562f8f0155",
-            "title": "Assassin's Creed ®IV Season Pass",
-            "description": "• Exclusive Kraken Ship Pack – Only available to Season Pass owners, this pack includes a sail, wheel, and figurehead inspired by the legendary sea monsters known for swallowing ships, men and whales.  • All New Single Player Story – Play as Adewale, a former slave turned Assassin, fighting to free Haitian slaves from their French captors.  Over 3 hours of new single-player gameplay!  • All new multiplayer maps and characters for an even more expansive experience.  •  Save 20%    If you purchase this Season Pass, all future content must be acquired through the in-game store. Do not download this content from Xbox LIVE , or you will be charged twice. Assassin’s Creed®IV Black Flag™ required; sold separately. Xbox LIVE Gold membership required to play (sold separately).  Content will only unlock after the release of Assassin’s Creed®IV Black Flag™. Owners of Assassin’s Creed®IV Black Flag™ Season Pass for Xbox 360 will also get Season Pass access on Xbox One, offer expires 5/31/2014",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 791
-                }
-            },
-            "originalReleaseDate": "/Date(1381222800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/963e054d-02ea-41d7-b355-f52a83cf72ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/963e054d-02ea-41d7-b355-f52a83cf72ab",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4e2a9abc-2e47-4b5d-b949-ee562f8f0155",
+			"title": "Assassin's Creed ®IV Season Pass",
+			"description": "• Exclusive Kraken Ship Pack – Only available to Season Pass owners, this pack includes a sail, wheel, and figurehead inspired by the legendary sea monsters known for swallowing ships, men and whales.  • All New Single Player Story – Play as Adewale, a former slave turned Assassin, fighting to free Haitian slaves from their French captors.  Over 3 hours of new single-player gameplay!  • All new multiplayer maps and characters for an even more expansive experience.  •  Save 20%	If you purchase this Season Pass, all future content must be acquired through the in-game store. Do not download this content from Xbox LIVE , or you will be charged twice. Assassin’s Creed®IV Black Flag™ required; sold separately. Xbox LIVE Gold membership required to play (sold separately).  Content will only unlock after the release of Assassin’s Creed®IV Black Flag™. Owners of Assassin’s Creed®IV Black Flag™ Season Pass for Xbox 360 will also get Season Pass access on Xbox One, offer expires 5/31/2014",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 791
+				}
+			},
+			"originalReleaseDate": "/Date(1381222800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/4e2a9abc-2e47-4b5d-b949-ee562f8f0155/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4e2a9abc-2e47-4b5d-b949-ee562f8f0155",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802555308c2",
-            "title": "Assassin’s Creed® IV",
-            "description": "The Games on Demand version supports English.   French, German, Spanish, Italian, Russian and Portuguese support will require a separate language pack download, accessible via the Additional Content menu option within the game.  It is 1715. Pirates rule the Caribbean and have established a lawless Republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 35462
-                }
-            },
-            "originalReleaseDate": "/Date(1387270800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameVideo",
-                "GameAddon"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308c2",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$29.99",
-                "silverPrice": "$29.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 29.99,
-                    "display": "$29.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "305290c8-9f14-40b0-a9d4-2923146da3d2",
-            "title": "Assassin’s Creed® IV: Black Flag - A Pirate’s Life on High Sea",
-            "description": "Live the true life of a brash and brutal pirate as Captain Edward Kenway. Gain fortune and infamy as you and your crew fearlessly battle and conquer your enemies on the savage seas. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 167
-                }
-            },
-            "originalReleaseDate": "/Date(1374224400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4e2a9abc-2e47-4b5d-b949-ee562f8f0155/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4e2a9abc-2e47-4b5d-b949-ee562f8f0155",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802555308c2",
+			"title": "Assassin’s Creed® IV",
+			"description": "The Games on Demand version supports English.   French, German, Spanish, Italian, Russian and Portuguese support will require a separate language pack download, accessible via the Additional Content menu option within the game.  It is 1715. Pirates rule the Caribbean and have established a lawless Republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 35462
+				}
+			},
+			"originalReleaseDate": "/Date(1387270800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308c2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$29.99",
+				"silverPrice": "$29.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 29.99,
+					"display": "$29.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "305290c8-9f14-40b0-a9d4-2923146da3d2",
+			"title": "Assassin’s Creed® IV: Black Flag - A Pirate’s Life on High Sea",
+			"description": "Live the true life of a brash and brutal pirate as Captain Edward Kenway. Gain fortune and infamy as you and your crew fearlessly battle and conquer your enemies on the savage seas. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 167
+				}
+			},
+			"originalReleaseDate": "/Date(1374224400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/305290c8-9f14-40b0-a9d4-2923146da3d2",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "e2ee54d0-a295-495f-a174-aab200a4636d",
-            "title": "Assassin's Creed IV: Black Flag - Locations & Activities 10 Min Gameplay Walkthrough",
-            "description": "Experience the new open-world activities in the largest Assassin's Creed world ever. Includes gameplay footage of new features and locations such as underwater treasure diving, smugglers caves, harpooning for sharks, and enhanced naval combat. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 80
-                }
-            },
-            "originalReleaseDate": "/Date(1379581200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/305290c8-9f14-40b0-a9d4-2923146da3d2",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e2ee54d0-a295-495f-a174-aab200a4636d",
+			"title": "Assassin's Creed IV: Black Flag - Locations & Activities 10 Min Gameplay Walkthrough",
+			"description": "Experience the new open-world activities in the largest Assassin's Creed world ever. Includes gameplay footage of new features and locations such as underwater treasure diving, smugglers caves, harpooning for sharks, and enhanced naval combat. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 80
+				}
+			},
+			"originalReleaseDate": "/Date(1379581200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/e2ee54d0-a295-495f-a174-aab200a4636d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f45c74e5-3146-4571-aaa1-8ecebd34a2d2",
-            "title": "Assassin's Creed IV: Black Flag Freedom Cry DLC Launch Trailer",
-            "description": "Play as Adewale, an Asssassin fighting for the freedom of slaves in modern day Haiti, in this 4+ hour downloadable single player story.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 71
-                }
-            },
-            "originalReleaseDate": "/Date(1387530000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e2ee54d0-a295-495f-a174-aab200a4636d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f45c74e5-3146-4571-aaa1-8ecebd34a2d2",
+			"title": "Assassin's Creed IV: Black Flag Freedom Cry DLC Launch Trailer",
+			"description": "Play as Adewale, an Asssassin fighting for the freedom of slaves in modern day Haiti, in this 4+ hour downloadable single player story.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 71
+				}
+			},
+			"originalReleaseDate": "/Date(1387530000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/f45c74e5-3146-4571-aaa1-8ecebd34a2d2",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "5c36bf72-f6d4-4fa2-ba36-423aaceba81f",
-            "title": "Assassin’s Creed® IV: Black Flag Companion App Trailer",
-            "description": "Learn how you can extend your Assassin’s Creed IV Black Flag gameplay with this new second screen experience.  Game director Ashraf Ismail walks you through key features, including the interactive world map, game progress tracker and treasure map.  And see how the Kenway’s Fleet feature will take your Black Flag experience outside the living room, enabling you to manage your fleet and send ships in trading missions throughout the world.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 56
-                }
-            },
-            "originalReleaseDate": "/Date(1385974800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f45c74e5-3146-4571-aaa1-8ecebd34a2d2",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5c36bf72-f6d4-4fa2-ba36-423aaceba81f",
+			"title": "Assassin’s Creed® IV: Black Flag Companion App Trailer",
+			"description": "Learn how you can extend your Assassin’s Creed IV Black Flag gameplay with this new second screen experience.  Game director Ashraf Ismail walks you through key features, including the interactive world map, game progress tracker and treasure map.  And see how the Kenway’s Fleet feature will take your Black Flag experience outside the living room, enabling you to manage your fleet and send ships in trading missions throughout the world.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 56
+				}
+			},
+			"originalReleaseDate": "/Date(1385974800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/5c36bf72-f6d4-4fa2-ba36-423aaceba81f",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "40b1d35e-f987-4202-92ea-b3f854e1f10d",
-            "title": "Assassin’s Creed® IV: Black Flag Pirate Gameplay Experience",
-            "description": "The game director of Assassin’s Creed 4 shows us what it takes to be a deadly pirate in the dangerous waters of the Caribbean.  Watch new narrated gameplay as he hunts for treasure, captures enemies and navigates the treacherous ocean.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 274
-                }
-            },
-            "originalReleaseDate": "/Date(1373965200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5c36bf72-f6d4-4fa2-ba36-423aaceba81f",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "40b1d35e-f987-4202-92ea-b3f854e1f10d",
+			"title": "Assassin’s Creed® IV: Black Flag Pirate Gameplay Experience",
+			"description": "The game director of Assassin’s Creed 4 shows us what it takes to be a deadly pirate in the dangerous waters of the Caribbean.  Watch new narrated gameplay as he hunts for treasure, captures enemies and navigates the treacherous ocean.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 274
+				}
+			},
+			"originalReleaseDate": "/Date(1373965200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/40b1d35e-f987-4202-92ea-b3f854e1f10d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "cd0938b1-94e5-4183-9f8b-9cb7ebdee76a",
-            "title": "Assassin's Creed IV: Black Flag GamesCom Naval & Fort Commented Walkthrough",
-            "description": "In this new gameplay walkthrough narrated by game director Ashraf Ismail, experience the strategy, weapons and rewards of conquering and capturing forts in Assassin’s Creed 4. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 79
-                }
-            },
-            "originalReleaseDate": "/Date(1379581200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/40b1d35e-f987-4202-92ea-b3f854e1f10d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cd0938b1-94e5-4183-9f8b-9cb7ebdee76a",
+			"title": "Assassin's Creed IV: Black Flag GamesCom Naval & Fort Commented Walkthrough",
+			"description": "In this new gameplay walkthrough narrated by game director Ashraf Ismail, experience the strategy, weapons and rewards of conquering and capturing forts in Assassin’s Creed 4. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 79
+				}
+			},
+			"originalReleaseDate": "/Date(1379581200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/cd0938b1-94e5-4183-9f8b-9cb7ebdee76a",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "4ee6e6ec-0c90-4717-98f8-af5548f4aef8",
-            "title": "Assassin's Creed IV Black Flag Edward Kenway Trailer",
-            "description": "Introducing a new Assassin, Captain Edward Kenway. Watch to learn more about the charismatic yet brutal pirate captain, trained by Assassins.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 234
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cd0938b1-94e5-4183-9f8b-9cb7ebdee76a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4ee6e6ec-0c90-4717-98f8-af5548f4aef8",
+			"title": "Assassin's Creed IV Black Flag Edward Kenway Trailer",
+			"description": "Introducing a new Assassin, Captain Edward Kenway. Watch to learn more about the charismatic yet brutal pirate captain, trained by Assassins.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 234
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4ee6e6ec-0c90-4717-98f8-af5548f4aef8",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "599a0380-8112-4803-aa46-0729d53a4d72",
-            "title": "Assassin's Creed IV Black Flag World Premier Trailer",
-            "description": "It is 1715. Pirates rule the Caribbean and have established a lawless Republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 207
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4ee6e6ec-0c90-4717-98f8-af5548f4aef8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "599a0380-8112-4803-aa46-0729d53a4d72",
+			"title": "Assassin's Creed IV Black Flag World Premier Trailer",
+			"description": "It is 1715. Pirates rule the Caribbean and have established a lawless Republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 207
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/599a0380-8112-4803-aa46-0729d53a4d72",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "0b6657aa-a7f3-47be-b80f-31b3a345b11d",
-            "title": "Assassin’s Creed® IV: Black Flag - E3 Horizon Trailer",
-            "description": "As pirate Captain Edward Kenway, explore the largest and most diverse Assassin’s Creed® world ever created, including the open sea, underwater shipwrecks, lush and untamed jungles, blossoming port cities and hidden coves.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 141
-                }
-            },
-            "originalReleaseDate": "/Date(1372323600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/599a0380-8112-4803-aa46-0729d53a4d72",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0b6657aa-a7f3-47be-b80f-31b3a345b11d",
+			"title": "Assassin’s Creed® IV: Black Flag - E3 Horizon Trailer",
+			"description": "As pirate Captain Edward Kenway, explore the largest and most diverse Assassin’s Creed® world ever created, including the open sea, underwater shipwrecks, lush and untamed jungles, blossoming port cities and hidden coves.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 141
+				}
+			},
+			"originalReleaseDate": "/Date(1372323600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/0b6657aa-a7f3-47be-b80f-31b3a345b11d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "8a7bb790-92b0-43e4-b354-817d61d5929d",
-            "title": "Assassin's Creed IV: Black Flag Freedom Cry DLC Trailer",
-            "description": "Born a slave, Adewale found freedom aboard the Jackdaw where he became Edward Kenway’s second-in-command. 15 years later, Adewale has become an Assassin who finds himself shipwrecked in Saint-Domingue without weapons or crew. He meets locals in an effort to assemble a crew & steal a ship. The more he helps, the more he is drawn into the Maroon slave community. Forced to face his past, he sets out to free the slaves & bring death to their captors. Over 3 hours of new single-player game play!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 76
-                }
-            },
-            "originalReleaseDate": "/Date(1384246800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0b6657aa-a7f3-47be-b80f-31b3a345b11d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8a7bb790-92b0-43e4-b354-817d61d5929d",
+			"title": "Assassin's Creed IV: Black Flag Freedom Cry DLC Trailer",
+			"description": "Born a slave, Adewale found freedom aboard the Jackdaw where he became Edward Kenway’s second-in-command. 15 years later, Adewale has become an Assassin who finds himself shipwrecked in Saint-Domingue without weapons or crew. He meets locals in an effort to assemble a crew & steal a ship. The more he helps, the more he is drawn into the Maroon slave community. Forced to face his past, he sets out to free the slaves & bring death to their captors. Over 3 hours of new single-player game play!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 76
+				}
+			},
+			"originalReleaseDate": "/Date(1384246800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/8a7bb790-92b0-43e4-b354-817d61d5929d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "82df13ee-372e-470c-b022-d11076ad5696",
-            "title": "Assassin’s Creed IV: Black Flag - The Actors of Black Flag",
-            "description": "Meet the actors behind the pirate legends of Assassin’s Creed 4.  Matt Ryan (Edward Kenway), Mark Bonnar (Blackbeard) and Ralph Ineson (Charles Vane) share their thoughts on the key characters and story line of Black Flag. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 73
-                }
-            },
-            "originalReleaseDate": "/Date(1379581200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8a7bb790-92b0-43e4-b354-817d61d5929d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "82df13ee-372e-470c-b022-d11076ad5696",
+			"title": "Assassin’s Creed IV: Black Flag - The Actors of Black Flag",
+			"description": "Meet the actors behind the pirate legends of Assassin’s Creed 4.  Matt Ryan (Edward Kenway), Mark Bonnar (Blackbeard) and Ralph Ineson (Charles Vane) share their thoughts on the key characters and story line of Black Flag. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 73
+				}
+			},
+			"originalReleaseDate": "/Date(1379581200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/82df13ee-372e-470c-b022-d11076ad5696",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "997f6bb2-674b-429d-a914-fc44aa914823",
-            "title": "Assassin’s Creed® IV: Black Flag - E3 Cinematic Trailer",
-            "description": "It’s 1715 and pirates rule the Caribbean. Watch as Captain Edward Kenway, a brash and brutal pirate assassin, skillfully conquers his enemy at sea and uncovers a valuable, secret treasure.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 146
-                }
-            },
-            "originalReleaseDate": "/Date(1372323600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/82df13ee-372e-470c-b022-d11076ad5696",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "997f6bb2-674b-429d-a914-fc44aa914823",
+			"title": "Assassin’s Creed® IV: Black Flag - E3 Cinematic Trailer",
+			"description": "It’s 1715 and pirates rule the Caribbean. Watch as Captain Edward Kenway, a brash and brutal pirate assassin, skillfully conquers his enemy at sea and uncovers a valuable, secret treasure.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 146
+				}
+			},
+			"originalReleaseDate": "/Date(1372323600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/997f6bb2-674b-429d-a914-fc44aa914823",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "9ff7c9fa-2d22-4802-8fd3-a3568bb2256e",
-            "title": "Assassin's Creed IV: Black Flag - Infamous Pirates",
-            "description": "Learn more about the infamous cast of characters you’ll come across in Assassin’s Creed IV Black Flag with commentary from Matt Ryan, the voice actor behind Captain Edward Kenway. Includes the backstory and motivations of historical pirates such as Blackbeard, Charles Vane, and Benjamin Hornigold from the true Golden Age of Pirates.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 116
-                }
-            },
-            "originalReleaseDate": "/Date(1381136400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/997f6bb2-674b-429d-a914-fc44aa914823",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9ff7c9fa-2d22-4802-8fd3-a3568bb2256e",
+			"title": "Assassin's Creed IV: Black Flag - Infamous Pirates",
+			"description": "Learn more about the infamous cast of characters you’ll come across in Assassin’s Creed IV Black Flag with commentary from Matt Ryan, the voice actor behind Captain Edward Kenway. Includes the backstory and motivations of historical pirates such as Blackbeard, Charles Vane, and Benjamin Hornigold from the true Golden Age of Pirates.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 116
+				}
+			},
+			"originalReleaseDate": "/Date(1381136400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/9ff7c9fa-2d22-4802-8fd3-a3568bb2256e",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "9f95a549-f858-44c1-be38-ca1a7c5c9548",
-            "title": "Assassin's Creed IV: Black Flag - Building a Next Gen Open World",
-            "description": "Assassin’s Creed 4 marks the first step into next gen for the franchise.  Learn how AC4 utilizes next gen technology to create realistic oceans, dynamic weather systems, ambient lighting, and seamless ship boarding.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 87
-                }
-            },
-            "originalReleaseDate": "/Date(1379581200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9ff7c9fa-2d22-4802-8fd3-a3568bb2256e",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9f95a549-f858-44c1-be38-ca1a7c5c9548",
+			"title": "Assassin's Creed IV: Black Flag - Building a Next Gen Open World",
+			"description": "Assassin’s Creed 4 marks the first step into next gen for the franchise.  Learn how AC4 utilizes next gen technology to create realistic oceans, dynamic weather systems, ambient lighting, and seamless ship boarding.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 87
+				}
+			},
+			"originalReleaseDate": "/Date(1379581200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/9f95a549-f858-44c1-be38-ca1a7c5c9548",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "c4fb24e9-5fae-4a7f-be03-174826b0d1d9",
-            "title": "Assassin’s Creed® IV Black Flag Stealth Gameplay Walkthrough",
-            "description": "In Assassin’s Creed IV Black Flag stealth gameplay is back and better than ever! Rely on your stealth abilities using new techniques such as improved Eagle Vision and all new stealth weapons including The Blowpipe, equipped with berserk and sleep darts, to hunt down enemies. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 122
-                }
-            },
-            "originalReleaseDate": "/Date(1377075600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9f95a549-f858-44c1-be38-ca1a7c5c9548",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c4fb24e9-5fae-4a7f-be03-174826b0d1d9",
+			"title": "Assassin’s Creed® IV Black Flag Stealth Gameplay Walkthrough",
+			"description": "In Assassin’s Creed IV Black Flag stealth gameplay is back and better than ever! Rely on your stealth abilities using new techniques such as improved Eagle Vision and all new stealth weapons including The Blowpipe, equipped with berserk and sleep darts, to hunt down enemies. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 122
+				}
+			},
+			"originalReleaseDate": "/Date(1377075600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/c4fb24e9-5fae-4a7f-be03-174826b0d1d9",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "3d5b571d-192b-47c9-9016-b47f172e981f",
-            "title": "Assassin's Creed IV: Black Flag Multiplayer Features Trailer",
-            "description": "Learn all about multiplayer, from modes to perks to abilities.  And for the first time, learn about the new Game Lab feature, which lets you design your own mode – completely customized to your preferences..",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 53
-                }
-            },
-            "originalReleaseDate": "/Date(1384160400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c4fb24e9-5fae-4a7f-be03-174826b0d1d9",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3d5b571d-192b-47c9-9016-b47f172e981f",
+			"title": "Assassin's Creed IV: Black Flag Multiplayer Features Trailer",
+			"description": "Learn all about multiplayer, from modes to perks to abilities.  And for the first time, learn about the new Game Lab feature, which lets you design your own mode – completely customized to your preferences..",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 53
+				}
+			},
+			"originalReleaseDate": "/Date(1384160400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/3d5b571d-192b-47c9-9016-b47f172e981f",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "5ae04b75-cf02-4bed-9587-f935737ac3ed",
-            "title": "Assassin's Creed IV: Black Flag - Heist Trailer",
-            "description": "Experience the brash, brutal, and adventurous life of pirates in Assassins Creed 4 Black Flag. Take part in the incredible story of Captain Edward Kenway, a pirate trained by assassins, and establish a lawless republic in The Caribbean while searching for gold and glory with the help of history’s most infamous pirates including Blackbeard, Charles Vane, Calico Jack, and Anne Bonny.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 397
-                }
-            },
-            "originalReleaseDate": "/Date(1381136400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3d5b571d-192b-47c9-9016-b47f172e981f",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5ae04b75-cf02-4bed-9587-f935737ac3ed",
+			"title": "Assassin's Creed IV: Black Flag - Heist Trailer",
+			"description": "Experience the brash, brutal, and adventurous life of pirates in Assassins Creed 4 Black Flag. Take part in the incredible story of Captain Edward Kenway, a pirate trained by assassins, and establish a lawless republic in The Caribbean while searching for gold and glory with the help of history’s most infamous pirates including Blackbeard, Charles Vane, Calico Jack, and Anne Bonny.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 397
+				}
+			},
+			"originalReleaseDate": "/Date(1381136400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/5ae04b75-cf02-4bed-9587-f935737ac3ed",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "4eadfdd5-7d62-4073-92ff-5ddaaa18fc29",
-            "title": "Assassin's Creed IV: Black Flag Tattoo Trailer",
-            "description": "Calling all to unite under the black flag with Assassin’s Creed 4! Watch Captain Edward Kenway, a pirate trained by Assassins, rise up against authority to become the most feared pirate in the Caribbean. See his adventurous story unfold with each chapter explained through his unforgettable tattoos.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 71
-                }
-            },
-            "originalReleaseDate": "/Date(1384246800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5ae04b75-cf02-4bed-9587-f935737ac3ed",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4eadfdd5-7d62-4073-92ff-5ddaaa18fc29",
+			"title": "Assassin's Creed IV: Black Flag Tattoo Trailer",
+			"description": "Calling all to unite under the black flag with Assassin’s Creed 4! Watch Captain Edward Kenway, a pirate trained by Assassins, rise up against authority to become the most feared pirate in the Caribbean. See his adventurous story unfold with each chapter explained through his unforgettable tattoos.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 71
+				}
+			},
+			"originalReleaseDate": "/Date(1384246800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4eadfdd5-7d62-4073-92ff-5ddaaa18fc29",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f01d3dd0-7071-4d60-91be-cb3f3fcc4df6",
-            "title": "Assassin’s Creed® IV Black Flag™ – Freedom Cry ",
-            "description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  Born a slave, Adewale found freedom as a pirate aboard Edward Kenway’s ship, the Jackdaw. 15 years later, Adewale has become a trained Assassin who finds himself shipwrecked in Saint-Domingue without weapons or crew. He now has to acquire a ship and gather his own crew to free the slaves and avenge them. Over 3 hours of new single-player gameplay!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 546
-                }
-            },
-            "originalReleaseDate": "/Date(1387270800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4eadfdd5-7d62-4073-92ff-5ddaaa18fc29",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f01d3dd0-7071-4d60-91be-cb3f3fcc4df6",
+			"title": "Assassin’s Creed® IV Black Flag™ – Freedom Cry ",
+			"description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  Born a slave, Adewale found freedom as a pirate aboard Edward Kenway’s ship, the Jackdaw. 15 years later, Adewale has become a trained Assassin who finds himself shipwrecked in Saint-Domingue without weapons or crew. He now has to acquire a ship and gather his own crew to free the slaves and avenge them. Over 3 hours of new single-player gameplay!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 546
+				}
+			},
+			"originalReleaseDate": "/Date(1387270800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/f01d3dd0-7071-4d60-91be-cb3f3fcc4df6/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/f01d3dd0-7071-4d60-91be-cb3f3fcc4df6",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$9.99",
-                "silverPrice": "$9.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 9.99,
-                    "display": "$9.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "dd4fd32a-2ef2-4bd6-98f6-6f4928c00341",
-            "title": "Assassin’s Creed® IV: Black Flag 101 Trailer",
-            "description": "In this ultimate preview of AC4, learn everything there is to know about the largest and most immersive Assassin’s game ever created.  Take on the Golden Age of Pirates, and meet the outlaw characters that defined this unforgettable era.   Experience the breadth of this open-world, including enhanced naval gameplay, expansive new environments, exotic animals & underwater world.  Learn about new combat features & weapons, including dual-sword attacks, multi-gun abilities & the free-aim system.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 61
-                }
-            },
-            "originalReleaseDate": "/Date(1383123600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f01d3dd0-7071-4d60-91be-cb3f3fcc4df6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f01d3dd0-7071-4d60-91be-cb3f3fcc4df6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "dd4fd32a-2ef2-4bd6-98f6-6f4928c00341",
+			"title": "Assassin’s Creed® IV: Black Flag 101 Trailer",
+			"description": "In this ultimate preview of AC4, learn everything there is to know about the largest and most immersive Assassin’s game ever created.  Take on the Golden Age of Pirates, and meet the outlaw characters that defined this unforgettable era.   Experience the breadth of this open-world, including enhanced naval gameplay, expansive new environments, exotic animals & underwater world.  Learn about new combat features & weapons, including dual-sword attacks, multi-gun abilities & the free-aim system.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 61
+				}
+			},
+			"originalReleaseDate": "/Date(1383123600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/dd4fd32a-2ef2-4bd6-98f6-6f4928c00341",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "06baeb27-915e-455c-9787-3890d01c7df1",
-            "title": "Assassin’s Creed®IV Under the Black Flag Trailer",
-            "description": "Experience the brash and brutal world of Assassin’s Creed 4 through the eyes of Edward Kenway.  Learn the rules he and his crew live by, and how they defy and unleash hell on the unjust and powerful empires of the early 18th century.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 228
-                }
-            },
-            "originalReleaseDate": "/Date(1369386000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/dd4fd32a-2ef2-4bd6-98f6-6f4928c00341",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "06baeb27-915e-455c-9787-3890d01c7df1",
+			"title": "Assassin’s Creed®IV Under the Black Flag Trailer",
+			"description": "Experience the brash and brutal world of Assassin’s Creed 4 through the eyes of Edward Kenway.  Learn the rules he and his crew live by, and how they defy and unleash hell on the unjust and powerful empires of the early 18th century.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 228
+				}
+			},
+			"originalReleaseDate": "/Date(1369386000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/06baeb27-915e-455c-9787-3890d01c7df1",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "65197bf2-6b31-48ba-a49e-770722f7b1c0",
-            "title": "True Golden Age of Pirates | AC4BF",
-            "description": "The year is 1715. In the Caribbean, desperate sailors with ideals of true freedom assemble to establish the Republic of Pirates. But far from idyllic, their life is brutal, filled with betrayal and debauchery. Here at last are their true stories.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 245
-                }
-            },
-            "originalReleaseDate": "/Date(1369645200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/06baeb27-915e-455c-9787-3890d01c7df1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "65197bf2-6b31-48ba-a49e-770722f7b1c0",
+			"title": "True Golden Age of Pirates | AC4BF",
+			"description": "The year is 1715. In the Caribbean, desperate sailors with ideals of true freedom assemble to establish the Republic of Pirates. But far from idyllic, their life is brutal, filled with betrayal and debauchery. Here at last are their true stories.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 245
+				}
+			},
+			"originalReleaseDate": "/Date(1369645200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/65197bf2-6b31-48ba-a49e-770722f7b1c0",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "c5faad33-5f36-4014-8240-9d8e02aa19c9",
-            "title": "AC4 Multiplayer Characters Pack #2 Guild of Rogues",
-            "description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  The chaos ensues as three new fearless adventurers ready themselves for the challenge. Test your skill and wisdom against: The Stowaway, the mischievous, talkative spy; The Shaman, the crafty houngan asogwe (high priest); The Mermaid, a Templar navigational expert who gave her heart to the sea. This pack also comes with new customization options, and new moves.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 124
-                }
-            },
-            "originalReleaseDate": "/Date(1392109200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/65197bf2-6b31-48ba-a49e-770722f7b1c0",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c5faad33-5f36-4014-8240-9d8e02aa19c9",
+			"title": "AC4 Multiplayer Characters Pack #2 Guild of Rogues",
+			"description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  The chaos ensues as three new fearless adventurers ready themselves for the challenge. Test your skill and wisdom against: The Stowaway, the mischievous, talkative spy; The Shaman, the crafty houngan asogwe (high priest); The Mermaid, a Templar navigational expert who gave her heart to the sea. This pack also comes with new customization options, and new moves.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 124
+				}
+			},
+			"originalReleaseDate": "/Date(1392109200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/c5faad33-5f36-4014-8240-9d8e02aa19c9/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/c5faad33-5f36-4014-8240-9d8e02aa19c9",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b926963e-68f4-4383-b922-f163d2649f3f",
-            "title": "Assassin’s Creed®IV Time saver: Collectibles Pack",
-            "description": "Save time by revealing all of the collectibles locations.  You will still need to travel to these locations and beat the game play in order to get rewards.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 2.75,
-                    "Count": 362
-                }
-            },
-            "originalReleaseDate": "/Date(1383037200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c5faad33-5f36-4014-8240-9d8e02aa19c9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c5faad33-5f36-4014-8240-9d8e02aa19c9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b926963e-68f4-4383-b922-f163d2649f3f",
+			"title": "Assassin’s Creed®IV Time saver: Collectibles Pack",
+			"description": "Save time by revealing all of the collectibles locations.  You will still need to travel to these locations and beat the game play in order to get rewards.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 362
+				}
+			},
+			"originalReleaseDate": "/Date(1383037200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/b926963e-68f4-4383-b922-f163d2649f3f/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b926963e-68f4-4383-b922-f163d2649f3f",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$0.99",
-                "silverPrice": "$0.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0.99,
-                    "display": "$0.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "c6f35396-0045-4d27-bf35-363a61b71f9e",
-            "title": "Assassin’s Creed®IV Black Flag™ Death Vessel Pack",
-            "description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  Give a fearsome look to your ship with those 3 unique customization items: The Death Vessel Figurehead, Death Vessel Sails and Death Vessel Wheel.  Important: You need to progress until Sequence 3 memory 04 to see those items in the Jackdaw upgrades menu. Go into your Captain’s cabin or in a Harbor Master to equip them on your ship.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 451
-                }
-            },
-            "originalReleaseDate": "/Date(1383037200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b926963e-68f4-4383-b922-f163d2649f3f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b926963e-68f4-4383-b922-f163d2649f3f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c6f35396-0045-4d27-bf35-363a61b71f9e",
+			"title": "Assassin’s Creed®IV Black Flag™ Death Vessel Pack",
+			"description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  Give a fearsome look to your ship with those 3 unique customization items: The Death Vessel Figurehead, Death Vessel Sails and Death Vessel Wheel.  Important: You need to progress until Sequence 3 memory 04 to see those items in the Jackdaw upgrades menu. Go into your Captain’s cabin or in a Harbor Master to equip them on your ship.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 451
+				}
+			},
+			"originalReleaseDate": "/Date(1383037200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/c6f35396-0045-4d27-bf35-363a61b71f9e/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/c6f35396-0045-4d27-bf35-363a61b71f9e",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$0.99",
-                "silverPrice": "$0.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0.99,
-                    "display": "$0.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "37af495e-fafe-453a-a730-608de4246456",
-            "title": "Assassin’s Creed® IV Black Flag Florentine and Crusader Pack",
-            "description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  Sail with Altaïr and Ezio’s colors with 4 customization items for your ship and 2 new weapons for Edward: Ezio’s Iconic Figurehead, Ezio’s Unique Sails, Ezio’s Swords, Altaïr’s Iconic Figurehead, Altaïr’s Unique Sails, Altaïr’s Sword.  Important: You need to progress until Sequence 3 memory 04 to see those items in the Jackdaw and Edward upgrade menu. Go into your Captain’s cabin to equip them.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 303
-                }
-            },
-            "originalReleaseDate": "/Date(1384851600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Use of Alcohol",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c6f35396-0045-4d27-bf35-363a61b71f9e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c6f35396-0045-4d27-bf35-363a61b71f9e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "37af495e-fafe-453a-a730-608de4246456",
+			"title": "Assassin’s Creed® IV Black Flag Florentine and Crusader Pack",
+			"description": "If you own the Assassin’s Creed®4 Season Pass, DO NOT purchase this content here as you will be charged again. Assassin’s Creed®4 game required; sold separately. Xbox LIVE free membership required.  Sail with Altaïr and Ezio’s colors with 4 customization items for your ship and 2 new weapons for Edward: Ezio’s Iconic Figurehead, Ezio’s Unique Sails, Ezio’s Swords, Altaïr’s Iconic Figurehead, Altaïr’s Unique Sails, Altaïr’s Sword.  Important: You need to progress until Sequence 3 memory 04 to see those items in the Jackdaw and Edward upgrade menu. Go into your Captain’s cabin to equip them.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 303
+				}
+			},
+			"originalReleaseDate": "/Date(1384851600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/37af495e-fafe-453a-a730-608de4246456/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/37af495e-fafe-453a-a730-608de4246456",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/37af495e-fafe-453a-a730-608de4246456/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/37af495e-fafe-453a-a730-608de4246456",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

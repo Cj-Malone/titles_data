@@ -1,142 +1,142 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802415607de",
-    "title": "Wolfenstein",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "Unleash the Nazis own dark powers against them as you battle unimaginable evil and unexpected foes.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        },
-        {
-            "label": "Shooter"
-        }
-    ],
-    "publisher": "Activision",
-    "studio": "Raven Software, Endrant Studios Ltd.",
-    "originalReleaseDate": "/Date(1250553600000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802415607de",
+	"title": "Wolfenstein",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Unleash the Nazis own dark powers against them as you battle unimaginable evil and unexpected foes.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Activision",
+	"studio": "Raven Software, Endrant Studios Ltd.",
+	"originalReleaseDate": "/Date(1250553600000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg5.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Wolfenstein/66acd000-77fe-1000-9115-d802415607de",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.25,
-            "Count": 18802
-        }
-    },
-    "price": {
-        "goldPrice": null,
-        "silverPrice": null
-    },
-    "prices": [
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607de/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Wolfenstein/66acd000-77fe-1000-9115-d802415607de",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 18802
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
 
-    ],
-    "childDownloadTypes": [
-        "GameDemo"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607de/Children",
-    "childDownloads": [
-        {
-            "id": "00000000-0000-400d-80df-000241568852",
-            "title": "Wolfenstein™ Demo",
-            "description": "Unleash the Nazis own dark powers against them as you battle unimaginable evil and unexpected foes. Download the demo.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 1320
-                }
-            },
-            "originalReleaseDate": "/Date(1254301200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"childDownloadTypes": [
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607de/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400d-80df-000241568852",
+			"title": "Wolfenstein™ Demo",
+			"description": "Unleash the Nazis own dark powers against them as you battle unimaginable evil and unexpected foes. Download the demo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1320
+				}
+			},
+			"originalReleaseDate": "/Date(1254301200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-000241568852/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400d-80df-000241568852",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-000241568852/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400d-80df-000241568852",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

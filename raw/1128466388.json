@@ -1,1596 +1,1596 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802434307d4",
-    "title": "RESIDENT EVIL 5",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Resident Evil series continues with this highly anticipated sequel. Searing heat from the merciless sun scorches the earth, while a new evil draws closer.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        }
-    ],
-    "publisher": "CAPCOM CO,. LTD.",
-    "studio": "CAPCOM CO,. LTD.",
-    "originalReleaseDate": "/Date(1269820800000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
-        "http://download.xbox.com/content/434307d4/Resident%20Evil%205.asx"
-    ],
-    "gameManual": "http://download.xbox.com/content/434307d4/890297e5-358f-4ad8-a368-f7fc51cc93f9.PDF",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg10.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg11.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg12.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg13.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg14.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg15.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg16.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg17.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg18.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg19.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg20.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/RESIDENT-EVIL-5/66acd000-77fe-1000-9115-d802434307d4",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 114491
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "Theme",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802434307d4/Children",
-    "childDownloads": [
-        {
-            "id": "00000bb8-c817-a2c1-c9fe-bb56434307d4",
-            "title": "Chris Redfield's Uniform",
-            "description": "The uniform Chris wore during the operation to apprehend Ozwell E. Spencer. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 255
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000bb8-c817-a2c1-c9fe-bb56434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000bb8-c817-a2c1-c9fe-bb56434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0008434307d4",
-            "title": "COSTUME PACK 1",
-            "description": "This costume pack is compatible with the original game.  Show off Chris' muscled physique with his Warrior outfit, and add a bit of elfin fantasy to Sheva with Fairy Tale.  These costumes can also be used in The Mercenaries Reunion in addition to the main story.  There are also additional figures available in Extra Figures to round out this sartorial package.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 2045
-                }
-            },
-            "originalReleaseDate": "/Date(1266397200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802434307d4",
+	"title": "RESIDENT EVIL 5",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Resident Evil series continues with this highly anticipated sequel. Searing heat from the merciless sun scorches the earth, while a new evil draws closer.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "CAPCOM CO,. LTD.",
+	"studio": "CAPCOM CO,. LTD.",
+	"originalReleaseDate": "/Date(1269820800000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/434307d4/Resident%20Evil%205.asx"
+	],
+	"gameManual": "http://download.xbox.com/content/434307d4/890297e5-358f-4ad8-a368-f7fc51cc93f9.PDF",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1041/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg14.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg15.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg16.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg17.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg18.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg19.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/screenlg20.jpg"
+	],
+	"detailsUrl": "/en-US/Product/RESIDENT-EVIL-5/66acd000-77fe-1000-9115-d802434307d4",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 114491
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802434307d4/Children",
+	"childDownloads": [
+		{
+			"id": "00000bb8-c817-a2c1-c9fe-bb56434307d4",
+			"title": "Chris Redfield's Uniform",
+			"description": "The uniform Chris wore during the operation to apprehend Ozwell E. Spencer. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 255
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000bb8-c817-a2c1-c9fe-bb56434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000bb8-c817-a2c1-c9fe-bb56434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0008434307d4",
+			"title": "COSTUME PACK 1",
+			"description": "This costume pack is compatible with the original game.  Show off Chris' muscled physique with his Warrior outfit, and add a bit of elfin fantasy to Sheva with Fairy Tale.  These costumes can also be used in The Mercenaries Reunion in addition to the main story.  There are also additional figures available in Extra Figures to round out this sartorial package.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 2045
+				}
+			},
+			"originalReleaseDate": "/Date(1266397200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0008434307d4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-000a434307d4",
-            "title": "COSTUME PACK 2",
-            "description": "This costume pack is compatible with the original game.  Play with Chris' completely new take on tactical field armor with Heavy Metal, and give Sheva the sleek elegance of a power suit with Business.  These costumes can also be used in The Mercenaries Reunion in addition to the main story.  There are also additional figures available in Extra Figures to round out this sartorial package.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 1539
-                }
-            },
-            "originalReleaseDate": "/Date(1267606800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0008434307d4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000a434307d4",
+			"title": "COSTUME PACK 2",
+			"description": "This costume pack is compatible with the original game.  Play with Chris' completely new take on tactical field armor with Heavy Metal, and give Sheva the sleek elegance of a power suit with Business.  These costumes can also be used in The Mercenaries Reunion in addition to the main story.  There are also additional figures available in Extra Figures to round out this sartorial package.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 1539
+				}
+			},
+			"originalReleaseDate": "/Date(1267606800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-000a434307d4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-3280-9263-c311-6e31434307d4",
-            "title": "Crank",
-            "description": "Fans of Resident Evil are quite familiar with all the cranks in the series. This special crank has been designed specifically for your avatar. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 145
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-3280-9263-c311-6e31434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-3280-9263-c311-6e31434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0006434307d4",
-            "title": "DESPERATE ESCAPE",
-            "description": "This is the second installment of new content for RESIDENT EVIL 5.  After Jill Valentine is rescued by Chris Redfield, he leaves her to finish his mission. Find out how she made it out on her own, and what role Josh Stone played in her escape.  This package also allows you to unlock two new characters in the all-new The Mercenaries Reunion. Play as one of the stars of RESIDENT EVIL 0, Rebecca Chambers, or take on the role of Delta Team's commander, Josh Stone.  There are also additional figures available in Extra Figures to round out this action-packed package. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 2662
-                }
-            },
-            "originalReleaseDate": "/Date(1267606800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000a434307d4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-3280-9263-c311-6e31434307d4",
+			"title": "Crank",
+			"description": "Fans of Resident Evil are quite familiar with all the cranks in the series. This special crank has been designed specifically for your avatar. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 145
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-3280-9263-c311-6e31434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-3280-9263-c311-6e31434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0006434307d4",
+			"title": "DESPERATE ESCAPE",
+			"description": "This is the second installment of new content for RESIDENT EVIL 5.  After Jill Valentine is rescued by Chris Redfield, he leaves her to finish his mission. Find out how she made it out on her own, and what role Josh Stone played in her escape.  This package also allows you to unlock two new characters in the all-new The Mercenaries Reunion. Play as one of the stars of RESIDENT EVIL 0, Rebecca Chambers, or take on the role of Delta Team's commander, Josh Stone.  There are also additional figures available in Extra Figures to round out this action-packed package. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 2662
+				}
+			},
+			"originalReleaseDate": "/Date(1267606800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0006434307d4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-000c434307d4",
-            "title": "EXTRA FIGURES",
-            "description": "Unlock items in Extra Figures. You will be able to add figures like Barry and Rebecca to your collection, all for the affordable price of a free download!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 2744
-                }
-            },
-            "originalReleaseDate": "/Date(1266224400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0006434307d4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000c434307d4",
+			"title": "EXTRA FIGURES",
+			"description": "Unlock items in Extra Figures. You will be able to add figures like Barry and Rebecca to your collection, all for the affordable price of a free download!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 2744
+				}
+			},
+			"originalReleaseDate": "/Date(1266224400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-000c434307d4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-fb58-c281-c000-53ef434307d4",
-            "title": "Hawaiian Shirt",
-            "description": "A Hawaiian shirt with an original Resident Evil 5 motif. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 103
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-fb58-c281-c000-53ef434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-fb58-c281-c000-53ef434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ff8-3280-c2a2-c90a-0304434307d4",
-            "title": "Jill Valentine's Uniform",
-            "description": "The uniform Jill wore during the operation to apprehend Ozwell E. Spencer. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 58
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ff8-3280-c2a2-c90a-0304434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ff8-3280-c2a2-c90a-0304434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000218-3280-02e2-c9ed-de74434307d4",
-            "title": "Lab Coat",
-            "description": "A lab coat modeled on those worn by the researchers at Umbrella. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 19
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000218-3280-02e2-c9ed-de74434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000218-3280-02e2-c9ed-de74434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000218-3680-c221-c62b-1f16434307d4",
-            "title": "Lab Coat",
-            "description": "A lab coat modeled on those worn by the researchers at Umbrella. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 83
-                }
-            },
-            "originalReleaseDate": "/Date(1266224400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000218-3680-c221-c62b-1f16434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000218-3680-c221-c62b-1f16434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-e517-82a1-c86b-d4e0434307d4",
-            "title": "Leon's Leather Jacket Outfit",
-            "description": "A practical outfit that puts emphasis on ease of movement for the wearer. Its brown leather jacket is its defining characteristic, giving the outfit a \"tough guy\" look.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 164
-                }
-            },
-            "originalReleaseDate": "/Date(1315472400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-e517-82a1-c86b-d4e0434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-e517-82a1-c86b-d4e0434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-0f61-6212-c67c-a9ec434307d4",
-            "title": "Leon's Leather Jacket Outfit",
-            "description": "A practical outfit that puts emphasis on ease of movement for the wearer. Its brown leather jacket is its defining characteristic, giving the outfit a \"tough guy\" look.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 16
-                }
-            },
-            "originalReleaseDate": "/Date(1315472400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-0f61-6212-c67c-a9ec434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-0f61-6212-c67c-a9ec434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0004434307d4",
-            "title": "LOST IN NIGHTMARES",
-            "description": "This is the first installment of new content for RESIDENT EVIL 5.  During the main story of RESIDENT EVIL 5, Chris Redfield alludes to a mission where he lost his partner Jill during a conversation with Sheva. Now you can find out what happened during that mission at Spencer's estate.  This package also allows you to unlock two new characters in the all-new The Mercenaries Reunion. Play as one of the unsung heroes of the original RESIDENT EVIL, Barry Burton, or step into the designer-made high heels of one of RESIDENT EVIL's newest villains, Excella Gionne.  There are also additional figures available in Extra Figures to round out this action-packed package. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 4578
-                }
-            },
-            "originalReleaseDate": "/Date(1266397200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000c434307d4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-fb58-c281-c000-53ef434307d4",
+			"title": "Hawaiian Shirt",
+			"description": "A Hawaiian shirt with an original Resident Evil 5 motif. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 103
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-fb58-c281-c000-53ef434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-fb58-c281-c000-53ef434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ff8-3280-c2a2-c90a-0304434307d4",
+			"title": "Jill Valentine's Uniform",
+			"description": "The uniform Jill wore during the operation to apprehend Ozwell E. Spencer. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 58
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ff8-3280-c2a2-c90a-0304434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ff8-3280-c2a2-c90a-0304434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000218-3280-02e2-c9ed-de74434307d4",
+			"title": "Lab Coat",
+			"description": "A lab coat modeled on those worn by the researchers at Umbrella. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 19
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000218-3280-02e2-c9ed-de74434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000218-3280-02e2-c9ed-de74434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000218-3680-c221-c62b-1f16434307d4",
+			"title": "Lab Coat",
+			"description": "A lab coat modeled on those worn by the researchers at Umbrella. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 83
+				}
+			},
+			"originalReleaseDate": "/Date(1266224400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000218-3680-c221-c62b-1f16434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000218-3680-c221-c62b-1f16434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-e517-82a1-c86b-d4e0434307d4",
+			"title": "Leon's Leather Jacket Outfit",
+			"description": "A practical outfit that puts emphasis on ease of movement for the wearer. Its brown leather jacket is its defining characteristic, giving the outfit a \"tough guy\" look.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 164
+				}
+			},
+			"originalReleaseDate": "/Date(1315472400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-e517-82a1-c86b-d4e0434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-e517-82a1-c86b-d4e0434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-0f61-6212-c67c-a9ec434307d4",
+			"title": "Leon's Leather Jacket Outfit",
+			"description": "A practical outfit that puts emphasis on ease of movement for the wearer. Its brown leather jacket is its defining characteristic, giving the outfit a \"tough guy\" look.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1315472400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-0f61-6212-c67c-a9ec434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-0f61-6212-c67c-a9ec434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0004434307d4",
+			"title": "LOST IN NIGHTMARES",
+			"description": "This is the first installment of new content for RESIDENT EVIL 5.  During the main story of RESIDENT EVIL 5, Chris Redfield alludes to a mission where he lost his partner Jill during a conversation with Sheva. Now you can find out what happened during that mission at Spencer's estate.  This package also allows you to unlock two new characters in the all-new The Mercenaries Reunion. Play as one of the unsung heroes of the original RESIDENT EVIL, Barry Burton, or step into the designer-made high heels of one of RESIDENT EVIL's newest villains, Excella Gionne.  There are also additional figures available in Extra Figures to round out this action-packed package. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 4578
+				}
+			},
+			"originalReleaseDate": "/Date(1266397200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-0004434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0004434307d4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0001434307d4",
-            "title": "New Resident Evil 5 2007 Trailer",
-            "description": "The Resident Evil series continues with this highly anticipated sequel. Witness real-time footage from Resident Evil 5!The story unfolds in a land simmering in the heat of a merciless sun where the contrast between light and dark enhances the feeling of dread as a new evil draws closer.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 278
-                }
-            },
-            "originalReleaseDate": "/Date(1185444000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-0004434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0004434307d4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0001434307d4",
+			"title": "New Resident Evil 5 2007 Trailer",
+			"description": "The Resident Evil series continues with this highly anticipated sequel. Witness real-time footage from Resident Evil 5!The story unfolds in a land simmering in the heat of a merciless sun where the contrast between light and dark enhances the feeling of dread as a new evil draws closer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 278
+				}
+			},
+			"originalReleaseDate": "/Date(1185444000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4003-803f-0004434307d4",
-            "title": "RE5 - Spencer's Mansion (Premium)",
-            "description": "A theme based on the Spencer Mansion where Chris and Jill attempt to arrest the founder of Umbrella. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 513
-                }
-            },
-            "originalReleaseDate": "/Date(1267088400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0004434307d4",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4003-803f-0003434307d4",
-            "title": "RE5 Kijuju Theme (Premium)",
-            "description": "Chris Redfield embarks on his latest mission into the Kijuju Autonomous Zone in this Premium Theme for Resident Evil 5. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 707
-                }
-            },
-            "originalReleaseDate": "/Date(1239271200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0003434307d4",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.13",
-                "silverPrice": "$3.13"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.13,
-                    "display": "$3.13",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802434307d4",
-            "title": "RESIDENT EVIL 5",
-            "description": "The Resident Evil series continues with this highly anticipated sequel. Searing heat from the merciless sun scorches the earth, while a new evil draws closer.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 114491
-                }
-            },
-            "originalReleaseDate": "/Date(1269853200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "GameVideo",
-                "GameAddon",
-                "Theme",
-                "AvatarItem"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802434307d4",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400d-80df-0001434387f2",
-            "title": "RESIDENT EVIL 5 Demo",
-            "description": "The demo version of RESIDENT EVIL 5. Play by yourself or play with a partner in co-op mode, either online or offline with a split screen.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 5048
-                }
-            },
-            "originalReleaseDate": "/Date(1233219600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0004434307d4",
+			"title": "RE5 - Spencer's Mansion (Premium)",
+			"description": "A theme based on the Spencer Mansion where Chris and Jill attempt to arrest the founder of Umbrella. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 513
+				}
+			},
+			"originalReleaseDate": "/Date(1267088400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0004434307d4",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0003434307d4",
+			"title": "RE5 Kijuju Theme (Premium)",
+			"description": "Chris Redfield embarks on his latest mission into the Kijuju Autonomous Zone in this Premium Theme for Resident Evil 5. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 707
+				}
+			},
+			"originalReleaseDate": "/Date(1239271200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0003434307d4",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.13",
+				"silverPrice": "$3.13"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.13,
+					"display": "$3.13",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802434307d4",
+			"title": "RESIDENT EVIL 5",
+			"description": "The Resident Evil series continues with this highly anticipated sequel. Searing heat from the merciless sun scorches the earth, while a new evil draws closer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 114491
+				}
+			},
+			"originalReleaseDate": "/Date(1269853200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802434307d4",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400d-80df-0001434387f2",
+			"title": "RESIDENT EVIL 5 Demo",
+			"description": "The demo version of RESIDENT EVIL 5. Play by yourself or play with a partner in co-op mode, either online or offline with a split screen.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 5048
+				}
+			},
+			"originalReleaseDate": "/Date(1233219600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001434387f2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400d-80df-0001434387f2",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-000b434307d4",
-            "title": "RESIDENT EVIL 5 movie from TGS 2008",
-            "description": "Since that fateful day in 1996, the destines of Chris Redfield and Albert Wesker have remained forever intertwined. In the blazing heat of the African continent, will their conflict finally find closure? Now witness the Resident Evil 5 theater video that set the 2008 Tokyo Game Show ablaze!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 434
-                }
-            },
-            "originalReleaseDate": "/Date(1232096400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001434387f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400d-80df-0001434387f2",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-000b434307d4",
+			"title": "RESIDENT EVIL 5 movie from TGS 2008",
+			"description": "Since that fateful day in 1996, the destines of Chris Redfield and Albert Wesker have remained forever intertwined. In the blazing heat of the African continent, will their conflict finally find closure? Now witness the Resident Evil 5 theater video that set the 2008 Tokyo Game Show ablaze!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 434
+				}
+			},
+			"originalReleaseDate": "/Date(1232096400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-000b434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-001d434307d4",
-            "title": "RESIDENT EVIL 5 New Content Trailer",
-            "description": "Find out what happened to Chris and Jill on their mission to arrest Spencer 3 years prior to the events of RESIDENT EVIL 5. Then learn how Jill escaped the Tricell facility after Chris and Sheva rescued her.  This promotional trailer features scenes from the two new original episodes for RESIDENT EVIL 5. In addition, costume packs you can use in THE MERCENARIES REUNION will be made available at the same time these additional episodes go on sale.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 478
-                }
-            },
-            "originalReleaseDate": "/Date(1263546000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-000b434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-001d434307d4",
+			"title": "RESIDENT EVIL 5 New Content Trailer",
+			"description": "Find out what happened to Chris and Jill on their mission to arrest Spencer 3 years prior to the events of RESIDENT EVIL 5. Then learn how Jill escaped the Tricell facility after Chris and Sheva rescued her.  This promotional trailer features scenes from the two new original episodes for RESIDENT EVIL 5. In addition, costume packs you can use in THE MERCENARIES REUNION will be made available at the same time these additional episodes go on sale.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 478
+				}
+			},
+			"originalReleaseDate": "/Date(1263546000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-001d434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-001a434307d4",
-            "title": "RESIDENT EVIL 5 New Episode Preview",
-            "description": "In RESIDENT EVIL 5, Chris Redfield told his partner, Sheva, what happened to him when he and his former partner, Jill Valentine, went to apprehend the founder of Umbrella, Ozwell E. Spencer. Now find out what actually happened in this trailer for the RE5 additional content, LOST IN NIGHTMARES.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 609
-                }
-            },
-            "originalReleaseDate": "/Date(1258621200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-001d434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-001a434307d4",
+			"title": "RESIDENT EVIL 5 New Episode Preview",
+			"description": "In RESIDENT EVIL 5, Chris Redfield told his partner, Sheva, what happened to him when he and his former partner, Jill Valentine, went to apprehend the founder of Umbrella, Ozwell E. Spencer. Now find out what actually happened in this trailer for the RE5 additional content, LOST IN NIGHTMARES.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 609
+				}
+			},
+			"originalReleaseDate": "/Date(1258621200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-001a434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0003434307d4",
-            "title": "Resident Evil 5 Spring Trailer 2008!",
-            "description": "An unknown horror resides in the birthplace of humanity. Can Chris Redfield survive this new nightmare? Who is the mysterious woman with the gun?  The latest graphics! New game scenes!  The second Resident Evil 5 Trailer is finally declassified!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 242
-                }
-            },
-            "originalReleaseDate": "/Date(1212660000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-001a434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0003434307d4",
+			"title": "Resident Evil 5 Spring Trailer 2008!",
+			"description": "An unknown horror resides in the birthplace of humanity. Can Chris Redfield survive this new nightmare? Who is the mysterious woman with the gun?  The latest graphics! New game scenes!  The second Resident Evil 5 Trailer is finally declassified!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 242
+				}
+			},
+			"originalReleaseDate": "/Date(1212660000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0003434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0012585407d3",
-            "title": "Resident Evil 5 Trailer",
-            "description": "Watch the coolest new game trailers from E3 2008.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 253
-                }
-            },
-            "originalReleaseDate": "/Date(1216063800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585407d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0012585407d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0017434307d4",
-            "title": "RESIDENT EVIL 5 Trailer 2009",
-            "description": "What does Wesker mean when he refers to his \"new world\"? What's the meaning behind the Umbrella symbol that Chris sees? And will we ever learn the identity of the mysterious figure? The mysteries continue to mount in this new trailer for Resident Evil 5!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 318
-                }
-            },
-            "originalReleaseDate": "/Date(1234515600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0003434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0012585407d3",
+			"title": "Resident Evil 5 Trailer",
+			"description": "Watch the coolest new game trailers from E3 2008.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 253
+				}
+			},
+			"originalReleaseDate": "/Date(1216063800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585407d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0012585407d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0017434307d4",
+			"title": "RESIDENT EVIL 5 Trailer 2009",
+			"description": "What does Wesker mean when he refers to his \"new world\"? What's the meaning behind the Umbrella symbol that Chris sees? And will we ever learn the identity of the mysterious figure? The mysteries continue to mount in this new trailer for Resident Evil 5!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 318
+				}
+			},
+			"originalReleaseDate": "/Date(1234515600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0017434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0020434307d4",
-            "title": "RESIDENT EVIL 5 Trailer 2010",
-            "description": "What does Wesker mean when he refers to his \"new world\"? What's the meaning behind the Umbrella and Tricell symbols that Chris sees? And what are those costumes that Chris and Sheva are wearing?  This trailer is a reimagining of the original RE5 trailer released in 2009, and features the new costumes available to players. This trailer's release is timed to coincide with the release of the new downloadable content.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 256
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0017434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0020434307d4",
+			"title": "RESIDENT EVIL 5 Trailer 2010",
+			"description": "What does Wesker mean when he refers to his \"new world\"? What's the meaning behind the Umbrella and Tricell symbols that Chris sees? And what are those costumes that Chris and Sheva are wearing?  This trailer is a reimagining of the original RE5 trailer released in 2009, and features the new costumes available to players. This trailer's release is timed to coincide with the release of the new downloadable content.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 256
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0020434307d4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0001434307d4",
-            "title": "RESIDENT EVIL 5 Versus Mode",
-            "description": "VERSUS is a new mode available for Resident Evil 5. Take control of Chris, Sheva and other RE5 favorites in online battles of up to 4 players! Compete for points by defeating Majini in SLAYERS or take down other players in SURVIVORS. Fight alone or in a team for a total of 4 exciting variations!※You must have an Xbox LIVE Gold Membership to go on-line and use this mode.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 4394
-                }
-            },
-            "originalReleaseDate": "/Date(1239267600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0020434307d4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0001434307d4",
+			"title": "RESIDENT EVIL 5 Versus Mode",
+			"description": "VERSUS is a new mode available for Resident Evil 5. Take control of Chris, Sheva and other RE5 favorites in online battles of up to 4 players! Compete for points by defeating Majini in SLAYERS or take down other players in SURVIVORS. Fight alone or in a team for a total of 4 exciting variations!※You must have an Xbox LIVE Gold Membership to go on-line and use this mode.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 4394
+				}
+			},
+			"originalReleaseDate": "/Date(1239267600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-0001434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0001434307d4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4003-803f-0001434307d4",
-            "title": "'Resident Evil 5' Wallpapers #1",
-            "description": "Wallpapers from the latest installment of the series, 'Resident Evil 5' There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 1258
-                }
-            },
-            "originalReleaseDate": "/Date(1189072800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0001434307d4",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$0.63",
-                "silverPrice": "$0.63"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0.63,
-                    "display": "$0.63",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-4a2e-52b2-ceaf-a32c434307d4",
-            "title": "T-Shirt 1",
-            "description": "A Resident Evil 5 T-Shirt with an original design. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 21
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-4a2e-52b2-ceaf-a32c434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-4a2e-52b2-ceaf-a32c434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-5522-92a1-ca33-3875434307d4",
-            "title": "T-Shirt 1",
-            "description": "A Resident Evil 5 T-Shirt with an original design. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 94
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-5522-92a1-ca33-3875434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-5522-92a1-ca33-3875434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-6625-9271-cf44-921e434307d4",
-            "title": "T-Shirt 2",
-            "description": "A Resident Evil 5 T-Shirt with an original design. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 100
-                }
-            },
-            "originalReleaseDate": "/Date(1266483600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-6625-9271-cf44-921e434307d4/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-6625-9271-cf44-921e434307d4",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-0001434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0001434307d4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0001434307d4",
+			"title": "'Resident Evil 5' Wallpapers #1",
+			"description": "Wallpapers from the latest installment of the series, 'Resident Evil 5' There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1258
+				}
+			},
+			"originalReleaseDate": "/Date(1189072800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434307d4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0001434307d4",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.63",
+				"silverPrice": "$0.63"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.63,
+					"display": "$0.63",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-4a2e-52b2-ceaf-a32c434307d4",
+			"title": "T-Shirt 1",
+			"description": "A Resident Evil 5 T-Shirt with an original design. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-4a2e-52b2-ceaf-a32c434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-4a2e-52b2-ceaf-a32c434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5522-92a1-ca33-3875434307d4",
+			"title": "T-Shirt 1",
+			"description": "A Resident Evil 5 T-Shirt with an original design. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 94
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5522-92a1-ca33-3875434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5522-92a1-ca33-3875434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-6625-9271-cf44-921e434307d4",
+			"title": "T-Shirt 2",
+			"description": "A Resident Evil 5 T-Shirt with an original design. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 100
+				}
+			},
+			"originalReleaseDate": "/Date(1266483600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-6625-9271-cf44-921e434307d4/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-6625-9271-cf44-921e434307d4",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

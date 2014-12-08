@@ -1,579 +1,579 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802575207e6",
-    "title": "LEGO® Harry Potter™",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Experience the magic of Harry Potter’s first 4 years at Hogwarts™ School of Witchcraft and Wizardry in an exciting new way. LEGO® Harry Potter™: Years 1-4 combines the first four Harry Potter books and films in an interactive fun-filled videogame. Players can build the adventure from Privet Drive to the Triwizard Tournament through new LEGO gameplay elements like magical building and spell-casting. Select from over 100 playable characters including Harry Potter, Ron Weasley™ and Hermione Granger™. Experience the wonder of Hogwarts: attend lessons, mix potions, fly on broomsticks, and complete tasks to collect LEGO studs and relive the adventures like never before with tongue-in-cheek humour and creative customisation unique to LEGO videogames.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        },
-        {
-            "label": "Family"
-        }
-    ],
-    "publisher": "Warner Bros. Interactive Entertainment",
-    "studio": "Traveller's Tales (UK), Ltd.",
-    "originalReleaseDate": "/Date(1275523200000)/",
-    "contentRating": {
-        "label": "E10 (Everyone 10+)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-        "age": 10,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Cartoon Violence",
-                "image": null
-            },
-            {
-                "label": "Crude Humor",
-                "image": null
-            }
-        ],
-        "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802575207e6",
+	"title": "LEGO® Harry Potter™",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Experience the magic of Harry Potter’s first 4 years at Hogwarts™ School of Witchcraft and Wizardry in an exciting new way. LEGO® Harry Potter™: Years 1-4 combines the first four Harry Potter books and films in an interactive fun-filled videogame. Players can build the adventure from Privet Drive to the Triwizard Tournament through new LEGO gameplay elements like magical building and spell-casting. Select from over 100 playable characters including Harry Potter, Ron Weasley™ and Hermione Granger™. Experience the wonder of Hogwarts: attend lessons, mix potions, fly on broomsticks, and complete tasks to collect LEGO studs and relive the adventures like never before with tongue-in-cheek humour and creative customisation unique to LEGO videogames.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Family"
+		}
+	],
+	"publisher": "Warner Bros. Interactive Entertainment",
+	"studio": "Traveller's Tales (UK), Ltd.",
+	"originalReleaseDate": "/Date(1275523200000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Cartoon Violence",
+				"image": null
+			},
+			{
+				"label": "Crude Humor",
+				"image": null
+			}
+		],
+		"disclaimers": [
 
-        ]
-    },
-    "trailers": [
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg9.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/LEGO-Harry-Potter/66acd000-77fe-1000-9115-d802575207e6",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4,
-            "Count": 32719
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207e6/Children",
-    "childDownloads": [
-        {
-            "id": "00000238-ee68-c222-cafa-7143575207e6",
-            "title": "LEGO Gryffindor Uniform",
-            "description": "If you are loyal and courageous to a fault – and look good in scarlet and gold – then the uniform worn by Hogwarts students in Gryffindor house is for you. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 46
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-ee68-c222-cafa-7143575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-ee68-c222-cafa-7143575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-b7e9-42d1-c20c-5bc4575207e6",
-            "title": "LEGO Gryffindor Uniform",
-            "description": "If you are loyal and courageous to a fault – and look good in scarlet and gold – then the uniform worn by Hogwarts students in Gryffindor house is for you. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 222
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-b7e9-42d1-c20c-5bc4575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-b7e9-42d1-c20c-5bc4575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802575207e6",
-            "title": "LEGO® Harry Potter™",
-            "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Experience the magic of Harry Potter’s first 4 years at Hogwarts™ School of Witchcraft and Wizardry in an exciting new way. LEGO® Harry Potter™: Years 1-4 combines the first four Harry Potter books and films in an interactive fun-filled videogame. Players can build the adventure from Privet Drive to the Triwizard Tournament through new LEGO gameplay elements like magical building and spell-casting. Select from over 100 playable characters including Harry Potter, Ron Weasley™ and Hermione Granger™. Experience the wonder of Hogwarts: attend lessons, mix potions, fly on broomsticks, and complete tasks to collect LEGO studs and relive the adventures like never before with tongue-in-cheek humour and creative customisation unique to LEGO videogames.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 32719
-                }
-            },
-            "originalReleaseDate": "/Date(1328605200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Cartoon Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Crude Humor",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/LEGO-Harry-Potter/66acd000-77fe-1000-9115-d802575207e6",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 32719
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207e6/Children",
+	"childDownloads": [
+		{
+			"id": "00000238-ee68-c222-cafa-7143575207e6",
+			"title": "LEGO Gryffindor Uniform",
+			"description": "If you are loyal and courageous to a fault – and look good in scarlet and gold – then the uniform worn by Hogwarts students in Gryffindor house is for you. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-ee68-c222-cafa-7143575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-ee68-c222-cafa-7143575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-b7e9-42d1-c20c-5bc4575207e6",
+			"title": "LEGO Gryffindor Uniform",
+			"description": "If you are loyal and courageous to a fault – and look good in scarlet and gold – then the uniform worn by Hogwarts students in Gryffindor house is for you. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 222
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-b7e9-42d1-c20c-5bc4575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-b7e9-42d1-c20c-5bc4575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802575207e6",
+			"title": "LEGO® Harry Potter™",
+			"description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  Experience the magic of Harry Potter’s first 4 years at Hogwarts™ School of Witchcraft and Wizardry in an exciting new way. LEGO® Harry Potter™: Years 1-4 combines the first four Harry Potter books and films in an interactive fun-filled videogame. Players can build the adventure from Privet Drive to the Triwizard Tournament through new LEGO gameplay elements like magical building and spell-casting. Select from over 100 playable characters including Harry Potter, Ron Weasley™ and Hermione Granger™. Experience the wonder of Hogwarts: attend lessons, mix potions, fly on broomsticks, and complete tasks to collect LEGO studs and relive the adventures like never before with tongue-in-cheek humour and creative customisation unique to LEGO videogames.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 32719
+				}
+			},
+			"originalReleaseDate": "/Date(1328605200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "AvatarItem"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207e6",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400d-80df-0001575287ff",
-            "title": "LEGO® Harry Potter™ Demo",
-            "description": "Download the demo.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 1777
-                }
-            },
-            "originalReleaseDate": "/Date(1276506000000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Cartoon Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Crude Humor",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207e6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207e6",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400d-80df-0001575287ff",
+			"title": "LEGO® Harry Potter™ Demo",
+			"description": "Download the demo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 1777
+				}
+			},
+			"originalReleaseDate": "/Date(1276506000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001575287ff/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400d-80df-0001575287ff",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-f37f-a263-c80d-5f50575207e6",
-            "title": "LEGO Harry Potter Wand",
-            "description": "Be prepared for anything – from basic levitation, to advanced transfiguration, to cataclysmic wizard battles – with this LEGO Harry Potter wand.  (Just hope this particular wand chooses you.)   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 1193
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-f37f-a263-c80d-5f50575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-f37f-a263-c80d-5f50575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-776e-2291-c2c7-90cb575207e6",
-            "title": "LEGO Hufflepuff Uniform",
-            "description": "Reward the hard work you are known for as a member of Hufflepuff house with this Hogwarts school uniform – trimmed in the classic canary yellow and midnight black that represent the Hogwarts house known for fair play. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 203
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-776e-2291-c2c7-90cb575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-776e-2291-c2c7-90cb575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-e568-4272-ce29-e788575207e6",
-            "title": "LEGO Hufflepuff Uniform",
-            "description": "Reward the hard work you are known for as a member of Hufflepuff house with this Hogwarts school uniform – trimmed in the classic canary yellow and midnight black that represent the Hogwarts house known for fair play. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 30
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-e568-4272-ce29-e788575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-e568-4272-ce29-e788575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-ed79-d211-c1e2-72db575207e6",
-            "title": "LEGO Ravenclaw Uniform",
-            "description": "As the Ravenclaw house motto goes:  “Wit beyond measure is man’s greatest treasure.”  We think fashion sense runs a close second.  Be stylishly witty in this smart Ravenclaw house uniform.  Blue and grey go with everything. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 187
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-ed79-d211-c1e2-72db575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-ed79-d211-c1e2-72db575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-c6f9-6202-c65d-d7a8575207e6",
-            "title": "LEGO Ravenclaw Uniform",
-            "description": "As the Ravenclaw house motto goes:  “Wit beyond measure is man’s greatest treasure.”  We think fashion sense runs a close second.  Be stylishly witty in this smart Ravenclaw house uniform.  Blue and grey go with everything. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 23
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-c6f9-6202-c65d-d7a8575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-c6f9-6202-c65d-d7a8575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-3ac9-f292-ce03-0a69575207e6",
-            "title": "LEGO Slytherin Uniform",
-            "description": "Proud of your ambition and cunning?  No aversion to reptiles?  Big fan of Severus Snape?  The Slytherin house uniform with green and grey accents will be a perfect fit. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 38
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-3ac9-f292-ce03-0a69575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-3ac9-f292-ce03-0a69575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-c750-4241-c918-f1f1575207e6",
-            "title": "LEGO Slytherin Uniform",
-            "description": "Proud of your ambition and cunning?  No aversion to reptiles?  Big fan of Severus Snape?  The Slytherin house uniform with green and grey accents will be a perfect fit. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 170
-                }
-            },
-            "originalReleaseDate": "/Date(1277110800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-c750-4241-c918-f1f1575207e6/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-c750-4241-c918-f1f1575207e6",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001575287ff/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400d-80df-0001575287ff",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-f37f-a263-c80d-5f50575207e6",
+			"title": "LEGO Harry Potter Wand",
+			"description": "Be prepared for anything – from basic levitation, to advanced transfiguration, to cataclysmic wizard battles – with this LEGO Harry Potter wand.  (Just hope this particular wand chooses you.)   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1193
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-f37f-a263-c80d-5f50575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-f37f-a263-c80d-5f50575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-776e-2291-c2c7-90cb575207e6",
+			"title": "LEGO Hufflepuff Uniform",
+			"description": "Reward the hard work you are known for as a member of Hufflepuff house with this Hogwarts school uniform – trimmed in the classic canary yellow and midnight black that represent the Hogwarts house known for fair play. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 203
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-776e-2291-c2c7-90cb575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-776e-2291-c2c7-90cb575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-e568-4272-ce29-e788575207e6",
+			"title": "LEGO Hufflepuff Uniform",
+			"description": "Reward the hard work you are known for as a member of Hufflepuff house with this Hogwarts school uniform – trimmed in the classic canary yellow and midnight black that represent the Hogwarts house known for fair play. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-e568-4272-ce29-e788575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-e568-4272-ce29-e788575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-ed79-d211-c1e2-72db575207e6",
+			"title": "LEGO Ravenclaw Uniform",
+			"description": "As the Ravenclaw house motto goes:  “Wit beyond measure is man’s greatest treasure.”  We think fashion sense runs a close second.  Be stylishly witty in this smart Ravenclaw house uniform.  Blue and grey go with everything. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 187
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-ed79-d211-c1e2-72db575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-ed79-d211-c1e2-72db575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-c6f9-6202-c65d-d7a8575207e6",
+			"title": "LEGO Ravenclaw Uniform",
+			"description": "As the Ravenclaw house motto goes:  “Wit beyond measure is man’s greatest treasure.”  We think fashion sense runs a close second.  Be stylishly witty in this smart Ravenclaw house uniform.  Blue and grey go with everything. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 23
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-c6f9-6202-c65d-d7a8575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-c6f9-6202-c65d-d7a8575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-3ac9-f292-ce03-0a69575207e6",
+			"title": "LEGO Slytherin Uniform",
+			"description": "Proud of your ambition and cunning?  No aversion to reptiles?  Big fan of Severus Snape?  The Slytherin house uniform with green and grey accents will be a perfect fit. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-3ac9-f292-ce03-0a69575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-3ac9-f292-ce03-0a69575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-c750-4241-c918-f1f1575207e6",
+			"title": "LEGO Slytherin Uniform",
+			"description": "Proud of your ambition and cunning?  No aversion to reptiles?  Big fan of Severus Snape?  The Slytherin house uniform with green and grey accents will be a perfect fit. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 170
+				}
+			},
+			"originalReleaseDate": "/Date(1277110800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-c750-4241-c918-f1f1575207e6/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-c750-4241-c918-f1f1575207e6",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

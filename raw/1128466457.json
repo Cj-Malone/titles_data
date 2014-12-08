@@ -1,1668 +1,1668 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d80243430819",
-    "title": "RESIDENT EVIL 6",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The bioterrorism nightmare is more chilling than ever, as outbreaks in America, eastern Europe, and China threaten to plunge the world into chaos. Multiple heroes will rise to meet the threat of this new viral outbreak. As their fates intertwine, the story races forward to its conclusion. Experience the very best of dramatic horror with Resident Evil 6!",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        }
-    ],
-    "publisher": "CAPCOM CO., LTD.",
-    "studio": "CAPCOM CO., LTD.",
-    "originalReleaseDate": "/Date(1349136000000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Nudity",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            },
-            {
-                "label": "Suggestive Themes",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
-        "http://download.xbox.com/content/43430819/4th_ESRB.asx"
-    ],
-    "gameManual": "http://download.xbox.com/content/43430819/RE6_360_DMNL_EN.pdf",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg5.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/RESIDENT-EVIL-6/66acd000-77fe-1000-9115-d80243430819",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 58764
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameVideo",
-        "GameAddon",
-        "GamerPic",
-        "Theme",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430819/Children",
-    "childDownloads": [
-        {
-            "id": "e491934b-a878-4f80-a598-1ea8fe348bd0",
-            "title": "『RESIDENT EVIL 6』 1st Trailer",
-            "description": "Taking place in 2013, more than a decade after the events in Raccoon City, a global bioterror scenario is revealed. The story unfolds on a previously unseen scale, providing an immersive gaming experience that elicits fear, excitement, and exuberance.  The dramatic action is now more realistic and harrowing than ever. Be sure to check out the ultimate in horror entertainment!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 10886
-                }
-            },
-            "originalReleaseDate": "/Date(1327276800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80243430819",
+	"title": "RESIDENT EVIL 6",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  The bioterrorism nightmare is more chilling than ever, as outbreaks in America, eastern Europe, and China threaten to plunge the world into chaos. Multiple heroes will rise to meet the threat of this new viral outbreak. As their fates intertwine, the story races forward to its conclusion. Experience the very best of dramatic horror with Resident Evil 6!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "CAPCOM CO., LTD.",
+	"studio": "CAPCOM CO., LTD.",
+	"originalReleaseDate": "/Date(1349136000000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Nudity",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/43430819/4th_ESRB.asx"
+	],
+	"gameManual": "http://download.xbox.com/content/43430819/RE6_360_DMNL_EN.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/RESIDENT-EVIL-6/66acd000-77fe-1000-9115-d80243430819",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 58764
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430819/Children",
+	"childDownloads": [
+		{
+			"id": "e491934b-a878-4f80-a598-1ea8fe348bd0",
+			"title": "『RESIDENT EVIL 6』 1st Trailer",
+			"description": "Taking place in 2013, more than a decade after the events in Raccoon City, a global bioterror scenario is revealed. The story unfolds on a previously unseen scale, providing an immersive gaming experience that elicits fear, excitement, and exuberance.  The dramatic action is now more realistic and harrowing than ever. Be sure to check out the ultimate in horror entertainment!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 10886
+				}
+			},
+			"originalReleaseDate": "/Date(1327276800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/e491934b-a878-4f80-a598-1ea8fe348bd0",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "e5735542-cff6-4095-a35e-5f0e8e0c2853",
-            "title": "RESIDENT EVIL 6 2nd Trailer",
-            "description": "Resident Evil 6 is the hotly anticipated new instalment in the main Resident Evil series.   The second trailer reveals part of the mystery behind Jake, one of the game's main characters.  It is 2013 and the fight against global bioterrorism is heating up. Against this backdrop unfolds an intricate story of fear, excitement and emotion on an unprecedented scale.  More terrifying, more realistic and more dramatic than ever: the ultimate in horror entertainment.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 1832
-                }
-            },
-            "originalReleaseDate": "/Date(1334070000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e491934b-a878-4f80-a598-1ea8fe348bd0",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e5735542-cff6-4095-a35e-5f0e8e0c2853",
+			"title": "RESIDENT EVIL 6 2nd Trailer",
+			"description": "Resident Evil 6 is the hotly anticipated new instalment in the main Resident Evil series.   The second trailer reveals part of the mystery behind Jake, one of the game's main characters.  It is 2013 and the fight against global bioterrorism is heating up. Against this backdrop unfolds an intricate story of fear, excitement and emotion on an unprecedented scale.  More terrifying, more realistic and more dramatic than ever: the ultimate in horror entertainment.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 1832
+				}
+			},
+			"originalReleaseDate": "/Date(1334070000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/e5735542-cff6-4095-a35e-5f0e8e0c2853",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "e771f08d-2731-4a0c-bcd6-5b48e1f08624",
-            "title": "Additional 3-Mode Pack",
-            "description": "This bundle pack will add three of the extra content modes to Resident Evil 6 - Onslaught, Survivors, and Predator. Access these additional modes from Extra Content under Play Game in the menu.  (Purchase of the pack means you do not have to buy these modes individually.)  For more information on these modes, check out the on-line manual at http://game.capcom.com/manual/bio6/ja/agegate.html.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 672
-                }
-            },
-            "originalReleaseDate": "/Date(1355821200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e5735542-cff6-4095-a35e-5f0e8e0c2853",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e771f08d-2731-4a0c-bcd6-5b48e1f08624",
+			"title": "Additional 3-Mode Pack",
+			"description": "This bundle pack will add three of the extra content modes to Resident Evil 6 - Onslaught, Survivors, and Predator. Access these additional modes from Extra Content under Play Game in the menu.  (Purchase of the pack means you do not have to buy these modes individually.)  For more information on these modes, check out the on-line manual at http://game.capcom.com/manual/bio6/ja/agegate.html.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 672
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/e771f08d-2731-4a0c-bcd6-5b48e1f08624/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/e771f08d-2731-4a0c-bcd6-5b48e1f08624",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$8.99",
-                "silverPrice": "$8.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 8.99,
-                    "display": "$8.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "5b2d18ad-5afe-4952-b2fc-5d87d8b8bbd9",
-            "title": "RESIDENT EVIL 6 3rd Trailer",
-            "description": "More horrifying, more visceral and more dramatic than ever before, Resident Evil 6 is the ultimate in horror entertainment.  Under the threat of a global bioterrorism attack, our heroes battle Neo Umbrella in a story on an unprecedented scale, fear and emotion.  The third trailer uncovers the secrets tormenting Helena and the involvement of the sinister Neo Umbrella organisation as well as more information on the mysterious new character, Jake. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 793
-                }
-            },
-            "originalReleaseDate": "/Date(1338832800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e771f08d-2731-4a0c-bcd6-5b48e1f08624/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e771f08d-2731-4a0c-bcd6-5b48e1f08624",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$8.99",
+				"silverPrice": "$8.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 8.99,
+					"display": "$8.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5b2d18ad-5afe-4952-b2fc-5d87d8b8bbd9",
+			"title": "RESIDENT EVIL 6 3rd Trailer",
+			"description": "More horrifying, more visceral and more dramatic than ever before, Resident Evil 6 is the ultimate in horror entertainment.  Under the threat of a global bioterrorism attack, our heroes battle Neo Umbrella in a story on an unprecedented scale, fear and emotion.  The third trailer uncovers the secrets tormenting Helena and the involvement of the sinister Neo Umbrella organisation as well as more information on the mysterious new character, Jake. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 793
+				}
+			},
+			"originalReleaseDate": "/Date(1338832800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/5b2d18ad-5afe-4952-b2fc-5d87d8b8bbd9",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-8146-62d2-cadd-953443430819",
-            "title": "Ada Outfit",
-            "description": "Get the look of Ada Wong!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-8146-62d2-cadd-953443430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-8146-62d2-cadd-953443430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "0000077c-dbd8-2212-c02a-419d43430819",
-            "title": "Ada Wong's China Dress",
-            "description": "A good disguise is a spy's best friend--slip into Ada's sleek china dress costume, and you'll be dressed to kill.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/0000077c-dbd8-2212-c02a-419d43430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/0000077c-dbd8-2212-c02a-419d43430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-53f2-12a1-c142-fdba43430819",
-            "title": "BSAA Squad Member Costume",
-            "description": "Suit up and get ready to fight some B.O.W.s in this BSAA squad member costume!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 10
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-53f2-12a1-c142-fdba43430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-53f2-12a1-c142-fdba43430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000bb8-e0e1-c241-ce76-570443430819",
-            "title": "Chris' Eastern European Uniform",
-            "description": "Field tested and combat ready, this is the costume that Chris wore during his stint in eastern Europe!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000bb8-e0e1-c241-ce76-570443430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000bb8-e0e1-c241-ce76-570443430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "448702ae-684d-4b5e-9545-82b343ee2f86",
-            "title": "Chris Redfield Gameplay Movie",
-            "description": "The highly virulent C-virus that has been unleashed on an unsuspecting and unprepared world, creating new and deadly transformations. Initially sent into Lanshiang to deal with this unprecedented bioterrorist attack, Chris Redfield and fellow BSAA member Piers Nivans soon realise that this is not an isolated incident . Entering a seemingly empty meat market, they  find it is far from deserted.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 162
-                }
-            },
-            "originalReleaseDate": "/Date(1348822800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5b2d18ad-5afe-4952-b2fc-5d87d8b8bbd9",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-8146-62d2-cadd-953443430819",
+			"title": "Ada Outfit",
+			"description": "Get the look of Ada Wong!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-8146-62d2-cadd-953443430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-8146-62d2-cadd-953443430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000077c-dbd8-2212-c02a-419d43430819",
+			"title": "Ada Wong's China Dress",
+			"description": "A good disguise is a spy's best friend--slip into Ada's sleek china dress costume, and you'll be dressed to kill.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000077c-dbd8-2212-c02a-419d43430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/0000077c-dbd8-2212-c02a-419d43430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-53f2-12a1-c142-fdba43430819",
+			"title": "BSAA Squad Member Costume",
+			"description": "Suit up and get ready to fight some B.O.W.s in this BSAA squad member costume!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-53f2-12a1-c142-fdba43430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-53f2-12a1-c142-fdba43430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000bb8-e0e1-c241-ce76-570443430819",
+			"title": "Chris' Eastern European Uniform",
+			"description": "Field tested and combat ready, this is the costume that Chris wore during his stint in eastern Europe!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000bb8-e0e1-c241-ce76-570443430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000bb8-e0e1-c241-ce76-570443430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "448702ae-684d-4b5e-9545-82b343ee2f86",
+			"title": "Chris Redfield Gameplay Movie",
+			"description": "The highly virulent C-virus that has been unleashed on an unsuspecting and unprepared world, creating new and deadly transformations. Initially sent into Lanshiang to deal with this unprecedented bioterrorist attack, Chris Redfield and fellow BSAA member Piers Nivans soon realise that this is not an isolated incident . Entering a seemingly empty meat market, they  find it is far from deserted.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 162
+				}
+			},
+			"originalReleaseDate": "/Date(1348822800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/448702ae-684d-4b5e-9545-82b343ee2f86",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-4125-8203-c974-fe6343430819",
-            "title": "Chrysalid",
-            "description": "Discover what horrible secret the chrysalid holds! Recreated from Resident Evil 6 for your avatar!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-4125-8203-c974-fe6343430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-4125-8203-c974-fe6343430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "a7c5e089-8d8c-4909-8982-41eee270fc0d",
-            "title": "French Voice Pack",
-            "description": "Install the French voice pack for Resident Evil 6. Change your console's settings to French to enjoy the game's voices in French. Note: French subtitles are available without having to install the French voice pack.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 85
-                }
-            },
-            "originalReleaseDate": "/Date(1355994000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/448702ae-684d-4b5e-9545-82b343ee2f86",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-4125-8203-c974-fe6343430819",
+			"title": "Chrysalid",
+			"description": "Discover what horrible secret the chrysalid holds! Recreated from Resident Evil 6 for your avatar!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-4125-8203-c974-fe6343430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-4125-8203-c974-fe6343430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a7c5e089-8d8c-4909-8982-41eee270fc0d",
+			"title": "French Voice Pack",
+			"description": "Install the French voice pack for Resident Evil 6. Change your console's settings to French to enjoy the game's voices in French. Note: French subtitles are available without having to install the French voice pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 85
+				}
+			},
+			"originalReleaseDate": "/Date(1355994000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/a7c5e089-8d8c-4909-8982-41eee270fc0d/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/a7c5e089-8d8c-4909-8982-41eee270fc0d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "0e6c7147-5cc6-4a8b-bcb5-8bad55956514",
-            "title": "German Voice Pack",
-            "description": "Install the German voice pack for Resident Evil 6. Change your console's settings to German to enjoy the game's voices in German. Note: German subtitles are available without having to install the German voice pack.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 97
-                }
-            },
-            "originalReleaseDate": "/Date(1355994000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a7c5e089-8d8c-4909-8982-41eee270fc0d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a7c5e089-8d8c-4909-8982-41eee270fc0d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0e6c7147-5cc6-4a8b-bcb5-8bad55956514",
+			"title": "German Voice Pack",
+			"description": "Install the German voice pack for Resident Evil 6. Change your console's settings to German to enjoy the game's voices in German. Note: German subtitles are available without having to install the German voice pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 97
+				}
+			},
+			"originalReleaseDate": "/Date(1355994000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/0e6c7147-5cc6-4a8b-bcb5-8bad55956514/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/0e6c7147-5cc6-4a8b-bcb5-8bad55956514",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-1641-d2f3-caca-470243430819",
-            "title": "Green Herb Pot ",
-            "description": "Essential. Pick it up!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 50
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-1641-d2f3-caca-470243430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-1641-d2f3-caca-470243430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "000008b8-f8d9-6272-c0df-d33343430819",
-            "title": "Helena Harper's Asia Outfit",
-            "description": "Rugged yet clean, Helena made fighting bioterror look good in this outfit she wore in Asia.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/000008b8-f8d9-6272-c0df-d33343430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/000008b8-f8d9-6272-c0df-d33343430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "d0d9de85-ceca-4554-a6ba-ac1838718c0e",
-            "title": "Additional Stage - High Seas Fortress",
-            "description": "This will add the High Seas Fortress stage to The Mercenaries in Resident Evil 6. A large stage that goes from the deck of the aircraft carrier to the internal hangar. Sharp shooting skills will be necessary in the wide open spaces, while physical combat skills will become important in confined spaces.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 477
-                }
-            },
-            "originalReleaseDate": "/Date(1351587600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0e6c7147-5cc6-4a8b-bcb5-8bad55956514/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0e6c7147-5cc6-4a8b-bcb5-8bad55956514",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-1641-d2f3-caca-470243430819",
+			"title": "Green Herb Pot ",
+			"description": "Essential. Pick it up!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-1641-d2f3-caca-470243430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-1641-d2f3-caca-470243430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "000008b8-f8d9-6272-c0df-d33343430819",
+			"title": "Helena Harper's Asia Outfit",
+			"description": "Rugged yet clean, Helena made fighting bioterror look good in this outfit she wore in Asia.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/000008b8-f8d9-6272-c0df-d33343430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/000008b8-f8d9-6272-c0df-d33343430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d0d9de85-ceca-4554-a6ba-ac1838718c0e",
+			"title": "Additional Stage - High Seas Fortress",
+			"description": "This will add the High Seas Fortress stage to The Mercenaries in Resident Evil 6. A large stage that goes from the deck of the aircraft carrier to the internal hangar. Sharp shooting skills will be necessary in the wide open spaces, while physical combat skills will become important in confined spaces.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 477
+				}
+			},
+			"originalReleaseDate": "/Date(1351587600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/d0d9de85-ceca-4554-a6ba-ac1838718c0e/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/d0d9de85-ceca-4554-a6ba-ac1838718c0e",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f167eb56-0021-418e-ae90-051eeb7adca9",
-            "title": "Italian Voice Pack",
-            "description": "Install the Italian voice pack for Resident Evil 6. Change your console's settings to Italian to enjoy the game's voices in Italian. Note: Italian subtitles are available without having to install the Italian voice pack.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 83
-                }
-            },
-            "originalReleaseDate": "/Date(1355994000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d0d9de85-ceca-4554-a6ba-ac1838718c0e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d0d9de85-ceca-4554-a6ba-ac1838718c0e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f167eb56-0021-418e-ae90-051eeb7adca9",
+			"title": "Italian Voice Pack",
+			"description": "Install the Italian voice pack for Resident Evil 6. Change your console's settings to Italian to enjoy the game's voices in Italian. Note: Italian subtitles are available without having to install the Italian voice pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 83
+				}
+			},
+			"originalReleaseDate": "/Date(1355994000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/f167eb56-0021-418e-ae90-051eeb7adca9/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/f167eb56-0021-418e-ae90-051eeb7adca9",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000208-5c4a-3222-c3d4-50e743430819",
-            "title": "Ivy University Hooded Sweatshirt",
-            "description": "Popular amongst the Ivy University students",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000208-5c4a-3222-c3d4-50e743430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000208-5c4a-3222-c3d4-50e743430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000208-a048-3281-c2b6-f48b43430819",
-            "title": "Ivy University Hooded Sweatshirt",
-            "description": "Popular amongst the Ivy University students",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 20
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000208-a048-3281-c2b6-f48b43430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000208-a048-3281-c2b6-f48b43430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f001d995-d313-4bc2-b5f8-a4a0144ec49b",
-            "title": "Jake Muller Gameplay Movie",
-            "description": "The highly virulent C-virus that has been unleashed on an unsuspecting and unprepared world, creating new and deadly transformations. Jake Muller is a wanted man and together with Sherry Birkin the two must escape the clutches of those who realise just how valuable his special blood line is. Hunted down and backed into a small cabin in the snow covered mountains, they fight for their lives.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 157
-                }
-            },
-            "originalReleaseDate": "/Date(1348822800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f167eb56-0021-418e-ae90-051eeb7adca9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f167eb56-0021-418e-ae90-051eeb7adca9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-5c4a-3222-c3d4-50e743430819",
+			"title": "Ivy University Hooded Sweatshirt",
+			"description": "Popular amongst the Ivy University students",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-5c4a-3222-c3d4-50e743430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-5c4a-3222-c3d4-50e743430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-a048-3281-c2b6-f48b43430819",
+			"title": "Ivy University Hooded Sweatshirt",
+			"description": "Popular amongst the Ivy University students",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-a048-3281-c2b6-f48b43430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-a048-3281-c2b6-f48b43430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f001d995-d313-4bc2-b5f8-a4a0144ec49b",
+			"title": "Jake Muller Gameplay Movie",
+			"description": "The highly virulent C-virus that has been unleashed on an unsuspecting and unprepared world, creating new and deadly transformations. Jake Muller is a wanted man and together with Sherry Birkin the two must escape the clutches of those who realise just how valuable his special blood line is. Hunted down and backed into a small cabin in the snow covered mountains, they fight for their lives.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 157
+				}
+			},
+			"originalReleaseDate": "/Date(1348822800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/f001d995-d313-4bc2-b5f8-a4a0144ec49b",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "000008b8-f8b2-2221-c7c9-cdc643430819",
-            "title": "Jake Muller's Asia Outfit",
-            "description": "Style matters, even on the lam. Slip into the threads Jake wore in Asia, and make your escape!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/000008b8-f8b2-2221-c7c9-cdc643430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/000008b8-f8b2-2221-c7c9-cdc643430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000030-954e-a2f1-c426-5e9343430819",
-            "title": "Jake's pants&boots",
-            "description": "Jake Muller's awesome military style pants ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 30
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000030-954e-a2f1-c426-5e9343430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000030-954e-a2f1-c426-5e9343430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000a88-9e41-4251-c5ea-551a43430819",
-            "title": "Jake's Top ",
-            "description": "Jake Muller's cool camo jacket",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 28
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000a88-9e41-4251-c5ea-551a43430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000a88-9e41-4251-c5ea-551a43430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-4d52-82b3-c47e-5b9743430819",
-            "title": "J'avo",
-            "description": "The nightmarish J'avo from Resident Evil 6, now available for your avatar!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-4d52-82b3-c47e-5b9743430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-4d52-82b3-c47e-5b9743430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f9ad00de-61ea-4048-945a-25c0713d9cba",
-            "title": "RESIDENT EVIL 6 Launch Trailer",
-            "description": "On the 2nd October the world’s only hope lies in the hands of  Resident Evil 6's seven main heroes.  As their stories intertwine, they reveal the true terror facing humanity.  Will their efforts be enough to save the world from a global bioterrorism attack on an unprecedented scale?  More dramatic, more realistic and more terrifying than ever, the ultimate in horror entertainment is here.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 188
-                }
-            },
-            "originalReleaseDate": "/Date(1348585200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f001d995-d313-4bc2-b5f8-a4a0144ec49b",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "000008b8-f8b2-2221-c7c9-cdc643430819",
+			"title": "Jake Muller's Asia Outfit",
+			"description": "Style matters, even on the lam. Slip into the threads Jake wore in Asia, and make your escape!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/000008b8-f8b2-2221-c7c9-cdc643430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/000008b8-f8b2-2221-c7c9-cdc643430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000030-954e-a2f1-c426-5e9343430819",
+			"title": "Jake's pants&boots",
+			"description": "Jake Muller's awesome military style pants ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000030-954e-a2f1-c426-5e9343430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000030-954e-a2f1-c426-5e9343430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000a88-9e41-4251-c5ea-551a43430819",
+			"title": "Jake's Top ",
+			"description": "Jake Muller's cool camo jacket",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 28
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000a88-9e41-4251-c5ea-551a43430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000a88-9e41-4251-c5ea-551a43430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-4d52-82b3-c47e-5b9743430819",
+			"title": "J'avo",
+			"description": "The nightmarish J'avo from Resident Evil 6, now available for your avatar!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-4d52-82b3-c47e-5b9743430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-4d52-82b3-c47e-5b9743430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f9ad00de-61ea-4048-945a-25c0713d9cba",
+			"title": "RESIDENT EVIL 6 Launch Trailer",
+			"description": "On the 2nd October the world’s only hope lies in the hands of  Resident Evil 6's seven main heroes.  As their stories intertwine, they reveal the true terror facing humanity.  Will their efforts be enough to save the world from a global bioterrorism attack on an unprecedented scale?  More dramatic, more realistic and more terrifying than ever, the ultimate in horror entertainment is here.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 188
+				}
+			},
+			"originalReleaseDate": "/Date(1348585200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/f9ad00de-61ea-4048-945a-25c0713d9cba",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000238-214c-72b1-ce26-1e2643430819",
-            "title": "Leon Full Costume",
-            "description": "Get the look of Leon Kennedy!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 81
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000238-214c-72b1-ce26-1e2643430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000238-214c-72b1-ce26-1e2643430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "107687a5-6ce3-437f-a41a-ef7cc3030a49",
-            "title": "Leon S. Kennedy Gameplay Movie",
-            "description": "The highly virulent C-virus that has been unleashed on an unsuspecting and unprepared world, creating new and deadly transformations. Leon S. Kennedy ,paired with US government agent Helena Harper investigate and uncover the evidence that will lead them to the truth behind this bioterrorist outbreak. After fighting their way out of Tall Oaks University, the pair faces unimaginable horrors in a zombie plagued underground railway system.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 194
-                }
-            },
-            "originalReleaseDate": "/Date(1348822800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f9ad00de-61ea-4048-945a-25c0713d9cba",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-214c-72b1-ce26-1e2643430819",
+			"title": "Leon Full Costume",
+			"description": "Get the look of Leon Kennedy!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 81
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-214c-72b1-ce26-1e2643430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-214c-72b1-ce26-1e2643430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "107687a5-6ce3-437f-a41a-ef7cc3030a49",
+			"title": "Leon S. Kennedy Gameplay Movie",
+			"description": "The highly virulent C-virus that has been unleashed on an unsuspecting and unprepared world, creating new and deadly transformations. Leon S. Kennedy ,paired with US government agent Helena Harper investigate and uncover the evidence that will lead them to the truth behind this bioterrorist outbreak. After fighting their way out of Tall Oaks University, the pair faces unimaginable horrors in a zombie plagued underground railway system.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 194
+				}
+			},
+			"originalReleaseDate": "/Date(1348822800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/107687a5-6ce3-437f-a41a-ef7cc3030a49",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-7059-a291-c686-21c243430819",
-            "title": "Leon Kennedy's Asia Outfit",
-            "description": "Dress cool to stay cool, even under fire, in this stylish outfit worn by Leon Kennedy in Asia.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-7059-a291-c686-21c243430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-7059-a291-c686-21c243430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-da42-4283-cd54-470f43430819",
-            "title": "Lepotitsa Pet",
-            "description": "Why would you not want a horrid zombiefying gas emitting creature as a pet?",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 40
-                }
-            },
-            "originalReleaseDate": "/Date(1349168400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-da42-4283-cd54-470f43430819/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-da42-4283-cd54-470f43430819",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b6eb799d-a90b-44af-bd54-28dec65f6487",
-            "title": "Map Pack Bundle",
-            "description": "The stages Requiem for War, Liquid Fire, Rooftop Mission, Creature Workshop, Rail Yard, High Seas Fortress, and The Catacombs will be added to the Extra Content menu in Resident Evil 6.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 217
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430819/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/107687a5-6ce3-437f-a41a-ef7cc3030a49",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-7059-a291-c686-21c243430819",
+			"title": "Leon Kennedy's Asia Outfit",
+			"description": "Dress cool to stay cool, even under fire, in this stylish outfit worn by Leon Kennedy in Asia.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-7059-a291-c686-21c243430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-7059-a291-c686-21c243430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-da42-4283-cd54-470f43430819",
+			"title": "Lepotitsa Pet",
+			"description": "Why would you not want a horrid zombiefying gas emitting creature as a pet?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 40
+				}
+			},
+			"originalReleaseDate": "/Date(1349168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-da42-4283-cd54-470f43430819/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-da42-4283-cd54-470f43430819",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b6eb799d-a90b-44af-bd54-28dec65f6487",
+			"title": "Map Pack Bundle",
+			"description": "The stages Requiem for War, Liquid Fire, Rooftop Mission, Creature Workshop, Rail Yard, High Seas Fortress, and The Catacombs will be added to the Extra Content menu in Resident Evil 6.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 217
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/b6eb799d-a90b-44af-bd54-28dec65f6487/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b6eb799d-a90b-44af-bd54-28dec65f6487",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "ba9ba12c-2d65-4cbf-b208-d3f3cb0c2a56",
-            "title": "Onslaught Game Mode",
-            "description": "Adds the Onslaught game mode to the Extra Content menu in Resident Evil 6! In this one-on-one version of The Mercenaries, rack up combo points to send hordes of creatures your opponent's way!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 157
-                }
-            },
-            "originalReleaseDate": "/Date(1355821200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b6eb799d-a90b-44af-bd54-28dec65f6487/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b6eb799d-a90b-44af-bd54-28dec65f6487",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ba9ba12c-2d65-4cbf-b208-d3f3cb0c2a56",
+			"title": "Onslaught Game Mode",
+			"description": "Adds the Onslaught game mode to the Extra Content menu in Resident Evil 6! In this one-on-one version of The Mercenaries, rack up combo points to send hordes of creatures your opponent's way!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 157
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Nudity",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/ba9ba12c-2d65-4cbf-b208-d3f3cb0c2a56/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/ba9ba12c-2d65-4cbf-b208-d3f3cb0c2a56",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ba9ba12c-2d65-4cbf-b208-d3f3cb0c2a56/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ba9ba12c-2d65-4cbf-b208-d3f3cb0c2a56",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

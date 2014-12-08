@@ -1,243 +1,243 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802415607dc",
-    "title": "Alaskan Adventures",
-    "image": null,
-    "backgroundImage": null,
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English.  Get your Cabela's gear and head to Alaska for the hunting and fishing thrill.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        },
-        {
-            "label": "Sports & Recreation"
-        }
-    ],
-    "publisher": "Activision",
-    "studio": "Fun Labs",
-    "originalReleaseDate": "/Date(1158624000000)/",
-    "contentRating": {
-        "label": "T (Teen)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-        "age": 13,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Blood",
-                "image": null
-            },
-            {
-                "label": "Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802415607dc",
+	"title": "Alaskan Adventures",
+	"image": null,
+	"backgroundImage": null,
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English.  Get your Cabela's gear and head to Alaska for the hunting and fishing thrill.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Activision",
+	"studio": "Fun Labs",
+	"originalReleaseDate": "/Date(1158624000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
 
-        ]
-    },
-    "trailers": [
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
+	],
+	"gameManual": null,
+	"screenshots": [
 
-    ],
-    "detailsUrl": "/en-US/Product/Alaskan-Adventures/66acd000-77fe-1000-9115-d802415607dc",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 3.75,
-            "Count": 11117
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameAddon",
-        "GamerPic"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607dc/Children",
-    "childDownloads": [
-        {
-            "id": "66acd000-77fe-1000-9115-d802415607dc",
-            "title": "Alaskan Adventures",
-            "description": "The Games on Demand version supports English.  Get your Cabela's gear and head to Alaska for the hunting and fishing thrill.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 11118
-                }
-            },
-            "originalReleaseDate": "/Date(1287478800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"detailsUrl": "/en-US/Product/Alaskan-Adventures/66acd000-77fe-1000-9115-d802415607dc",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 11117
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon",
+		"GamerPic"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607dc/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802415607dc",
+			"title": "Alaskan Adventures",
+			"description": "The Games on Demand version supports English.  Get your Cabela's gear and head to Alaska for the hunting and fishing thrill.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 11118
+				}
+			},
+			"originalReleaseDate": "/Date(1287478800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameAddon",
-                "GamerPic"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Sports & Recreation"
-                }
-            ],
-            "image": null,
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607dc",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80c0-0000415607dc",
-            "title": "Alaskan Bonus Pack 1",
-            "description": "Includes two firearms, a Mountain Man clothing set and Super Med Kit that can be used in the game. And a new animal too! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 223
-                }
-            },
-            "originalReleaseDate": "/Date(1160038800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon",
+				"GamerPic"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": null,
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607dc",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80c0-0000415607dc",
+			"title": "Alaskan Bonus Pack 1",
+			"description": "Includes two firearms, a Mountain Man clothing set and Super Med Kit that can be used in the game. And a new animal too! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 223
+				}
+			},
+			"originalReleaseDate": "/Date(1160038800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Sports & Recreation"
-                }
-            ],
-            "image": null,
-            "url": "/en-US/X8/Game/00000000-0000-400c-80c0-0000415607dc",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.25",
-                "silverPrice": "$1.25"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.25,
-                    "display": "$1.25",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4002-8020-0000415607dc",
-            "title": "Cabela's Alaskan Adventure Picture Pack",
-            "description": "A nice selection of real Alaskan game animals to use as your gamer picture. Show everyone that you are a true outdoorsman!There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 166
-                }
-            },
-            "originalReleaseDate": "/Date(1160038800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Sports & Recreation"
-                }
-            ],
-            "image": null,
-            "url": "/en-US/X8/Game/00000000-0000-4002-8020-0000415607dc",
-            "downloadTypeClass": "GamerPic",
-            "downloadTypeText": "GamerPic",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.88",
-                "silverPrice": "$1.88"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.88,
-                    "display": "$1.88",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": null,
+			"url": "/en-US/X8/Game/00000000-0000-400c-80c0-0000415607dc",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-8020-0000415607dc",
+			"title": "Cabela's Alaskan Adventure Picture Pack",
+			"description": "A nice selection of real Alaskan game animals to use as your gamer picture. Show everyone that you are a true outdoorsman!There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 166
+				}
+			},
+			"originalReleaseDate": "/Date(1160038800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": null,
+			"url": "/en-US/X8/Game/00000000-0000-4002-8020-0000415607dc",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.88",
+				"silverPrice": "$1.88"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.88,
+					"display": "$1.88",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

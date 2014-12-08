@@ -1,556 +1,556 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d8025345085c",
-    "title": "BINARY DOMAIN",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Binary Domain puts you in the middle of a fast paced and intense battle for humanity in robot-invaded 2080 Tokyo. Work with your team, think on your feet and give the machines an unexpected ending. Be human, be unpredictable.  ",
-    "genres": [
-        {
-            "label": "Shooter"
-        }
-    ],
-    "publisher": "SEGA",
-    "studio": "SEGA",
-    "originalReleaseDate": "/Date(1330387200000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            },
-            {
-                "label": "Suggestive Themes",
-                "image": null
-            }
-        ],
-        "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025345085c",
+	"title": "BINARY DOMAIN",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Binary Domain puts you in the middle of a fast paced and intense battle for humanity in robot-invaded 2080 Tokyo. Work with your team, think on your feet and give the machines an unexpected ending. Be human, be unpredictable.  ",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "SEGA",
+	"studio": "SEGA",
+	"originalReleaseDate": "/Date(1330387200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
 
-        ]
-    },
-    "trailers": [
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://download.xbox.com/content/5345085c/BD_360_US_GonD.pdf",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg7.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/BINARY-DOMAIN/66acd000-77fe-1000-9115-d8025345085c",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4,
-            "Count": 5598
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025345085c/Children",
-    "childDownloads": [
-        {
-            "id": "812074b1-0b38-4949-9a81-4c3f469c70e8",
-            "title": "Bigger than you think!",
-            "description": "Binary Domain is bigger than you think, watch this trailer for a taste of the emotion and drama from the game. As hollow children are becoming more and more common across the world, join the Rust Crew as Dan Marshall to fight your way passed Japan's robotic defences through the varying environments of 2080 Tokyo and help discover who is at the heart of the issue and bring them to justice.  Where does the machine end and humanity begin?",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 195
-                }
-            },
-            "originalReleaseDate": "/Date(1328086800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": "http://download.xbox.com/content/5345085c/BD_360_US_GonD.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/BINARY-DOMAIN/66acd000-77fe-1000-9115-d8025345085c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 5598
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025345085c/Children",
+	"childDownloads": [
+		{
+			"id": "812074b1-0b38-4949-9a81-4c3f469c70e8",
+			"title": "Bigger than you think!",
+			"description": "Binary Domain is bigger than you think, watch this trailer for a taste of the emotion and drama from the game. As hollow children are becoming more and more common across the world, join the Rust Crew as Dan Marshall to fight your way passed Japan's robotic defences through the varying environments of 2080 Tokyo and help discover who is at the heart of the issue and bring them to justice.  Where does the machine end and humanity begin?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 195
+				}
+			},
+			"originalReleaseDate": "/Date(1328086800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/812074b1-0b38-4949-9a81-4c3f469c70e8",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d8025345085c",
-            "title": "BINARY DOMAIN",
-            "description": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Binary Domain puts you in the middle of a fast paced and intense battle for humanity in robot-invaded 2080 Tokyo. Work with your team, think on your feet and give the machines an unexpected ending. Be human, be unpredictable.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 5598
-                }
-            },
-            "originalReleaseDate": "/Date(1363078800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/812074b1-0b38-4949-9a81-4c3f469c70e8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025345085c",
+			"title": "BINARY DOMAIN",
+			"description": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Binary Domain puts you in the middle of a fast paced and intense battle for humanity in robot-invaded 2080 Tokyo. Work with your team, think on your feet and give the machines an unexpected ending. Be human, be unpredictable.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 5598
+				}
+			},
+			"originalReleaseDate": "/Date(1363078800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "GameVideo",
-                "GameAddon"
-            ],
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025345085c",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b5492983-4fdf-4b29-804d-aa10bb01a44a",
-            "title": "Binary Domain - Story Trailer",
-            "description": "Tokyo, 2080. The city is beginning to question what makes them human as the technological advances are beginning to blur the line between man and machine. You need to work together with the RUST crew, build trust with them and work to establish where humanity ends and machines begin.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 168
-                }
-            },
-            "originalReleaseDate": "/Date(1328518800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025345085c",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b5492983-4fdf-4b29-804d-aa10bb01a44a",
+			"title": "Binary Domain - Story Trailer",
+			"description": "Tokyo, 2080. The city is beginning to question what makes them human as the technological advances are beginning to blur the line between man and machine. You need to work together with the RUST crew, build trust with them and work to establish where humanity ends and machines begin.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 168
+				}
+			},
+			"originalReleaseDate": "/Date(1328518800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b5492983-4fdf-4b29-804d-aa10bb01a44a",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "49fe740d-edcd-434a-83df-0c352e5b5b19",
-            "title": "Dan Marshall Pack",
-            "description": "This pack includes a brand new weapon and skills for Sergeant Dan Marshall to enhance the single player experience making him more resilient, stronger and faster in combat action",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 105
-                }
-            },
-            "originalReleaseDate": "/Date(1335862800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b5492983-4fdf-4b29-804d-aa10bb01a44a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "49fe740d-edcd-434a-83df-0c352e5b5b19",
+			"title": "Dan Marshall Pack",
+			"description": "This pack includes a brand new weapon and skills for Sergeant Dan Marshall to enhance the single player experience making him more resilient, stronger and faster in combat action",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 105
+				}
+			},
+			"originalReleaseDate": "/Date(1335862800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/49fe740d-edcd-434a-83df-0c352e5b5b19/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/49fe740d-edcd-434a-83df-0c352e5b5b19",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802393387d1",
-            "title": "Binary Domain Demo",
-            "description": "Download the demo today to have the chance to play Binary Domain. As the lines start to blur between man and machine, you must enter into 2080 Tokyo, fight your way through their robotic defences and find who is creating highly advanced humanoids that are beginning to infiltrate society undetected. The machine age has begun...",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 6440
-                }
-            },
-            "originalReleaseDate": "/Date(1329901200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/49fe740d-edcd-434a-83df-0c352e5b5b19/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/49fe740d-edcd-434a-83df-0c352e5b5b19",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802393387d1",
+			"title": "Binary Domain Demo",
+			"description": "Download the demo today to have the chance to play Binary Domain. As the lines start to blur between man and machine, you must enter into 2080 Tokyo, fight your way through their robotic defences and find who is creating highly advanced humanoids that are beginning to infiltrate society undetected. The machine age has begun...",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 6440
+				}
+			},
+			"originalReleaseDate": "/Date(1329901200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d1/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802393387d1",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2d4b9a3e-9085-4da2-b35a-de8fea816d7e",
-            "title": "Multiplayer Trailer",
-            "description": "As well as featuring a rich story and detailed characters, Binary Domain also comes complete with a wide variety of exciting multiplayer modes. Watch this trailer for an introduction to the Government and Resistance forces and to see these modes in action across a wide variety of maps from both the upper and lower cities of 2080 Tokyo.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 173
-                }
-            },
-            "originalReleaseDate": "/Date(1328691600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802393387d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802393387d1",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2d4b9a3e-9085-4da2-b35a-de8fea816d7e",
+			"title": "Multiplayer Trailer",
+			"description": "As well as featuring a rich story and detailed characters, Binary Domain also comes complete with a wide variety of exciting multiplayer modes. Watch this trailer for an introduction to the Government and Resistance forces and to see these modes in action across a wide variety of maps from both the upper and lower cities of 2080 Tokyo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 173
+				}
+			},
+			"originalReleaseDate": "/Date(1328691600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/2d4b9a3e-9085-4da2-b35a-de8fea816d7e",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "11efb1f3-db92-4f97-b95a-a48f1dfe47d8",
-            "title": "The Multiplayer pack",
-            "description": "The ‘Multiplayer Pack’ gives access to an exclusive multiplayer map, ‘Outside High-rise, Upper City’ which can be played across a variety of Binary Domain’s multiplayer modes. In addition a new playable class is also unlocked, the ‘Ninja’ is offered for both teams; this unique playable character type is perfect for surprise attacks and adapting combat style to the situation. Finally this unique pre-order pack also contains two exclusive multiplayer weapon types the ‘Hoga Type 69’ Sniper Rifle for long range annihilation of enemies and the ‘Yamato-0’ Handgun, for more up close and personal work.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 57
-                }
-            },
-            "originalReleaseDate": "/Date(1335862800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345085c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2d4b9a3e-9085-4da2-b35a-de8fea816d7e",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "11efb1f3-db92-4f97-b95a-a48f1dfe47d8",
+			"title": "The Multiplayer pack",
+			"description": "The ‘Multiplayer Pack’ gives access to an exclusive multiplayer map, ‘Outside High-rise, Upper City’ which can be played across a variety of Binary Domain’s multiplayer modes. In addition a new playable class is also unlocked, the ‘Ninja’ is offered for both teams; this unique playable character type is perfect for surprise attacks and adapting combat style to the situation. Finally this unique pre-order pack also contains two exclusive multiplayer weapon types the ‘Hoga Type 69’ Sniper Rifle for long range annihilation of enemies and the ‘Yamato-0’ Handgun, for more up close and personal work.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 57
+				}
+			},
+			"originalReleaseDate": "/Date(1335862800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/11efb1f3-db92-4f97-b95a-a48f1dfe47d8/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/11efb1f3-db92-4f97-b95a-a48f1dfe47d8",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/11efb1f3-db92-4f97-b95a-a48f1dfe47d8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/11efb1f3-db92-4f97-b95a-a48f1dfe47d8",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

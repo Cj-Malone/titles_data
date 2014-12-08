@@ -1,192 +1,192 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802575207d7",
-    "title": "LEGO Batman",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". In LEGO® Batman™ : The Videogame, play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City. Then, jump into the story from the other side and play as Batman’s foes! There is no rest for the good (or the evil)! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        },
-        {
-            "label": "Family"
-        }
-    ],
-    "publisher": "WARNER BROS INTERACTIVE",
-    "studio": "Traveller's Tales (UK), Ltd.",
-    "originalReleaseDate": "/Date(1276041600000)/",
-    "contentRating": {
-        "label": "E10 (Everyone 10+)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-        "age": 10,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Animated Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802575207d7",
+	"title": "LEGO Batman",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". In LEGO® Batman™ : The Videogame, play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City. Then, jump into the story from the other side and play as Batman’s foes! There is no rest for the good (or the evil)! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Family"
+		}
+	],
+	"publisher": "WARNER BROS INTERACTIVE",
+	"studio": "Traveller's Tales (UK), Ltd.",
+	"originalReleaseDate": "/Date(1276041600000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Animated Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
 
-        ]
-    },
-    "trailers": [
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://download.xbox.com/content/575207d7/e8b7c191-9e8d-4614-9939-796fe2d2a650.PDF",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg5.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/LEGO-Batman/66acd000-77fe-1000-9115-d802575207d7",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4,
-            "Count": 50572
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d7/Children",
-    "childDownloads": [
-        {
-            "id": "66acd000-77fe-1000-9115-d802575207d7",
-            "title": "LEGO Batman",
-            "description": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". In LEGO® Batman™ : The Videogame, play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City. Then, jump into the story from the other side and play as Batman’s foes! There is no rest for the good (or the evil)! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 50572
-                }
-            },
-            "originalReleaseDate": "/Date(1276592400000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Animated Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": "http://download.xbox.com/content/575207d7/e8b7c191-9e8d-4614-9939-796fe2d2a650.PDF",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/LEGO-Batman/66acd000-77fe-1000-9115-d802575207d7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 50572
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d7/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802575207d7",
+			"title": "LEGO Batman",
+			"description": "(Online Interactions Not Rated by the ESRB) This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". In LEGO® Batman™ : The Videogame, play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City. Then, jump into the story from the other side and play as Batman’s foes! There is no rest for the good (or the evil)! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 50572
+				}
+			},
+			"originalReleaseDate": "/Date(1276592400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d7",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400d-80df-0001575287db",
-            "title": "LEGO Batman: The Videogame Demo",
-            "description": "Download the demo! Fight the mayhem as superheroes Batman and Robin, or spread anarchy as one of the city’s many supervillians…all in LEGO form.  Build and use new gadgets and weapons and take control of classic Batman vehicles as you battle your way through Gotham!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 2698
-                }
-            },
-            "originalReleaseDate": "/Date(1226394000000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Animated Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d7",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400d-80df-0001575287db",
+			"title": "LEGO Batman: The Videogame Demo",
+			"description": "Download the demo! Fight the mayhem as superheroes Batman and Robin, or spread anarchy as one of the city’s many supervillians…all in LEGO form.  Build and use new gadgets and weapons and take control of classic Batman vehicles as you battle your way through Gotham!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 2698
+				}
+			},
+			"originalReleaseDate": "/Date(1226394000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Family"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001575287db/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400d-80df-0001575287db",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001575287db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400d-80df-0001575287db",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

@@ -1,595 +1,595 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d8024d4a07f0",
-    "title": "Zumba Fitness Core",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  (Online Interactions Not Rated by the ESRB)    Dance your Way to Flat, Sexy Abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors   •Set fitness goals, take 45 different classes and customize your workouts   •Party with a friend in two player mode  ",
-    "genres": [
-        {
-            "label": "Music"
-        },
-        {
-            "label": "Kinect"
-        }
-    ],
-    "publisher": "Majesco Entertainment",
-    "studio": "Zoe Mode",
-    "originalReleaseDate": "/Date(1350345600000)/",
-    "contentRating": {
-        "label": "E10 (Everyone 10+)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-        "age": 10,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Mild Lyrics",
-                "image": null
-            },
-            {
-                "label": "Mild Suggestive Themes",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d4a07f0",
+	"title": "Zumba Fitness Core",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  (Online Interactions Not Rated by the ESRB)	Dance your Way to Flat, Sexy Abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors   •Set fitness goals, take 45 different classes and customize your workouts   •Party with a friend in two player mode  ",
+	"genres": [
+		{
+			"label": "Music"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Majesco Entertainment",
+	"studio": "Zoe Mode",
+	"originalReleaseDate": "/Date(1350345600000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Lyrics",
+				"image": null
+			},
+			{
+				"label": "Mild Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://download.xbox.com/content/4d4a07f0/Zumba%20Core%20Kinect%20Manual%20ENG.pdf",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg7.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Zumba-Fitness-Core/66acd000-77fe-1000-9115-d8024d4a07f0",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 3.5,
-            "Count": 1446
-        }
-    },
-    "price": {
-        "goldPrice": "$29.99",
-        "silverPrice": "$29.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 29.99,
-            "display": "$29.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a07f0/Children",
-    "childDownloads": [
-        {
-            "id": "00000010-94ee-92a2-ccfc-f6bb4d4a07f0",
-            "title": "Zumba Electric Leggings",
-            "description": "Download this avatar item.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1349427600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000010-94ee-92a2-ccfc-f6bb4d4a07f0/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000010-94ee-92a2-ccfc-f6bb4d4a07f0",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d8024d4a07f0",
-            "title": "Zumba Fitness Core",
-            "description": "The Games on Demand version supports English.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  (Online Interactions Not Rated by the ESRB)    Dance your Way to Flat, Sexy Abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors   •Set fitness goals, take 45 different classes and customize your workouts   •Party with a friend in two player mode  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 1446
-                }
-            },
-            "originalReleaseDate": "/Date(1361869200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Lyrics",
-                        "image": null
-                    },
-                    {
-                        "label": "Mild Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "GameVideo",
-                "AvatarItem"
-            ],
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a07f0",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$29.99",
-                "silverPrice": "$29.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 29.99,
-                    "display": "$29.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d8024d4a87f2",
-            "title": "Zumba Fitness Core Demo",
-            "description": "Dance your Way to Flat, Sexy Abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors   •Set fitness goals, take 45 different classes and customize your workouts   •Party with a friend in two player mode  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3,
-                    "Count": 667
-                }
-            },
-            "originalReleaseDate": "/Date(1347526800000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Lyrics",
-                        "image": null
-                    },
-                    {
-                        "label": "Mild Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": "http://download.xbox.com/content/4d4a07f0/Zumba%20Core%20Kinect%20Manual%20ENG.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Zumba-Fitness-Core/66acd000-77fe-1000-9115-d8024d4a07f0",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1446
+		}
+	},
+	"price": {
+		"goldPrice": "$29.99",
+		"silverPrice": "$29.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 29.99,
+			"display": "$29.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a07f0/Children",
+	"childDownloads": [
+		{
+			"id": "00000010-94ee-92a2-ccfc-f6bb4d4a07f0",
+			"title": "Zumba Electric Leggings",
+			"description": "Download this avatar item.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1349427600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000010-94ee-92a2-ccfc-f6bb4d4a07f0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000010-94ee-92a2-ccfc-f6bb4d4a07f0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8024d4a07f0",
+			"title": "Zumba Fitness Core",
+			"description": "The Games on Demand version supports English.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  (Online Interactions Not Rated by the ESRB)	Dance your Way to Flat, Sexy Abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors   •Set fitness goals, take 45 different classes and customize your workouts   •Party with a friend in two player mode  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1446
+				}
+			},
+			"originalReleaseDate": "/Date(1361869200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a07f0",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$29.99",
+				"silverPrice": "$29.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 29.99,
+					"display": "$29.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8024d4a87f2",
+			"title": "Zumba Fitness Core Demo",
+			"description": "Dance your Way to Flat, Sexy Abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors   •Set fitness goals, take 45 different classes and customize your workouts   •Party with a friend in two player mode  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 667
+				}
+			},
+			"originalReleaseDate": "/Date(1347526800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f2/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a87f2",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "90b2a2b1-cae7-4865-b4b3-81c816932f78",
-            "title": "Zumba Fitness Core Gameplay Trailer",
-            "description": "Dance your way to flat, sexy abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors  •Set fitness goals, take 45 different classes and customize your workouts  •Party with a friend in two player mode  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 99
-                }
-            },
-            "originalReleaseDate": "/Date(1345194000000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Lyrics",
-                        "image": null
-                    },
-                    {
-                        "label": "Mild Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a87f2",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "90b2a2b1-cae7-4865-b4b3-81c816932f78",
+			"title": "Zumba Fitness Core Gameplay Trailer",
+			"description": "Dance your way to flat, sexy abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energized dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors  •Set fitness goals, take 45 different classes and customize your workouts  •Party with a friend in two player mode  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 99
+				}
+			},
+			"originalReleaseDate": "/Date(1345194000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/90b2a2b1-cae7-4865-b4b3-81c816932f78",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "eb6bc20e-6c5a-476e-9aed-509239e7a572",
-            "title": "Zumba Fitness Core Instructor Heroes Trailer",
-            "description": "Meet the five extraordinary Zumba instructor heroes featured as in-game avatars in Zumba Fitness Core.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 46
-                }
-            },
-            "originalReleaseDate": "/Date(1353661200000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Lyrics",
-                        "image": null
-                    },
-                    {
-                        "label": "Mild Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/90b2a2b1-cae7-4865-b4b3-81c816932f78",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "eb6bc20e-6c5a-476e-9aed-509239e7a572",
+			"title": "Zumba Fitness Core Instructor Heroes Trailer",
+			"description": "Meet the five extraordinary Zumba instructor heroes featured as in-game avatars in Zumba Fitness Core.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1353661200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/eb6bc20e-6c5a-476e-9aed-509239e7a572",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "43f5d246-cf8e-4858-9aaf-0478708aadad",
-            "title": "Zumba Fitness Core Launch Trailer",
-            "description": "Dance your way to flat, sexy abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energizing dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors  •Set fitness goals, take 45 different classes and customize your workouts  •Party with a friend in two player mode  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 24
-                }
-            },
-            "originalReleaseDate": "/Date(1350896400000)/",
-            "contentRating": {
-                "label": "E10 (Everyone 10+)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
-                "age": 10,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Mild Lyrics",
-                        "image": null
-                    },
-                    {
-                        "label": "Mild Suggestive Themes",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/eb6bc20e-6c5a-476e-9aed-509239e7a572",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "43f5d246-cf8e-4858-9aaf-0478708aadad",
+			"title": "Zumba Fitness Core Launch Trailer",
+			"description": "Dance your way to flat, sexy abs! Skip the crunches and strengthen your core with the only game designed to sculpt your abs through an exhilarating total-body workout. This energizing dance-fitness experience features 40 hot tracks and over 30 dance styles so you can party your abs off without ever getting down on the floor!   •Dance with 6 celebrity Zumba® instructors  •Set fitness goals, take 45 different classes and customize your workouts  •Party with a friend in two player mode  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 24
+				}
+			},
+			"originalReleaseDate": "/Date(1350896400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/43f5d246-cf8e-4858-9aaf-0478708aadad",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000038-171d-3202-cdaa-3c094d4a07f0",
-            "title": "Zumba Lighten Up Outfit",
-            "description": "Download this avatar item.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1349427600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000038-171d-3202-cdaa-3c094d4a07f0/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000038-171d-3202-cdaa-3c094d4a07f0",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000038-7560-3252-c5c1-f1ef4d4a07f0",
-            "title": "Zumba Party in Pink™ Outfit",
-            "description": "Download this avatar item.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1348563600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000038-7560-3252-c5c1-f1ef4d4a07f0/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000038-7560-3252-c5c1-f1ef4d4a07f0",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-5b11-f2f2-ca42-d5014d4a07f0",
-            "title": "Zumba Rock Your Core V-Bra Top",
-            "description": "Download this avatar item.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1349427600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-5b11-f2f2-ca42-d5014d4a07f0/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-5b11-f2f2-ca42-d5014d4a07f0",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-7604-12e1-c301-82394d4a07f0",
-            "title": "Zumba Team Spirit Jersey",
-            "description": "Download this avatar item.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1348563600000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Music"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-7604-12e1-c301-82394d4a07f0/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-7604-12e1-c301-82394d4a07f0",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07f0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/43f5d246-cf8e-4858-9aaf-0478708aadad",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000038-171d-3202-cdaa-3c094d4a07f0",
+			"title": "Zumba Lighten Up Outfit",
+			"description": "Download this avatar item.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1349427600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000038-171d-3202-cdaa-3c094d4a07f0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000038-171d-3202-cdaa-3c094d4a07f0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000038-7560-3252-c5c1-f1ef4d4a07f0",
+			"title": "Zumba Party in Pink™ Outfit",
+			"description": "Download this avatar item.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1348563600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000038-7560-3252-c5c1-f1ef4d4a07f0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000038-7560-3252-c5c1-f1ef4d4a07f0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5b11-f2f2-ca42-d5014d4a07f0",
+			"title": "Zumba Rock Your Core V-Bra Top",
+			"description": "Download this avatar item.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1349427600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5b11-f2f2-ca42-d5014d4a07f0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5b11-f2f2-ca42-d5014d4a07f0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-7604-12e1-c301-82394d4a07f0",
+			"title": "Zumba Team Spirit Jersey",
+			"description": "Download this avatar item.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1348563600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-7604-12e1-c301-82394d4a07f0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-7604-12e1-c301-82394d4a07f0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

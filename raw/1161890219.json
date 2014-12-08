@@ -1,1295 +1,1295 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802454109ab",
-    "title": "Army of TWO™ The Devil’s Cartel",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  The originator of tactical co-op is back! Developed by Visceral Games, the award-winning creators of Dead Space™, Army of TWO™ The Devil’s Cartel delivers an immersive and unique 3rd-person co-op action-shooter that’s built on the new Frostbite 2 engine for maximum destruction. You and your partner must shoot and destroy anything in your path to take down a violent drug cartel that’s taken over Mexico. In gripping partner-based missions, each player must tackle and overcome individual objectives to achieve a common goal. The more effective your teamwork, the greater the reward as the new Overkill mode gives you devastating power for truly epic mass destruction! Experience this explosive action-blockbuster campaign in two-player local split-screen or online co-op!",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        },
-        {
-            "label": "Shooter"
-        }
-    ],
-    "publisher": "Electronic Arts",
-    "studio": "Visceral",
-    "originalReleaseDate": "/Date(1362096000000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Drug Reference",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
-        "http://download.xbox.com/content/454109ab/Ao2TDC%20ESRB.asx"
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg6.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Army-of-TWO-The-Devils-Cartel/66acd000-77fe-1000-9115-d802454109ab",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 9320
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109ab/Children",
-    "childDownloads": [
-        {
-            "id": "8654ab18-4ba7-4984-917d-4ae732d2463f",
-            "title": "Action Blockbuster Trailer",
-            "description": "In the heat of a vicious war, Alpha & Bravo are all that remain to stand against the cartel. Bullets will fly, buildings will crumble, and a new mysterious enemy will emerge! It's double or nothing!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 38
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802454109ab",
+	"title": "Army of TWO™ The Devil’s Cartel",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  The originator of tactical co-op is back! Developed by Visceral Games, the award-winning creators of Dead Space™, Army of TWO™ The Devil’s Cartel delivers an immersive and unique 3rd-person co-op action-shooter that’s built on the new Frostbite 2 engine for maximum destruction. You and your partner must shoot and destroy anything in your path to take down a violent drug cartel that’s taken over Mexico. In gripping partner-based missions, each player must tackle and overcome individual objectives to achieve a common goal. The more effective your teamwork, the greater the reward as the new Overkill mode gives you devastating power for truly epic mass destruction! Experience this explosive action-blockbuster campaign in two-player local split-screen or online co-op!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Electronic Arts",
+	"studio": "Visceral",
+	"originalReleaseDate": "/Date(1362096000000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Drug Reference",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/454109ab/Ao2TDC%20ESRB.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Army-of-TWO-The-Devils-Cartel/66acd000-77fe-1000-9115-d802454109ab",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 9320
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109ab/Children",
+	"childDownloads": [
+		{
+			"id": "8654ab18-4ba7-4984-917d-4ae732d2463f",
+			"title": "Action Blockbuster Trailer",
+			"description": "In the heat of a vicious war, Alpha & Bravo are all that remain to stand against the cartel. Bullets will fly, buildings will crumble, and a new mysterious enemy will emerge! It's double or nothing!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/8654ab18-4ba7-4984-917d-4ae732d2463f",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-c87d-12d3-c777-1812454109ab",
-            "title": "Alpha Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 5,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-c87d-12d3-c777-1812454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-c87d-12d3-c777-1812454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "d6281a95-8d34-4f88-8bf0-5df6f5fb04bc",
-            "title": "ARMY OF TWO™  THE DEVIL'S CARTEL OVERKILL TRAILER",
-            "description": "Become an instrument of mass destruction in Army of Two The Devil’s Cartel. As a member of one of the world’s most elite private military companies, you and your partner will be armed to unleash colossal amounts of destruction. As you lay waste to the enemy, you’ll build up Overkill, an ability that briefly makes you an invincible engine of absolute destruction. Walls, barriers, and buildings bow to the explosive power of your weapons.Trigger Overkill and blast the truck into the dust… taking your enemies with it!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 61
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8654ab18-4ba7-4984-917d-4ae732d2463f",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-c87d-12d3-c777-1812454109ab",
+			"title": "Alpha Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 5,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-c87d-12d3-c777-1812454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-c87d-12d3-c777-1812454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d6281a95-8d34-4f88-8bf0-5df6f5fb04bc",
+			"title": "ARMY OF TWO™  THE DEVIL'S CARTEL OVERKILL TRAILER",
+			"description": "Become an instrument of mass destruction in Army of Two The Devil’s Cartel. As a member of one of the world’s most elite private military companies, you and your partner will be armed to unleash colossal amounts of destruction. As you lay waste to the enemy, you’ll build up Overkill, an ability that briefly makes you an invincible engine of absolute destruction. Walls, barriers, and buildings bow to the explosive power of your weapons.Trigger Overkill and blast the truck into the dust… taking your enemies with it!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 61
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/d6281a95-8d34-4f88-8bf0-5df6f5fb04bc",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000208-e7fa-2221-c58c-eead454109ab",
-            "title": "Army of TWO Hoodie",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000208-e7fa-2221-c58c-eead454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000208-e7fa-2221-c58c-eead454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000208-151f-62e2-ced7-ffb9454109ab",
-            "title": "Army of TWO Hoodie",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000208-151f-62e2-ced7-ffb9454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000208-151f-62e2-ced7-ffb9454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802454189b0",
-            "title": "Army of TWO™ The Devil’s Cartel   ",
-            "description": "Pure co-op is back! Army of TWO™ The Devil’s Cartel delivers a fun, over-the-top co-op experience. Activate the new Overkill mode to unleash explosive destruction on a lethal Mexican drug cartel. Experience the full action-blockbuster campaign in local split-screen or online co-op!   ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 4074
-                }
-            },
-            "originalReleaseDate": "/Date(1363683600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189b0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454189b0",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802454109ab",
-            "title": "Army of TWO™ The Devil’s Cartel",
-            "description": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  The originator of tactical co-op is back! Developed by Visceral Games, the award-winning creators of Dead Space™, Army of TWO™ The Devil’s Cartel delivers an immersive and unique 3rd-person co-op action-shooter that’s built on the new Frostbite 2 engine for maximum destruction. You and your partner must shoot and destroy anything in your path to take down a violent drug cartel that’s taken over Mexico. In gripping partner-based missions, each player must tackle and overcome individual objectives to achieve a common goal. The more effective your teamwork, the greater the reward as the new Overkill mode gives you devastating power for truly epic mass destruction! Experience this explosive action-blockbuster campaign in two-player local split-screen or online co-op!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 9320
-                }
-            },
-            "originalReleaseDate": "/Date(1372150800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "GameVideo",
-                "GameAddon",
-                "AvatarItem"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109ab",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "dc117594-922c-4ea4-97f3-c74c3e9e8fc4",
-            "title": "Army of TWO™ The Devil’s Cartel- Announce Trailer ",
-            "description": "Check out the Army of TWO™ The Devil’s Cartel official announce trailer featuring music from BoB- \"Play for Keeps.\"  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 307
-                }
-            },
-            "originalReleaseDate": "/Date(1350032400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d6281a95-8d34-4f88-8bf0-5df6f5fb04bc",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-e7fa-2221-c58c-eead454109ab",
+			"title": "Army of TWO Hoodie",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-e7fa-2221-c58c-eead454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-e7fa-2221-c58c-eead454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-151f-62e2-ced7-ffb9454109ab",
+			"title": "Army of TWO Hoodie",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-151f-62e2-ced7-ffb9454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-151f-62e2-ced7-ffb9454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802454189b0",
+			"title": "Army of TWO™ The Devil’s Cartel   ",
+			"description": "Pure co-op is back! Army of TWO™ The Devil’s Cartel delivers a fun, over-the-top co-op experience. Activate the new Overkill mode to unleash explosive destruction on a lethal Mexican drug cartel. Experience the full action-blockbuster campaign in local split-screen or online co-op!   ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 4074
+				}
+			},
+			"originalReleaseDate": "/Date(1363683600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454189b0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454189b0",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802454109ab",
+			"title": "Army of TWO™ The Devil’s Cartel",
+			"description": "The Games on Demand version supports English, French, Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  The originator of tactical co-op is back! Developed by Visceral Games, the award-winning creators of Dead Space™, Army of TWO™ The Devil’s Cartel delivers an immersive and unique 3rd-person co-op action-shooter that’s built on the new Frostbite 2 engine for maximum destruction. You and your partner must shoot and destroy anything in your path to take down a violent drug cartel that’s taken over Mexico. In gripping partner-based missions, each player must tackle and overcome individual objectives to achieve a common goal. The more effective your teamwork, the greater the reward as the new Overkill mode gives you devastating power for truly epic mass destruction! Experience this explosive action-blockbuster campaign in two-player local split-screen or online co-op!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 9320
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109ab",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "dc117594-922c-4ea4-97f3-c74c3e9e8fc4",
+			"title": "Army of TWO™ The Devil’s Cartel- Announce Trailer ",
+			"description": "Check out the Army of TWO™ The Devil’s Cartel official announce trailer featuring music from BoB- \"Play for Keeps.\"  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 307
+				}
+			},
+			"originalReleaseDate": "/Date(1350032400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/dc117594-922c-4ea4-97f3-c74c3e9e8fc4",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "54316e3e-e6fe-484c-b62e-2fd3f2cf8eaf",
-            "title": "Army of TWO™ The Devil’s Cartel HITMAKERS PACK ",
-            "description": "Music megastars Big Boi and B.o.B, join T.W.O as two new playable characters taking on a special contract.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 143
-                }
-            },
-            "originalReleaseDate": "/Date(1367312400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/dc117594-922c-4ea4-97f3-c74c3e9e8fc4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "54316e3e-e6fe-484c-b62e-2fd3f2cf8eaf",
+			"title": "Army of TWO™ The Devil’s Cartel HITMAKERS PACK ",
+			"description": "Music megastars Big Boi and B.o.B, join T.W.O as two new playable characters taking on a special contract.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 143
+				}
+			},
+			"originalReleaseDate": "/Date(1367312400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/54316e3e-e6fe-484c-b62e-2fd3f2cf8eaf/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/54316e3e-e6fe-484c-b62e-2fd3f2cf8eaf",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "8affad23-a56b-4e6e-9603-86c66bbea6aa",
-            "title": "Army of TWO™ The Devil’s Cartel ONLINE PASS (PAID)",
-            "description": "This is the paid version of Online Pass, which is required to play online co-op.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 2.75,
-                    "Count": 316
-                }
-            },
-            "originalReleaseDate": "/Date(1364288400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/54316e3e-e6fe-484c-b62e-2fd3f2cf8eaf/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/54316e3e-e6fe-484c-b62e-2fd3f2cf8eaf",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8affad23-a56b-4e6e-9603-86c66bbea6aa",
+			"title": "Army of TWO™ The Devil’s Cartel ONLINE PASS (PAID)",
+			"description": "This is the paid version of Online Pass, which is required to play online co-op.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 316
+				}
+			},
+			"originalReleaseDate": "/Date(1364288400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/8affad23-a56b-4e6e-9603-86c66bbea6aa/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/8affad23-a56b-4e6e-9603-86c66bbea6aa",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "6fb988f4-bd10-46e2-8541-a8b915f14071",
-            "title": "Army of TWO™ The Devil’s Cartel OVERKILLERS PACK",
-            "description": "Take on new co-op contracts with extra weapons and masks! Content is included with new copies of Overkill Edition.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 130
-                }
-            },
-            "originalReleaseDate": "/Date(1367312400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Drug Reference",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8affad23-a56b-4e6e-9603-86c66bbea6aa/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8affad23-a56b-4e6e-9603-86c66bbea6aa",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6fb988f4-bd10-46e2-8541-a8b915f14071",
+			"title": "Army of TWO™ The Devil’s Cartel OVERKILLERS PACK",
+			"description": "Take on new co-op contracts with extra weapons and masks! Content is included with new copies of Overkill Edition.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 130
+				}
+			},
+			"originalReleaseDate": "/Date(1367312400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/6fb988f4-bd10-46e2-8541-a8b915f14071/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/6fb988f4-bd10-46e2-8541-a8b915f14071",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$6.99",
-                "silverPrice": "$6.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 6.99,
-                    "display": "$6.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-004f-c233-c65d-d189454109ab",
-            "title": "BigBoi Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 11
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-004f-c233-c65d-d189454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-004f-c233-c65d-d189454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-c806-d233-cef5-92a9454109ab",
-            "title": "BoB Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 11
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-c806-d233-cef5-92a9454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-c806-d233-cef5-92a9454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-f7b8-32b3-c1fb-be0a454109ab",
-            "title": "Bravo Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 14
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-f7b8-32b3-c1fb-be0a454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-f7b8-32b3-c1fb-be0a454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-e5a6-92b3-c268-8566454109ab",
-            "title": "Brawler",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-e5a6-92b3-c268-8566454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-e5a6-92b3-c268-8566454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-4f0f-b2d3-ccf5-7b28454109ab",
-            "title": "Day of the Dead Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-4f0f-b2d3-ccf5-7b28454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-4f0f-b2d3-ccf5-7b28454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-e8aa-b2c3-c33a-3786454109ab",
-            "title": "Rios Executive Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-e8aa-b2c3-c33a-3786454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-e8aa-b2c3-c33a-3786454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-adbf-b213-cd6c-bff8454109ab",
-            "title": "Skull Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-adbf-b213-cd6c-bff8454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-adbf-b213-cd6c-bff8454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-e469-0293-ccda-c949454109ab",
-            "title": "Skullcandy Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 21
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-e469-0293-ccda-c949454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-e469-0293-ccda-c949454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-f3b8-9282-c8c0-f012454109ab",
-            "title": "Skullcandy Outfit",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-f3b8-9282-c8c0-f012454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-f3b8-9282-c8c0-f012454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-5945-32a1-cbcd-524d454109ab",
-            "title": "Skullcandy Outfit",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 32
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-5945-32a1-cbcd-524d454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-5945-32a1-cbcd-524d454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-cc6c-82a3-cad4-b1fe454109ab",
-            "title": "Veteran Mask",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 12
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-cc6c-82a3-cad4-b1fe454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-cc6c-82a3-cad4-b1fe454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-a5a4-0221-ccfd-92ef454109ab",
-            "title": "X-Ray Outfit",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-a5a4-0221-ccfd-92ef454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-a5a4-0221-ccfd-92ef454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-cc2f-32f2-ca19-06fe454109ab",
-            "title": "X-Ray Outfit",
-            "description": "Download this Avatar item now!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1362474000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-cc2f-32f2-ca19-06fe454109ab/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-cc2f-32f2-ca19-06fe454109ab",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6fb988f4-bd10-46e2-8541-a8b915f14071/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6fb988f4-bd10-46e2-8541-a8b915f14071",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$6.99",
+				"silverPrice": "$6.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 6.99,
+					"display": "$6.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-004f-c233-c65d-d189454109ab",
+			"title": "BigBoi Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 11
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-004f-c233-c65d-d189454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-004f-c233-c65d-d189454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-c806-d233-cef5-92a9454109ab",
+			"title": "BoB Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 11
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-c806-d233-cef5-92a9454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-c806-d233-cef5-92a9454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-f7b8-32b3-c1fb-be0a454109ab",
+			"title": "Bravo Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-f7b8-32b3-c1fb-be0a454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-f7b8-32b3-c1fb-be0a454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-e5a6-92b3-c268-8566454109ab",
+			"title": "Brawler",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e5a6-92b3-c268-8566454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e5a6-92b3-c268-8566454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-4f0f-b2d3-ccf5-7b28454109ab",
+			"title": "Day of the Dead Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-4f0f-b2d3-ccf5-7b28454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-4f0f-b2d3-ccf5-7b28454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-e8aa-b2c3-c33a-3786454109ab",
+			"title": "Rios Executive Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-e8aa-b2c3-c33a-3786454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-e8aa-b2c3-c33a-3786454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-adbf-b213-cd6c-bff8454109ab",
+			"title": "Skull Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-adbf-b213-cd6c-bff8454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-adbf-b213-cd6c-bff8454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-e469-0293-ccda-c949454109ab",
+			"title": "Skullcandy Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-e469-0293-ccda-c949454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-e469-0293-ccda-c949454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-f3b8-9282-c8c0-f012454109ab",
+			"title": "Skullcandy Outfit",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-f3b8-9282-c8c0-f012454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-f3b8-9282-c8c0-f012454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-5945-32a1-cbcd-524d454109ab",
+			"title": "Skullcandy Outfit",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 32
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-5945-32a1-cbcd-524d454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-5945-32a1-cbcd-524d454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-cc6c-82a3-cad4-b1fe454109ab",
+			"title": "Veteran Mask",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-cc6c-82a3-cad4-b1fe454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-cc6c-82a3-cad4-b1fe454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-a5a4-0221-ccfd-92ef454109ab",
+			"title": "X-Ray Outfit",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-a5a4-0221-ccfd-92ef454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-a5a4-0221-ccfd-92ef454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-cc2f-32f2-ca19-06fe454109ab",
+			"title": "X-Ray Outfit",
+			"description": "Download this Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-cc2f-32f2-ca19-06fe454109ab/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-cc2f-32f2-ca19-06fe454109ab",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

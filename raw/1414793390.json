@@ -1,149 +1,149 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802545408ae",
-    "title": "XCOM®: Enemy Within",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian, Korean. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". XCOM®: Enemy Within is the standalone expansion to the 2012 Game of the Year award-winning strategy game XCOM: Enemy Unknown.  Enemy Within adds an incredible array of new abilities, upgrades and weapons to combat new enemy and alien threats. This expansion also introduces new maps and missions, new tactical and strategic gameplay, and new multiplayer content providing a fresh new gameplay experience.  XCOM: Enemy Within includes the Elite Soldier Pack, Slingshot, and Second Wave add-on content.",
-    "genres": [
-        {
-            "label": "Strategy & Simulation"
-        }
-    ],
-    "publisher": "2K",
-    "studio": "Firaxis Games",
-    "originalReleaseDate": "/Date(1384214400000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            },
-            {
-                "label": "Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802545408ae",
+	"title": "XCOM®: Enemy Within",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian, Korean. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". XCOM®: Enemy Within is the standalone expansion to the 2012 Game of the Year award-winning strategy game XCOM: Enemy Unknown.  Enemy Within adds an incredible array of new abilities, upgrades and weapons to combat new enemy and alien threats. This expansion also introduces new maps and missions, new tactical and strategic gameplay, and new multiplayer content providing a fresh new gameplay experience.  XCOM: Enemy Within includes the Elite Soldier Pack, Slingshot, and Second Wave add-on content.",
+	"genres": [
+		{
+			"label": "Strategy & Simulation"
+		}
+	],
+	"publisher": "2K",
+	"studio": "Firaxis Games",
+	"originalReleaseDate": "/Date(1384214400000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://download.xbox.com/content/545408ae/4/2KGMKT_XCOM_EW_360_MNL_BDY_v6.2_EXT_p3.pdf",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg10.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/XCOM-Enemy-Within/66acd000-77fe-1000-9115-d802545408ae",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.75,
-            "Count": 2878
-        }
-    },
-    "price": {
-        "goldPrice": "$39.99",
-        "silverPrice": "$39.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 39.99,
-            "display": "$39.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545408ae/Children",
-    "childDownloads": [
-        {
-            "id": "66acd000-77fe-1000-9115-d802545408ae",
-            "title": "XCOM®: Enemy Within",
-            "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian, Korean. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". XCOM®: Enemy Within is the standalone expansion to the 2012 Game of the Year award-winning strategy game XCOM: Enemy Unknown.  Enemy Within adds an incredible array of new abilities, upgrades and weapons to combat new enemy and alien threats. This expansion also introduces new maps and missions, new tactical and strategic gameplay, and new multiplayer content providing a fresh new gameplay experience.  XCOM: Enemy Within includes the Elite Soldier Pack, Slingshot, and Second Wave add-on content.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.75,
-                    "Count": 2878
-                }
-            },
-            "originalReleaseDate": "/Date(1385110800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game"
-            ],
-            "genres": [
-                {
-                    "label": "Strategy & Simulation"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545408ae",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$39.99",
-                "silverPrice": "$39.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 39.99,
-                    "display": "$39.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+	],
+	"gameManual": "http://download.xbox.com/content/545408ae/4/2KGMKT_XCOM_EW_360_MNL_BDY_v6.2_EXT_p3.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/XCOM-Enemy-Within/66acd000-77fe-1000-9115-d802545408ae",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.75,
+			"Count": 2878
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545408ae/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802545408ae",
+			"title": "XCOM®: Enemy Within",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Russian, Korean. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". XCOM®: Enemy Within is the standalone expansion to the 2012 Game of the Year award-winning strategy game XCOM: Enemy Unknown.  Enemy Within adds an incredible array of new abilities, upgrades and weapons to combat new enemy and alien threats. This expansion also introduces new maps and missions, new tactical and strategic gameplay, and new multiplayer content providing a fresh new gameplay experience.  XCOM: Enemy Within includes the Elite Soldier Pack, Slingshot, and Second Wave add-on content.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 2878
+				}
+			},
+			"originalReleaseDate": "/Date(1385110800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408ae/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545408ae",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

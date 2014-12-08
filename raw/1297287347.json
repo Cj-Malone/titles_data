@@ -1,1410 +1,1410 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d8024d5308b3",
-    "title": "Kinectimals",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish, Potuguese, Russian, Korean, Chinese.  When you meet your Kinectimals™ cub for the first time, something magical happens. A friendship is immediately formed, and you quickly begin imagining all the wonderful places you’ll explore and the curious things you’ll discover together.  Kinectimals has five different exotic animals to choose from, each one of them more adorable than the next. Teach them commands, play with your animal and compete in contests. This is the beginning of a wonderful and lasting friendship.",
-    "genres": [
-        {
-            "label": "Family"
-        },
-        {
-            "label": "Kinect"
-        }
-    ],
-    "publisher": "Microsoft Game Studios",
-    "studio": "Frontier Developments Ltd.",
-    "originalReleaseDate": "/Date(1288828800000)/",
-    "contentRating": {
-        "label": "E (Everyone)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-        "age": 6,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d5308b3",
+	"title": "Kinectimals",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports  English, French, Italian, German, Spanish, Polish, Potuguese, Russian, Korean, Chinese.  When you meet your Kinectimals™ cub for the first time, something magical happens. A friendship is immediately formed, and you quickly begin imagining all the wonderful places you’ll explore and the curious things you’ll discover together.  Kinectimals has five different exotic animals to choose from, each one of them more adorable than the next. Teach them commands, play with your animal and compete in contests. This is the beginning of a wonderful and lasting friendship.",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Game Studios",
+	"studio": "Frontier Developments Ltd.",
+	"originalReleaseDate": "/Date(1288828800000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
 
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
-        "http://download.xbox.com/content/4d5308b3/Kinectimals.asx"
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg10.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg11.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg12.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg13.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg14.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg15.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg16.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg17.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg18.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg19.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg20.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Kinectimals/66acd000-77fe-1000-9115-d8024d5308b3",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 3.75,
-            "Count": 67177
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "Theme",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d5308b3/Children",
-    "childDownloads": [
-        {
-            "id": "00000ffc-c2cb-b251-c34f-1b884d5308b3",
-            "title": "African Leopard Suit ",
-            "description": "Become your Kinetimals cub with the leopard suit. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1288861200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-c2cb-b251-c34f-1b884d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-c2cb-b251-c34f-1b884d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-e148-12a2-c25c-c6ce4d5308b3",
-            "title": "African Leopard Suit ",
-            "description": "Unleash your inner leopard. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1288861200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-e148-12a2-c25c-c6ce4d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-e148-12a2-c25c-c6ce4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "70d7be1a-b6d6-4fda-af2d-4210a3808e81",
-            "title": "African Lion (Plush)",
-            "description": "Purchase this cub to unlock it in the game.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/4d5308b3/Kinectimals.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg14.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg15.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg16.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg17.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg18.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg19.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/screenlg20.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Kinectimals/66acd000-77fe-1000-9115-d8024d5308b3",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 67177
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d5308b3/Children",
+	"childDownloads": [
+		{
+			"id": "00000ffc-c2cb-b251-c34f-1b884d5308b3",
+			"title": "African Leopard Suit ",
+			"description": "Become your Kinetimals cub with the leopard suit. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-c2cb-b251-c34f-1b884d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-c2cb-b251-c34f-1b884d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-e148-12a2-c25c-c6ce4d5308b3",
+			"title": "African Leopard Suit ",
+			"description": "Unleash your inner leopard. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-e148-12a2-c25c-c6ce4d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-e148-12a2-c25c-c6ce4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "70d7be1a-b6d6-4fda-af2d-4210a3808e81",
+			"title": "African Lion (Plush)",
+			"description": "Purchase this cub to unlock it in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/70d7be1a-b6d6-4fda-af2d-4210a3808e81/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/70d7be1a-b6d6-4fda-af2d-4210a3808e81",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-120e-4233-c32d-7e0f4d5308b3",
-            "title": "African Lion (Plush) ",
-            "description": "A Kinectimals African lion will be very at home on Lemuria and with your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 14
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-120e-4233-c32d-7e0f4d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-120e-4233-c32d-7e0f4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-f13c-1281-c976-b71c4d5308b3",
-            "title": "African Lion Suit ",
-            "description": "Put on the lion suit if you want to be the Kinectimals King of the Jungle. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1288861200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-f13c-1281-c976-b71c4d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-f13c-1281-c976-b71c4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-4c4b-6272-cd56-a1b54d5308b3",
-            "title": "African Lion Suit ",
-            "description": "You can be the Kinectimals King of the Jungle with the lion suit. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1288861200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-4c4b-6272-cd56-a1b54d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-4c4b-6272-cd56-a1b54d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-7201-52c3-c35a-7e664d5308b3",
-            "title": "Amur Leopard ",
-            "description": "A Kinectimals Amur leopard can now be a companion for your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1328000400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-7201-52c3-c35a-7e664d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-7201-52c3-c35a-7e664d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-1010-a223-cd5a-555b4d5308b3",
-            "title": "Asiatic Cheetah ",
-            "description": "This way your avatar can play with your Kinectimals Asiatic cheetah.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 12
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-1010-a223-cd5a-555b4d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-1010-a223-cd5a-555b4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b5f67b40-a945-41aa-afe1-b2dd3f7bd0ee",
-            "title": "Asiatic Cheetah",
-            "description": "Purchase this cub to unlock it in the game.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 44
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/70d7be1a-b6d6-4fda-af2d-4210a3808e81/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/70d7be1a-b6d6-4fda-af2d-4210a3808e81",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-120e-4233-c32d-7e0f4d5308b3",
+			"title": "African Lion (Plush) ",
+			"description": "A Kinectimals African lion will be very at home on Lemuria and with your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-120e-4233-c32d-7e0f4d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-120e-4233-c32d-7e0f4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-f13c-1281-c976-b71c4d5308b3",
+			"title": "African Lion Suit ",
+			"description": "Put on the lion suit if you want to be the Kinectimals King of the Jungle. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-f13c-1281-c976-b71c4d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-f13c-1281-c976-b71c4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-4c4b-6272-cd56-a1b54d5308b3",
+			"title": "African Lion Suit ",
+			"description": "You can be the Kinectimals King of the Jungle with the lion suit. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-4c4b-6272-cd56-a1b54d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-4c4b-6272-cd56-a1b54d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-7201-52c3-c35a-7e664d5308b3",
+			"title": "Amur Leopard ",
+			"description": "A Kinectimals Amur leopard can now be a companion for your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1328000400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-7201-52c3-c35a-7e664d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-7201-52c3-c35a-7e664d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-1010-a223-cd5a-555b4d5308b3",
+			"title": "Asiatic Cheetah ",
+			"description": "This way your avatar can play with your Kinectimals Asiatic cheetah.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-1010-a223-cd5a-555b4d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-1010-a223-cd5a-555b4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b5f67b40-a945-41aa-afe1-b2dd3f7bd0ee",
+			"title": "Asiatic Cheetah",
+			"description": "Purchase this cub to unlock it in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 44
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/b5f67b40-a945-41aa-afe1-b2dd3f7bd0ee/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b5f67b40-a945-41aa-afe1-b2dd3f7bd0ee",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "6f660d00-cdcd-462f-a869-a8b2d5d88d28",
-            "title": "Asiatic Lion",
-            "description": "Purchase this cub to unlock it in the game.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b5f67b40-a945-41aa-afe1-b2dd3f7bd0ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b5f67b40-a945-41aa-afe1-b2dd3f7bd0ee",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6f660d00-cdcd-462f-a869-a8b2d5d88d28",
+			"title": "Asiatic Lion",
+			"description": "Purchase this cub to unlock it in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/6f660d00-cdcd-462f-a869-a8b2d5d88d28/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/6f660d00-cdcd-462f-a869-a8b2d5d88d28",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-79ac-f253-c192-9f434d5308b3",
-            "title": "Asiatic Lion ",
-            "description": "A Kinectimals Asiatic lion is one of the best companions your avatar could hope for. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 20
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-79ac-f253-c192-9f434d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-79ac-f253-c192-9f434d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-ce33-9243-ce29-53634d5308b3",
-            "title": "Black Bear ",
-            "description": "Adopt this adorable Black Bear companion. Your avatar will thank you! ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 18
-                }
-            },
-            "originalReleaseDate": "/Date(1318496400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-ce33-9243-ce29-53634d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-ce33-9243-ce29-53634d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-c716-72e3-c601-3cd84d5308b3",
-            "title": "Black Panther (Plush) ",
-            "description": "The coveted Kinectimals panther, and now your avatar can have one for a companion.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 48
-                }
-            },
-            "originalReleaseDate": "/Date(1328000400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-c716-72e3-c601-3cd84d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-c716-72e3-c601-3cd84d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-1a33-7203-caea-f4644d5308b3",
-            "title": "Bobcat (Plush) ",
-            "description": "This bobcat could be one fine friend for your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 14
-                }
-            },
-            "originalReleaseDate": "/Date(1328000400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-1a33-7203-caea-f4644d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-1a33-7203-caea-f4644d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "4c6d3c49-6cd5-4415-acbc-582e3b2f71b9",
-            "title": "Bornean Clouded Leopard (Plush)",
-            "description": "Purchase this cub to unlock it in the game.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 72
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6f660d00-cdcd-462f-a869-a8b2d5d88d28/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6f660d00-cdcd-462f-a869-a8b2d5d88d28",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-79ac-f253-c192-9f434d5308b3",
+			"title": "Asiatic Lion ",
+			"description": "A Kinectimals Asiatic lion is one of the best companions your avatar could hope for. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-79ac-f253-c192-9f434d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-79ac-f253-c192-9f434d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-ce33-9243-ce29-53634d5308b3",
+			"title": "Black Bear ",
+			"description": "Adopt this adorable Black Bear companion. Your avatar will thank you! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1318496400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-ce33-9243-ce29-53634d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-ce33-9243-ce29-53634d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-c716-72e3-c601-3cd84d5308b3",
+			"title": "Black Panther (Plush) ",
+			"description": "The coveted Kinectimals panther, and now your avatar can have one for a companion.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 48
+				}
+			},
+			"originalReleaseDate": "/Date(1328000400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-c716-72e3-c601-3cd84d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-c716-72e3-c601-3cd84d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-1a33-7203-caea-f4644d5308b3",
+			"title": "Bobcat (Plush) ",
+			"description": "This bobcat could be one fine friend for your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1328000400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-1a33-7203-caea-f4644d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-1a33-7203-caea-f4644d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4c6d3c49-6cd5-4415-acbc-582e3b2f71b9",
+			"title": "Bornean Clouded Leopard (Plush)",
+			"description": "Purchase this cub to unlock it in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 72
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/4c6d3c49-6cd5-4415-acbc-582e3b2f71b9/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4c6d3c49-6cd5-4415-acbc-582e3b2f71b9",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-e9af-12c3-c950-da574d5308b3",
-            "title": "Bornean Clouded Leopard (Plush)",
-            "description": "An avatar can do no better than romping with a Kinectimals Bornean clouded leopard. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 17
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-e9af-12c3-c950-da574d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-e9af-12c3-c950-da574d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-e722-b2f3-c1f5-e7484d5308b3",
-            "title": "Bumble ",
-            "description": "Let Bumble teach your avatar a thing or two. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 16
-                }
-            },
-            "originalReleaseDate": "/Date(1318496400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-e722-b2f3-c1f5-e7484d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-e722-b2f3-c1f5-e7484d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "ad80ac80-d7d0-4b9f-b6f4-e0e8286816c0",
-            "title": "Canadian Lynx",
-            "description": "Purchase this cub to unlock it in the game.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 163
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4c6d3c49-6cd5-4415-acbc-582e3b2f71b9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4c6d3c49-6cd5-4415-acbc-582e3b2f71b9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-e9af-12c3-c950-da574d5308b3",
+			"title": "Bornean Clouded Leopard (Plush)",
+			"description": "An avatar can do no better than romping with a Kinectimals Bornean clouded leopard. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e9af-12c3-c950-da574d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e9af-12c3-c950-da574d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-e722-b2f3-c1f5-e7484d5308b3",
+			"title": "Bumble ",
+			"description": "Let Bumble teach your avatar a thing or two. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1318496400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e722-b2f3-c1f5-e7484d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e722-b2f3-c1f5-e7484d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ad80ac80-d7d0-4b9f-b6f4-e0e8286816c0",
+			"title": "Canadian Lynx",
+			"description": "Purchase this cub to unlock it in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 163
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/ad80ac80-d7d0-4b9f-b6f4-e0e8286816c0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/ad80ac80-d7d0-4b9f-b6f4-e0e8286816c0",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-d03b-b2c3-c8b8-fff74d5308b3",
-            "title": "Canadian Lynx ",
-            "description": "Your avatar would enjoy having this Canadian lynx as a friend. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1309856400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-d03b-b2c3-c8b8-fff74d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-d03b-b2c3-c8b8-fff74d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-fe76-f283-c538-123e4d5308b3",
-            "title": "Cheetah (Plush) ",
-            "description": "Now your avatar can play with your Kinectimals cheetah. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 15
-                }
-            },
-            "originalReleaseDate": "/Date(1328000400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-fe76-f283-c538-123e4d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-fe76-f283-c538-123e4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-540a-d282-cb5c-b9c94d5308b3",
-            "title": "Cheetah Suit",
-            "description": "Romping around Lemuria as a Kinectimals cheetah is fun and exciting. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1288861200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-540a-d282-cb5c-b9c94d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-540a-d282-cb5c-b9c94d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-64ac-0281-cb0c-89dd4d5308b3",
-            "title": "Cheetah Suit ",
-            "description": "How about dressing up as a Kinectimals cheetah?  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1288861200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-64ac-0281-cb0c-89dd4d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-64ac-0281-cb0c-89dd4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.99",
-                "silverPrice": "$3.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.99,
-                    "display": "$3.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-6c8b-e2e3-c179-7e884d5308b3",
-            "title": "Cinnamon Bear  ",
-            "description": "Your avatar will love this Cinnamon Bear companion to play with. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1318496400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-6c8b-e2e3-c179-7e884d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-6c8b-e2e3-c179-7e884d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-683a-02f3-c472-debc4d5308b3",
-            "title": "Cougar ",
-            "description": "What a good friend this cougar can be for your avatar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 23
-                }
-            },
-            "originalReleaseDate": "/Date(1328000400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-683a-02f3-c472-debc4d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-683a-02f3-c472-debc4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-00054d5308b3",
-            "title": "E3 2010 Press Briefing - Kinectimals Trailer (HD)",
-            "description": "Watch the coolest new game trailers from E3 2010.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 153
-                }
-            },
-            "originalReleaseDate": "/Date(1277456400000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ad80ac80-d7d0-4b9f-b6f4-e0e8286816c0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ad80ac80-d7d0-4b9f-b6f4-e0e8286816c0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-d03b-b2c3-c8b8-fff74d5308b3",
+			"title": "Canadian Lynx ",
+			"description": "Your avatar would enjoy having this Canadian lynx as a friend. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1309856400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-d03b-b2c3-c8b8-fff74d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-d03b-b2c3-c8b8-fff74d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-fe76-f283-c538-123e4d5308b3",
+			"title": "Cheetah (Plush) ",
+			"description": "Now your avatar can play with your Kinectimals cheetah. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 15
+				}
+			},
+			"originalReleaseDate": "/Date(1328000400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-fe76-f283-c538-123e4d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-fe76-f283-c538-123e4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-540a-d282-cb5c-b9c94d5308b3",
+			"title": "Cheetah Suit",
+			"description": "Romping around Lemuria as a Kinectimals cheetah is fun and exciting. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-540a-d282-cb5c-b9c94d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-540a-d282-cb5c-b9c94d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-64ac-0281-cb0c-89dd4d5308b3",
+			"title": "Cheetah Suit ",
+			"description": "How about dressing up as a Kinectimals cheetah?  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-64ac-0281-cb0c-89dd4d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-64ac-0281-cb0c-89dd4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-6c8b-e2e3-c179-7e884d5308b3",
+			"title": "Cinnamon Bear  ",
+			"description": "Your avatar will love this Cinnamon Bear companion to play with. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1318496400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-6c8b-e2e3-c179-7e884d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-6c8b-e2e3-c179-7e884d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-683a-02f3-c472-debc4d5308b3",
+			"title": "Cougar ",
+			"description": "What a good friend this cougar can be for your avatar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 23
+				}
+			},
+			"originalReleaseDate": "/Date(1328000400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-683a-02f3-c472-debc4d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-683a-02f3-c472-debc4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-00054d5308b3",
+			"title": "E3 2010 Press Briefing - Kinectimals Trailer (HD)",
+			"description": "Watch the coolest new game trailers from E3 2010.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 153
+				}
+			},
+			"originalReleaseDate": "/Date(1277456400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-00054d5308b3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "cf9ec9d4-1fbe-4e1f-ac52-67370d33b49d",
-            "title": "Golden Tabby Tiger",
-            "description": "Purchase this cub to unlock it in the game.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 57
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": {
-                "label": "E (Everyone)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
-                "age": 6,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308b3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-00054d5308b3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cf9ec9d4-1fbe-4e1f-ac52-67370d33b49d",
+			"title": "Golden Tabby Tiger",
+			"description": "Purchase this cub to unlock it in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 57
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/cf9ec9d4-1fbe-4e1f-ac52-67370d33b49d/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/cf9ec9d4-1fbe-4e1f-ac52-67370d33b49d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-5b27-2283-c067-470d4d5308b3",
-            "title": "Golden Tabby Tiger ",
-            "description": "Your avatar deserves a Kinectimals golden tabby tiger as a companion.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 48
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-5b27-2283-c067-470d4d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-5b27-2283-c067-470d4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-44cf-9213-cf3a-aa5d4d5308b3",
-            "title": "Goldman's Jaguar ",
-            "description": "Your avatar can have a Kinectimals Goldman's jaguar. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1328000400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-44cf-9213-cf3a-aa5d4d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-44cf-9213-cf3a-aa5d4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-4af6-a253-c335-0c4a4d5308b3",
-            "title": "Grizzly Bear ",
-            "description": "Finally, your avatar will be complete with this Grizzly Bear companion. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 2.75,
-                    "Count": 15
-                }
-            },
-            "originalReleaseDate": "/Date(1318496400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-4af6-a253-c335-0c4a4d5308b3/0/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-4af6-a253-c335-0c4a4d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00001000-4749-b2e3-c941-59964d5308b3",
-            "title": "Iberian Lynx ",
-            "description": "The Iberian lynx is a fun frisky cub your avatar will love. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 13
-                }
-            },
-            "originalReleaseDate": "/Date(1305018000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Family"
-                },
-                {
-                    "label": "Kinect"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00001000-4749-b2e3-c941-59964d5308b3/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00001000-4749-b2e3-c941-59964d5308b3",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/cf9ec9d4-1fbe-4e1f-ac52-67370d33b49d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cf9ec9d4-1fbe-4e1f-ac52-67370d33b49d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-5b27-2283-c067-470d4d5308b3",
+			"title": "Golden Tabby Tiger ",
+			"description": "Your avatar deserves a Kinectimals golden tabby tiger as a companion.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 48
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-5b27-2283-c067-470d4d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-5b27-2283-c067-470d4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-44cf-9213-cf3a-aa5d4d5308b3",
+			"title": "Goldman's Jaguar ",
+			"description": "Your avatar can have a Kinectimals Goldman's jaguar. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1328000400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-44cf-9213-cf3a-aa5d4d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-44cf-9213-cf3a-aa5d4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-4af6-a253-c335-0c4a4d5308b3",
+			"title": "Grizzly Bear ",
+			"description": "Finally, your avatar will be complete with this Grizzly Bear companion. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 15
+				}
+			},
+			"originalReleaseDate": "/Date(1318496400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-4af6-a253-c335-0c4a4d5308b3/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-4af6-a253-c335-0c4a4d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-4749-b2e3-c941-59964d5308b3",
+			"title": "Iberian Lynx ",
+			"description": "The Iberian lynx is a fun frisky cub your avatar will love. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1305018000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-4749-b2e3-c941-59964d5308b3/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-4749-b2e3-c941-59964d5308b3",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

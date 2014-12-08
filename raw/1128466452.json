@@ -1,1971 +1,1971 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d80243430814",
-    "title": "DD: Dark Arisen",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, French, Italian, German, Spanish,  Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  An epitaph speaks of another's demise...  A mysterious island known as Bitterblack Isle appears off the coast of Gransys. Its depths have claimed the lives of many Arisen; their voices still haunt the labyrinth that lies deep beneath its surface--a labyrinth ripe with secrets waiting to be discovered.  The time to take up arms has come once again. Delve into the isle's depths and uncover its dark secret!",
-    "genres": [
-        {
-            "label": "Action & Adventure"
-        }
-    ],
-    "publisher": "CAPCOM CO., LTD.",
-    "studio": "CAPCOM CO., LTD.",
-    "originalReleaseDate": "/Date(1366675200000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Partial Nudity",
-                "image": null
-            },
-            {
-                "label": "Suggestive Themes",
-                "image": null
-            },
-            {
-                "label": "Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80243430814",
+	"title": "DD: Dark Arisen",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish,  Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  An epitaph speaks of another's demise...  A mysterious island known as Bitterblack Isle appears off the coast of Gransys. Its depths have claimed the lives of many Arisen; their voices still haunt the labyrinth that lies deep beneath its surface--a labyrinth ripe with secrets waiting to be discovered.  The time to take up arms has come once again. Delve into the isle's depths and uncover its dark secret!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "CAPCOM CO., LTD.",
+	"studio": "CAPCOM CO., LTD.",
+	"originalReleaseDate": "/Date(1366675200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Partial Nudity",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://download.xbox.com/content/43430814/DDDA_360_ManGuts_ENG_0408.pdf",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg10.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg11.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg12.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/DD-Dark-Arisen/66acd000-77fe-1000-9115-d80243430814",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.25,
-            "Count": 24379
-        }
-    },
-    "price": {
-        "goldPrice": "$39.99",
-        "silverPrice": "$39.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 39.99,
-            "display": "$39.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "GamerPic"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430814/Children",
-    "childDownloads": [
-        {
-            "id": "1eb859e7-3118-4366-8cc1-e26577eef47b",
-            "title": "A Boon for Wanderers - Bonus Pack",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Gain the upper hand against your foes with this plentiful pack of Rift Crystals, Gold, Discipline, Ferrystones and Wakestones! This pack also includes a taste of things to come -- new Character Edit options, as well as new items (Liquid Effluvium, Light Pickaxe, and Wanderlust Ring) from the upcoming Dragon's Dogma: Dark Arisen! Check them out at the Rift Shop.  *This bonus can only be applied once per saved data.  If the items are discarded or given away during gameplay, they will be lost.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 109
-                }
-            },
-            "originalReleaseDate": "/Date(1360659600000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": "http://download.xbox.com/content/43430814/DDDA_360_ManGuts_ENG_0408.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/screenlg12.jpg"
+	],
+	"detailsUrl": "/en-US/Product/DD-Dark-Arisen/66acd000-77fe-1000-9115-d80243430814",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 24379
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430814/Children",
+	"childDownloads": [
+		{
+			"id": "1eb859e7-3118-4366-8cc1-e26577eef47b",
+			"title": "A Boon for Wanderers - Bonus Pack",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Gain the upper hand against your foes with this plentiful pack of Rift Crystals, Gold, Discipline, Ferrystones and Wakestones! This pack also includes a taste of things to come -- new Character Edit options, as well as new items (Liquid Effluvium, Light Pickaxe, and Wanderlust Ring) from the upcoming Dragon's Dogma: Dark Arisen! Check them out at the Rift Shop.  *This bonus can only be applied once per saved data.  If the items are discarded or given away during gameplay, they will be lost.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 109
+				}
+			},
+			"originalReleaseDate": "/Date(1360659600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/1eb859e7-3118-4366-8cc1-e26577eef47b/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/1eb859e7-3118-4366-8cc1-e26577eef47b",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "5fd8bcb8-de4f-4474-b906-12b0f79ebb51",
-            "title": "A Coiffure You Can't Refuse",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  You and your main pawn will be fighting in style after you add these eight new hairstyles to your character customization tool, for a total of 48 different hairstyles. As an extra treat, the Mercedes-approved Captain's Armor will be added to the Black Cat's inventory, and your item storage to boot. Just look for the blue-green icon!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 1000
-                }
-            },
-            "originalReleaseDate": "/Date(1337677200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1eb859e7-3118-4366-8cc1-e26577eef47b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1eb859e7-3118-4366-8cc1-e26577eef47b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5fd8bcb8-de4f-4474-b906-12b0f79ebb51",
+			"title": "A Coiffure You Can't Refuse",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  You and your main pawn will be fighting in style after you add these eight new hairstyles to your character customization tool, for a total of 48 different hairstyles. As an extra treat, the Mercedes-approved Captain's Armor will be added to the Black Cat's inventory, and your item storage to boot. Just look for the blue-green icon!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 1000
+				}
+			},
+			"originalReleaseDate": "/Date(1337677200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/5fd8bcb8-de4f-4474-b906-12b0f79ebb51/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/5fd8bcb8-de4f-4474-b906-12b0f79ebb51",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "246882f9-4706-4ffb-9b86-c04f9ac9e7ad",
-            "title": "A Face of a Different Color",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Change your whole attitude with 7 new color variations and 6 new voice types for the character customization tool. Arisens are never ones to be lost in a crowd, but with these you'll stand out even more. As a special bonus, the Nameless Armor will be added to the Black Cat's inventory--with an extra set sent to your item storage. Just look for the blue-green icons!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 241
-                }
-            },
-            "originalReleaseDate": "/Date(1341306000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/5fd8bcb8-de4f-4474-b906-12b0f79ebb51/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5fd8bcb8-de4f-4474-b906-12b0f79ebb51",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "246882f9-4706-4ffb-9b86-c04f9ac9e7ad",
+			"title": "A Face of a Different Color",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Change your whole attitude with 7 new color variations and 6 new voice types for the character customization tool. Arisens are never ones to be lost in a crowd, but with these you'll stand out even more. As a special bonus, the Nameless Armor will be added to the Black Cat's inventory--with an extra set sent to your item storage. Just look for the blue-green icons!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 241
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/246882f9-4706-4ffb-9b86-c04f9ac9e7ad/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/246882f9-4706-4ffb-9b86-c04f9ac9e7ad",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.99",
-                "silverPrice": "$1.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1.99,
-                    "display": "$1.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "994ee5f1-52ec-4d35-a158-0e1ce730eb8f",
-            "title": "Armor Pack: Demon's Protection",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Makes new armor for Fighters, Striders, and Mages available for purchase at the Black Cat in Gran Soren. As a bonus, you get one of each of the 15 armors for free! Make sure to check your item storage. Just look for the blue-green icons!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 339
-                }
-            },
-            "originalReleaseDate": "/Date(1340701200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/246882f9-4706-4ffb-9b86-c04f9ac9e7ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/246882f9-4706-4ffb-9b86-c04f9ac9e7ad",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "994ee5f1-52ec-4d35-a158-0e1ce730eb8f",
+			"title": "Armor Pack: Demon's Protection",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Makes new armor for Fighters, Striders, and Mages available for purchase at the Black Cat in Gran Soren. As a bonus, you get one of each of the 15 armors for free! Make sure to check your item storage. Just look for the blue-green icons!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 339
+				}
+			},
+			"originalReleaseDate": "/Date(1340701200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/994ee5f1-52ec-4d35-a158-0e1ce730eb8f/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/994ee5f1-52ec-4d35-a158-0e1ce730eb8f",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "d71fed97-9231-4d63-afc3-497aeed74824",
-            "title": "Armor Pack: Divine Protection",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Makes new armor for Fighters, Striders, and Mages available for purchase at the Black Cat in Gran Soren. As a bonus, you get one of each of the 15 armors for free! Make sure to check your item storage. Just look for the blue-green icons!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 373
-                }
-            },
-            "originalReleaseDate": "/Date(1340701200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/994ee5f1-52ec-4d35-a158-0e1ce730eb8f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/994ee5f1-52ec-4d35-a158-0e1ce730eb8f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d71fed97-9231-4d63-afc3-497aeed74824",
+			"title": "Armor Pack: Divine Protection",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  Makes new armor for Fighters, Striders, and Mages available for purchase at the Black Cat in Gran Soren. As a bonus, you get one of each of the 15 armors for free! Make sure to check your item storage. Just look for the blue-green icons!   *This bonus can only be applied once per saved data. If the items are discarded or given away during gameplay, they will be lost.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 373
+				}
+			},
+			"originalReleaseDate": "/Date(1340701200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/d71fed97-9231-4d63-afc3-497aeed74824/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/d71fed97-9231-4d63-afc3-497aeed74824",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "72dcf91e-66b0-45a7-a774-f2ccc3d6b24d",
-            "title": "Courageous Icon Bundle",
-            "description": "Download this picture pack.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 62
-                }
-            },
-            "originalReleaseDate": "/Date(1351674000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/72dcf91e-66b0-45a7-a774-f2ccc3d6b24d",
-            "downloadTypeClass": "GamerPic",
-            "downloadTypeText": "GamerPic",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "988c9dcc-e8b0-4c33-b681-486b0c97c148",
-            "title": "Dragon's Dogma 2nd Trailer",
-            "description": "The second trailer for Dragon's Dogma, revealed at the June 2011 E3. The sprawling locations, roaming beasts, and inhabitants will take your breath away.  What will you face?  Who will you love? Only you can decide.  Let the open world unfold around you in this brand new adventure.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 108
-                }
-            },
-            "originalReleaseDate": "/Date(1307523600000)/",
-            "contentRating": {
-                "label": "RP (Rating Pending)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
-                "age": 18,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d71fed97-9231-4d63-afc3-497aeed74824/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d71fed97-9231-4d63-afc3-497aeed74824",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "72dcf91e-66b0-45a7-a774-f2ccc3d6b24d",
+			"title": "Courageous Icon Bundle",
+			"description": "Download this picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 62
+				}
+			},
+			"originalReleaseDate": "/Date(1351674000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/72dcf91e-66b0-45a7-a774-f2ccc3d6b24d",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "988c9dcc-e8b0-4c33-b681-486b0c97c148",
+			"title": "Dragon's Dogma 2nd Trailer",
+			"description": "The second trailer for Dragon's Dogma, revealed at the June 2011 E3. The sprawling locations, roaming beasts, and inhabitants will take your breath away.  What will you face?  Who will you love? Only you can decide.  Let the open world unfold around you in this brand new adventure.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 108
+				}
+			},
+			"originalReleaseDate": "/Date(1307523600000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/988c9dcc-e8b0-4c33-b681-486b0c97c148",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "67fa5d77-f8d1-4fbd-bfdd-194b3368e17a",
-            "title": "Dragon's Dogma 3rd Trailer",
-            "description": "The third trailer for \"Dragon's Dogma,\" revealed at the 2011 Tokyo Game Show. The dragon calls you, the Arisen, to choose... What will your choice be? You make the call as you lead your \"pawn\" companions through a tale filled with furious action, gripping drama, and colorful characters. This trailer is only a taste of what this living, breathing world has to offer in Capcom's brand new adventure.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 132
-                }
-            },
-            "originalReleaseDate": "/Date(1316077200000)/",
-            "contentRating": {
-                "label": "RP (Rating Pending)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
-                "age": 18,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/988c9dcc-e8b0-4c33-b681-486b0c97c148",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "67fa5d77-f8d1-4fbd-bfdd-194b3368e17a",
+			"title": "Dragon's Dogma 3rd Trailer",
+			"description": "The third trailer for \"Dragon's Dogma,\" revealed at the 2011 Tokyo Game Show. The dragon calls you, the Arisen, to choose... What will your choice be? You make the call as you lead your \"pawn\" companions through a tale filled with furious action, gripping drama, and colorful characters. This trailer is only a taste of what this living, breathing world has to offer in Capcom's brand new adventure.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 132
+				}
+			},
+			"originalReleaseDate": "/Date(1316077200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/67fa5d77-f8d1-4fbd-bfdd-194b3368e17a",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "39c57345-040f-4d1c-a2f0-5511f042a785",
-            "title": "Dragon's Dogma Battle Footage - Golem",
-            "description": "Experience the excitement as the Arisen accepts a quest to fight a hulking golem. This time, he's kitted out as a Magick Archer, able to quickly fire off spell arrows from long range. Of course, in Dragon's Dogma, you can change your vocation, skills, and party members at will, leading to a countless number of ways to face every battle. Check out the action in this living, breathing world.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 143
-                }
-            },
-            "originalReleaseDate": "/Date(1320829200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/67fa5d77-f8d1-4fbd-bfdd-194b3368e17a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "39c57345-040f-4d1c-a2f0-5511f042a785",
+			"title": "Dragon's Dogma Battle Footage - Golem",
+			"description": "Experience the excitement as the Arisen accepts a quest to fight a hulking golem. This time, he's kitted out as a Magick Archer, able to quickly fire off spell arrows from long range. Of course, in Dragon's Dogma, you can change your vocation, skills, and party members at will, leading to a countless number of ways to face every battle. Check out the action in this living, breathing world.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 143
+				}
+			},
+			"originalReleaseDate": "/Date(1320829200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/39c57345-040f-4d1c-a2f0-5511f042a785",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d80243430814",
-            "title": "DD: Dark Arisen",
-            "description": "The Games on Demand version supports English, French, Italian, German, Spanish,  Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  An epitaph speaks of another's demise...  A mysterious island known as Bitterblack Isle appears off the coast of Gransys. Its depths have claimed the lives of many Arisen; their voices still haunt the labyrinth that lies deep beneath its surface--a labyrinth ripe with secrets waiting to be discovered.  The time to take up arms has come once again. Delve into the isle's depths and uncover its dark secret!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 24379
-                }
-            },
-            "originalReleaseDate": "/Date(1374570000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "GameVideo",
-                "GameAddon",
-                "GamerPic"
-            ],
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430814",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$39.99",
-                "silverPrice": "$39.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 39.99,
-                    "display": "$39.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d80243438829",
-            "title": "Dragon's Dogma Demo",
-            "description": "Whet your appetite with a taste of the high fantasy, open world action that Dragon's Dogma has to offer in this demo. Battle as an Arisen of the past or rid the countryside of a fearsome magickal beast -- the choice is yours. Use the robust character creation tool to customize your Arisen and main pawn, play them in the Countryside Quest now, and import them into the full game later. From height to hairstyle, eye color to nose shape, mold your heroes as you see fit.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 11013
-                }
-            },
-            "originalReleaseDate": "/Date(1335862800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/39c57345-040f-4d1c-a2f0-5511f042a785",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80243430814",
+			"title": "DD: Dark Arisen",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish,  Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  An epitaph speaks of another's demise...  A mysterious island known as Bitterblack Isle appears off the coast of Gransys. Its depths have claimed the lives of many Arisen; their voices still haunt the labyrinth that lies deep beneath its surface--a labyrinth ripe with secrets waiting to be discovered.  The time to take up arms has come once again. Delve into the isle's depths and uncover its dark secret!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 24379
+				}
+			},
+			"originalReleaseDate": "/Date(1374570000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"GamerPic"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430814",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80243438829",
+			"title": "Dragon's Dogma Demo",
+			"description": "Whet your appetite with a taste of the high fantasy, open world action that Dragon's Dogma has to offer in this demo. Battle as an Arisen of the past or rid the countryside of a fearsome magickal beast -- the choice is yours. Use the robust character creation tool to customize your Arisen and main pawn, play them in the Countryside Quest now, and import them into the full game later. From height to hairstyle, eye color to nose shape, mold your heroes as you see fit.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 11013
+				}
+			},
+			"originalReleaseDate": "/Date(1335862800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438829/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243438829",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "959bbf96-27a2-4e44-bedc-725b305e957d",
-            "title": "Dragon's Dogma Developer Contents Part 1",
-            "description": "Get a behind the scenes look at the making of Dragon's Dogma!  In part one, meet some of Capcom's most elite team members and hear about their vision for Dragon's Dogma. Enjoy an inside look into the development of one Capcom's most ambitious titles ever!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 90
-                }
-            },
-            "originalReleaseDate": "/Date(1337936400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243438829/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243438829",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "959bbf96-27a2-4e44-bedc-725b305e957d",
+			"title": "Dragon's Dogma Developer Contents Part 1",
+			"description": "Get a behind the scenes look at the making of Dragon's Dogma!  In part one, meet some of Capcom's most elite team members and hear about their vision for Dragon's Dogma. Enjoy an inside look into the development of one Capcom's most ambitious titles ever!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 90
+				}
+			},
+			"originalReleaseDate": "/Date(1337936400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/959bbf96-27a2-4e44-bedc-725b305e957d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2e6f7710-baf7-4edb-9f4a-68eb01c9536b",
-            "title": "Dragon's Dogma Developer Contents Part 2",
-            "description": "Get a behind the scenes look at the making of Dragon's Dogma!  In part two, learn about the inspiration for the Pawn system.  Enjoy an inside look into what the team set out to do with these otherworldly companions and how they can help you along in battle!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 82
-                }
-            },
-            "originalReleaseDate": "/Date(1337936400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/959bbf96-27a2-4e44-bedc-725b305e957d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2e6f7710-baf7-4edb-9f4a-68eb01c9536b",
+			"title": "Dragon's Dogma Developer Contents Part 2",
+			"description": "Get a behind the scenes look at the making of Dragon's Dogma!  In part two, learn about the inspiration for the Pawn system.  Enjoy an inside look into what the team set out to do with these otherworldly companions and how they can help you along in battle!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 82
+				}
+			},
+			"originalReleaseDate": "/Date(1337936400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/2e6f7710-baf7-4edb-9f4a-68eb01c9536b",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "91d4e184-8a3e-411d-a4e7-c663dea5970d",
-            "title": "Dragon's Dogma Developer Contents Part 3",
-            "description": "Get a behind the scenes look at the making of Dragon's Dogma!  In part three, enjoy a look at the incredible level of detail the team put into the game.  With hundreds of unique, fully voiced NPCs, and thousands of lines of dialog, the creators spared no detail in crafting this incredible world!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 99
-                }
-            },
-            "originalReleaseDate": "/Date(1337936400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2e6f7710-baf7-4edb-9f4a-68eb01c9536b",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "91d4e184-8a3e-411d-a4e7-c663dea5970d",
+			"title": "Dragon's Dogma Developer Contents Part 3",
+			"description": "Get a behind the scenes look at the making of Dragon's Dogma!  In part three, enjoy a look at the incredible level of detail the team put into the game.  With hundreds of unique, fully voiced NPCs, and thousands of lines of dialog, the creators spared no detail in crafting this incredible world!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 99
+				}
+			},
+			"originalReleaseDate": "/Date(1337936400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/91d4e184-8a3e-411d-a4e7-c663dea5970d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "51601129-4873-43d2-ab53-e315d7acc719",
-            "title": "Dragon's Dogma Digital Comic Part 1",
-            "description": "The Dragon returns and fire and death follow in its wake, and an ordinary young man finds himself chosen for something greater. Follow the journey of the Arisen in this first chapter of the four part Digital Comic for Dragon's Dogma!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 111
-                }
-            },
-            "originalReleaseDate": "/Date(1338368400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/91d4e184-8a3e-411d-a4e7-c663dea5970d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "51601129-4873-43d2-ab53-e315d7acc719",
+			"title": "Dragon's Dogma Digital Comic Part 1",
+			"description": "The Dragon returns and fire and death follow in its wake, and an ordinary young man finds himself chosen for something greater. Follow the journey of the Arisen in this first chapter of the four part Digital Comic for Dragon's Dogma!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 111
+				}
+			},
+			"originalReleaseDate": "/Date(1338368400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/51601129-4873-43d2-ab53-e315d7acc719",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00a43b1d-c4da-4b12-adb0-1c584694c8e0",
-            "title": "Dragon's Dogma Digital Comic Part 2",
-            "description": "With his village destroyed and his father killed, Savan follows the Pawn Morganna to a Rift stone, in hopes that this mysterious woman holds the key to avenging his father.  Follow the journey of the Arisen in part two of the epic four part digital comic!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 109
-                }
-            },
-            "originalReleaseDate": "/Date(1338368400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/51601129-4873-43d2-ab53-e315d7acc719",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00a43b1d-c4da-4b12-adb0-1c584694c8e0",
+			"title": "Dragon's Dogma Digital Comic Part 2",
+			"description": "With his village destroyed and his father killed, Savan follows the Pawn Morganna to a Rift stone, in hopes that this mysterious woman holds the key to avenging his father.  Follow the journey of the Arisen in part two of the epic four part digital comic!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 109
+				}
+			},
+			"originalReleaseDate": "/Date(1338368400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00a43b1d-c4da-4b12-adb0-1c584694c8e0",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "19d01139-4e78-4ff7-a1db-a296ac023853",
-            "title": "Dragon's Dogma Digital Comic Part 3",
-            "description": "As Savan and his pawns follow in the path of the Dragon's destruction, they find themselves waylaid by a ferocious Griffin. Follow the journey of the Arisen in part three of the epic four part digital comic!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 102
-                }
-            },
-            "originalReleaseDate": "/Date(1338368400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00a43b1d-c4da-4b12-adb0-1c584694c8e0",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "19d01139-4e78-4ff7-a1db-a296ac023853",
+			"title": "Dragon's Dogma Digital Comic Part 3",
+			"description": "As Savan and his pawns follow in the path of the Dragon's destruction, they find themselves waylaid by a ferocious Griffin. Follow the journey of the Arisen in part three of the epic four part digital comic!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 102
+				}
+			},
+			"originalReleaseDate": "/Date(1338368400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/19d01139-4e78-4ff7-a1db-a296ac023853",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "cefccbe9-e580-4aff-a076-12ba43d53b5d",
-            "title": "Dragon's Dogma Digital Comic Part 4",
-            "description": "Bloodied and battered, Savan reaches the end of his journey and readies to face the Dragon.  But challenges still await him.  Follow the journey of the Arisen in this, the final chapter of the four part Digital Comic!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 98
-                }
-            },
-            "originalReleaseDate": "/Date(1338368400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/19d01139-4e78-4ff7-a1db-a296ac023853",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cefccbe9-e580-4aff-a076-12ba43d53b5d",
+			"title": "Dragon's Dogma Digital Comic Part 4",
+			"description": "Bloodied and battered, Savan reaches the end of his journey and readies to face the Dragon.  But challenges still await him.  Follow the journey of the Arisen in this, the final chapter of the four part Digital Comic!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 98
+				}
+			},
+			"originalReleaseDate": "/Date(1338368400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/cefccbe9-e580-4aff-a076-12ba43d53b5d",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "6d6ac2f6-973b-4e64-9318-8bec7c4fc4fb",
-            "title": "Dragon's Dogma E3 Trailer",
-            "description": "A new action-packed trailer for Dragon’s Dogma, revealed at 2011’s E3 Show in Los Angeles.  The vast open world is filled with all sorts of characters you’ll encounter in addition to massive beasts you’ll need to defeat in battle.  Capcom’s epic new action adventure is unlike anything you’ve ever seen before!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 111
-                }
-            },
-            "originalReleaseDate": "/Date(1308301200000)/",
-            "contentRating": {
-                "label": "RP (Rating Pending)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
-                "age": 18,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cefccbe9-e580-4aff-a076-12ba43d53b5d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6d6ac2f6-973b-4e64-9318-8bec7c4fc4fb",
+			"title": "Dragon's Dogma E3 Trailer",
+			"description": "A new action-packed trailer for Dragon’s Dogma, revealed at 2011’s E3 Show in Los Angeles.  The vast open world is filled with all sorts of characters you’ll encounter in addition to massive beasts you’ll need to defeat in battle.  Capcom’s epic new action adventure is unlike anything you’ve ever seen before!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 111
+				}
+			},
+			"originalReleaseDate": "/Date(1308301200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/6d6ac2f6-973b-4e64-9318-8bec7c4fc4fb",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "7d4256b2-a262-4721-a940-7b5bea597145",
-            "title": "Dragon's Dogma First Trailer",
-            "description": "A new legend is born with this, the first trailer from Capcom's newest action smash, Dragon's Dogma. As legendary warrior 'the Arisen,' come face-to-face with dragons and other fantastic beasts in this action-packed, open world adventure.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 150
-                }
-            },
-            "originalReleaseDate": "/Date(1302685200000)/",
-            "contentRating": {
-                "label": "RP (Rating Pending)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
-                "age": 18,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6d6ac2f6-973b-4e64-9318-8bec7c4fc4fb",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7d4256b2-a262-4721-a940-7b5bea597145",
+			"title": "Dragon's Dogma First Trailer",
+			"description": "A new legend is born with this, the first trailer from Capcom's newest action smash, Dragon's Dogma. As legendary warrior 'the Arisen,' come face-to-face with dragons and other fantastic beasts in this action-packed, open world adventure.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 150
+				}
+			},
+			"originalReleaseDate": "/Date(1302685200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
 
-                ],
-                "disclaimers": [
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/7d4256b2-a262-4721-a940-7b5bea597145",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "f2143c7c-3431-4ef3-9007-d7673abd3e1c",
-            "title": "Dragon's Dogma Launch Trailer",
-            "description": "As the Dragon returns once more, a hero will arise.  Marked by the dragon who destroyed your village, you embark on and epic journey to reclaim the heart that was ripped from your chest and break the cycle of destruction once and for all.  The destiny of the world is in the heart of one hero!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 113
-                }
-            },
-            "originalReleaseDate": "/Date(1337677200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7d4256b2-a262-4721-a940-7b5bea597145",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f2143c7c-3431-4ef3-9007-d7673abd3e1c",
+			"title": "Dragon's Dogma Launch Trailer",
+			"description": "As the Dragon returns once more, a hero will arise.  Marked by the dragon who destroyed your village, you embark on and epic journey to reclaim the heart that was ripped from your chest and break the cycle of destruction once and for all.  The destiny of the world is in the heart of one hero!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 113
+				}
+			},
+			"originalReleaseDate": "/Date(1337677200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/f2143c7c-3431-4ef3-9007-d7673abd3e1c",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "1e076c86-8510-49f0-b4e1-00d192fd2719",
-            "title": "Dragon's Dogma PAWN Trailer",
-            "description": "The fourth trailer for \"Dragon's Dogma,\" revealed at Capcom Gamers Day 2011.  Take a look into the world of Dragon’s Dogma through the eyes of the Pawns. Called forth into existence from a timeless void known as the Rift, these less than human fighters are chosen by the Arisen from a limitless combination of classes and combat disciplines. Only three can swear their allegiance to the Arisen to follow him and fight at his side. Only through the Arisen may they become something more. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 109
-                }
-            },
-            "originalReleaseDate": "/Date(1320829200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f2143c7c-3431-4ef3-9007-d7673abd3e1c",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1e076c86-8510-49f0-b4e1-00d192fd2719",
+			"title": "Dragon's Dogma PAWN Trailer",
+			"description": "The fourth trailer for \"Dragon's Dogma,\" revealed at Capcom Gamers Day 2011.  Take a look into the world of Dragon’s Dogma through the eyes of the Pawns. Called forth into existence from a timeless void known as the Rift, these less than human fighters are chosen by the Arisen from a limitless combination of classes and combat disciplines. Only three can swear their allegiance to the Arisen to follow him and fight at his side. Only through the Arisen may they become something more. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 109
+				}
+			},
+			"originalReleaseDate": "/Date(1320829200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/1e076c86-8510-49f0-b4e1-00d192fd2719",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "60bd12d3-164f-4f8a-9132-50d71bc28dc2",
-            "title": "Dragon's Dogma Progression Trailer 1",
-            "description": "Part one of the Progression Trailer explores the many benefits of Pawn Sharing!  In Dragon’s Dogma, players create and customize their Main Pawn and are able share that character with other players online.  While your pawn away, they’ll pick up valuable information about places you may not have visited yet or enemies you have yet to fight.  When they return to your world, they’ll bring this information back with them.  The more your adventures your Pawn has, the more powerful they will become!  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 167
-                }
-            },
-            "originalReleaseDate": "/Date(1333702800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1e076c86-8510-49f0-b4e1-00d192fd2719",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "60bd12d3-164f-4f8a-9132-50d71bc28dc2",
+			"title": "Dragon's Dogma Progression Trailer 1",
+			"description": "Part one of the Progression Trailer explores the many benefits of Pawn Sharing!  In Dragon’s Dogma, players create and customize their Main Pawn and are able share that character with other players online.  While your pawn away, they’ll pick up valuable information about places you may not have visited yet or enemies you have yet to fight.  When they return to your world, they’ll bring this information back with them.  The more your adventures your Pawn has, the more powerful they will become!  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 167
+				}
+			},
+			"originalReleaseDate": "/Date(1333702800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/60bd12d3-164f-4f8a-9132-50d71bc28dc2",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "51f5558d-f87c-4306-9cac-ea9ea9bcb337",
-            "title": "Dragon's Dogma Progression Trailer 2",
-            "description": "Part two of the Progression Trailer focuses on Pawn Strategies.  In Dragon’s Dogma, players will have to choose their Pawns carefully.  Will you have a sharpshooting Ranger by your side or will you rely on the powerful magicks of a Sorcerer?  Or maybe you’ll recruit a stealthy Assassin to slay your enemies in the shadows.  How you organize your party and what pawns you choose will make all the difference in battle and can spell victory or defeat.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 141
-                }
-            },
-            "originalReleaseDate": "/Date(1333702800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/60bd12d3-164f-4f8a-9132-50d71bc28dc2",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "51f5558d-f87c-4306-9cac-ea9ea9bcb337",
+			"title": "Dragon's Dogma Progression Trailer 2",
+			"description": "Part two of the Progression Trailer focuses on Pawn Strategies.  In Dragon’s Dogma, players will have to choose their Pawns carefully.  Will you have a sharpshooting Ranger by your side or will you rely on the powerful magicks of a Sorcerer?  Or maybe you’ll recruit a stealthy Assassin to slay your enemies in the shadows.  How you organize your party and what pawns you choose will make all the difference in battle and can spell victory or defeat.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 141
+				}
+			},
+			"originalReleaseDate": "/Date(1333702800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/51f5558d-f87c-4306-9cac-ea9ea9bcb337",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b08588b3-9cc7-41c4-a3e9-795995c5c4a0",
-            "title": "Dragon's Dogma Progression Trailer 3",
-            "description": "Part three of the Progression Trailer focuses on choosing your own path.  Dragon’s Dogma offers players the opportunity to tailor the game play experience to their liking.  Will you wield destructive magicks as a frail Mage or deal death up close as a massive Warrior?  Or perhaps you’ll begin your adventure as a deadly Strider only to embrace your magickal side and become a Magcik Archer?  No matter what your preference, Dragon’s Dogma offers players an experience that will be totally unique.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 135
-                }
-            },
-            "originalReleaseDate": "/Date(1333702800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/51f5558d-f87c-4306-9cac-ea9ea9bcb337",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b08588b3-9cc7-41c4-a3e9-795995c5c4a0",
+			"title": "Dragon's Dogma Progression Trailer 3",
+			"description": "Part three of the Progression Trailer focuses on choosing your own path.  Dragon’s Dogma offers players the opportunity to tailor the game play experience to their liking.  Will you wield destructive magicks as a frail Mage or deal death up close as a massive Warrior?  Or perhaps you’ll begin your adventure as a deadly Strider only to embrace your magickal side and become a Magcik Archer?  No matter what your preference, Dragon’s Dogma offers players an experience that will be totally unique.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 135
+				}
+			},
+			"originalReleaseDate": "/Date(1333702800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b08588b3-9cc7-41c4-a3e9-795995c5c4a0",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "c11f8e31-ab60-4290-9343-2b5c7319497b",
-            "title": "Dragon's Dogma Progression Trailer 4",
-            "description": "Part four of the progression trailer focuses on crafting and questing.  The world of Dragon’s Dogma is one filled with riches and adventure.  Players can turn simple herbs and plants into powerful curatives, and use more exotic elements to help craft items and weapons of incredible power.   And while you have a clear purpose in this world, there are many adventures to be had along the way and quests to embark on.  Ready yourself and take back your heart this May!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 166
-                }
-            },
-            "originalReleaseDate": "/Date(1333702800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b08588b3-9cc7-41c4-a3e9-795995c5c4a0",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c11f8e31-ab60-4290-9343-2b5c7319497b",
+			"title": "Dragon's Dogma Progression Trailer 4",
+			"description": "Part four of the progression trailer focuses on crafting and questing.  The world of Dragon’s Dogma is one filled with riches and adventure.  Players can turn simple herbs and plants into powerful curatives, and use more exotic elements to help craft items and weapons of incredible power.   And while you have a clear purpose in this world, there are many adventures to be had along the way and quests to embark on.  Ready yourself and take back your heart this May!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 166
+				}
+			},
+			"originalReleaseDate": "/Date(1333702800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/c11f8e31-ab60-4290-9343-2b5c7319497b",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "87915ace-781a-446e-b796-0ebb14aefd87",
-            "title": "Dragon's Dogma Story Trailer",
-            "description": "\"Story Trailer\" for Dragon's Dogma, reveals more about the characters that inhabit the massive world of Dragon's Dogma and the role they play in your journey. Rest assured in Dragon's Dogma everything is not as it seems. The choices you make will determine your fate. Make sure you choose wisely, for the path of least resistance and one requiring more courage might grant you immortality but not true freedom",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 251
-                }
-            },
-            "originalReleaseDate": "/Date(1329901200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c11f8e31-ab60-4290-9343-2b5c7319497b",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "87915ace-781a-446e-b796-0ebb14aefd87",
+			"title": "Dragon's Dogma Story Trailer",
+			"description": "\"Story Trailer\" for Dragon's Dogma, reveals more about the characters that inhabit the massive world of Dragon's Dogma and the role they play in your journey. Rest assured in Dragon's Dogma everything is not as it seems. The choices you make will determine your fate. Make sure you choose wisely, for the path of least resistance and one requiring more courage might grant you immortality but not true freedom",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 251
+				}
+			},
+			"originalReleaseDate": "/Date(1329901200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/87915ace-781a-446e-b796-0ebb14aefd87",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b8b51fe7-d13b-4a18-8a27-bb3e914c309e",
-            "title": "Fighter's Ring Set",
-            "description": "Warning: This content is only compatible with Dragon’s Dogma: Dark Arisen.  Do not purchase this content if you do not own Dragon’s Dogma: Dark Arisen.  This set includes a ring that allows the wearer to perform the sword skill, Blitz Strike! In addition, you'll receive an item that you can use to escape the depths of Bitterblack Isle in an instant! Be sure to check your item storage after purchase! *This content can only be applied once per saved data. *After skills are acquired, they must be equipped to be used. *If the items are discarded or given away during gameplay, they will be lost.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 53
-                }
-            },
-            "originalReleaseDate": "/Date(1369126800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430814/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/87915ace-781a-446e-b796-0ebb14aefd87",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b8b51fe7-d13b-4a18-8a27-bb3e914c309e",
+			"title": "Fighter's Ring Set",
+			"description": "Warning: This content is only compatible with Dragon’s Dogma: Dark Arisen.  Do not purchase this content if you do not own Dragon’s Dogma: Dark Arisen.  This set includes a ring that allows the wearer to perform the sword skill, Blitz Strike! In addition, you'll receive an item that you can use to escape the depths of Bitterblack Isle in an instant! Be sure to check your item storage after purchase! *This content can only be applied once per saved data. *After skills are acquired, they must be equipped to be used. *If the items are discarded or given away during gameplay, they will be lost.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 53
+				}
+			},
+			"originalReleaseDate": "/Date(1369126800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/b8b51fe7-d13b-4a18-8a27-bb3e914c309e/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b8b51fe7-d13b-4a18-8a27-bb3e914c309e",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "c45e9eda-421e-48a5-b040-bf85b7538cca",
-            "title": "From a Different Sky - Bundle Pack",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  All quests in the series, 'From a Different Sky,' collected into one handy bundle. Can you complete all 100 quests? Check the notice board beneath the Pawn Guild to find out!   *Only up to 6 quests appear on each notice board at a time. New quests become available as quests are cleared. Certain quests are only available at certain points in the story, and require certain combinations of vocations and skills to complete.  *This content is the same as the individual quest packs. Be forewarned.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 172
-                }
-            },
-            "originalReleaseDate": "/Date(1344330000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b8b51fe7-d13b-4a18-8a27-bb3e914c309e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b8b51fe7-d13b-4a18-8a27-bb3e914c309e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c45e9eda-421e-48a5-b040-bf85b7538cca",
+			"title": "From a Different Sky - Bundle Pack",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  All quests in the series, 'From a Different Sky,' collected into one handy bundle. Can you complete all 100 quests? Check the notice board beneath the Pawn Guild to find out!   *Only up to 6 quests appear on each notice board at a time. New quests become available as quests are cleared. Certain quests are only available at certain points in the story, and require certain combinations of vocations and skills to complete.  *This content is the same as the individual quest packs. Be forewarned.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 172
+				}
+			},
+			"originalReleaseDate": "/Date(1344330000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/c45e9eda-421e-48a5-b040-bf85b7538cca/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/c45e9eda-421e-48a5-b040-bf85b7538cca",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$6.99",
-                "silverPrice": "$6.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 6.99,
-                    "display": "$6.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "789efe61-d39a-46d4-80f8-5579268c5a41",
-            "title": "From a Different Sky - Part 1",
-            "description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  The first 10 quests of the series, 'From a Different Sky.' Their goals are simple: obtain special medallions. But it will take all your smarts to get them all. Check the notice board below the Pawn Guild to begin!   *Some quests may only be taken on or completed at certain points in the story, or with certain combinations of vocations and skills.   *A maximum of 6 quests appear on each notice board at a time. Please clear a few if you don't see your new purchases right away.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 554
-                }
-            },
-            "originalReleaseDate": "/Date(1337677200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c45e9eda-421e-48a5-b040-bf85b7538cca/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c45e9eda-421e-48a5-b040-bf85b7538cca",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$6.99",
+				"silverPrice": "$6.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 6.99,
+					"display": "$6.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "789efe61-d39a-46d4-80f8-5579268c5a41",
+			"title": "From a Different Sky - Part 1",
+			"description": "Warning: Dragon’s Dogma Dark Arisen contains this DLC pack. Do not purchase this pack if you have already purchased Dragon’s Dogma: Dark Arisen.  The first 10 quests of the series, 'From a Different Sky.' Their goals are simple: obtain special medallions. But it will take all your smarts to get them all. Check the notice board below the Pawn Guild to begin!   *Some quests may only be taken on or completed at certain points in the story, or with certain combinations of vocations and skills.   *A maximum of 6 quests appear on each notice board at a time. Please clear a few if you don't see your new purchases right away.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 554
+				}
+			},
+			"originalReleaseDate": "/Date(1337677200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/789efe61-d39a-46d4-80f8-5579268c5a41/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/789efe61-d39a-46d4-80f8-5579268c5a41",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/789efe61-d39a-46d4-80f8-5579268c5a41/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/789efe61-d39a-46d4-80f8-5579268c5a41",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

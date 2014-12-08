@@ -1,1311 +1,1311 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d802575207d3",
-    "title": "F.E.A.R. 2",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful.  (Online Interactions Not Rated by the ESRB)",
-    "genres": [
-        {
-            "label": "Shooter"
-        }
-    ],
-    "publisher": "Warner Bros.",
-    "studio": "Monolith Productions, Inc.",
-    "originalReleaseDate": "/Date(1234224000000)/",
-    "contentRating": {
-        "label": "M (Mature)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-        "age": 17,
-        "purchaseAgeGate": true,
-        "videoAgeGate": true,
-        "descriptors": [
-            {
-                "label": "Blood and Gore",
-                "image": null
-            },
-            {
-                "label": "Intense Violence",
-                "image": null
-            },
-            {
-                "label": "Partial Nudity",
-                "image": null
-            },
-            {
-                "label": "Sexual Themes",
-                "image": null
-            },
-            {
-                "label": "Strong Language",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802575207d3",
+	"title": "F.E.A.R. 2",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful.  (Online Interactions Not Rated by the ESRB)",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Warner Bros.",
+	"studio": "Monolith Productions, Inc.",
+	"originalReleaseDate": "/Date(1234224000000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Partial Nudity",
+				"image": null
+			},
+			{
+				"label": "Sexual Themes",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": "http://epix.xbox.com/shaXam/0201/79/04/7904332c-3e0c-4f10-87d3-34e7064d49fe.PDF?v=1#fear2-en.PDF",
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg5.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg6.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg7.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg8.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg9.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg10.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg11.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg12.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg13.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg14.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg15.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/FEAR-2/66acd000-77fe-1000-9115-d802575207d3",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.25,
-            "Count": 26599
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "GamerPic",
-        "Theme"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d3/Children",
-    "childDownloads": [
-        {
-            "id": "00000000-0000-400b-80bf-0006575207d3",
-            "title": "DC Comics (HD)",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 73
-                }
-            },
-            "originalReleaseDate": "/Date(1232701200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": "http://epix.xbox.com/shaXam/0201/79/04/7904332c-3e0c-4f10-87d3-34e7064d49fe.PDF?v=1#fear2-en.PDF",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg14.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/screenlg15.jpg"
+	],
+	"detailsUrl": "/en-US/Product/FEAR-2/66acd000-77fe-1000-9115-d802575207d3",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 26599
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d3/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400b-80bf-0006575207d3",
+			"title": "DC Comics (HD)",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 73
+				}
+			},
+			"originalReleaseDate": "/Date(1232701200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0006575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0005575207d3",
-            "title": "E3 Trailer (HD)",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 52
-                }
-            },
-            "originalReleaseDate": "/Date(1232701200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0006575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0005575207d3",
+			"title": "E3 Trailer (HD)",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1232701200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0005575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "66acd000-77fe-1000-9115-d802575207d3",
-            "title": "F.E.A.R. 2",
-            "description": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful.  (Online Interactions Not Rated by the ESRB)",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 26599
-                }
-            },
-            "originalReleaseDate": "/Date(1287478800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
-                    "Online Interactions Not Rated by the ESRB"
-                ]
-            },
-            "childDownloadTypes": [
-                "Game",
-                "GameDemo",
-                "GameVideo",
-                "GameAddon",
-                "GamerPic",
-                "Theme"
-            ],
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d3",
-            "downloadTypeClass": "Game",
-            "downloadTypeText": "Game",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$19.99",
-                "silverPrice": "$19.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 19.99,
-                    "display": "$19.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0002575207d3",
-            "title": "F.E.A.R. 2 Armored Front Map Pack",
-            "description": "Continue the mechanized mayhem in this new map pack! Experience two new battlegrounds for F.E.A.R. 2’s “Armored Front” multiplayer mode. Conductor: Push your way out of a train yard into the vast and open-ended junction station built around a turntable.  EPAs will battle their way through the ground floor as infantry can choose to either support from below, or scale the heights of the station and engage in long-range combat.  Decoy: Put your skill to the test in this full-scale training ground for Replica soldiers! Once a controlled arena for combat exercises, now it is a full-blown assault for control between Replica and ATC. Watch out for ambushes, and don’t let the pop-up target dummies fool you! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 147
-                }
-            },
-            "originalReleaseDate": "/Date(1242378000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0005575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802575207d3",
+			"title": "F.E.A.R. 2",
+			"description": "What starts off as a routine mission to locate a corrupt executive turns into a non-stop struggle to survive as Sgt. Michael Becket comes face to face with Alma, a vengeful force growing ever more powerful.  (Online Interactions Not Rated by the ESRB)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 26599
+				}
+			},
+			"originalReleaseDate": "/Date(1287478800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"GamerPic",
+				"Theme"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207d3",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0002575207d3",
+			"title": "F.E.A.R. 2 Armored Front Map Pack",
+			"description": "Continue the mechanized mayhem in this new map pack! Experience two new battlegrounds for F.E.A.R. 2’s “Armored Front” multiplayer mode. Conductor: Push your way out of a train yard into the vast and open-ended junction station built around a turntable.  EPAs will battle their way through the ground floor as infantry can choose to either support from below, or scale the heights of the station and engage in long-range combat.  Decoy: Put your skill to the test in this full-scale training ground for Replica soldiers! Once a controlled arena for combat exercises, now it is a full-blown assault for control between Replica and ATC. Watch out for ambushes, and don’t let the pop-up target dummies fool you! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 147
+				}
+			},
+			"originalReleaseDate": "/Date(1242378000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0002575207d3",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$6.99",
-                "silverPrice": "$6.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 6.99,
-                    "display": "$6.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4002-802f-0002575207d3",
-            "title": "F.E.A.R. 2 MP Picture Pack",
-            "description": "Expand your F.E.A.R. 2 portrait collection with this multiplayer-themed picture pack!  This set includes the light and heavy-armor variants of both factions.  Additionally, you can select from the new skins: Vanek, Halford, and the unmasked Replica! Don’t forget the powerful EPA pictures as well! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 80
-                }
-            },
-            "originalReleaseDate": "/Date(1242896400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4002-802f-0002575207d3",
-            "downloadTypeClass": "GamerPic",
-            "downloadTypeText": "GamerPic",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4003-803f-0003575207d3",
-            "title": "F.E.A.R. 2 MP Premium Theme",
-            "description": "Style your Xbox 360 Dashboard in true multiplayer fashion with the F.E.A.R. 2 MP Premium theme!  See your friends’ avatars placed in scenes from F.E.A.R.’s online experience (watch out for the EPA!).  Enjoy new featured backgrounds, including faction-based insignias of the Replica and ATC, as well as wallpapers from the new Armored Front maps. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 84
-                }
-            },
-            "originalReleaseDate": "/Date(1242896400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0003575207d3",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4002-802f-0001575207d3",
-            "title": "F.E.A.R. 2 Picture Pack",
-            "description": "Continue the F.E.A.R. experience by downloading this picture pack!  Style yourself as ATC, Replica, Alma, or even the supernatural creatures encountered in F.E.A.R. 2: Project Origin! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 216
-                }
-            },
-            "originalReleaseDate": "/Date(1239872400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4002-802f-0001575207d3",
-            "downloadTypeClass": "GamerPic",
-            "downloadTypeText": "GamerPic",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4003-803f-0002575207d3",
-            "title": "F.E.A.R. 2 Premium Theme",
-            "description": "Unleash Alma into your Xbox 360 dashboard with the F.E.A.R. 2: Project Origin theme!  Watch as your friends inhabit some of the game’s most terrifying environments, and let your fears continue as Alma looms in the background!   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 147
-                }
-            },
-            "originalReleaseDate": "/Date(1239926340000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0002575207d3",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$3.13",
-                "silverPrice": "$3.13"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 3.13,
-                    "display": "$3.13",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-000e575207d3",
-            "title": "F.E.A.R 2: Project Origin - EPA Trailer",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 53
-                }
-            },
-            "originalReleaseDate": "/Date(1233824400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0002575207d3",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$6.99",
+				"silverPrice": "$6.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 6.99,
+					"display": "$6.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-0002575207d3",
+			"title": "F.E.A.R. 2 MP Picture Pack",
+			"description": "Expand your F.E.A.R. 2 portrait collection with this multiplayer-themed picture pack!  This set includes the light and heavy-armor variants of both factions.  Additionally, you can select from the new skins: Vanek, Halford, and the unmasked Replica! Don’t forget the powerful EPA pictures as well! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 80
+				}
+			},
+			"originalReleaseDate": "/Date(1242896400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-0002575207d3",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0003575207d3",
+			"title": "F.E.A.R. 2 MP Premium Theme",
+			"description": "Style your Xbox 360 Dashboard in true multiplayer fashion with the F.E.A.R. 2 MP Premium theme!  See your friends’ avatars placed in scenes from F.E.A.R.’s online experience (watch out for the EPA!).  Enjoy new featured backgrounds, including faction-based insignias of the Replica and ATC, as well as wallpapers from the new Armored Front maps. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 84
+				}
+			},
+			"originalReleaseDate": "/Date(1242896400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0003575207d3",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-0001575207d3",
+			"title": "F.E.A.R. 2 Picture Pack",
+			"description": "Continue the F.E.A.R. experience by downloading this picture pack!  Style yourself as ATC, Replica, Alma, or even the supernatural creatures encountered in F.E.A.R. 2: Project Origin! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 216
+				}
+			},
+			"originalReleaseDate": "/Date(1239872400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-0001575207d3",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0002575207d3",
+			"title": "F.E.A.R. 2 Premium Theme",
+			"description": "Unleash Alma into your Xbox 360 dashboard with the F.E.A.R. 2: Project Origin theme!  Watch as your friends inhabit some of the game’s most terrifying environments, and let your fears continue as Alma looms in the background!   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 147
+				}
+			},
+			"originalReleaseDate": "/Date(1239926340000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0002575207d3",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.13",
+				"silverPrice": "$3.13"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.13,
+					"display": "$3.13",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-000e575207d3",
+			"title": "F.E.A.R 2: Project Origin - EPA Trailer",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 53
+				}
+			},
+			"originalReleaseDate": "/Date(1233824400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-000e575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0010575207d3",
-            "title": "F.E.A.R 2: Project Origin - Launch Trailer",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspects that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 53
-                }
-            },
-            "originalReleaseDate": "/Date(1234429200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-000e575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0010575207d3",
+			"title": "F.E.A.R 2: Project Origin - Launch Trailer",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspects that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 53
+				}
+			},
+			"originalReleaseDate": "/Date(1234429200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0010575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0003575207d3",
-            "title": "F.E.A.R. 2: Reborn",
-            "description": "Experience four brand new single-player levels in this additional DLC campaign for F.E.A.R. 2!  Coinciding with the events seen in the full game, you will experience the chaos of Alma’s aftermath from an entirely new point of view: that of Replica Soldier 813.  Your mission begins with an orbital Powered Armor drop to reinforce your fellow Replica squad…  But not everything is as it seems.  Supernatural events run wild in the apocalyptic remains of Auburn.  Another voice is beckoning you; contradicting orders from Replica command.  Find out the answer to this, and many new questions, in the DLC campaign F.E.A.R. 2: Reborn! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 549
-                }
-            },
-            "originalReleaseDate": "/Date(1251982800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0010575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0003575207d3",
+			"title": "F.E.A.R. 2: Reborn",
+			"description": "Experience four brand new single-player levels in this additional DLC campaign for F.E.A.R. 2!  Coinciding with the events seen in the full game, you will experience the chaos of Alma’s aftermath from an entirely new point of view: that of Replica Soldier 813.  Your mission begins with an orbital Powered Armor drop to reinforce your fellow Replica squad…  But not everything is as it seems.  Supernatural events run wild in the apocalyptic remains of Auburn.  Another voice is beckoning you; contradicting orders from Replica command.  Find out the answer to this, and many new questions, in the DLC campaign F.E.A.R. 2: Reborn! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 549
+				}
+			},
+			"originalReleaseDate": "/Date(1251982800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0003575207d3",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$9.99",
-                "silverPrice": "$9.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 9.99,
-                    "display": "$9.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4002-802f-0003575207d3",
-            "title": "F.E.A.R. 2: Reborn Picture Pack",
-            "description": "Download and collect the latest batch of F.E.A.R. 2 portraits from the newest picture pack!  This set draws from prominent faces in the new ‘F.E.A.R. 2: Reborn’ single-player campaign.  You will be able to select from a variety of the Replica Forces: including the sinister assassin, robotic powered armor, and even Paxton Fettel himself! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 107
-                }
-            },
-            "originalReleaseDate": "/Date(1250154000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4002-802f-0003575207d3",
-            "downloadTypeClass": "GamerPic",
-            "downloadTypeText": "GamerPic",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-4003-803f-0004575207d3",
-            "title": "F.E.A.R. 2: Reborn Premium Theme",
-            "description": "Replicate your Xbox 360 Dashboard with the new ‘F.E.A.R. 2 Reborn’ Premium theme!  Style your background with ominous vistas encountered from the new single-player campaign.  Watch your friends occupy some of those same spaces as their avatars are unwittingly thrust into the nightmare.  And beware… Paxton Fettel is watching!   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 117
-                }
-            },
-            "originalReleaseDate": "/Date(1250154000000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0004575207d3",
-            "downloadTypeClass": "Theme",
-            "downloadTypeText": "Theme",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400d-80df-0001575287f4",
-            "title": "F.E.A.R. 2: Reborn SP Demo",
-            "description": "Download the demo today and get a taste of F.E.A.R. 2: Reborn, the latest FEAR 2 single-player DLC campaign!  This all new single-player campaign lets you experience events in the full game from an all new perspective: that of Replica Soldier Foxtrot 813.  Fight through brand new environments and uncover the paranormal secret surrounding your Replica Squad. Struggle to locate who is contradicting your direct orders from Replica Command; you just might recognize it’s a familiar face...",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 1210
-                }
-            },
-            "originalReleaseDate": "/Date(1251968400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0003575207d3",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-0003575207d3",
+			"title": "F.E.A.R. 2: Reborn Picture Pack",
+			"description": "Download and collect the latest batch of F.E.A.R. 2 portraits from the newest picture pack!  This set draws from prominent faces in the new ‘F.E.A.R. 2: Reborn’ single-player campaign.  You will be able to select from a variety of the Replica Forces: including the sinister assassin, robotic powered armor, and even Paxton Fettel himself! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 107
+				}
+			},
+			"originalReleaseDate": "/Date(1250154000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-0003575207d3",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0004575207d3",
+			"title": "F.E.A.R. 2: Reborn Premium Theme",
+			"description": "Replicate your Xbox 360 Dashboard with the new ‘F.E.A.R. 2 Reborn’ Premium theme!  Style your background with ominous vistas encountered from the new single-player campaign.  Watch your friends occupy some of those same spaces as their avatars are unwittingly thrust into the nightmare.  And beware… Paxton Fettel is watching!   There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 117
+				}
+			},
+			"originalReleaseDate": "/Date(1250154000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0004575207d3",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400d-80df-0001575287f4",
+			"title": "F.E.A.R. 2: Reborn SP Demo",
+			"description": "Download the demo today and get a taste of F.E.A.R. 2: Reborn, the latest FEAR 2 single-player DLC campaign!  This all new single-player campaign lets you experience events in the full game from an all new perspective: that of Replica Soldier Foxtrot 813.  Fight through brand new environments and uncover the paranormal secret surrounding your Replica Squad. Struggle to locate who is contradicting your direct orders from Replica Command; you just might recognize it’s a familiar face...",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 1210
+				}
+			},
+			"originalReleaseDate": "/Date(1251968400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001575287f4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400d-80df-0001575287f4",
-            "downloadTypeClass": "GameDemo",
-            "downloadTypeText": "Demo",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400c-80cf-0001575207d3",
-            "title": "FEAR 2: “Toy Soldiers” Map Pack",
-            "description": "Experience FEAR 2 multiplayer from a new perspective. Players are only inches tall as they battle inside a pinball machine, a hospital lab room, and a playground sandbox. FullTilt: Battle inside a retro 1970’s era pinball machine, “Snake Fist” style! Flippers, targets, spinners and pop-bumpers provide cover for the fast paced action. Multi-level playfield and authentic sounds set the mood for destruction! Cockroach: A blood drenched hospital room filled with heart pounding action. Climb up electrical cords, laboratory equipment and pill bottles in a tightly connected environment. Recess: Wage mayhem from the top of a giant sandcastle to the cockpit of a toy bulldozer! Go commando and blend in with plastic army men!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 424
-                }
-            },
-            "originalReleaseDate": "/Date(1240477200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001575287f4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400d-80df-0001575287f4",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0001575207d3",
+			"title": "FEAR 2: “Toy Soldiers” Map Pack",
+			"description": "Experience FEAR 2 multiplayer from a new perspective. Players are only inches tall as they battle inside a pinball machine, a hospital lab room, and a playground sandbox. FullTilt: Battle inside a retro 1970’s era pinball machine, “Snake Fist” style! Flippers, targets, spinners and pop-bumpers provide cover for the fast paced action. Multi-level playfield and authentic sounds set the mood for destruction! Cockroach: A blood drenched hospital room filled with heart pounding action. Climb up electrical cords, laboratory equipment and pill bottles in a tightly connected environment. Recess: Wage mayhem from the top of a giant sandcastle to the cockpit of a toy bulldozer! Go commando and blend in with plastic army men!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 424
+				}
+			},
+			"originalReleaseDate": "/Date(1240477200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-0001575207d3",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0007575207d3",
-            "title": "Fear Alma Vignette Trailer (HD)",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 78
-                }
-            },
-            "originalReleaseDate": "/Date(1232701200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0001575207d3",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0007575207d3",
+			"title": "Fear Alma Vignette Trailer (HD)",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 78
+				}
+			},
+			"originalReleaseDate": "/Date(1232701200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0007575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0002575207d3",
-            "title": "Project Origin Trailer",
-            "description": "FEAR ALMA AGAIN - Alma, a girl with immense power and a thirst for revenge, has unleashed her wrath upon the city of Auburn and thrown it into chaos. A new Special Forces squad Delta is on a routine mission when the city is rocked by a supernatural explosion. You must combat enemy forces and the supernatural as you struggle to find a way to stop Alma and uncover mysterious forces arrayed against you before it’s too late.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 67
-                }
-            },
-            "originalReleaseDate": "/Date(1216198800000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0007575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0002575207d3",
+			"title": "Project Origin Trailer",
+			"description": "FEAR ALMA AGAIN - Alma, a girl with immense power and a thirst for revenge, has unleashed her wrath upon the city of Auburn and thrown it into chaos. A new Special Forces squad Delta is on a routine mission when the city is rocked by a supernatural explosion. You must combat enemy forces and the supernatural as you struggle to find a way to stop Alma and uncover mysterious forces arrayed against you before it’s too late.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 67
+				}
+			},
+			"originalReleaseDate": "/Date(1216198800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Other"
-                },
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0002575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0001575207d3",
-            "title": "Project Origin Trailer (HD)",
-            "description": "Download this trailer. Alma, a girl with immense power and a thirst for revenge, has unleashed her wrath upon the city of Auburn and thrown it into chaos. A new Special Forces squad Delta is on a routine mission when the city is rocked by a supernatural explosion. You must combat enemy forces and the supernatural as you struggle to find a way to stop Alma and uncover mysterious forces arrayed against you before it’s too late.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 74
-                }
-            },
-            "originalReleaseDate": "/Date(1212656400000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0002575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0001575207d3",
+			"title": "Project Origin Trailer (HD)",
+			"description": "Download this trailer. Alma, a girl with immense power and a thirst for revenge, has unleashed her wrath upon the city of Auburn and thrown it into chaos. A new Special Forces squad Delta is on a routine mission when the city is rocked by a supernatural explosion. You must combat enemy forces and the supernatural as you struggle to find a way to stop Alma and uncover mysterious forces arrayed against you before it’s too late.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 74
+				}
+			},
+			"originalReleaseDate": "/Date(1212656400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0008575207d3",
-            "title": "Teaser Trailer (HD)",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 44
-                }
-            },
-            "originalReleaseDate": "/Date(1232701200000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0008575207d3",
+			"title": "Teaser Trailer (HD)",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspect’s that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 44
+				}
+			},
+			"originalReleaseDate": "/Date(1232701200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0008575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000000-0000-400b-80bf-0012575207d3",
-            "title": "The Evolution of F.E.A.R. (HD)",
-            "description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspects that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 84
-                }
-            },
-            "originalReleaseDate": "/Date(1234602000000)/",
-            "contentRating": {
-                "label": "M (Mature)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
-                "age": 17,
-                "purchaseAgeGate": true,
-                "videoAgeGate": true,
-                "descriptors": [
-                    {
-                        "label": "Blood and Gore",
-                        "image": null
-                    },
-                    {
-                        "label": "Intense Violence",
-                        "image": null
-                    },
-                    {
-                        "label": "Partial Nudity",
-                        "image": null
-                    },
-                    {
-                        "label": "Sexual Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Strong Language",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0008575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0012575207d3",
+			"title": "The Evolution of F.E.A.R. (HD)",
+			"description": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham’s highly classified Project Origin. As Alma’s power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham’s secret experiments and reckless agenda, the more he suspects that he’s somehow linked to the crisis and may be the only one capable of averting disaster.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 84
+				}
+			},
+			"originalReleaseDate": "/Date(1234602000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Partial Nudity",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Shooter"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0012575207d3",
-            "downloadTypeClass": "GameVideo",
-            "downloadTypeText": "Video",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0012575207d3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }

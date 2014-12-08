@@ -1,1670 +1,1670 @@
 {
-    "version": "1",
-    "id": "66acd000-77fe-1000-9115-d80257520829",
-    "title": "Injustice: Gods Among Us",
-    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/boxartlg.jpg",
-    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/background.jpg",
-    "downloadTypeClass": "Game",
-    "downloadTypeText": "Game",
-    "platform": "Xbox",
-    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian.  (Online Interactions Not Rated by the ESRB) What if our greatest heroes became our greatest threat?  Injustice: Gods Among Us introduces a bold new franchise to the fighting game genre from NetherRealm Studios, creators of Mortal Kombat.  Featuring DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story. Heroes and villains will engage in epic battles on a massive scale in a world where the line between good and evil has been blurred. ",
-    "genres": [
-        {
-            "label": "Fighting"
-        }
-    ],
-    "publisher": "WB Games, Inc.",
-    "studio": "NetherRealm Studios",
-    "originalReleaseDate": "/Date(1366070400000)/",
-    "contentRating": {
-        "label": "T (Teen)",
-        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-        "age": 13,
-        "purchaseAgeGate": false,
-        "videoAgeGate": false,
-        "descriptors": [
-            {
-                "label": "Blood",
-                "image": null
-            },
-            {
-                "label": "Language",
-                "image": null
-            },
-            {
-                "label": "Suggestive Themes",
-                "image": null
-            },
-            {
-                "label": "Violence",
-                "image": null
-            }
-        ],
-        "disclaimers": [
-            "Online Interactions Not Rated by the ESRB"
-        ]
-    },
-    "trailers": [
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80257520829",
+	"title": "Injustice: Gods Among Us",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian.  (Online Interactions Not Rated by the ESRB) What if our greatest heroes became our greatest threat?  Injustice: Gods Among Us introduces a bold new franchise to the fighting game genre from NetherRealm Studios, creators of Mortal Kombat.  Featuring DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story. Heroes and villains will engage in epic battles on a massive scale in a world where the line between good and evil has been blurred. ",
+	"genres": [
+		{
+			"label": "Fighting"
+		}
+	],
+	"publisher": "WB Games, Inc.",
+	"studio": "NetherRealm Studios",
+	"originalReleaseDate": "/Date(1366070400000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
 
-    ],
-    "gameManual": null,
-    "screenshots": [
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg1.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg2.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg3.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg4.jpg",
-        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg5.jpg"
-    ],
-    "detailsUrl": "/en-US/Product/Injustice-Gods-Among-Us/66acd000-77fe-1000-9115-d80257520829",
-    "userRating": {
-        "allowed": true,
-        "current": {
-            "Aggregate": 4.5,
-            "Count": 33625
-        }
-    },
-    "price": {
-        "goldPrice": "$19.99",
-        "silverPrice": "$19.99"
-    },
-    "prices": [
-        {
-            "method": "currency",
-            "amount": 19.99,
-            "display": "$19.99",
-            "tax": "plus tax",
-            "user": "silver"
-        }
-    ],
-    "childDownloadTypes": [
-        "Game",
-        "GameDemo",
-        "GameVideo",
-        "GameAddon",
-        "AvatarItem"
-    ],
-    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80257520829/Children",
-    "childDownloads": [
-        {
-            "id": "4997221d-9e9b-45e9-8f8c-903183686fa5",
-            "title": "Ame-Comi Skins",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this Ame-Comi Skin Pack. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 277
-                }
-            },
-            "originalReleaseDate": "/Date(1373965200000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520829/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Injustice-Gods-Among-Us/66acd000-77fe-1000-9115-d80257520829",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 33625
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80257520829/Children",
+	"childDownloads": [
+		{
+			"id": "4997221d-9e9b-45e9-8f8c-903183686fa5",
+			"title": "Ame-Comi Skins",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this Ame-Comi Skin Pack. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 277
+				}
+			},
+			"originalReleaseDate": "/Date(1373965200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/4997221d-9e9b-45e9-8f8c-903183686fa5/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/4997221d-9e9b-45e9-8f8c-903183686fa5",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-6965-c2d1-c3dd-10e457520829",
-            "title": "Aquaman Costume ",
-            "description": "No one should mess with The King of Atlantis. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 43
-                }
-            },
-            "originalReleaseDate": "/Date(1363856400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-6965-c2d1-c3dd-10e457520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-6965-c2d1-c3dd-10e457520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-5c61-62e1-c1b4-39b957520829",
-            "title": "Ares Costume ",
-            "description": "Ram down your opponents with this Ares costume. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 34
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-5c61-62e1-c1b4-39b957520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-5c61-62e1-c1b4-39b957520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-cab3-f251-c706-d42457520829",
-            "title": "Ares Helmet ",
-            "description": "Ram down your opponents with this Ares helmet. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 27
-                }
-            },
-            "originalReleaseDate": "/Date(1363078800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-cab3-f251-c706-d42457520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-cab3-f251-c706-d42457520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2f9795f5-285f-4154-9baa-eb9e8c35ead7",
-            "title": "Arkham City Skin Pack",
-            "description": "Defeat your enemies as the sinfully twisted Joker, sly and stealthy Catwoman, or everyone’s favorite caped crusader Batman with the Batman: Arkham City Skin Pack based on the legendary series from Rocksteady Studios. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 555
-                }
-            },
-            "originalReleaseDate": "/Date(1370941200000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4997221d-9e9b-45e9-8f8c-903183686fa5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4997221d-9e9b-45e9-8f8c-903183686fa5",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-6965-c2d1-c3dd-10e457520829",
+			"title": "Aquaman Costume ",
+			"description": "No one should mess with The King of Atlantis. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 43
+				}
+			},
+			"originalReleaseDate": "/Date(1363856400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-6965-c2d1-c3dd-10e457520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-6965-c2d1-c3dd-10e457520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-5c61-62e1-c1b4-39b957520829",
+			"title": "Ares Costume ",
+			"description": "Ram down your opponents with this Ares costume. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 34
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-5c61-62e1-c1b4-39b957520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-5c61-62e1-c1b4-39b957520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-cab3-f251-c706-d42457520829",
+			"title": "Ares Helmet ",
+			"description": "Ram down your opponents with this Ares helmet. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1363078800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-cab3-f251-c706-d42457520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-cab3-f251-c706-d42457520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2f9795f5-285f-4154-9baa-eb9e8c35ead7",
+			"title": "Arkham City Skin Pack",
+			"description": "Defeat your enemies as the sinfully twisted Joker, sly and stealthy Catwoman, or everyone’s favorite caped crusader Batman with the Batman: Arkham City Skin Pack based on the legendary series from Rocksteady Studios. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 555
+				}
+			},
+			"originalReleaseDate": "/Date(1370941200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/2f9795f5-285f-4154-9baa-eb9e8c35ead7/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/2f9795f5-285f-4154-9baa-eb9e8c35ead7",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "2d3c2a44-86c4-4bc0-804b-2fc81eb7e458",
-            "title": "Arrow Skin ",
-            "description": "Become Stephen Amell when you pick up this Green Arrow skin based on the CW’s new hit show Arrow! Look like him, sound like him, and protect your city like him, one enemy at a time. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 184
-                }
-            },
-            "originalReleaseDate": "/Date(1381222800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2f9795f5-285f-4154-9baa-eb9e8c35ead7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2f9795f5-285f-4154-9baa-eb9e8c35ead7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2d3c2a44-86c4-4bc0-804b-2fc81eb7e458",
+			"title": "Arrow Skin ",
+			"description": "Become Stephen Amell when you pick up this Green Arrow skin based on the CW’s new hit show Arrow! Look like him, sound like him, and protect your city like him, one enemy at a time. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 184
+				}
+			},
+			"originalReleaseDate": "/Date(1381222800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/2d3c2a44-86c4-4bc0-804b-2fc81eb7e458/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/2d3c2a44-86c4-4bc0-804b-2fc81eb7e458",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "da48614a-8cfc-40d2-b905-ff9838d1ac9b",
-            "title": "Bad Girls Skins",
-            "description": "Download the Bad Girls Skin Pack featuring Wonder Woman, Catwoman, and Harley Quinn for your Injustice: Gods Among Us DLC collection.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 454
-                }
-            },
-            "originalReleaseDate": "/Date(1367917200000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2d3c2a44-86c4-4bc0-804b-2fc81eb7e458/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2d3c2a44-86c4-4bc0-804b-2fc81eb7e458",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "da48614a-8cfc-40d2-b905-ff9838d1ac9b",
+			"title": "Bad Girls Skins",
+			"description": "Download the Bad Girls Skin Pack featuring Wonder Woman, Catwoman, and Harley Quinn for your Injustice: Gods Among Us DLC collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 454
+				}
+			},
+			"originalReleaseDate": "/Date(1367917200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/da48614a-8cfc-40d2-b905-ff9838d1ac9b/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/da48614a-8cfc-40d2-b905-ff9838d1ac9b",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-f388-42a1-c98c-a69057520829",
-            "title": "Bane Costume ",
-            "description": "Become the only villain to ever break the Bat. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 42
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-f388-42a1-c98c-a69057520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-f388-42a1-c98c-a69057520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000544-b4af-0281-c745-78b457520829",
-            "title": "Bane Mask",
-            "description": "Become the only villain to ever break the Bat. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.25,
-                    "Count": 33
-                }
-            },
-            "originalReleaseDate": "/Date(1363078800000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000544-b4af-0281-c745-78b457520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000544-b4af-0281-c745-78b457520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "26b154cb-d8c3-4e1c-9655-ed0c6d9effa4",
-            "title": "Batgirl ",
-            "description": "Download Batgirl and add to your Injustice: Gods Among Us DLC collection.  ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 824
-                }
-            },
-            "originalReleaseDate": "/Date(1369126800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/da48614a-8cfc-40d2-b905-ff9838d1ac9b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/da48614a-8cfc-40d2-b905-ff9838d1ac9b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-f388-42a1-c98c-a69057520829",
+			"title": "Bane Costume ",
+			"description": "Become the only villain to ever break the Bat. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 42
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-f388-42a1-c98c-a69057520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-f388-42a1-c98c-a69057520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-b4af-0281-c745-78b457520829",
+			"title": "Bane Mask",
+			"description": "Become the only villain to ever break the Bat. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1363078800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-b4af-0281-c745-78b457520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-b4af-0281-c745-78b457520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "26b154cb-d8c3-4e1c-9655-ed0c6d9effa4",
+			"title": "Batgirl ",
+			"description": "Download Batgirl and add to your Injustice: Gods Among Us DLC collection.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 824
+				}
+			},
+			"originalReleaseDate": "/Date(1369126800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/26b154cb-d8c3-4e1c-9655-ed0c6d9effa4/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/26b154cb-d8c3-4e1c-9655-ed0c6d9effa4",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-f114-d281-cb12-902457520829",
-            "title": "Batman Costume ",
-            "description": "Fight crime as the Caped Crusader with this Batman costume. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 89
-                }
-            },
-            "originalReleaseDate": "/Date(1363856400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-f114-d281-cb12-902457520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-f114-d281-cb12-902457520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-5a94-1271-c2e2-7de357520829",
-            "title": "Batman Logo Tee ",
-            "description": "Add this iconic Batman logo tee to your collection from the game, Injustice: Gods Among Us. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 61
-                }
-            },
-            "originalReleaseDate": "/Date(1358240400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-5a94-1271-c2e2-7de357520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-5a94-1271-c2e2-7de357520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000008-5a94-0272-c4bc-9bc457520829",
-            "title": "Batman Logo Tee ",
-            "description": "Add this iconic Batman logo tee to your collection from the game, Injustice: Gods Among Us. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 0,
-                    "Count": 0
-                }
-            },
-            "originalReleaseDate": "/Date(1358240400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000008-5a94-0272-c4bc-9bc457520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000008-5a94-0272-c4bc-9bc457520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$1.00",
-                "silverPrice": "$1.00"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 1,
-                    "display": "$1.00",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ab8-c8aa-b241-c070-dae757520829",
-            "title": "Black Adam Costume ",
-            "description": "Step 1) Decide that you should rule the world. Step 2) Don this costume. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.5,
-                    "Count": 36
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ab8-c8aa-b241-c070-dae757520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ab8-c8aa-b241-c070-dae757520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "665308ce-54c3-4c0f-838e-49c0b71b9b6c",
-            "title": "Blackest Night Pack 1",
-            "description": "With Blackest Night Pack 1, play as the Superman, Doomsday, and The Flash with this new skin pack based on the Blackest Night storyline written by the incomparable Geoff Johns. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 307
-                }
-            },
-            "originalReleaseDate": "/Date(1370941200000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/26b154cb-d8c3-4e1c-9655-ed0c6d9effa4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/26b154cb-d8c3-4e1c-9655-ed0c6d9effa4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-f114-d281-cb12-902457520829",
+			"title": "Batman Costume ",
+			"description": "Fight crime as the Caped Crusader with this Batman costume. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 89
+				}
+			},
+			"originalReleaseDate": "/Date(1363856400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-f114-d281-cb12-902457520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-f114-d281-cb12-902457520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5a94-1271-c2e2-7de357520829",
+			"title": "Batman Logo Tee ",
+			"description": "Add this iconic Batman logo tee to your collection from the game, Injustice: Gods Among Us. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 61
+				}
+			},
+			"originalReleaseDate": "/Date(1358240400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5a94-1271-c2e2-7de357520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5a94-1271-c2e2-7de357520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5a94-0272-c4bc-9bc457520829",
+			"title": "Batman Logo Tee ",
+			"description": "Add this iconic Batman logo tee to your collection from the game, Injustice: Gods Among Us. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1358240400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5a94-0272-c4bc-9bc457520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5a94-0272-c4bc-9bc457520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-c8aa-b241-c070-dae757520829",
+			"title": "Black Adam Costume ",
+			"description": "Step 1) Decide that you should rule the world. Step 2) Don this costume. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 36
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-c8aa-b241-c070-dae757520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-c8aa-b241-c070-dae757520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "665308ce-54c3-4c0f-838e-49c0b71b9b6c",
+			"title": "Blackest Night Pack 1",
+			"description": "With Blackest Night Pack 1, play as the Superman, Doomsday, and The Flash with this new skin pack based on the Blackest Night storyline written by the incomparable Geoff Johns. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 307
+				}
+			},
+			"originalReleaseDate": "/Date(1370941200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/665308ce-54c3-4c0f-838e-49c0b71b9b6c/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/665308ce-54c3-4c0f-838e-49c0b71b9b6c",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "83a660ce-90fc-4c82-9ce8-decaeb5f6e95",
-            "title": "Blackest Night Pack 2",
-            "description": "With Blackest Night Pack 2, play as the Batman, Aquaman, and Hawkgirl with this new skin pack based on the Blackest Night storyline written by the incomparable Geoff Johns. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 195
-                }
-            },
-            "originalReleaseDate": "/Date(1372755600000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/665308ce-54c3-4c0f-838e-49c0b71b9b6c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/665308ce-54c3-4c0f-838e-49c0b71b9b6c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "83a660ce-90fc-4c82-9ce8-decaeb5f6e95",
+			"title": "Blackest Night Pack 2",
+			"description": "With Blackest Night Pack 2, play as the Batman, Aquaman, and Hawkgirl with this new skin pack based on the Blackest Night storyline written by the incomparable Geoff Johns. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 195
+				}
+			},
+			"originalReleaseDate": "/Date(1372755600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/83a660ce-90fc-4c82-9ce8-decaeb5f6e95/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/83a660ce-90fc-4c82-9ce8-decaeb5f6e95",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-64c1-d252-c2fc-8ffd57520829",
-            "title": "Catwoman Costume ",
-            "description": "Whip your enemies into shape when you download this Catwoman costume. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 5,
-                    "Count": 10
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-64c1-d252-c2fc-8ffd57520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-64c1-d252-c2fc-8ffd57520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "6625586d-7c90-421a-ac32-ad2120182269",
-            "title": "Compat Pack 1: Flashpoint Batman Skin ",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this Flashpoint Batman Skin. Please Note: This pack also contains a compatibility update. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 818
-                }
-            },
-            "originalReleaseDate": "/Date(1367312400000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/83a660ce-90fc-4c82-9ce8-decaeb5f6e95/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/83a660ce-90fc-4c82-9ce8-decaeb5f6e95",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-64c1-d252-c2fc-8ffd57520829",
+			"title": "Catwoman Costume ",
+			"description": "Whip your enemies into shape when you download this Catwoman costume. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 5,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-64c1-d252-c2fc-8ffd57520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-64c1-d252-c2fc-8ffd57520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6625586d-7c90-421a-ac32-ad2120182269",
+			"title": "Compat Pack 1: Flashpoint Batman Skin ",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this Flashpoint Batman Skin. Please Note: This pack also contains a compatibility update. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 818
+				}
+			},
+			"originalReleaseDate": "/Date(1367312400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/6625586d-7c90-421a-ac32-ad2120182269/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/6625586d-7c90-421a-ac32-ad2120182269",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "557496e5-aec9-41fb-943a-a8ebe11671b5",
-            "title": "Compat Pack 2: Lucidore Bane Skin ",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this Lucidore Bane Skin. Please Note: This pack also contains a compatibility update. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 499
-                }
-            },
-            "originalReleaseDate": "/Date(1369126800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6625586d-7c90-421a-ac32-ad2120182269/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6625586d-7c90-421a-ac32-ad2120182269",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "557496e5-aec9-41fb-943a-a8ebe11671b5",
+			"title": "Compat Pack 2: Lucidore Bane Skin ",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this Lucidore Bane Skin. Please Note: This pack also contains a compatibility update. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 499
+				}
+			},
+			"originalReleaseDate": "/Date(1369126800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/557496e5-aec9-41fb-943a-a8ebe11671b5/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/557496e5-aec9-41fb-943a-a8ebe11671b5",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "239a7c2b-dad1-47be-aaf5-6fc98aaf1baa",
-            "title": "Compat Pack 3: Containment Suit Doomsday Skin",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this Containment Suit Doomsday Skin. Please Note: This pack also contains a compatibility update.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 439
-                }
-            },
-            "originalReleaseDate": "/Date(1370941200000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/557496e5-aec9-41fb-943a-a8ebe11671b5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/557496e5-aec9-41fb-943a-a8ebe11671b5",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "239a7c2b-dad1-47be-aaf5-6fc98aaf1baa",
+			"title": "Compat Pack 3: Containment Suit Doomsday Skin",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this Containment Suit Doomsday Skin. Please Note: This pack also contains a compatibility update.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 439
+				}
+			},
+			"originalReleaseDate": "/Date(1370941200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/239a7c2b-dad1-47be-aaf5-6fc98aaf1baa/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/239a7c2b-dad1-47be-aaf5-6fc98aaf1baa",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "b536c481-d8c4-4f0c-9855-db91142644e6",
-            "title": "Compat Pack 4: Classic Ares Skin ",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this Classic Ares Skin. Please Note: This pack also contains a compatibility update. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 249
-                }
-            },
-            "originalReleaseDate": "/Date(1372755600000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/239a7c2b-dad1-47be-aaf5-6fc98aaf1baa/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/239a7c2b-dad1-47be-aaf5-6fc98aaf1baa",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b536c481-d8c4-4f0c-9855-db91142644e6",
+			"title": "Compat Pack 4: Classic Ares Skin ",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this Classic Ares Skin. Please Note: This pack also contains a compatibility update. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 249
+				}
+			},
+			"originalReleaseDate": "/Date(1372755600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/b536c481-d8c4-4f0c-9855-db91142644e6/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/b536c481-d8c4-4f0c-9855-db91142644e6",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "1a790cb4-ef2a-47d8-9c70-fd928b9dd1a0",
-            "title": "Compat Pack 5: John Stewart Green Lantern",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this John Stewart Green Lantern Skin. Please Note: This pack also contains a compatibility update. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 307
-                }
-            },
-            "originalReleaseDate": "/Date(1375174800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b536c481-d8c4-4f0c-9855-db91142644e6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b536c481-d8c4-4f0c-9855-db91142644e6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1a790cb4-ef2a-47d8-9c70-fd928b9dd1a0",
+			"title": "Compat Pack 5: John Stewart Green Lantern",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this John Stewart Green Lantern Skin. Please Note: This pack also contains a compatibility update. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 307
+				}
+			},
+			"originalReleaseDate": "/Date(1375174800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/1a790cb4-ef2a-47d8-9c70-fd928b9dd1a0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/1a790cb4-ef2a-47d8-9c70-fd928b9dd1a0",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "25a94e1a-0b64-43c5-b934-d7f08ca4979d",
-            "title": "Compat Pack 6: Cyborg Superman Skin ",
-            "description": "Add to your Injustice: Gods Among Us DLC collection with this Cyborg Superman skin. Please Note: This pack also contains a compatibility update. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.5,
-                    "Count": 288
-                }
-            },
-            "originalReleaseDate": "/Date(1376384400000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1a790cb4-ef2a-47d8-9c70-fd928b9dd1a0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1a790cb4-ef2a-47d8-9c70-fd928b9dd1a0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "25a94e1a-0b64-43c5-b934-d7f08ca4979d",
+			"title": "Compat Pack 6: Cyborg Superman Skin ",
+			"description": "Add to your Injustice: Gods Among Us DLC collection with this Cyborg Superman skin. Please Note: This pack also contains a compatibility update. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 288
+				}
+			},
+			"originalReleaseDate": "/Date(1376384400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Action & Adventure"
-                },
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/25a94e1a-0b64-43c5-b934-d7f08ca4979d/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/25a94e1a-0b64-43c5-b934-d7f08ca4979d",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "Free",
-                "silverPrice": "Free"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 0,
-                    "display": "Free",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-ee9a-d281-cbb5-0f8557520829",
-            "title": "Cyborg Costume ",
-            "description": "Don't miss your chance to be the bionic superhero Cyborg!",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 37
-                }
-            },
-            "originalReleaseDate": "/Date(1363856400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-ee9a-d281-cbb5-0f8557520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-ee9a-d281-cbb5-0f8557520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-f10a-7241-cd65-de3657520829",
-            "title": "Deathstroke Costume ",
-            "description": "Unleash your inner assassin with this Deathstroke costume. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 58
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-f10a-7241-cd65-de3657520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-f10a-7241-cd65-de3657520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-de06-22d1-c142-f5b157520829",
-            "title": "Doomsday Costume ",
-            "description": "Go berserk on all of your opponents as Doomsday. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 3.75,
-                    "Count": 43
-                }
-            },
-            "originalReleaseDate": "/Date(1364893200000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-de06-22d1-c142-f5b157520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-de06-22d1-c142-f5b157520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "8eb38e58-13fa-42d7-9b1d-7c112625fd14",
-            "title": "Earth 2 Pack ",
-            "description": "Add Solomon Grundy, The Flash, and Hawkgirl to your Injustice: Gods Among Us DLC collection with this Earth 2 Pack. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 164
-                }
-            },
-            "originalReleaseDate": "/Date(1372755600000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/25a94e1a-0b64-43c5-b934-d7f08ca4979d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/25a94e1a-0b64-43c5-b934-d7f08ca4979d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-ee9a-d281-cbb5-0f8557520829",
+			"title": "Cyborg Costume ",
+			"description": "Don't miss your chance to be the bionic superhero Cyborg!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 37
+				}
+			},
+			"originalReleaseDate": "/Date(1363856400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-ee9a-d281-cbb5-0f8557520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-ee9a-d281-cbb5-0f8557520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-f10a-7241-cd65-de3657520829",
+			"title": "Deathstroke Costume ",
+			"description": "Unleash your inner assassin with this Deathstroke costume. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 58
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-f10a-7241-cd65-de3657520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-f10a-7241-cd65-de3657520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-de06-22d1-c142-f5b157520829",
+			"title": "Doomsday Costume ",
+			"description": "Go berserk on all of your opponents as Doomsday. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 43
+				}
+			},
+			"originalReleaseDate": "/Date(1364893200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-de06-22d1-c142-f5b157520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-de06-22d1-c142-f5b157520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8eb38e58-13fa-42d7-9b1d-7c112625fd14",
+			"title": "Earth 2 Pack ",
+			"description": "Add Solomon Grundy, The Flash, and Hawkgirl to your Injustice: Gods Among Us DLC collection with this Earth 2 Pack. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 164
+				}
+			},
+			"originalReleaseDate": "/Date(1372755600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/8eb38e58-13fa-42d7-9b1d-7c112625fd14/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/8eb38e58-13fa-42d7-9b1d-7c112625fd14",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "60db0296-fcf2-4592-9cbf-49febdb19ab0",
-            "title": "Flashpoint Skin Pack ",
-            "description": "With the Flashpoint Skin Pack, gain access to skins for Aquaman, Wonder Woman, and Deathstroke from this alternate DC universe. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 542
-                }
-            },
-            "originalReleaseDate": "/Date(1366102800000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8eb38e58-13fa-42d7-9b1d-7c112625fd14/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8eb38e58-13fa-42d7-9b1d-7c112625fd14",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "60db0296-fcf2-4592-9cbf-49febdb19ab0",
+			"title": "Flashpoint Skin Pack ",
+			"description": "With the Flashpoint Skin Pack, gain access to skins for Aquaman, Wonder Woman, and Deathstroke from this alternate DC universe. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 542
+				}
+			},
+			"originalReleaseDate": "/Date(1366102800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/60db0296-fcf2-4592-9cbf-49febdb19ab0/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/60db0296-fcf2-4592-9cbf-49febdb19ab0",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$2.99",
-                "silverPrice": "$2.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 2.99,
-                    "display": "$2.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "28daecf5-115d-4718-a253-083d3f5e900f",
-            "title": "General Zod Character Add-On ",
-            "description": "Download General Zod, one of Superman's greatest enemies, for your Injustice: Gods Among Us DLC collection. ",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4,
-                    "Count": 482
-                }
-            },
-            "originalReleaseDate": "/Date(1372755600000)/",
-            "contentRating": {
-                "label": "T (Teen)",
-                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
-                "age": 13,
-                "purchaseAgeGate": false,
-                "videoAgeGate": false,
-                "descriptors": [
-                    {
-                        "label": "Blood",
-                        "image": null
-                    },
-                    {
-                        "label": "Language",
-                        "image": null
-                    },
-                    {
-                        "label": "Suggestive Themes",
-                        "image": null
-                    },
-                    {
-                        "label": "Violence",
-                        "image": null
-                    }
-                ],
-                "disclaimers": [
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/60db0296-fcf2-4592-9cbf-49febdb19ab0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/60db0296-fcf2-4592-9cbf-49febdb19ab0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "28daecf5-115d-4718-a253-083d3f5e900f",
+			"title": "General Zod Character Add-On ",
+			"description": "Download General Zod, one of Superman's greatest enemies, for your Injustice: Gods Among Us DLC collection. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 482
+				}
+			},
+			"originalReleaseDate": "/Date(1372755600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
 
-                ]
-            },
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/28daecf5-115d-4718-a253-083d3f5e900f/1033/boxartlg.jpg",
-            "url": "/en-US/X8/Game/28daecf5-115d-4718-a253-083d3f5e900f",
-            "downloadTypeClass": "GameAddon",
-            "downloadTypeText": "Add-on",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        },
-        {
-            "id": "00000ffc-4d83-9241-c7a5-d5d357520829",
-            "title": "Green Arrow Costume ",
-            "description": "Bring outlaws to justice across the globe with this Green Arrow costume.",
-            "userRating": {
-                "allowed": true,
-                "current": {
-                    "Aggregate": 4.25,
-                    "Count": 53
-                }
-            },
-            "originalReleaseDate": "/Date(1363856400000)/",
-            "contentRating": null,
-            "childDownloadTypes": null,
-            "genres": [
-                {
-                    "label": "Fighting"
-                }
-            ],
-            "image": "http://download.xbox.com/content/images/00000ffc-4d83-9241-c7a5-d5d357520829/1033/thumblg.png",
-            "url": "/en-US/X8/Game/00000ffc-4d83-9241-c7a5-d5d357520829",
-            "downloadTypeClass": "AvatarItem",
-            "downloadTypeText": "Avatar",
-            "platform": "Xbox",
-            "price": {
-                "goldPrice": "$4.99",
-                "silverPrice": "$4.99"
-            },
-            "prices": [
-                {
-                    "method": "currency",
-                    "amount": 4.99,
-                    "display": "$4.99",
-                    "tax": "plus tax",
-                    "user": "silver"
-                }
-            ]
-        }
-    ]
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/28daecf5-115d-4718-a253-083d3f5e900f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/28daecf5-115d-4718-a253-083d3f5e900f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-4d83-9241-c7a5-d5d357520829",
+			"title": "Green Arrow Costume ",
+			"description": "Bring outlaws to justice across the globe with this Green Arrow costume.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 53
+				}
+			},
+			"originalReleaseDate": "/Date(1363856400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-4d83-9241-c7a5-d5d357520829/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-4d83-9241-c7a5-d5d357520829",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
 }
