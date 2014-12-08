@@ -1,0 +1,131 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80242560819",
+    "title": "Toy Story Mania!",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French, Italian, Spanish, Danish, Dutch, Norwegian, Russian,  Swedish.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Join all of the classic Toy Story characters as Woody, Buzz and the rest of the gang stage their own zany, fun-filled carnival.  Inspired by the 4D attractions at Disneyland and Walt Disney World, “Toy Story Mania!” allows players to participate in 30 carnival-inspired shooting galleries.  Includes a variety of addictive mini-games and power-ups that will enhance your overall gameplay experience.",
+    "genres": [
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Kinect"
+        }
+    ],
+    "publisher": "Disney Interactive Studios",
+    "studio": "High Voltage Software",
+    "originalReleaseDate": "/Date(1351555200000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Comic Mischief",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/42560819/GUAI000033_TSM_X360_Manual_ENG.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/screenlg2.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Toy-Story-Mania/66acd000-77fe-1000-9115-d80242560819",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.25,
+            "Count": 1473
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560819/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d80242560819",
+            "title": "Toy Story Mania!",
+            "description": "The Games on Demand version supports English, French, Italian, Spanish, Danish, Dutch, Norwegian, Russian,  Swedish.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Join all of the classic Toy Story characters as Woody, Buzz and the rest of the gang stage their own zany, fun-filled carnival.  Inspired by the 4D attractions at Disneyland and Walt Disney World, “Toy Story Mania!” allows players to participate in 30 carnival-inspired shooting galleries.  Includes a variety of addictive mini-games and power-ups that will enhance your overall gameplay experience.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 1473
+                }
+            },
+            "originalReleaseDate": "/Date(1371546000000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Comic Mischief",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560819/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560819",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

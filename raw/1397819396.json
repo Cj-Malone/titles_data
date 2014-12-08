@@ -1,0 +1,1792 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80253510804",
+    "title": "Hitman: Absolution",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Wear the suit of the ultimate assassin, you have the ability to blend into plain sight, kill with your bare hands and fashion a weapon from almost anything. You are Agent 47, the world's deadliest assassin. ",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "Square Enix",
+    "studio": "Io Interactive",
+    "originalReleaseDate": "/Date(1361836800000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Intense Violence",
+                "image": null
+            },
+            {
+                "label": "Partial Nudity",
+                "image": null
+            },
+            {
+                "label": "Sexual Themes",
+                "image": null
+            },
+            {
+                "label": "Strong Language",
+                "image": null
+            },
+            {
+                "label": "Use of Drugs",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/53510804/HMA_360_MAN_OD_ENG.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/screenlg6.jpg"
+    ],
+    "detailsUrl": "/en-us/Product/Hitman-Absolution/66acd000-77fe-1000-9115-d80253510804",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 41569
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameVideo",
+        "GameAddon",
+        "Theme",
+        "AvatarItem"
+    ],
+    "childDownloadsUrl": "/en-us/X8/Game/66acd000-77fe-1000-9115-d80253510804/Children",
+    "childDownloads": [
+        {
+            "id": "00001000-6f88-4263-cd51-115f53510804",
+            "title": "47's brief case",
+            "description": "47's briefcase holding the equipment.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 24
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-6f88-4263-cd51-115f53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-6f88-4263-cd51-115f53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "738cbc14-46f5-4f24-a503-8fc298f97423",
+            "title": "Agency HX UMP",
+            "description": "The Agency HX UMP is a powerful high-caliber SMG. This weapon is also included in the Agency Gun Pack DLC.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 54
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/738cbc14-46f5-4f24-a503-8fc298f97423/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/738cbc14-46f5-4f24-a503-8fc298f97423",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "25bee0cf-8a95-4a10-9bbd-952aad541ca2",
+            "title": "Agency Jagd P22G",
+            "description": "The Agency Jagd P22G is a modern top-tier pistol. This weapon is also included in the Agency Gun Pack DLC.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 56
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/25bee0cf-8a95-4a10-9bbd-952aad541ca2/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/25bee0cf-8a95-4a10-9bbd-952aad541ca2",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "8a199285-e05c-482a-957c-3b6f14e94c98",
+            "title": "Agency SPS 12",
+            "description": "The Agency SPS 12 is a brutal semi-automatic shotgun. This weapon is also included in the Agency Gun Pack DLC.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 52
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/8a199285-e05c-482a-957c-3b6f14e94c98/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/8a199285-e05c-482a-957c-3b6f14e94c98",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-5890-8202-cebe-bf3a53510804",
+            "title": "Agent 47 Outfit",
+            "description": "Wear the classic suit of the world's deadliest assassin.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-5890-8202-cebe-bf3a53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ab8-5890-8202-cebe-bf3a53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-f5db-12d1-c7a0-908353510804",
+            "title": "Agent 47 Outfit",
+            "description": "Wear the classic suit of the world's deadliest assassin.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 97
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-f5db-12d1-c7a0-908353510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ab8-f5db-12d1-c7a0-908353510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000030-6f66-32e2-c7bc-d48753510804",
+            "title": "Black Trousers",
+            "description": "Agent 47 black trousers.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000030-6f66-32e2-c7bc-d48753510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000030-6f66-32e2-c7bc-d48753510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000030-db81-3201-c23a-cb0553510804",
+            "title": "Black Trousers",
+            "description": "Agent 47 black trousers.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 20
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000030-db81-3201-c23a-cb0553510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000030-db81-3201-c23a-cb0553510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "7b7d7f4f-a91f-4243-8cf5-75cf578462c7",
+            "title": "Hitman Absolution Bronson M1928 submachinegun",
+            "description": "The Bronson M1928 is a classic submachine gun with high fire rate and deadly stopping power. This gun is also included in the Public Enemy Pack, which is included in the Suit and Gun Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 72
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/7b7d7f4f-a91f-4243-8cf5-75cf578462c7/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/7b7d7f4f-a91f-4243-8cf5-75cf578462c7",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "1bf69c3c-8262-427a-bef5-076316a86f9d",
+            "title": "Hitman Absolution Deus Ex Suit",
+            "description": "Dress Agent 47 in the iconic combat armor used by Adam Jensen in Deus Ex: Human Revolution and get better protection from firearms with advanced armor.  This outfit is also available as part of the Suit and Gun Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 112
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/1bf69c3c-8262-427a-bef5-076316a86f9d/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/1bf69c3c-8262-427a-bef5-076316a86f9d",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "c47d514e-2aff-4309-8601-26be0d233b3b",
+            "title": "Hitman Absolution Deus Ex 'Zenith' Gun",
+            "description": "The Zenith pistol was the handgun of choice for Adam Jensen in Deus Ex: Human Revolution and can now be used by Agent 47 in Hitman Absolution. The 10mm compact pistol can be equipped with a Stenier-Bisley silencer to make sure that Agent 47's missions can be completed like a Silent Assassin. The Zenith handgun is also available as part of the Suit and Gun Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 125
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/c47d514e-2aff-4309-8601-26be0d233b3b/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/c47d514e-2aff-4309-8601-26be0d233b3b",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "6de84e69-f320-4e90-8029-1fbf91615af8",
+            "title": "Hitman Absolution English Language Pack",
+            "description": "Download the FREE English language pack for Hitman Absolution and get access to the original audio recorded for the game. This download pack will add the ability to select ‘English’ audio in the Options menu.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 237
+                }
+            },
+            "originalReleaseDate": "/Date(1356080400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/6de84e69-f320-4e90-8029-1fbf91615af8/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/6de84e69-f320-4e90-8029-1fbf91615af8",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000880-481f-a251-c991-d29953510804",
+            "title": "Gloves",
+            "description": "Black leather gloves for the professional. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 37
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000880-481f-a251-c991-d29953510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000880-481f-a251-c991-d29953510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000880-f8e0-4202-c5fc-a0b753510804",
+            "title": "Gloves",
+            "description": "Black leather gloves for the professional. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1308214800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000880-f8e0-4202-c5fc-a0b753510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000880-f8e0-4202-c5fc-a0b753510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "defd5277-27ce-44eb-b58e-80bda32b7f02",
+            "title": "Hitman Absolution High Roller Suit",
+            "description": "The High Roller suit dresses Agent 47 in a fancy tuxedo. The High Roller suit is also included in the High Roller Pack, which is also available in the Suit and Gun Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 63
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/defd5277-27ce-44eb-b58e-80bda32b7f02/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/defd5277-27ce-44eb-b58e-80bda32b7f02",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "a3d5c71c-118f-4e71-8a2d-71a132e8ed4d",
+            "title": "Hitman Absolution High Tech Suit",
+            "description": "The High Tech suit prepares Agent 47 for action with 50% increased armor. The High Tech suit is also available as part of the High Tech Pack, which is included in the Suit and Gun Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 113
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/a3d5c71c-118f-4e71-8a2d-71a132e8ed4d/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/a3d5c71c-118f-4e71-8a2d-71a132e8ed4d",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80253510804",
+            "title": "Hitman: Absolution",
+            "description": "The Games on Demand version supports English  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Wear the suit of the ultimate assassin, you have the ability to blend into plain sight, kill with your bare hands and fashion a weapon from almost anything. You are Agent 47, the world's deadliest assassin. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 41569
+                }
+            },
+            "originalReleaseDate": "/Date(1361869200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameVideo",
+                "GameAddon",
+                "Theme",
+                "AvatarItem"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/66acd000-77fe-1000-9115-d80253510804",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "41941862-f811-44f3-a5a9-de3451315ee7",
+            "title": "Hitman: Absolution Trailer - ICA File B. Travis",
+            "description": "This is the second video in \"The International Contract Agency Files\" series, which provide an in-depth background check on the main cast in HITMAN: ABSOLUTION. Featuring exclusive art from comic artist Ben Oliver, the second file introduces ICA handler Benjamin Travis, a new character in the Hitman universe.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 404
+                }
+            },
+            "originalReleaseDate": "/Date(1338541200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/41941862-f811-44f3-a5a9-de3451315ee7",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-6109-4271-c6cb-7f3953510804",
+            "title": "Chipmunk Outfit",
+            "description": "Disguise yourself as a Chipmunk – just like you can in Hitman Absolution.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 10
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-6109-4271-c6cb-7f3953510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-6109-4271-c6cb-7f3953510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-4b38-b291-cb39-85be53510804",
+            "title": "Fleur de Lys Long Sleeve Top",
+            "description": "A stylish long sleeve top emblazoned with the iconic Fleur de Lys icon.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-4b38-b291-cb39-85be53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000208-4b38-b291-cb39-85be53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "1c2bd9d8-8386-4a17-a894-f948af32a28e",
+            "title": "Hitman Absolution Bartoli Custom Pistol",
+            "description": "The Bartoli Custom Pistol is an engineered precision weapon complete with sight and silencer. This weapon is also available as part of the High Tech Pack, which is included in the Suit and Gun Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 85
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/1c2bd9d8-8386-4a17-a894-f948af32a28e/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/1c2bd9d8-8386-4a17-a894-f948af32a28e",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-f804-62e1-c174-01ee53510804",
+            "title": "ICA Long Sleeve Top",
+            "description": "Join the ICA with this long sleeve top.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-f804-62e1-c174-01ee53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000208-f804-62e1-c174-01ee53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-6e69-9271-c6ee-6cef53510804",
+            "title": "Barcode T-shirt",
+            "description": "Agent 47’s iconic barcode but now on a t-shirt!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-6e69-9271-c6ee-6cef53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000008-6e69-9271-c6ee-6cef53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-782c-a272-c48e-77d753510804",
+            "title": "Hitman: Absolution 'Original Assassin' T-Shirt (Red)",
+            "description": "Show that you are the 'Original Assassin' with this new Hitman T-shirt in red.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1339491600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-782c-a272-c48e-77d753510804/0/thumblg.png",
+            "url": "/en-us/X8/Game/00000008-782c-a272-c48e-77d753510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-7a36-1211-cbee-a01c53510804",
+            "title": "Trapstar x Hitman Top",
+            "description": "Get this Hitman top that was designed by Trapstar.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-7a36-1211-cbee-a01c53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000008-7a36-1211-cbee-a01c53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-d097-1222-c09d-9fcf53510804",
+            "title": "Hitman: Absolution 'Original Assassin' T-Shirt (Black)",
+            "description": "Show that you are the 'Original Assassin' with this new Hitman T-shirt in black.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1339491600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-d097-1222-c09d-9fcf53510804/0/thumblg.png",
+            "url": "/en-us/X8/Game/00000008-d097-1222-c09d-9fcf53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "48abeb59-3bc7-404d-a5ee-4f286af15703",
+            "title": "Hitman: Absolution - Attack of The Saints Trailer",
+            "description": "Agent 47 faces eight assassins known as 'The Saints', a team of undercover field operatives managed by ICA handler Benjamin Travis. A highly-trained, full deployment force, they have been tasked with eliminating Agent 47 at the Waikiki Motel.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 376
+                }
+            },
+            "originalReleaseDate": "/Date(1338368400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Use of Drugs",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510804/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/48abeb59-3bc7-404d-a5ee-4f286af15703",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000278-ce13-8271-c306-db9b53510804",
+            "title": "Blake Dexter Outfit",
+            "description": "Blake Dexter is a ruthless, intimidating businessman. Get his outfit but watch out for 47...",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000278-ce13-8271-c306-db9b53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000278-ce13-8271-c306-db9b53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000040-f4dc-32b3-ce55-93af53510804",
+            "title": "Rubber Duck Hat",
+            "description": "Wear the famous Hitman rubber duck - as a hat!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000040-f4dc-32b3-ce55-93af53510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000040-f4dc-32b3-ce55-93af53510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-fe91-a261-c423-254553510804",
+            "title": "47 T-shirt",
+            "description": "A classic t-shirt for fans of Agent 47.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-fe91-a261-c423-254553510804/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000008-fe91-a261-c423-254553510804",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

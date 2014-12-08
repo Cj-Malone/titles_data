@@ -1,0 +1,988 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80243430830",
+    "title": "Lost Planet 3",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese, Japanese, Polish, Russian.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  With numerous multiplayer modes and a highly engrossing cinematic single player experience, Lost Planet 3 delves deeper into the Lost Planet universe, uncovering hidden truths within the unique environment of E.D.N. III.",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "Capcom",
+    "studio": "Spark Unlimited",
+    "originalReleaseDate": "/Date(1377561600000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Language",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+        "http://download.xbox.com/content/43430830/LP3_ESRB.asx"
+    ],
+    "gameManual": "http://download.xbox.com/content/43430830/LP3_X360_ENG_GOD_MAN.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/screenlg7.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Lost-Planet-3/66acd000-77fe-1000-9115-d80243430830",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.5,
+            "Count": 6735
+        }
+    },
+    "price": {
+        "goldPrice": "$39.99",
+        "silverPrice": "$39.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 39.99,
+            "display": "$39.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameVideo",
+        "GameAddon"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430830/Children",
+    "childDownloads": [
+        {
+            "id": "b5a83f77-1ad6-4831-9739-3a85f1999d0a",
+            "title": "A Dangerous Secret",
+            "description": "The Lost Planet's most dangerous secrets are unearthed, forging uneasy alliances and unmasking old foes. Jim must decide who to trust, and what to fight for in a deadly battle for his family, friends and the future of E.D.N. III.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 66
+                }
+            },
+            "originalReleaseDate": "/Date(1363683600000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/b5a83f77-1ad6-4831-9739-3a85f1999d0a",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "7cef5cf5-e7e7-4b02-ad02-22f835e3f627",
+            "title": "Assault Pack",
+            "description": "Download the Assault Pack for Lost Planet 3, and get up close and personal with devastating close-range multiplayer weapons and powerful single player rig upgrades!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 28
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/7cef5cf5-e7e7-4b02-ad02-22f835e3f627/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/7cef5cf5-e7e7-4b02-ad02-22f835e3f627",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "5726a153-63b4-4434-8dc9-5f90cb929751",
+            "title": "Lost Planet 3",
+            "description": "This compatibility pack is required to play online with other users who have installed downloadable content",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 99
+                }
+            },
+            "originalReleaseDate": "/Date(1377594000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/5726a153-63b4-4434-8dc9-5f90cb929751/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/5726a153-63b4-4434-8dc9-5f90cb929751",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "3387b31b-d251-40c9-b079-1aa3963d5486",
+            "title": "Freedom Fighter Pack",
+            "description": "Download the Freedom Fighter pack for Lost Planet 3 and customise your multi-player modes with 5 unique characters, including Hunk from Resident Evil, and awesome single player upgrades for your rig!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 27
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/3387b31b-d251-40c9-b079-1aa3963d5486/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/3387b31b-d251-40c9-b079-1aa3963d5486",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80243430830",
+            "title": "Lost Planet 3",
+            "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese, Japanese, Polish, Russian.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  With numerous multiplayer modes and a highly engrossing cinematic single player experience, Lost Planet 3 delves deeper into the Lost Planet universe, uncovering hidden truths within the unique environment of E.D.N. III.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 6735
+                }
+            },
+            "originalReleaseDate": "/Date(1378458000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameVideo",
+                "GameAddon"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80243430830",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$39.99",
+                "silverPrice": "$39.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 39.99,
+                    "display": "$39.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "97d2b39b-0811-4d47-a6bf-c74a96b855d1",
+            "title": "Lost Planet 3 Announcement Trailer",
+            "description": "Lost Planet is set for an exhilarating return, coming in early 2013! The extreme and bitterly hostile conditions that characterized the Lost Planet series is back, harsher and more deadly than ever before. With compelling campaign mode, original new story and multiplayer modes packed with action, Lost Planet 3 is like nothing else. Watch the announcement trailer now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 285
+                }
+            },
+            "originalReleaseDate": "/Date(1336986000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/97d2b39b-0811-4d47-a6bf-c74a96b855d1",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "2aa1abe6-14a4-4b30-b625-ed2ef63feb59",
+            "title": "Lost Planet 3 E3 trailer",
+            "description": "The colonization has just begun, but the frozen world of  E.D.N. III does not want to be tamed. Minus 100 degree ice storms and deadly alien Akrids threaten at every turn. Few have what it takes to survive.  Jim Peyton has the drive,  determination and a 5 ton rig to get the job done, but the Lost Planet has yet to reveal its biggest secrets. Survival is not enough",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 281
+                }
+            },
+            "originalReleaseDate": "/Date(1338886800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/2aa1abe6-14a4-4b30-b625-ed2ef63feb59",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "0b3f046f-a6a1-4f6e-97c7-8bcb7ff6dc7f",
+            "title": "Lost Planet 3 GamesCom trailer",
+            "description": "The Lost Planet  has dark secrets and Jim Peyton is begining to realise the -100ºC storms and Akrid aren't the only things that can get him killed. Tensions are building at the base and an unknown faction seems to be stalking Jim on every mission that takes him out into the frozen wastes of E.D.N III. Desperate to get home, but driven by the need to support his family Jim continues to tough it out against increasingly hostile forces.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 97
+                }
+            },
+            "originalReleaseDate": "/Date(1346662800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/0b3f046f-a6a1-4f6e-97c7-8bcb7ff6dc7f",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "f2d01209-d88d-4caa-8ae0-ddce0b010271",
+            "title": "Map Pack 1",
+            "description": "Expand your Lost Planet 3 multiplayer experience with 2 extra maps.  In Octagon, NEVEC and the Snow Pirates fight for control over an underground military base. NEVEC must stop the Snow Pirates from sabotaging the secret Akrid testing being done in the nesting rooms. Close quarter combat will have each side fighting for control in deadly circumstances.  In Spire, NEVEC and Snow Pirates fight for dominance over a key strategic location high above the ground. Seize each control point to exert dominance. Vital Suits are key in this large, open area. Use them to exert power over the other team and face off against the opposing teams Vital Suits in epic battles.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 28
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/f2d01209-d88d-4caa-8ae0-ddce0b010271/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/f2d01209-d88d-4caa-8ae0-ddce0b010271",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "316629d2-f704-4c37-ae59-ec6cf396fc65",
+            "title": "Map Pack 2",
+            "description": "Expand your Lost Planet 3 multiplayer experience with 2 extra maps.  In Synapse, NEVEC and Snow Pirates have travelled deep into the Nushi interior to come face to face with something never seen before. Fight the large Akrid to take the Thermal Energy canister back to your extraction point. Prevent the opposing team from doing so, or suffer bitter loss.  In Inferno, NEVEC and Snow Pirates fight in a hectic, vertical area located in Pickett’s Folly. Danger comes in every facet. Obtain the scattered Thermal Energy and secure it for your team. Prevent the opposing team from doing so by using any means necessary. Grappling and zip line usage are key to winning. Just watch out for the lava…",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 24
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/316629d2-f704-4c37-ae59-ec6cf396fc65/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/316629d2-f704-4c37-ae59-ec6cf396fc65",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "3322182c-e8ea-45a0-87b1-16a4da2ae016",
+            "title": "Map Pack 3",
+            "description": "Expand your Lost Planet 3 multiplayer experience with 2 extra maps.  In Convoy Chasm, NEVEC is escorting a battle cat through a mountain pass, carrying vital secrets. As the Snow Pirates learn about this, they ambush the Convoy in the pass. Prevent NEVEC from getting through the Chasm as the Snow Pirates. As NEVEC, get through at all costs. With verticality playing a key role, use whatever means necessary to help your team succeed.  In Siege, NEVEC and Snow Pirates fight over a military base key to NEVEC’s military operations. As Snow Pirates, break in at all costs, secure the Pure Thermal Energy and get out of there using the air transport as quickly as possible.  As NEVEC, prevent the Snow Pirates from their smash and grab tactics and secure the base.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 23
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/3322182c-e8ea-45a0-87b1-16a4da2ae016/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/3322182c-e8ea-45a0-87b1-16a4da2ae016",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "7e57bd5f-e1c3-41c2-bc51-9024dd648948",
+            "title": "Multiplayer Trailer",
+            "description": "Suit up for online multiplayer, and fight against deadly Akrid and each other amidst the unforgiving environments of E.D.N. III. Upgrade and customize your loadouts to conquer the battlefield, and go beyond survival.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 90
+                }
+            },
+            "originalReleaseDate": "/Date(1367398800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80243430830/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/7e57bd5f-e1c3-41c2-bc51-9024dd648948",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "65aa83ac-5810-4e2d-81ea-d4ba23b9dd58",
+            "title": "Punisher Pack",
+            "description": "Download the Punisher Pack for Lost Planet 3, and dominate from afar with deadly long-range multiplayer weapons, or pummel Akrid with powerful single player rig upgrades!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 25
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/65aa83ac-5810-4e2d-81ea-d4ba23b9dd58/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/65aa83ac-5810-4e2d-81ea-d4ba23b9dd58",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "7cd347e8-e531-4882-aec8-fc86caf10a33",
+            "title": "Survival Pack",
+            "description": "Download the Survival Pack for the ultimate collection of multiplayer characters and close- and long-range weapons, and awesome single player upgrades for your rig!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 26
+                }
+            },
+            "originalReleaseDate": "/Date(1380618000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/7cd347e8-e531-4882-aec8-fc86caf10a33/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/7cd347e8-e531-4882-aec8-fc86caf10a33",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

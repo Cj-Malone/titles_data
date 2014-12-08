@@ -1,0 +1,170 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024b4f07fa",
+    "title": "DW: Strikeforce",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Create your own \"strikeforce\" and embark on a quest to conquer Ancient China in this team-based Tactical Action epic.  Fight as a unit with up to four players, or battle it out as a single-player with AI-controlled team mates. Communicate with friends using voice chat to coordinate assaults on heavily-armed fortresses and colossal beasts.   Storm the battlefield with heart-pounding \"air\" fighting techniques, and startling \"Fury\" transformations. Play as your favorite warriors, including the newly-added Meng Huo. Even trade characters online.   Do you and your friends have what it takes to rule the land? Prove your mettle with this white knuckle, high-flying adventure!",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        }
+    ],
+    "publisher": "KOEI Co., Ltd.",
+    "studio": "KOEI Co., Ltd.",
+    "originalReleaseDate": null,
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/DW-Strikeforce/66acd000-77fe-1000-9115-d8024b4f07fa",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4,
+            "Count": 7339
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameDemo",
+        "GameAddon"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4f07fa/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400c-80cf-00024b4f07fa",
+            "title": "DW: Strikeforce Pack 4",
+            "description": "These Quests will be added to the Noticeboard: (Previous Quests), Turban Fortress Defense, Battle of Jiang Ling, Wei Defense",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 227
+                }
+            },
+            "originalReleaseDate": "/Date(1270717200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07fa/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400c-80cf-00024b4f07fa",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-400d-80df-00014b4f87fc",
+            "title": "DYNASTY WARRIORS: Strikeforce Demo",
+            "description": "Create your own \"strikeforce\" and embark on a quest to conquer Ancient China in this team-based Tactical Action epic.  Fight as a unit with up to four players, or battle it out as a single-player with AI-controlled team mates. Communicate with friends using voice chat to coordinate assaults on heavily-armed fortresses and colossal beasts.   Storm the battlefield with heart-pounding \"air\" fighting techniques, and startling \"Fury\" transformations. Play as your favorite warriors, including the newly-added Meng Huo. Even trade characters online.   Do you and your friends have what it takes to rule the land? Prove your mettle with this white knuckle, high-flying adventure!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 987
+                }
+            },
+            "originalReleaseDate": "/Date(1265882400000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-00014b4f87fc/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400d-80df-00014b4f87fc",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

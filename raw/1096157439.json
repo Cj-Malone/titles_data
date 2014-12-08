@@ -1,0 +1,135 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802415608ff",
+    "title": "Wipeout C&C",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English.  The competition begins now! Wipeout Create & Crash brings the fun and excitements of the popular Wipeout TV show inside your living room like never before with the all new Course Creator. Crash into the action with outrageous new obstacles, themes and characters, challenge your friends in multiplayer, or create your own course and share it with your friends and family. Do you have what it takes to conquer the world-famous Big Balls? Go all in or you’ll WIPEOUT!",
+    "genres": [
+        {
+            "label": "Family"
+        }
+    ],
+    "publisher": "Activision",
+    "studio": "Behaviour",
+    "originalReleaseDate": "/Date(1381795200000)/",
+    "contentRating": {
+        "label": "E10 (Everyone 10+)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+        "age": 10,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Comic Mischief",
+                "image": null
+            },
+            {
+                "label": "Mild Cartoon Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/screenlg4.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Wipeout-C-C/66acd000-77fe-1000-9115-d802415608ff",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 1891
+        }
+    },
+    "price": {
+        "goldPrice": "$39.99",
+        "silverPrice": "$39.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 39.99,
+            "display": "$39.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608ff/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d802415608ff",
+            "title": "Wipeout C&C",
+            "description": "The Games on Demand version supports English.  The competition begins now! Wipeout Create & Crash brings the fun and excitements of the popular Wipeout TV show inside your living room like never before with the all new Course Creator. Crash into the action with outrageous new obstacles, themes and characters, challenge your friends in multiplayer, or create your own course and share it with your friends and family. Do you have what it takes to conquer the world-famous Big Balls? Go all in or you’ll WIPEOUT!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 1891
+                }
+            },
+            "originalReleaseDate": "/Date(1382691600000)/",
+            "contentRating": {
+                "label": "E10 (Everyone 10+)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+                "age": 10,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Comic Mischief",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Cartoon Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Family"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ff/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608ff",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$39.99",
+                "silverPrice": "$39.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 39.99,
+                    "display": "$39.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

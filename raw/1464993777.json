@@ -1,0 +1,128 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802575207f1",
+    "title": "LOTG",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f1/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802575207f1/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Fight the evil Pure Ones as a legendary Guardian of Ga'Hoole!",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Racing & Flying"
+        }
+    ],
+    "publisher": "WB Games, Inc.",
+    "studio": "Krome Studios",
+    "originalReleaseDate": null,
+    "contentRating": {
+        "label": "E10 (Everyone 10+)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+        "age": 10,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Fantasy Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/LOTG/66acd000-77fe-1000-9115-d802575207f1",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 5170
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameDemo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802575207f1/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400d-80df-000157528807",
+            "title": "Legend of the Guardians Demo",
+            "description": "Fight the evil Pure Ones as a legendary Guardian of Ga'Hoole! Download the demo.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 926
+                }
+            },
+            "originalReleaseDate": "/Date(1285059600000)/",
+            "contentRating": {
+                "label": "E10 (Everyone 10+)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+                "age": 10,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Fantasy Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Racing & Flying"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-000157528807/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400d-80df-000157528807",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

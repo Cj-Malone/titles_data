@@ -1,0 +1,1761 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024541090b",
+    "title": "Dragon Age™ 2",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian.  Experience the epic sequel to the 2009 Game of the Year from the critically acclaimed makers of Dragon Age: Origins and Mass Effect 2. You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever. The legend of your Rise to Power begins now. ",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Role Playing"
+        }
+    ],
+    "publisher": "Electronic Arts",
+    "studio": "BioWare",
+    "originalReleaseDate": "/Date(1299542400000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Language",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            },
+            {
+                "label": "Sexual Content",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/screenlg4.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Dragon-Age-2/66acd000-77fe-1000-9115-d8024541090b",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 59490
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameDemo",
+        "GameVideo",
+        "GameAddon",
+        "Theme",
+        "AvatarItem"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024541090b/Children",
+    "childDownloads": [
+        {
+            "id": "54ee598a-6683-4868-b468-1ad0f950b0d7",
+            "title": "All-Class Item Pack II",
+            "description": "NOTE: THIS ALL-CLASS ITEM PACK INCLUDES THE CONTENTS OF MAGE PACK II, ROGUE PACK II, AND WARRIOR PACK II, EACH OF WHICH ARE ALSO AVAILABLE SEPARATELY. Have it all with this combined collection of arms, armor, and accessories for Hawke and your party members.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 553
+                }
+            },
+            "originalReleaseDate": "/Date(1314090000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/54ee598a-6683-4868-b468-1ad0f950b0d7/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/54ee598a-6683-4868-b468-1ad0f950b0d7",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-f617-7221-c0c4-181a4541090b",
+            "title": "Arishok's Armor ",
+            "description": "Meet the demands of the Qun in armor that is both imposing and stylish. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 36
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-f617-7221-c0c4-181a4541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-f617-7221-c0c4-181a4541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-1e74-52b1-cce1-b3924541090b",
+            "title": "Arishok's Helm ",
+            "description": "Accessorize with the best from the qunari homeland, Par Vollen. Perfect for glowering. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 23
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-1e74-52b1-cce1-b3924541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000544-1e74-52b1-cce1-b3924541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "e3212fe2-db30-4017-ad56-cc006c726213",
+            "title": "Destiny (HD)",
+            "description": "Experience the epic sequel to the 2009 Game of the Year from the critically acclaimed makers of Dragon Age: Origins and Mass Effect 2. You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever. The legend of your Rise to Power begins now.   • Embark upon an all-new adventure that takes place across an entire decade and shapes itself around every decision you make. • Determine your rise to power from a destitute refugee to the revered champion of the land. • Think like a general and fight like a Spartan with dynamic new combat mechanics that put you right in the heart of battle whether you are a mage, rogue, or warrior. • Go deeper into the world of Dragon Age with an entirely new cinematic experience that grabs hold of you from the beginning and never lets go.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 200
+                }
+            },
+            "originalReleaseDate": "/Date(1289347200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/e3212fe2-db30-4017-ad56-cc006c726213",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d8024541090b",
+            "title": "Dragon Age™ 2",
+            "description": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian.  Experience the epic sequel to the 2009 Game of the Year from the critically acclaimed makers of Dragon Age: Origins and Mass Effect 2. You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever. The legend of your Rise to Power begins now. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 59490
+                }
+            },
+            "originalReleaseDate": "/Date(1323162000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameDemo",
+                "GameVideo",
+                "GameAddon",
+                "Theme",
+                "AvatarItem"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024541090b",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "52fbe50e-01a6-4ea4-bac9-73bc06a7f8c3",
+            "title": "Dragon Age™ 2 - Rise to Power ",
+            "description": "This first gameplay trailer is here! Get an exciting look at new characters and the intense action awaiting you in Dragon Age II. With the entire world at the brink of war, there is only one person who can put it back together. You are the champion, and the legend of your Rise to Power begins now.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 94
+                }
+            },
+            "originalReleaseDate": "/Date(1289347200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/52fbe50e-01a6-4ea4-bac9-73bc06a7f8c3",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "5d53e4ff-e3f8-4a42-a161-c5ef2b4d4624",
+            "title": "Dragon Age™ II Accolade Trailer ",
+            "description": "Embark on an all-new adventure in the Dragon Age saga. You are Hawke, one of the few to survive the destruction of your homeland. Now, forced to fight for survival, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. Download this launch trailer for a look at what the critics are saying and the action-packed gameplay that awaits you in Dragon Age II. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 48
+                }
+            },
+            "originalReleaseDate": "/Date(1300784400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/5d53e4ff-e3f8-4a42-a161-c5ef2b4d4624",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "4ab5dca8-3ccd-4d5e-8198-04a461c2a2a8",
+            "title": "Dragon Age™ II 'Champion' Trailer ",
+            "description": "Choose your champion. Will you be agile and vicious, tough and unstoppable, or unleash a magical onslaught to annihilate your foes? The Champions epic journey from refugee to legend begins with your class selection. Watch this trailer to get a preview of your options. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 63
+                }
+            },
+            "originalReleaseDate": "/Date(1297328400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/4ab5dca8-3ccd-4d5e-8198-04a461c2a2a8",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80245418936",
+            "title": "Dragon Age™ II Demo ",
+            "description": "Download the highly anticipated Action/RPG Dragon Age II right now! Engage in action-packed and immersive gameplay with dynamic new combat mechanics that allow you to think like a general and fight like a Spartan! A whole realm awaits your discovery, rendered in stunning detail with updated graphics and a new visual style. Go deeper into the world of Dragon Age with an entirely new cinematic experience that grabs you from the very beginning in an adventure that shapes itself around every decision you make. With the entire world on the brink of war, you are the only one who can hold it all together. The legend of your rise to power begins now.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 3707
+                }
+            },
+            "originalReleaseDate": "/Date(1298970000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245418936/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80245418936",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "527533e4-5adc-4222-856d-8f2b85347707",
+            "title": "Dragon Age II Item Pack Bundle",
+            "description": "NOTE: THIS ALL-CLASS ITEM PACK INCLUDES THE CONTENT OF THE MAGE ITEM PACK, ROGUE ITEM PACK, AND WARRIOR ITEM PACK, EACH OF WHICH ARE ALSO AVAILABLE SEPARATELY. Have it all with this combined collection of arms, armor and accessories for you and your followers. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 402
+                }
+            },
+            "originalReleaseDate": "/Date(1303808400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/527533e4-5adc-4222-856d-8f2b85347707/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/527533e4-5adc-4222-856d-8f2b85347707",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "717a2e5e-1990-43b5-9777-ae91299374f7",
+            "title": "Dragon Age™ II Launch Trailer ",
+            "description": "Embark on an all-new adventure in the Dragon Age saga. You are Hawke, one of the few to survive the destruction of your homeland. Now, forced to fight for survival, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. Download this launch trailer for a look at what the critics are saying and the action-packed gameplay that awaits you in Dragon Age II. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 49
+                }
+            },
+            "originalReleaseDate": "/Date(1300784400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/717a2e5e-1990-43b5-9777-ae91299374f7",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "6d3eae58-a2e2-44c3-a5f1-d0bc4e25097d",
+            "title": "Dragon Age™ II Legacy Trailer ",
+            "description": "Targeted by a vicious criminal cartel that are hunting “the blood of the Hawke,” you must put an end to their relentless attacks. Leave Kirkwall, and journey to an ancient Grey Warden prison in order to find the source of the aggression and uncover the harsh truth about the Hawke lineage. Playable from any point in the DAII campaign, face all new darkspawn, forge a powerful new weapon and come face to face with an ancient horror.    Features: * Uncover the harsh truth about the Hawke lineage  * Adventure through several new locations including a prison constructed by the Grey Wardens * Obtain a powerful class-specific weapon to which you can apply upgrades of your choice ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 72
+                }
+            },
+            "originalReleaseDate": "/Date(1311670800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/6d3eae58-a2e2-44c3-a5f1-d0bc4e25097d",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "f01c8d20-9966-4367-935c-0ebc7580e8e9",
+            "title": "Dragon Age™ II Mark of the Assassin Launch Trailer ",
+            "description": "Embark on a thrilling adventure of deception and intrigue alongside a mysterious assassin. Infiltrate a Orlesian estate outside Kirkwall and battle deadly new enemies with the help of Tallis, a new party member voiced by Felicia Day. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 79
+                }
+            },
+            "originalReleaseDate": "/Date(1318323600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/f01c8d20-9966-4367-935c-0ebc7580e8e9",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "fc7a530e-f232-4fd1-b7d1-90d9b3d5c239",
+            "title": "Dragon Age™ II 'The Exiled Prince' Trailer ",
+            "description": "Adventure alongside Sebastian Vael, an archer of noble birth, as he seeks revenge for the brutal murder of his family. Aid him in his quest, and direct his righteous wrath on your enemies. Sebastian is a full companion character, complete with his own series of side missions. 'The Exiled Prince' is available now for purchase.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 51
+                }
+            },
+            "originalReleaseDate": "/Date(1299574800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541090b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/fc7a530e-f232-4fd1-b7d1-90d9b3d5c239",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-712a-92e2-c848-320b4541090b",
+            "title": "Flemeth's Helm ",
+            "description": "The perfect accessory to enhance a knowing wink or a foreboding glare. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-712a-92e2-c848-320b4541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000544-712a-92e2-c848-320b4541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-fef7-02a2-cd9e-87b34541090b",
+            "title": "Flemeth's Robes ",
+            "description": "Ageless and commanding. Dress like you know everything but say nothing. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 23
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-fef7-02a2-cd9e-87b34541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-fef7-02a2-cd9e-87b34541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-04fe-d2b1-c042-b8a54541090b",
+            "title": "Garrett Hawke's Mage Robes ",
+            "description": "The practical robes of a Champion who chooses to draw a line in the sand and say “no more!” ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 37
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-04fe-d2b1-c042-b8a54541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-04fe-d2b1-c042-b8a54541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-d247-7231-cfcb-3e344541090b",
+            "title": "Garrett Hawke's Rogue Armor ",
+            "description": "Agile and adaptable, this is the armor of a Champion who is equally at home in the streets or the halls of power.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 31
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-d247-7231-cfcb-3e344541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-d247-7231-cfcb-3e344541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-5597-f2e1-ccbf-d9b44541090b",
+            "title": "Garrett Hawke's Warrior Armor ",
+            "description": "The armor of the Champion. Let the templars worry about polish and posture; this is gear for the warrior who gets things done. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 32
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-5597-f2e1-ccbf-d9b44541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-5597-f2e1-ccbf-d9b44541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-4984-72d2-c85f-b9614541090b",
+            "title": "Hurlock Body Costume",
+            "description": "Start your own Blight with this very scary Hurlock costume. One size consumes all. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-4984-72d2-c85f-b9614541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-4984-72d2-c85f-b9614541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-684e-3221-c599-1cbb4541090b",
+            "title": "Hurlock Body Costume ",
+            "description": "Start your own Blight with this very scary Hurlock costume. One size consumes all. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 21
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-684e-3221-c599-1cbb4541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-684e-3221-c599-1cbb4541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-716d-8273-c377-22134541090b",
+            "title": "Hurlock Head Helmet",
+            "description": "Give your friends a fright! The Hurlock Head will have them shaking in their adorable boots. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 21
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-716d-8273-c377-22134541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000544-716d-8273-c377-22134541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "164cbd88-541d-4761-a9cb-5cb762e964bd",
+            "title": "Legacy",
+            "description": "A vicious criminal cartel is hunting \"the blood of the Hawke.\" To end their attacks, you must venture outside Kirkwall to investigate a prison constructed by the Grey Wardens in ages past. You will uncover the harsh truths about the Hawke lineage as your journey brings you face to face with an ancient horror. Includes: (1) Hours of adventuring spread across several brand-new areas. (2) New enemies to battle including genlocks, brontos, and an epic boss fight. (3) A powerful class-specific weapon to which you can apply upgrades of your choice. To begin, return to your house in Kirkwall and look for the Memento of Legacy. Visit www.dragonage.com/da2/addons to learn more. REQUIRES LATEST TITLE UPDATE FOR DRAGON AGE II (installed automatically if you play while connected to Xbox Live).",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 909
+                }
+            },
+            "originalReleaseDate": "/Date(1311670800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/164cbd88-541d-4761-a9cb-5cb762e964bd/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/164cbd88-541d-4761-a9cb-5cb762e964bd",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$9.99",
+                "silverPrice": "$9.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 9.99,
+                    "display": "$9.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "0a9cc737-eab4-4b32-aadf-31aa33682e2a",
+            "title": "Mage Item Pack ",
+            "description": "The story of the Hawke family began with the forbidden love of a fugitive mage hiding from the Chantry, and the noblewoman who abandoned her life of power and privilege to flee across Thedas with the man she loved. These mementos of Malcolm and Leandra Hawke’s adventures have now passed to their children. Take up the family legacy, and write your own chapter of the Hawke family tale. This item pack includes relics and mementos of untold power for use by your Mage and Mage followers. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 108
+                }
+            },
+            "originalReleaseDate": "/Date(1303808400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/0a9cc737-eab4-4b32-aadf-31aa33682e2a/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/0a9cc737-eab4-4b32-aadf-31aa33682e2a",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "6c9b63e0-34e8-4fb8-99d6-33e911237ea7",
+            "title": "Mage Item Pack II",
+            "description": "When tales are told of the greatest mages who ever lived, one is always mentioned - Aldenon the Wise. With magic and guile, he helped guide Calenhad, a young squire, to be crowned first king of united Ferelden. Later he nearly brought the newly formed Circle Tower to its knees. His mystic artifacts are only given to those worthy of his legacy. Now it is your turn. This item pack includes new armor, weapons, and accessories for use by your mage Hawke and mage party members.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 107
+                }
+            },
+            "originalReleaseDate": "/Date(1314090000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/6c9b63e0-34e8-4fb8-99d6-33e911237ea7/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/6c9b63e0-34e8-4fb8-99d6-33e911237ea7",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-7deb-1222-c3d5-65074541090b",
+            "title": "Marian Hawke's Mage Robes  ",
+            "description": "The practical robes of a Champion who chooses to draw a line in the sand and say “no more!” ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 21
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-7deb-1222-c3d5-65074541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-7deb-1222-c3d5-65074541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-4680-e2e2-c3d4-93bd4541090b",
+            "title": "Marian Hawke's Rogue Armor ",
+            "description": "Agile and adaptable, this is the armor of a Champion who is equally at home in the streets or the halls of power.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 12
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-4680-e2e2-c3d4-93bd4541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-4680-e2e2-c3d4-93bd4541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-48dd-0282-c67f-cc774541090b",
+            "title": "Marian Hawke's Warrior Armor ",
+            "description": "The armor of the Champion. Let the templars worry about polish and posture; this is gear for the warrior who gets things done. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-48dd-0282-c67f-cc774541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-48dd-0282-c67f-cc774541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "b471cbc1-966a-4f64-84a7-01c473e1728a",
+            "title": "Mark of the Assassin",
+            "description": "Embark on a thrilling adventure of deception and intrigue alongside a mysterious assassin. Infiltrate an estate far from Kirkwall and battle deadly new enemies with the help of Tallis, a new party member voiced by Felicia Day. Includes: (1) Hours of adventuring spread across several brand-new areas. (2) Impressive new equipment for every member of your party. To begin, return to your house in Kirkwall and look for the Memento of Mark of the Assassin. Visit www.dragonage.com/da2/addons to learn more. REQUIRES LATEST TITLE UPDATE FOR DRAGON AGE II (installed automatically if you play while connected to Xbox LIVE).",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 1154
+                }
+            },
+            "originalReleaseDate": "/Date(1318323600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Content",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/b471cbc1-966a-4f64-84a7-01c473e1728a/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/b471cbc1-966a-4f64-84a7-01c473e1728a",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$9.99",
+                "silverPrice": "$9.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 9.99,
+                    "display": "$9.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ab8-b505-b2f2-c7af-1a034541090b",
+            "title": "Orsino's Mage Robes ",
+            "description": "Feel like wielding the greatest of power arcane? These robes have you covered.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1293699600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ab8-b505-b2f2-c7af-1a034541090b/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ab8-b505-b2f2-c7af-1a034541090b",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

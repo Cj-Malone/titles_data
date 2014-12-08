@@ -1,0 +1,110 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024541089b",
+    "title": "G.I. JOE™",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   The Games on Demand version supports  English, French, Spanish.  YO JOE!  G.I. JOE THE RISE OF COBRA is now available from Electronic Arts.  Take control of the elite G.I. JOE team as you fight the evil forces of COBRA!  Go beyond the blockbuster movie and experience new surprises, storylines and epic battles.  Pick up your game today!",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        }
+    ],
+    "publisher": "Electronic Arts",
+    "studio": "Double Helix",
+    "originalReleaseDate": null,
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Fantasy Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/screenlg10.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/GI-JOE/66acd000-77fe-1000-9115-d8024541089b",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 36137
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GamerPic"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024541089b/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-4002-802f-00014541089b",
+            "title": "G.I. JOE Picture Pack",
+            "description": "Inspired by 45 years of G.I. JOE, celebrate the launch of G.I. JOE™ The Rise Of Cobra™ on your Xbox 360!  This picture pack features the G.I. JOE team and the G.I. JOE Falcon logo!  Now you know, and knowing is half the battle. YO JOE! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 489
+                }
+            },
+            "originalReleaseDate": "/Date(1248944400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541089b/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4002-802f-00014541089b",
+            "downloadTypeClass": "GamerPic",
+            "downloadTypeText": "GamerPic",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

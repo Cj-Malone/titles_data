@@ -1,0 +1,148 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802555307db",
+    "title": "Blazing Angels",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Experience the most gripping and famous battles of WWII through the eyes of a squadron commander and ace fighter pilot. From the Battle of Britain to the invasion of the Philippines, to the battle of Berlin, your pilot skills will create WWII history. Dominate the skies of Western Europe, North Africa, and the Pacific and bring your squadron of back alive.  ",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Fighting"
+        },
+        {
+            "label": "Strategy & Simulation"
+        }
+    ],
+    "publisher": "UbiSoft",
+    "studio": "Ubisoft Romania",
+    "originalReleaseDate": "/Date(1143072000000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Language",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/555307db/1ff62691-6816-4ccc-a3aa-cb0d6d0ab37b.PDF",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/screenlg5.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Blazing-Angels/66acd000-77fe-1000-9115-d802555307db",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 5488
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555307db/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d802555307db",
+            "title": "Blazing Angels",
+            "description": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Experience the most gripping and famous battles of WWII through the eyes of a squadron commander and ace fighter pilot. From the Battle of Britain to the invasion of the Philippines, to the battle of Berlin, your pilot skills will create WWII history. Dominate the skies of Western Europe, North Africa, and the Pacific and bring your squadron of back alive.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 5488
+                }
+            },
+            "originalReleaseDate": "/Date(1292317200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Fighting"
+                },
+                {
+                    "label": "Strategy & Simulation"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307db/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555307db",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

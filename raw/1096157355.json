@@ -1,0 +1,122 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802415608ab",
+    "title": "Skylanders Spyro's Adventure",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Bring your Skylanders to life!  For Generations, the Skylanders have used their magical powers and weapons to protect Skylands. But now, an evil tyrant has frozen them and banished them to Earth. Only you can put them on the Portal of Power™ and bring them to life to save Skylands forever.",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Platformer"
+        }
+    ],
+    "publisher": "Activision",
+    "studio": "XPEC",
+    "originalReleaseDate": "/Date(1318723200000)/",
+    "contentRating": {
+        "label": "E10 (Everyone 10+)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+        "age": 10,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Cartoon Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/Skylanders-Spyros-Adventure/66acd000-77fe-1000-9115-d802415608ab",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 28000
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608ab/Children",
+    "childDownloads": [
+        {
+            "id": "40f24e8e-afd5-4675-af2b-ddf428434ea9",
+            "title": "The Beginning Trailer",
+            "description": "For generations, the Skylanders have used their magical powers and weapons to protect Skylands.  But now, an evil tyrant has frozen them and banished them to Earth. Only you can put them on the Portal of Power and bring them back to life in their world to save Skylands forever. 30+ Skylanders to Collect – Each with their own unique abilities and powers.  Put two Skylanders on the Portal of Power and battle with your friend or go head-to-head in the battle arenas to see who is the best Portal Master. The Skylanders are so powerful that they remember their in-game experiences and upgrades as they explore the mysterious world of Skylands, battle menacing creatures and collect treasures.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 1535
+                }
+            },
+            "originalReleaseDate": "/Date(1320224400000)/",
+            "contentRating": {
+                "label": "E10 (Everyone 10+)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+                "age": 10,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Cartoon Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608ab/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/40f24e8e-afd5-4675-af2b-ddf428434ea9",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

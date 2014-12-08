@@ -1,0 +1,1278 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024d530919",
+    "title": "Halo 4",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English.  The Master Chief returns to battle an ancient evil bent on vengeance and annihilation. Shipwrecked on a mysterious world, faced with new enemies and deadly technology, the universe will never be the same. Enlist aboard the Infinity to experience Halo’s original multiplayer and Spartan Ops - innovative episodic fiction-based co-op missions.",
+    "genres": [
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "Microsoft Studios",
+    "studio": "343 Industries",
+    "originalReleaseDate": "/Date(1352160000000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/screenlg10.jpg"
+    ],
+    "detailsUrl": "/en-us/Product/Halo-4/66acd000-77fe-1000-9115-d8024d530919",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.5,
+            "Count": 302232
+        }
+    },
+    "price": {
+        "goldPrice": "$29.99",
+        "silverPrice": "$29.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 29.99,
+            "display": "$29.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameVideo",
+        "GameAddon",
+        "GamerPic",
+        "Theme",
+        "AvatarItem",
+        "SmartGlass"
+    ],
+    "childDownloadsUrl": "/en-us/X8/Game/66acd000-77fe-1000-9115-d8024d530919/Children",
+    "childDownloads": [
+        {
+            "id": "00001000-48bb-8293-c65c-fe104d530919",
+            "title": "Attack & Defend prop",
+            "description": "Equip your avatar with the Halo 4 Energy Sword and Hardlight Shield prop to attack and defend!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1382346000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-48bb-8293-c65c-fe104d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-48bb-8293-c65c-fe104d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-5458-a2f3-c832-7ca14d530919",
+            "title": "Banshee Vehicle",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 18
+                }
+            },
+            "originalReleaseDate": "/Date(1370941200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-5458-a2f3-c832-7ca14d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-5458-a2f3-c832-7ca14d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-63b3-82a3-c87d-bd4e4d530919",
+            "title": "Capture The Flag - Blue",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1370941200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-63b3-82a3-c87d-bd4e4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-63b3-82a3-c87d-bd4e4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-08e8-7243-ccfe-02284d530919",
+            "title": "Capture The Flag - Red",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 12
+                }
+            },
+            "originalReleaseDate": "/Date(1370941200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-08e8-7243-ccfe-02284d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-08e8-7243-ccfe-02284d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-5233-3232-c045-bc784d530919",
+            "title": "C.I.O. Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-5233-3232-c045-bc784d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-5233-3232-c045-bc784d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-5db6-5251-c499-523e4d530919",
+            "title": "C.I.O. Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 10
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-5db6-5251-c499-523e4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-5db6-5251-c499-523e4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-69a7-f211-c9c0-33834d530919",
+            "title": "Commander Palmer Armor",
+            "description": "Once an ODST, Sarah Palmer was hand-picked by former Spartan-III Jun A-266 to be one of the first candidates in the new Spartan IV program. Quickly proving herself during the defense of the UNSC Infinity from a hostile takeover by Insurrectionists, Palmer was soon called upon to lead a Spartan strike team during the historic Battle of Draetheus-V. Now the senior Spartan aboard Infinity, Commander Palmer went on to be instrumental in the recovery of the Master Chief and the defeat of Jul ‘Mdama at Requiem.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 25
+                }
+            },
+            "originalReleaseDate": "/Date(1361264400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-69a7-f211-c9c0-33834d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-69a7-f211-c9c0-33834d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-649c-02a2-c5a4-9f5b4d530919",
+            "title": "Commander Palmer Armor",
+            "description": "Once an ODST, Sarah Palmer was hand-picked by former Spartan-III Jun A-266 to be one of the first candidates in the new Spartan IV program. Quickly proving herself during the defense of the UNSC Infinity from a hostile takeover by Insurrectionists, Palmer was soon called upon to lead a Spartan strike team during the historic Battle of Draetheus-V. Now the senior Spartan aboard Infinity, Commander Palmer went on to be instrumental in the recovery of the Master Chief and the defeat of Jul ‘Mdama at Requiem.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1361264400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-649c-02a2-c5a4-9f5b4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-649c-02a2-c5a4-9f5b4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-6496-c2c3-c2f1-be974d530919",
+            "title": "Commander Palmer Helmet",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1387270800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-6496-c2c3-c2f1-be974d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000544-6496-c2c3-c2f1-be974d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-c02d-1293-cfd6-861e4d530919",
+            "title": "Covenant Drop Pod",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 14
+                }
+            },
+            "originalReleaseDate": "/Date(1370941200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-c02d-1293-cfd6-861e4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-c02d-1293-cfd6-861e4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-4105-d2c3-cc9e-b7c14d530919",
+            "title": "Crawler",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 21
+                }
+            },
+            "originalReleaseDate": "/Date(1358845200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-4105-d2c3-cc9e-b7c14d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-4105-d2c3-cc9e-b7c14d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-adfa-c263-cd7d-57664d530919",
+            "title": "Cryotube",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 32
+                }
+            },
+            "originalReleaseDate": "/Date(1358845200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-adfa-c263-cd7d-57664d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-adfa-c263-cd7d-57664d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-edc1-4243-cb27-ca3c4d530919",
+            "title": "Cryptum",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 19
+                }
+            },
+            "originalReleaseDate": "/Date(1365498000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-edc1-4243-cb27-ca3c4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-edc1-4243-cb27-ca3c4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-c271-d261-cbda-50ef4d530919",
+            "title": "Didact Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 31
+                }
+            },
+            "originalReleaseDate": "/Date(1361869200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-c271-d261-cbda-50ef4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-c271-d261-cbda-50ef4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-88ee-32f2-c0a6-9d314d530919",
+            "title": "Didact Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1361869200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-88ee-32f2-c0a6-9d314d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-88ee-32f2-c0a6-9d314d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "b12f4b8f-3813-4410-b990-eff5a5d97002",
+            "title": "E3 2012: Halo 4 Gameplay Trailer",
+            "description": "Get ready for more Halo 4 with gameplay from E3 2012. Part 2 of the game demo begins with edge-of-your-seat entertainment as the Master Chief faces new enemies and deadly technology as he races to save the shipwrecked UNSC Infinity. Download this trailer.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 4128
+                }
+            },
+            "originalReleaseDate": "/Date(1338854400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/b12f4b8f-3813-4410-b990-eff5a5d97002",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "f69f9125-2e05-461e-8928-24e170f93ddd",
+            "title": "E3 2012: Halo 4 Official Trailer",
+            "description": "Part 1 of the Halo 4 E3 briefing. The \"Commissioning\" Live-Action Trailer witness the unbridled optimism of the launch of the UNSC Infinity, then its crash as an ancient evil pulls it into a mysterious world where the Master Chief will begin an epic new Halo adventure. Download this trailer!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 2552
+                }
+            },
+            "originalReleaseDate": "/Date(1338854400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/f69f9125-2e05-461e-8928-24e170f93ddd",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "9a2f6c58-877a-4d0d-9137-cbc1a04fe418",
+            "title": "E3 2012 Infinity Trailer",
+            "description": "Enlist aboard the Infinity to experience Halo’s original multiplayer and Spartan Ops - innovative episodic fiction-based co-op missions. Download this trailer!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 2020
+                }
+            },
+            "originalReleaseDate": "/Date(1339146000000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530919/1033/boxartlg.jpg",
+            "url": "/en-us/X8/Game/9a2f6c58-877a-4d0d-9137-cbc1a04fe418",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-6514-d2a2-c205-38a44d530919",
+            "title": "E.O.D. Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1355216400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-6514-d2a2-c205-38a44d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-6514-d2a2-c205-38a44d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-e050-02e1-cc32-9aad4d530919",
+            "title": "E.O.D. Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.75,
+                    "Count": 11
+                }
+            },
+            "originalReleaseDate": "/Date(1355216400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-e050-02e1-cc32-9aad4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-e050-02e1-cc32-9aad4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-06c0-c2c3-c53a-d8e34d530919",
+            "title": "E.V.A. Helmet - Blue",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 12
+                }
+            },
+            "originalReleaseDate": "/Date(1360054800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-06c0-c2c3-c53a-d8e34d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000544-06c0-c2c3-c53a-d8e34d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-d17f-1213-c082-d5c64d530919",
+            "title": "E.V.A. Helmet - Brown",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 20
+                }
+            },
+            "originalReleaseDate": "/Date(1360054800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-d17f-1213-c082-d5c64d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000544-d17f-1213-c082-d5c64d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-ea18-c2e3-c667-2e174d530919",
+            "title": "E.V.A. Helmet - Purple",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 13
+                }
+            },
+            "originalReleaseDate": "/Date(1360054800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-ea18-c2e3-c667-2e174d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000544-ea18-c2e3-c667-2e174d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-583b-5243-cb0b-26be4d530919",
+            "title": "E.V.A. Helmet - Red",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 13
+                }
+            },
+            "originalReleaseDate": "/Date(1360054800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-583b-5243-cb0b-26be4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000544-583b-5243-cb0b-26be4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-ed9c-e263-cdf2-18924d530919",
+            "title": "E.V.A. Helmet - Steel",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 13
+                }
+            },
+            "originalReleaseDate": "/Date(1360054800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-ed9c-e263-cdf2-18924d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000544-ed9c-e263-cdf2-18924d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-d43a-d261-c13e-c6c14d530919",
+            "title": "Flood Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 16
+                }
+            },
+            "originalReleaseDate": "/Date(1356426000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-d43a-d261-c13e-c6c14d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-d43a-d261-c13e-c6c14d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-e1ac-d2b2-cae6-d39c4d530919",
+            "title": "Flood Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1356426000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-e1ac-d2b2-cae6-d39c4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-e1ac-d2b2-cae6-d39c4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-fe55-4203-c477-11ed4d530919",
+            "title": "Forward Unto Dawn Ship",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 107
+                }
+            },
+            "originalReleaseDate": "/Date(1341910800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-fe55-4203-c477-11ed4d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00001000-fe55-4203-c477-11ed4d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-28fa-82f1-cd75-40d94d530919",
+            "title": "FOTUS Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 51
+                }
+            },
+            "originalReleaseDate": "/Date(1358845200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-28fa-82f1-cd75-40d94d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-28fa-82f1-cd75-40d94d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-46c9-92f2-c1c8-d7194d530919",
+            "title": "FOTUS Armor",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1358845200000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-46c9-92f2-c1c8-d7194d530919/1033/thumblg.png",
+            "url": "/en-us/X8/Game/00000ffc-46c9-92f2-c1c8-d7194d530919",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

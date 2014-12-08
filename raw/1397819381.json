@@ -1,0 +1,801 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802535107f5",
+    "title": "Dungeon Siege III",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Online Interactions Not Rated by the ESRB. The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Now that evil has returned to Ehb the people turn to the few remaining Legionnaires for the protection of the past . As an heir to the legion will you accept this plea for help? ",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Role Playing"
+        }
+    ],
+    "publisher": "Square Enix",
+    "studio": "Obsidian Entertainment",
+    "originalReleaseDate": "/Date(1306800000000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            },
+            {
+                "label": "Mild Language",
+                "image": null
+            },
+            {
+                "label": "Mild Suggestive Themes",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/535107f5/DS3_360_Online.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/screenlg7.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Dungeon-Siege-III/66acd000-77fe-1000-9115-d802535107f5",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4,
+            "Count": 9796
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameDemo",
+        "GameVideo",
+        "GameAddon"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802535107f5/Children",
+    "childDownloads": [
+        {
+            "id": "3f8f5e3b-a4a9-4618-90e9-8dc9d1492de3",
+            "title": "Dungeon Siege 3 First Gameplay Trailer",
+            "description": "Now that evil has returned to Ehb the people turn to the few remaining Legionnaires for the protection of the past . As an heir to the legion will you accept this plea for help? ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1291680000000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/3f8f5e3b-a4a9-4618-90e9-8dc9d1492de3",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "8d6b58dc-4e52-47b9-b137-6a0ab44f2111",
+            "title": "Dungeon Siege 3 Loyalty Trailer",
+            "description": "Now that evil has returned to Ehb the people turn to the few remaining Legionnaires for the protection of the past . As an heir to the legion will you accept this plea for help? ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300179600000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/8d6b58dc-4e52-47b9-b137-6a0ab44f2111",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "016b0933-06df-47a6-9184-403585489362",
+            "title": "Dungeon Siege 3 Teaser Trailer",
+            "description": "Now that evil has returned to Ehb the people turn to the few remaining Legionnaires for the protection of the past . As an heir to the legion will you accept this plea for help? ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 11
+                }
+            },
+            "originalReleaseDate": "/Date(1291680000000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/016b0933-06df-47a6-9184-403585489362",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "9ebdef37-b966-4c7a-b0bc-67be7b86bfaa",
+            "title": "Dungeon Siege III: Treasures of the Sun",
+            "description": "Travel beyond the borders of Ehb in Dungeon Siege III’s downloadable content pack, Dungeon Siege III: Treasures of the Sun. Your search for a lost Legion hero will take you to the Aranoi Desert, where a forgotten abbey hides a long-lost secret - the \"greatest treasure of the Azunite faith.\"  Explore an accursed desert and an ancient underground vault, while battling sand hulks, skeletal giants, blood worms, mummies, and more. Unlock divine abilities that can be used to empower yourself or devastate your opponents. Upgrade your legionnaire with an increased level cap, a hoard of new loot, and an item-enchanting system... or reinvent your character with the new respec pool!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 182
+                }
+            },
+            "originalReleaseDate": "/Date(1319533200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/9ebdef37-b966-4c7a-b0bc-67be7b86bfaa/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/9ebdef37-b966-4c7a-b0bc-67be7b86bfaa",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$9.99",
+                "silverPrice": "$9.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 9.99,
+                    "display": "$9.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d8025351880a",
+            "title": "Dungeon Siege III Demo",
+            "description": "(Online Interactions Not Rated by the ESRB) Born from Legend to unite a Legion, you will define your destiny as one of four unique heroes. Join forces to experience the true power of the 10th Legion!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 1892
+                }
+            },
+            "originalReleaseDate": "/Date(1307437200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025351880a/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025351880a",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d802535107f5",
+            "title": "Dungeon Siege III",
+            "description": "Online Interactions Not Rated by the ESRB. The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Now that evil has returned to Ehb the people turn to the few remaining Legionnaires for the protection of the past . As an heir to the legion will you accept this plea for help? ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 9796
+                }
+            },
+            "originalReleaseDate": "/Date(1354006800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameDemo",
+                "GameVideo",
+                "GameAddon"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802535107f5",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "38dba53b-5be7-48e6-b0b0-78821aa14dae",
+            "title": "Dungeon Siege III Anjali Vignette",
+            "description": "Not all of your allies will be men and women of Legion blood.  Anjali is an archon… a legend, come to life.  Anjali was raised by friends of the Legion, and she does not know how she came to this world, or what happened to the others of her kind. In human guise, she fights with staff or spear, leaping in and out of battle with acrobatic grace. But her true form is that of an archon, a fire spirit. And when she surrenders to the divine fire that lives within her, she has the power to inflict terrible, searing wounds. We should be grateful that she fights on our side.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 22
+                }
+            },
+            "originalReleaseDate": "/Date(1304067600000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/38dba53b-5be7-48e6-b0b0-78821aa14dae",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "693d2e38-0700-4a30-84eb-4a199250a72f",
+            "title": "Dungeon Siege III Demo Trailer",
+            "description": "Dont forget to download the Dungeon Siege III demo right after watching this trailer!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 22
+                }
+            },
+            "originalReleaseDate": "/Date(1308301200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/693d2e38-0700-4a30-84eb-4a199250a72f",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "bf184da8-706e-4811-b54c-3eb63f13b27f",
+            "title": "Dungeon Siege III Katarina Vignette",
+            "description": "The first of four character vignettes: the lovely yet deadly Katarina",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 25
+                }
+            },
+            "originalReleaseDate": "/Date(1302598800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/bf184da8-706e-4811-b54c-3eb63f13b27f",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "1ece93f6-6c1f-466c-b805-ef29b9df3fe6",
+            "title": "Dungeon Siege III Lucas Vignette",
+            "description": "Last of a noble and respected line, Lucas has been taught the ancient and deadly style of the legion. He will not rest until the legion is rebuilt and his murdered family’s honor is restored…",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 19
+                }
+            },
+            "originalReleaseDate": "/Date(1303549200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/1ece93f6-6c1f-466c-b805-ef29b9df3fe6",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "1827298b-9c2e-4acf-8be7-07171a243772",
+            "title": "Dungeon Siege III Reinhart Vignette",
+            "description": "Reinhart Manx is a descended from a great line of Legion mages, but he spent most of his life in Stonebridge, studying magic at the Collegium. As a scholar of arcane magic, Reinhart bends the forces of creation and destruction to his will. He can channel Dynamic magic through his gauntlet, shocking or stunning his foes. Or he can use Entropic magic to warp time and space, destroying large numbers of enemies from afar. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 17
+                }
+            },
+            "originalReleaseDate": "/Date(1303549200000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535107f5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/1827298b-9c2e-4acf-8be7-07171a243772",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

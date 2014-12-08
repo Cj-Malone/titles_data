@@ -1,0 +1,124 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802545407ef",
+    "title": "NBA 2K7",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Voted best current and next-generation NBA hoops franchise by press and gamers, NBA 2K7 continues its legacy of dominance this year on the hard court. With incredible graphics, tight control, and a revolutionary shooting game, NBA 2K7 is poised for another run as the top-rated NBA simulation.",
+    "genres": [
+        {
+            "label": "Sports & Recreation"
+        }
+    ],
+    "publisher": "2K Games",
+    "studio": "Visual Concepts Entertainment",
+    "originalReleaseDate": "/Date(1159142400000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg10.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg11.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg12.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg13.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg14.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407ef/1033/screenlg15.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/NBA-2K7/66acd000-77fe-1000-9115-d802545407ef",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 5167
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameDemo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545407ef/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400d-80d0-0000545407ef",
+            "title": "NBA 2K7 Demo (2K Sports)",
+            "description": "Get ballin' with this demo of the best basketball game out there.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 946
+                }
+            },
+            "originalReleaseDate": "/Date(1158224400000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Sports & Recreation"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80d0-0000545407ef/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400d-80d0-0000545407ef",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

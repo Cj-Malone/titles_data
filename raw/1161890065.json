@@ -1,0 +1,131 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80245410911",
+    "title": "EA SPORTS Active 2",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410911/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410911/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The multiplayer functionality of this title is no longer available.  You will only have access to the single player aspects of the game after download  EA SPORTS Active 2 includes a new suite of fitness programs and includes the Total Body Tracking system that utilizes a heart rate monitor to ensure the best possible workout with accurate, measurable results.  Using heart rate data that is displayed on-screen throughout the workout, users will be able to capture the intensity of their workout, allowing them to optimize their performance and reach their fitness goals quicker. Users will now also be able to track and share both their workout and heart rate data on the new EA SPORTS Active web journal; allowing them to track their progress over time and stay motivated.  EA SPORTS Active 2 will make working out simple, effective and will go with you wherever you are.",
+    "genres": [
+        {
+            "label": "Sports & Recreation"
+        },
+        {
+            "label": "Kinect"
+        }
+    ],
+    "publisher": "Electronic Arts Inc.",
+    "studio": "Electronic Arts Canada",
+    "originalReleaseDate": "/Date(1279843200000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/EA-SPORTS-Active-2/66acd000-77fe-1000-9115-d80245410911",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 21572
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80245410911/Children",
+    "childDownloads": [
+        {
+            "id": "b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+            "title": "Kinect Launch Titles Montage",
+            "description": "This montage showcases all the games available on Kinect beginning November 2010.  You are the controller for all these amazing experiences.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 946
+                }
+            },
+            "originalReleaseDate": "/Date(1288256400000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Platformer"
+                },
+                {
+                    "label": "Shooter"
+                },
+                {
+                    "label": "Sports & Recreation"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

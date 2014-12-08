@@ -1,0 +1,140 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802464f07d7",
+    "title": "MorphX",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian.  The swarm attacked all at once, killing millions in mere seconds. The retaliation was swift but futile. The invaders have survived...the Earth now a wasteland...  You are part of the insignificant resistance, weak and powerless. But you are different... With the ability to manipulate your own DNA, and assimilate alien powers into your own being, face the ultimate choice… Do you retain your humanity and fight alongside your comrades, or do you embrace the alien powers but at the cost of gradually turning into a monster?",
+    "genres": [
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "505 Games",
+    "studio": "Targem Games",
+    "originalReleaseDate": "/Date(1271635200000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Language",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/464f07d7/1/MorphX_Manual_EN_revised.pdf",
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/MorphX/66acd000-77fe-1000-9115-d802464f07d7",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.25,
+            "Count": 4984
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802464f07d7/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d802464f07d7",
+            "title": "MorphX",
+            "description": "The Games on Demand version supports  English, French, Italian, German, Spanish, Russian.  The swarm attacked all at once, killing millions in mere seconds. The retaliation was swift but futile. The invaders have survived...the Earth now a wasteland...  You are part of the insignificant resistance, weak and powerless. But you are different... With the ability to manipulate your own DNA, and assimilate alien powers into your own being, face the ultimate choice… Do you retain your humanity and fight alongside your comrades, or do you embrace the alien powers but at the cost of gradually turning into a monster?",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 4984
+                }
+            },
+            "originalReleaseDate": "/Date(1329210000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802464f07d7/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802464f07d7",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

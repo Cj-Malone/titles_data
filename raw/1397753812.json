@@ -1,0 +1,143 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802535007d4",
+    "title": "Two Worlds",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English.   Open World RPG Game",
+    "genres": [
+        {
+            "label": "Role Playing"
+        }
+    ],
+    "publisher": "TopWare Interactive AG",
+    "studio": "Reality Pump",
+    "originalReleaseDate": "/Date(1370044800000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg10.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg11.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/screenlg12.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Two-Worlds/66acd000-77fe-1000-9115-d802535007d4",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.25,
+            "Count": 22467
+        }
+    },
+    "price": {
+        "goldPrice": "$14.99",
+        "silverPrice": "$14.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 14.99,
+            "display": "$14.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802535007d4/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d802535007d4",
+            "title": "Two Worlds",
+            "description": "The Games on Demand version supports  English.   Open World RPG Game",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 22467
+                }
+            },
+            "originalReleaseDate": "/Date(1309856400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802535007d4/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802535007d4",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$14.99",
+                "silverPrice": "$14.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 14.99,
+                    "display": "$14.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

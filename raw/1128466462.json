@@ -1,0 +1,143 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024343081e",
+    "title": "DMC HD Collection",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Devil May CryTM HD Collection brings the first three original Devil May Cry® titles; Devil May Cry, Devil May Cry 2, and Devil May Cry 3: Dante’s Awakening Special Edition together in one high definition package for the first time.  Featuring Dante, one of the most iconic video game characters of the last decade, Devil May Cry HD Collection is full of the award-winning gameplay and style that the series has become known for with the addition of stunning HD graphics, bonus content and support for Achievements.",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        }
+    ],
+    "publisher": "Capcom Entertainment, Inc",
+    "studio": "Foundation 9",
+    "originalReleaseDate": "/Date(1333411200000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Suggestive Themes",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/4343081e/DMCHD_360_Manual_US_final-lr.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/screenlg4.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/DMC-HD-Collection/66acd000-77fe-1000-9115-d8024343081e",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.75,
+            "Count": 7641
+        }
+    },
+    "price": {
+        "goldPrice": "$29.99",
+        "silverPrice": "$29.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 29.99,
+            "display": "$29.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024343081e/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d8024343081e",
+            "title": "DMC HD Collection",
+            "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Devil May CryTM HD Collection brings the first three original Devil May Cry® titles; Devil May Cry, Devil May Cry 2, and Devil May Cry 3: Dante’s Awakening Special Edition together in one high definition package for the first time.  Featuring Dante, one of the most iconic video game characters of the last decade, Devil May Cry HD Collection is full of the award-winning gameplay and style that the series has become known for with the addition of stunning HD graphics, bonus content and support for Achievements.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.75,
+                    "Count": 7641
+                }
+            },
+            "originalReleaseDate": "/Date(1352192400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024343081e/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024343081e",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$29.99",
+                "silverPrice": "$29.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 29.99,
+                    "display": "$29.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1654 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80254510896",
+    "title": "Darksiders II",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian. Dutch and Polish supported via text only.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Become the terrifying force which everything fears but nothing can escape. ",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Role Playing"
+        }
+    ],
+    "publisher": "THQ, Inc.",
+    "studio": "Vigil Games",
+    "originalReleaseDate": "/Date(1344902400000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Suggestive Themes",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/54510896/0/DS2_360_TRIFOLD_MAN.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/screenlg4.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Darksiders-II/66acd000-77fe-1000-9115-d80254510896",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 23807
+        }
+    },
+    "price": {
+        "goldPrice": "Free",
+        "silverPrice": "$49.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 49.99,
+            "display": "$49.99",
+            "tax": "plus tax",
+            "user": "silver"
+        },
+        {
+            "method": "currency",
+            "amount": 0,
+            "display": "Free",
+            "tax": "plus tax",
+            "user": "gold"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameVideo",
+        "GameAddon",
+        "AvatarItem"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80254510896/Children",
+    "childDownloads": [
+        {
+            "id": "708d753c-e6e4-41db-90ae-703501fd2151",
+            "title": "Behind the Mask: “Death Rises\"",
+            "description": "Take the first apocalyptic insider look at how Vigil Games brings Death to life in this Darksiders II Developer Diary. From appearance & temperament, to weapons and fighting style, experience why what starts with War will end with Death in, \"Behind the Mask: Death Rises.\"",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 174
+                }
+            },
+            "originalReleaseDate": "/Date(1333616400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/708d753c-e6e4-41db-90ae-703501fd2151",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "80ce6861-dc82-4974-98ce-516eef30f192",
+            "title": "Behind the Mask: “Death’s Story”",
+            "description": "Become immersed in an epic story, as Death encounters other-worldly creatures and faces down insurmountable odds. Vigil Games takes you behind the mask and into the story of Darksiders II!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 162
+                }
+            },
+            "originalReleaseDate": "/Date(1336640400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/80ce6861-dc82-4974-98ce-516eef30f192",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "d3d044d3-a8d9-4af0-bffe-66322f94c586",
+            "title": "Behind the Mask: “Death’s World”",
+            "description": "Battle colossal foes, traverse over fascinating worlds, and gallop through breathtaking environments, from underground dungeons to vast over-worlds of epic scale. Go behind the scenes with Vigil Games as they take you deep into the world of Darksiders II! ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 164
+                }
+            },
+            "originalReleaseDate": "/Date(1333702800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/d3d044d3-a8d9-4af0-bffe-66322f94c586",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80254510896",
+            "title": "Darksiders II",
+            "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Russian. Dutch and Polish supported via text only.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Become the terrifying force which everything fears but nothing can escape. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 23807
+                }
+            },
+            "originalReleaseDate": "/Date(1351069200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameVideo",
+                "GameAddon",
+                "AvatarItem"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80254510896",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "$49.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 49.99,
+                    "display": "$49.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                },
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "gold"
+                }
+            ]
+        },
+        {
+            "id": "58e93be1-19da-4583-8d62-d758215071b9",
+            "title": "Behind the Mask: “Your Death”",
+            "description": "Check out the final installment of the Darksiders II “Behind the Mask” series.  Vigil discusses skill trees, magic, and nearly limitless loot, mixed with fast-paced combat.  Create and Play Your Death this August! ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 162
+                }
+            },
+            "originalReleaseDate": "/Date(1343120400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/58e93be1-19da-4583-8d62-d758215071b9",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "c9ebdfb8-d34f-4437-8f58-60523ea77f12",
+            "title": "Death Lives Trailer",
+            "description": "Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Become the terrifying force which everything fears but nothing can escape. Death Lives! ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 445
+                }
+            },
+            "originalReleaseDate": "/Date(1328605200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/c9ebdfb8-d34f-4437-8f58-60523ea77f12",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000544-6287-b253-cdb8-059e54510896",
+            "title": "Darksiders II Despair Mask",
+            "description": "Give Death's mighty steed Despair,  the spotlight he always deserved with this awesome Mask for your avatar",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1345539600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000544-6287-b253-cdb8-059e54510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000544-6287-b253-cdb8-059e54510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-133b-e203-c3b4-bd7854510896",
+            "title": "Darksiders II Despair Prop",
+            "description": "Summon Death's mighty steed Despair from the netherworld as a supernatural pet for your Avatar!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 22
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-133b-e203-c3b4-bd7854510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-133b-e203-c3b4-bd7854510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-72c1-2283-c001-910554510896",
+            "title": "Darksiders II Dust Prop",
+            "description": "Summon  Dust,  Death's trusty crow from Darksiders II,  as a unique companion  for your avatar!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 22
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-72c1-2283-c001-910554510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-72c1-2283-c001-910554510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-a7bc-52e3-c01d-97b454510896",
+            "title": "Darksiders II Eternal Throne Prop",
+            "description": "Pulled through the underworld by two giant serpeants, the Eternal Throne from Darksiders II is now available as a unique companion for your avatar!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 21
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-a7bc-52e3-c01d-97b454510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-a7bc-52e3-c01d-97b454510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-c233-2281-c000-ffa754510896",
+            "title": "Darksiders II Logo Shirt",
+            "description": "Show your allegience to the most terrifying of all the Four Horseman, with this Darksiders II shirt",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 19
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-c233-2281-c000-ffa754510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-c233-2281-c000-ffa754510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-f360-42c2-c125-6a8954510896",
+            "title": "Darksiders II Logo Shirt",
+            "description": "Show your allegience to the most terrifying of all the Four Horseman, with this Darksiders II shirt",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-f360-42c2-c125-6a8954510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-f360-42c2-c125-6a8954510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-e951-e293-c8f6-d28c54510896",
+            "title": "Darksiders II Maker Custodian Prop",
+            "description": "Summon a Maker Custodian from Darksiders II as a unique companion for your avatar!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.75,
+                    "Count": 25
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-e951-e293-c8f6-d28c54510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-e951-e293-c8f6-d28c54510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-4f5a-52f3-c4f3-d61c54510896",
+            "title": "Darksiders II Reaper Form Prop",
+            "description": "Summon Death's ultimate Reaper Form from Darksiders II as a unique companion for your avatar!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 28
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-4f5a-52f3-c4f3-d61c54510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-4f5a-52f3-c4f3-d61c54510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "4250be0e-d08b-4c8e-b419-7e03e1b1fe53",
+            "title": "Abyssal Forge",
+            "description": " (Online Interactions Not Rated by the ESRB) A new dungeon and new character options to explore, further extending the Darksiders II experience. Season Pass content should be accessed and downloaded in-game, or you may be charged twice. Visit darksiders.com for more details.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 97
+                }
+            },
+            "originalReleaseDate": "/Date(1351587600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/4250be0e-d08b-4c8e-b419-7e03e1b1fe53/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/4250be0e-d08b-4c8e-b419-7e03e1b1fe53",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$9.99",
+                "silverPrice": "$9.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 9.99,
+                    "display": "$9.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-9643-02f2-cbb7-82d654510896",
+            "title": "Darksiders II Angel of Death Armor",
+            "description": "Give yourself a heavenly edge with this unique set of Darksiders II Angel of Death armor for your Avatar",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1348131600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-9643-02f2-cbb7-82d654510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-9643-02f2-cbb7-82d654510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-ff1a-22a1-cc5f-22d654510896",
+            "title": "Darksiders II Angel of Death Armor",
+            "description": "Give yourself a heavenly edge with this unique set of Darksiders II Angel of Death armor for your Avatar",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1348131600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-ff1a-22a1-cc5f-22d654510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-ff1a-22a1-cc5f-22d654510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "cf93717b-27fd-48d2-9b4a-9a68879b5bfe",
+            "title": "Angel of Death Pack",
+            "description": "(Online Interactions Not Rated by the ESRB)  Give yourself an edge with a unique set of enhanced armor with a heavenly design as well as a pair of upgraded matching scythes and a new colored VFX trail for your trusty crow Dust. Please note this item is NOT included in Season Pass which ONLY includes the Maker Armor Set, The Abyssal Forge, and The Demon Lord Belial. Visit darksiders.com for more details.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 118
+                }
+            },
+            "originalReleaseDate": "/Date(1349168400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/cf93717b-27fd-48d2-9b4a-9a68879b5bfe/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/cf93717b-27fd-48d2-9b4a-9a68879b5bfe",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "fc4b1dd9-2956-4b38-9425-7e922a78b875",
+            "title": "Argul's Tomb",
+            "description": "A whole new dungeon to explore, further extending the Darksiders II experience. Please note this item is NOT included in Season Pass which ONLY includes the Maker Armor Set, The Abyssal Forge, and The Demon Lord Belial. Visit darksiders.com for more details.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 349
+                }
+            },
+            "originalReleaseDate": "/Date(1348563600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/fc4b1dd9-2956-4b38-9425-7e922a78b875/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/fc4b1dd9-2956-4b38-9425-7e922a78b875",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$6.99",
+                "silverPrice": "$6.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 6.99,
+                    "display": "$6.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-4f37-e2d3-cc85-d06754510896",
+            "title": "Darksiders II Bone Giant Prop",
+            "description": "Angry and aggressive, the Bone Giant is a fearsome adversary, but SO cute as a pet…",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 19
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-4f37-e2d3-cc85-d06754510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-4f37-e2d3-cc85-d06754510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$3.99",
+                "silverPrice": "$3.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 3.99,
+                    "display": "$3.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "416c6305-53a1-4c94-a8a8-10dacfb1c106",
+            "title": "Crucible Pass",
+            "description": "Please note this item is NOT included in Season Pass which ONLY includes the Maker Armor Set, The Abyssal Forge, and The Demon Lord Belial. Visit www.darksiders.com for more details.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 564
+                }
+            },
+            "originalReleaseDate": "/Date(1344934800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/416c6305-53a1-4c94-a8a8-10dacfb1c106/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/416c6305-53a1-4c94-a8a8-10dacfb1c106",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$9.99",
+                "silverPrice": "$9.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 9.99,
+                    "display": "$9.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "1091a222-8c7e-4bf9-8086-c6b19681fe33",
+            "title": "Deadly Despair Pack",
+            "description": "(Online Interactions Not Rated by the ESRB)   Features a permanent speed boost for Death’s trusty steed Despair, allowing players to travel across the vast world even faster than before. Please note this item is NOT included in Season Pass. Visit darksiders.com for more details.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 118
+                }
+            },
+            "originalReleaseDate": "/Date(1349168400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/1091a222-8c7e-4bf9-8086-c6b19681fe33/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/1091a222-8c7e-4bf9-8086-c6b19681fe33",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "5fda62b0-afb3-4235-b645-f08bdb54af15",
+            "title": "Darksiders II: Death Comes For All",
+            "description": "In the first all-gameplay trailer for Darksiders II, the Crowfather sets the stage for our tale: where the fate of mankind may be determined by the actions of the most feared horseman of the apocalypse: Death. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 185
+                }
+            },
+            "originalReleaseDate": "/Date(1343293200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/5fda62b0-afb3-4235-b645-f08bdb54af15",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "2c2f5beb-b3e8-4314-84c5-0bcd26fd8f72",
+            "title": "Darksiders II: DEATH ETERNAL",
+            "description": "Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Become the terrifying force which everything fears but nothing can escape. Death Lives!  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 250
+                }
+            },
+            "originalReleaseDate": "/Date(1333616400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/2c2f5beb-b3e8-4314-84c5-0bcd26fd8f72",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "c4206a06-fe8a-494d-9973-c5fb517119d3",
+            "title": "Death Rides Pack",
+            "description": "Featuring multiple exclusive side-quests, this pack allows the most fearless adventurers to explore more of the Maker's Realm and Dead Plains and earn additional experience and loot. Aid an ancient Construct, battle The Bloodless and retrieve Karn's lost treasure in this unique game play content. Please note this item is NOT included in Season Pass which ONLY includes the Maker Armor Set, The Abyssal Forge, and The Demon Lord Belial.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 269
+                }
+            },
+            "originalReleaseDate": "/Date(1348563600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/c4206a06-fe8a-494d-9973-c5fb517119d3/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/c4206a06-fe8a-494d-9973-c5fb517119d3",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$6.99",
+                "silverPrice": "$6.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 6.99,
+                    "display": "$6.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "4a8aaeeb-b6e8-425c-869c-d51f1cdb8d4d",
+            "title": "Darksiders II: Death Strikes: Part 2",
+            "description": "Witness the epic conclusion, as Death brings even the mightiest opponent to its knees.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 452
+                }
+            },
+            "originalReleaseDate": "/Date(1337331600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/4a8aaeeb-b6e8-425c-869c-d51f1cdb8d4d",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "a41dccff-c3ee-495d-9273-e3ddc65608be",
+            "title": "Darksiders II: Death Strikes: Part I  ",
+            "description": "As the war between Heaven and Hell rages, Death shows both demon and angel how he earned his name. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 211
+                }
+            },
+            "originalReleaseDate": "/Date(1333443600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80254510896/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/a41dccff-c3ee-495d-9273-e3ddc65608be",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-eb63-7211-ce17-f09154510896",
+            "title": "Darksiders II Despair Emblem t-shirt",
+            "description": "Become a Horseman of the apocalypse with this t-shirt featuring the emblem of Death's mighty steed, Despair",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 15
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-eb63-7211-ce17-f09154510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-eb63-7211-ce17-f09154510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-baea-8262-c2e6-ffbc54510896",
+            "title": "Darksiders II Despair Emblem t-shirt",
+            "description": "Become a Horseman of the apocalypse with this t-shirt featuring the emblem of Death's mighty steed, Despair",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-baea-8262-c2e6-ffbc54510896/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-baea-8262-c2e6-ffbc54510896",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "10f539d4-237c-4aa1-8edc-69280fde1157",
+            "title": "Fletcher's Crow Hammer",
+            "description": "Bludgeon your foes with the Fletcher's Crow Hammer. This item is best suited for 5th - 10th level characters. Please note this item is NOT included in Season Pass which ONLY includes the Maker Armor Set, The Abyssal Forge, and The Demon Lord Belial. Visit darksiders.com for more details.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 63
+                }
+            },
+            "originalReleaseDate": "/Date(1349168400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Role Playing"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/10f539d4-237c-4aa1-8edc-69280fde1157/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/10f539d4-237c-4aa1-8edc-69280fde1157",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

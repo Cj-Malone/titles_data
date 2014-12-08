@@ -1,0 +1,119 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802555307fb",
+    "title": "Pure Futbol",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English, French, Spanish.  The world's greatest players meet in secret to play in a manner that is no longer available to them in their professional lives. Along with 4 teammates they indulge in a form of the beautiful game where tackling hard is as cherished as playing with skill - it is only on these hidden pitches that the players feel truly alive. Enter your created player into this world where he will take on the pros and other likeminded individuals in tournaments where only the fittest and the strongest will survive. It's a world where in-game cameras place you right into the heart of the action, where the relentless, intense and visceral physical experience can truly be felt.",
+    "genres": [
+        {
+            "label": "Sports & Recreation"
+        }
+    ],
+    "publisher": "Ubisoft",
+    "studio": "Action Pants Inc.",
+    "originalReleaseDate": null,
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/screenlg10.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Pure-Futbol/66acd000-77fe-1000-9115-d802555307fb",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 7966
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555307fb/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400b-80bf-0001555307fb",
+            "title": "Announcement Trailer",
+            "description": "In this trailer, follow Steven Gerrard on the pitch and experience the passion of pure 5vs5 football! With Pure Futbol™, choose from 17 top International teams or 3 legendary teams, and feel the power of taking to the field as one of the best footballers in the world.  Download this trailer.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 172
+                }
+            },
+            "originalReleaseDate": "/Date(1281517200000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Sports & Recreation"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307fb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001555307fb",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

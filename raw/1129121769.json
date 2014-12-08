@@ -1,0 +1,390 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802434d07e9",
+    "title": "Clive Barker's Jericho",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Clive Barker's Jericho is an action horror game",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "Codemasters Software Company Limited",
+    "studio": "Mercury Steam Entertainment, S.L.",
+    "originalReleaseDate": "/Date(1193097600000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Intense Violence",
+                "image": null
+            },
+            {
+                "label": "Sexual Themes",
+                "image": null
+            },
+            {
+                "label": "Strong Language",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/screenlg10.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Clive-Barkers-Jericho/66acd000-77fe-1000-9115-d802434d07e9",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 7631
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameDemo",
+        "GameVideo",
+        "GamerPic",
+        "Theme"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802434d07e9/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400d-80df-0001434d87e8",
+            "title": "Clive Barker's Jericho Demo",
+            "description": "Clive Barker’s Jericho™ is a terrifying squad-based horror FPS based on an original concept and story by horror writer and film maker Clive Barker. An ancient evil has broken through into our world and is threatening to spread its taint across the whole of the earth unless it’s stopped. At ground zero lies the Middle Eastern city of Al-Khali, a modern city built atop the ancient ruins of a dozen previous conquerors. In this demo you’ll lead the Jericho team through the sewers of an immense fortress, harnessing their unique powers and weapons to destroy the hoards demonic crusaders that stand in their way.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 827
+                }
+            },
+            "originalReleaseDate": "/Date(1190883600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80df-0001434d87e8/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400d-80df-0001434d87e8",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-4002-802f-0001434d07e9",
+            "title": "Jericho Creatures Picture Pack",
+            "description": "Six Creatures from Clive Barker's Jericho There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 84
+                }
+            },
+            "originalReleaseDate": "/Date(1196245800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4002-802f-0001434d07e9",
+            "downloadTypeClass": "GamerPic",
+            "downloadTypeText": "GamerPic",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.25",
+                "silverPrice": "$1.25"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.25,
+                    "display": "$1.25",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-4003-803f-0001434d07e9",
+            "title": "Jericho Creatures Theme",
+            "description": "Get this theme featuring rendered artwork of the creatures from Clive Barker's Jericho. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 68
+                }
+            },
+            "originalReleaseDate": "/Date(1196244900000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0001434d07e9",
+            "downloadTypeClass": "Theme",
+            "downloadTypeText": "Theme",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$0.63",
+                "silverPrice": "$0.63"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0.63,
+                    "display": "$0.63",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-4003-803f-0002434d07e9",
+            "title": "Jericho Squad Members Theme",
+            "description": "Get this theme featuring rendered artwork of the Squad members from Clive Barker's Jericho  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 57
+                }
+            },
+            "originalReleaseDate": "/Date(1196331300000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4003-803f-0002434d07e9",
+            "downloadTypeClass": "Theme",
+            "downloadTypeText": "Theme",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$0.63",
+                "silverPrice": "$0.63"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0.63,
+                    "display": "$0.63",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-4002-802f-0002434d07e9",
+            "title": "Jericho Squad Picture Pack",
+            "description": "Six Squad members from Clive Barker's Jericho  There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 46
+                }
+            },
+            "originalReleaseDate": "/Date(1196331300000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4002-802f-0002434d07e9",
+            "downloadTypeClass": "GamerPic",
+            "downloadTypeText": "GamerPic",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.25",
+                "silverPrice": "$1.25"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.25,
+                    "display": "$1.25",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-400b-80bf-0001434d07e9",
+            "title": "Jericho Trailer (HD)",
+            "description": "Download this trailer. Clive Barker’s Jericho™ is a terrifying squad-based horror FPS game based on an original concept and story by legendary horror writer and film maker Clive Barker, the creator of Hellraiser.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 75
+                }
+            },
+            "originalReleaseDate": "/Date(1186736400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802434d07e9/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001434d07e9",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

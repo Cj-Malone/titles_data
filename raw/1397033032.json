@@ -1,0 +1,780 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80253450848",
+    "title": "Sonic Generations",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Sonic’s universe is thrown into chaos when a mysterious new power comes into force, creating  ‘time holes’ which take Sonic and his friends back in time.  Whilst there, Sonic runs into some very familiar characters from his past including a younger version of himself!  Now they must team up to defeat their enemies, save their friends, and find out who is behind this diabolical deed.  ",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Platformer"
+        }
+    ],
+    "publisher": "SEGA ",
+    "studio": "SEGA ",
+    "originalReleaseDate": "/Date(1308787200000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Cartoon Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg10.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Sonic-Generations/66acd000-77fe-1000-9115-d80253450848",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 35956
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameDemo",
+        "GameVideo",
+        "AvatarItem"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80253450848/Children",
+    "childDownloads": [
+        {
+            "id": "00000ffc-e15a-5201-c75b-5ae853450848",
+            "title": "Classic Amy-Rose Avatar Costume",
+            "description": "Prefer your look to be a little more pink?  To celebrate the upcoming Sonic Generations wear this costume to take on the characteristics of the bright, cheerful friend of Sonic, and stun your friends with your cool looks.  Never has a costume being quite so funky, and quite so… pink!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 70
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-e15a-5201-c75b-5ae853450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-e15a-5201-c75b-5ae853450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-4eef-a2f2-c9cc-b85153450848",
+            "title": "Classic Amy-Rose Avatar Costume",
+            "description": "Prefer your look to be a little more pink?  To celebrate the upcoming Sonic Generations wear this costume to take on the characteristics of the bright, cheerful friend of Sonic, and stun your friends with your cool looks.  Never has a costume being quite so funky, and quite so… pink!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 22
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-4eef-a2f2-c9cc-b85153450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-4eef-a2f2-c9cc-b85153450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-f372-e221-ce3f-574253450848",
+            "title": "Classic Sonic Avatar Costume",
+            "description": "Burst the avatar fashion barrier wide open with the Classic Sonic avatar costume.  Based on the blue hedgehog’s ‘classic’ looks from the upcoming Sonic Generations, make your friends envious of your slick, speedy fashion sense, as you take on Sonic’s super cool characteristics.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 200
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-f372-e221-ce3f-574253450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-f372-e221-ce3f-574253450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-0b1c-e252-c5ee-723953450848",
+            "title": "Classic Sonic Avatar Costume",
+            "description": "Burst the avatar fashion barrier wide open with the Classic Sonic avatar costume.  Based on the blue hedgehog’s ‘classic’ looks from the upcoming Sonic Generations, make your friends envious of your slick, speedy fashion sense, as you take on Sonic’s super cool characteristics.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 17
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-0b1c-e252-c5ee-723953450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-0b1c-e252-c5ee-723953450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "bff7114e-6e68-4eec-93f8-37fc64bdd302",
+            "title": "Sonic Generations Launch Trailer",
+            "description": "Set across three defining eras from 20 years of Sonic the Hedgehog video game history, the instantly recognisable environments of Sonic Generations have been re-built to be playable as both Classic and Modern Sonic.  Bounce, spin and dash as Classic Sonic, and boost, grind and slide as Modern Sonic, through levels to defeat the evil force that is threatening Sonic’s world. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 385
+                }
+            },
+            "originalReleaseDate": "/Date(1322038800000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Cartoon Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/bff7114e-6e68-4eec-93f8-37fc64bdd302",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "b9c7e0e2-c6c9-462d-9e9a-e39c45a55d47",
+            "title": "Sonic 20th Anniversary Trailer",
+            "description": "Since the launch of Sonic The Hedgehog™ back in June 1991 on the SEGA Mega Drive, Sonic quickly became a popular gaming icon due to his super fast speed, cool edgy character and his readiness for all types of adventure. Here we relive some of those iconic games from Sonic the Hedgehog™ , through to the exciting new game, Sonic Generations™.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 614
+                }
+            },
+            "originalReleaseDate": "/Date(1311930000000)/",
+            "contentRating": {
+                "label": "E10 (Everyone 10+)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+                "age": 10,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/b9c7e0e2-c6c9-462d-9e9a-e39c45a55d47",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80253450848",
+            "title": "Sonic Generations",
+            "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Sonic’s universe is thrown into chaos when a mysterious new power comes into force, creating  ‘time holes’ which take Sonic and his friends back in time.  Whilst there, Sonic runs into some very familiar characters from his past including a younger version of himself!  Now they must team up to defeat their enemies, save their friends, and find out who is behind this diabolical deed.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 35956
+                }
+            },
+            "originalReleaseDate": "/Date(1350378000000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Cartoon Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameDemo",
+                "GameVideo",
+                "AvatarItem"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80253450848",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000040-49a2-8263-ca92-f06153450848",
+            "title": "Sonic Generations Cap",
+            "description": "Customise you avatar with this Sonic Generations cap featuring the logo from the game.  The modern, cool curves of this hat, contrast with its classic, retro logo.  Something classic and something modern in one – just like Sonic Generations!!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 78
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000040-49a2-8263-ca92-f06153450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000040-49a2-8263-ca92-f06153450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80253458861",
+            "title": "Sonic Generations Demo",
+            "description": "Race through the iconic Green Hill as Classic and Modern Sonics in this Sonic Generations demo.  As Classic Sonic tackle a re-imagination of the original Sonic The Hedgehog level.  Then grind along rails to escape giant enemies, boost round corkscrews and fly through the air, in a unique level designed to challenge Modern Sonic.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 8930
+                }
+            },
+            "originalReleaseDate": "/Date(1319533200000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Cartoon Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253458861/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80253458861",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "80f54776-44b0-4f26-bca8-a609faf24cc7",
+            "title": "Sonic Generations Gamescom Trailer",
+            "description": "Bounce, spin and dash as Classic Sonic, and boost, grind and slide as Modern Sonic as they take on three more stunning environments: Chemical Plant, Seaside Hill and Rooftop Run. Representing three eras of Sonic gaming each environment has been completely rebuilt to showcase each Sonic’s unique gameplay style. And keep your eyes peeled for an infamous boss who’s returned to wreak havoc!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 200
+                }
+            },
+            "originalReleaseDate": "/Date(1315386000000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Cartoon Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/80f54776-44b0-4f26-bca8-a609faf24cc7",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-2551-5231-cfe1-060153450848",
+            "title": "Sonic Generations T-Shirt",
+            "description": "Be the envy of your friends by customising your avatar with this super awesome t-shirt. Featuring both Classic Sonic and Modern Sonic as seen in Sonic Generations, your avatar will have twice the attitude and twice the coolness when wearing this t-shirt.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 106
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-2551-5231-cfe1-060153450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-2551-5231-cfe1-060153450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-a935-5222-cc3e-923153450848",
+            "title": "Sonic Generations T-Shirt",
+            "description": "Be the envy of your friends by customising your avatar with this super awesome t-shirt. Featuring both Classic Sonic and Modern Sonic as seen in Sonic Generations, your avatar will have twice the attitude and twice the coolness when wearing this t-shirt.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 21
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-a935-5222-cc3e-923153450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-a935-5222-cc3e-923153450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-6b03-22a2-c35e-cd3353450848",
+            "title": "Super Sonic Avatar Costume ",
+            "description": "Download and power-up this ‘Super Sonic’ costume, as first seen in ‘Sonic the Hedgehog 2’-the ultimate Sonic accessory. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 54
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-6b03-22a2-c35e-cd3353450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-6b03-22a2-c35e-cd3353450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-7066-e2a1-c157-f5da53450848",
+            "title": "Super Sonic Avatar Costume ",
+            "description": "Download and power-up this‘Super Sonic’ costume, as first seen in ‘Sonic the Hedgehog 2’. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 319
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Platformer"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-7066-e2a1-c157-f5da53450848/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-7066-e2a1-c157-f5da53450848",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

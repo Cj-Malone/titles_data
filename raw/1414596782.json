@@ -1,0 +1,265 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802545108ae",
+    "title": "Jeopardy!",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Join Alex Trebeck and play as a contestant on “America’s Favorite Quiz Show!®” Test your trivia knowledge to make it to Final Jeopardy and the coveted Winner’s Circle!",
+    "genres": [
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Puzzle & Trivia"
+        }
+    ],
+    "publisher": "THQ Inc.",
+    "studio": "Pipeworks",
+    "originalReleaseDate": "/Date(1350345600000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Violent References",
+                "image": null
+            },
+            {
+                "label": "Alcohol and Tobacco Reference",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/545108ae/Jeopardy%20on%20Demand%20Manual.pdf.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/screenlg4.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Jeopardy/66acd000-77fe-1000-9115-d802545108ae",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 901
+        }
+    },
+    "price": {
+        "goldPrice": "$29.99",
+        "silverPrice": "$29.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 29.99,
+            "display": "$29.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameDemo",
+        "GameAddon"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545108ae/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d802545108ae",
+            "title": "Jeopardy!",
+            "description": "The Games on Demand version supports English, French. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  (Online Interactions Not Rated by the ESRB) Join Alex Trebeck and play as a contestant on “America’s Favorite Quiz Show!®” Test your trivia knowledge to make it to Final Jeopardy and the coveted Winner’s Circle!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 901
+                }
+            },
+            "originalReleaseDate": "/Date(1364893200000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violent References",
+                        "image": null
+                    },
+                    {
+                        "label": "Alcohol and Tobacco Reference",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameDemo",
+                "GameAddon"
+            ],
+            "genres": [
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Puzzle & Trivia"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545108ae/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545108ae",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$29.99",
+                "silverPrice": "$29.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 29.99,
+                    "display": "$29.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d802545188b8",
+            "title": "Jeopardy! Demo ",
+            "description": "Join Alex Trebek and play as a contestant on \"America's Favorite Quiz Show®!” Test your knowledge to make it to Final Jeopardy! and the coveted Winner’s Circle! ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 734
+                }
+            },
+            "originalReleaseDate": "/Date(1351587600000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violent References",
+                        "image": null
+                    },
+                    {
+                        "label": "Alcohol and Tobacco Reference",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Puzzle & Trivia"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545188b8/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545188b8",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "d08dab4d-c965-4b88-a06f-680c4b17e2ab",
+            "title": "New Clues Pack",
+            "description": "Use your quick wit to solve over 600 new clues making up 10 complete game episodes!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 39
+                }
+            },
+            "originalReleaseDate": "/Date(1355821200000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violent References",
+                        "image": null
+                    },
+                    {
+                        "label": "Alcohol and Tobacco Reference",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Puzzle & Trivia"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/d08dab4d-c965-4b88-a06f-680c4b17e2ab/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/d08dab4d-c965-4b88-a06f-680c4b17e2ab",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

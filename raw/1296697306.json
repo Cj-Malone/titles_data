@@ -1,0 +1,321 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024d4a07da",
+    "title": "Zumba Fitness",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Join the party with Zumba Fitness®, a one-of-a-kind, dance fitness workout set to sexy, high-energy Latin and international music!  Find your rhythm and let go as Zumba instructor fan favorites Gina Grant, Tanya Beardsley and Zumba’s creator Beto guide you through 30 routines that will work you into a sweat and make you forget you’re even exercising. Featuring exclusive music and choreography, Zumba Fitness® for Kinect lets you see yourself on screen and naturally dance controller-free in an ultra fun interactive fitness party that’s focused on the joy of movement!  Note: An important Zumba Fitness Title Update is now available to enhance the Kinect gameplay experience. Please visit www.zumbafitnessgame.com/titleupdate for additional information.   ",
+    "genres": [
+        {
+            "label": "Music"
+        },
+        {
+            "label": "Sports & Recreation"
+        },
+        {
+            "label": "Kinect"
+        }
+    ],
+    "publisher": "Majesco Entertainment",
+    "studio": "Pipeworks",
+    "originalReleaseDate": "/Date(1290729600000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Mild Lyrics",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+        "http://mktplassets.xbox.com/NR/rdonlyres/65AEE344-BC27-4B6C-B40A-7AF947C6F5D5/0/vidzumbacdnhi.asx"
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a07da/1033/screenlg7.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Zumba-Fitness/66acd000-77fe-1000-9115-d8024d4a07da",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 18859
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameDemo",
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a07da/Children",
+    "childDownloads": [
+        {
+            "id": "b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+            "title": "Kinect Launch Titles Montage",
+            "description": "This montage showcases all the games available on Kinect beginning November 2010.  You are the controller for all these amazing experiences.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 946
+                }
+            },
+            "originalReleaseDate": "/Date(1288256400000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Platformer"
+                },
+                {
+                    "label": "Shooter"
+                },
+                {
+                    "label": "Sports & Recreation"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "c10f832b-fafb-40b8-b50d-4aca9ef33f7f",
+            "title": "Zumba Fitness",
+            "description": "Join the party with Zumba Fitness®, a one-of-a-kind, dance fitness workout set to sexy, high-energy Latin and international music!  Find your rhythm and let go as Zumba instructor fan favorites Gina Grant, Tanya Beardsley and Zumba’s creator Beto guide you through 30 routines that will work you into a sweat and make you forget you’re even exercising. Featuring exclusive music and choreography, Zumba Fitness® for Kinect lets you see yourself on screen and naturally dance controller-free in an ultra fun interactive fitness party that’s focused on the joy of movement!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 144
+                }
+            },
+            "originalReleaseDate": "/Date(1288310400000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Mild Lyrics",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Sports & Recreation"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/c10f832b-fafb-40b8-b50d-4aca9ef33f7f/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/c10f832b-fafb-40b8-b50d-4aca9ef33f7f",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d8024d4a87e0",
+            "title": "Zumba Fitness",
+            "description": "Join the party with Zumba Fitness®, a one-of-a-kind, dance fitness workout set to sexy, high-energy Latin and international music!  Find your rhythm and let go as Zumba instructor fan favorites Gina Grant, Tanya Beardsley and Zumba’s creator Beto guide you through 30 routines that will work you into a sweat and make you forget you’re even exercising. Featuring exclusive music and choreography, Zumba Fitness® for Kinect lets you see yourself on screen and naturally dance controller-free in an ultra fun interactive fitness party that’s focused on the joy of movement!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 1926
+                }
+            },
+            "originalReleaseDate": "/Date(1301043600000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Mild Lyrics",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Sports & Recreation"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d4a87e0/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d4a87e0",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "f07c1f31-ec22-4030-a629-75021bbd12bc",
+            "title": "Zumba Fitness",
+            "description": "Join the party with Zumba Fitness®, a one-of-a-kind, dance fitness workout set to sexy, high-energy Latin and international music!  Find your rhythm and let go as Zumba instructor fan favorites Gina Grant, Tanya Beardsley and Zumba’s creator Beto guide you through 30 routines that will work you into a sweat and make you forget you’re even exercising. Featuring exclusive music and choreography, Zumba Fitness® for Kinect lets you see yourself on screen and naturally dance controller-free in an ultra fun interactive fitness party that’s focused on the joy of movement!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 155
+                }
+            },
+            "originalReleaseDate": "/Date(1291366800000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Mild Lyrics",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Sports & Recreation"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/f07c1f31-ec22-4030-a629-75021bbd12bc/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/f07c1f31-ec22-4030-a629-75021bbd12bc",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

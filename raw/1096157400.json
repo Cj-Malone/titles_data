@@ -1,0 +1,151 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802415608d8",
+    "title": "007™ Legends",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d8/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d8/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Gamers and Bond aficionados alike will become James Bond, reliving the world-famous spy’s most iconic and intense undercover missions from throughout the entire Bond film franchise. Employ Bond’s full arsenal of gadgets and weaponry to face notorious villains and their brutal henchmen, perform impressive stunts, and of course, mingle with gorgeous Bond women.",
+    "genres": [
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "Activision",
+    "studio": "Eurocom",
+    "originalReleaseDate": "/Date(1350345600000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Drug Reference",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            },
+            {
+                "label": "Mild Language",
+                "image": null
+            },
+            {
+                "label": "Mild Suggestive Themes",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/007-Legends/66acd000-77fe-1000-9115-d802415608d8",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4,
+            "Count": 2647
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameAddon"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608d8/Children",
+    "childDownloads": [
+        {
+            "id": "d4c83e1f-243b-4a68-ad70-abf3c0fbf372",
+            "title": "SKYFALL Content Pack",
+            "description": "Take on the role of James Bond as played by Daniel Craig in all new SKYFALL levels. Unlock three new single player levels following the storyline of the SKYFALL movie. Levels take place in Istanbul and Shanghai as the player (Bond) attempts to track down the villain Patrice.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 365
+                }
+            },
+            "originalReleaseDate": "/Date(1353402000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/d4c83e1f-243b-4a68-ad70-abf3c0fbf372/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/d4c83e1f-243b-4a68-ad70-abf3c0fbf372",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

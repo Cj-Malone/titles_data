@@ -1,0 +1,114 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8025454082e",
+    "title": "NHL 2K9",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "(Online Interactions Not Rated by the ESRB) Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   Do you long for the days when hockey video games didn't require an engineering degree to master? 2K Sports has listened to the masses by bringing the fun back to hockey video games with an intuitive control scheme, and hard-hitting action in NHL® 2K9. Developed by award-winning Visual Concepts studios, NHL 2K9 brings a rebuilt-from-the-ground-up NHL experience to life with a brand-new in-game presentation system, fresh player animations, and controls that you will enjoy from the moment you play your first game, yet still appreciate as you become a seasoned veteran. Further adding an unmatched level of fun and celebrating the NHL's uniqueness are an all-new Zamboni™ mini-game, playoff beards, a new fighting engine, new commentary, a user-friendly franchise mode, upgraded online features, and more!",
+    "genres": [
+        {
+            "label": "Sports & Recreation"
+        }
+    ],
+    "publisher": "2K Sports",
+    "studio": "Visual Concepts",
+    "originalReleaseDate": "/Date(1220918400000)/",
+    "contentRating": {
+        "label": "E10 (Everyone 10+)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+        "age": 10,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Lyrics",
+                "image": null
+            },
+            {
+                "label": "Mild Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://epix.xbox.com/shaXam/0201/28/f5/28f527dc-9004-4f4a-80b8-a54b3d56f7d3.PDF?v=1#nhl2k9-en.PDF",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/screenlg10.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/NHL-2K9/66acd000-77fe-1000-9115-d8025454082e",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 2883
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "Theme"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025454082e/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-4003-803f-00195454082e",
+            "title": "NHL2K9 Boston Bruins Theme",
+            "description": "Download this theme. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 37
+                }
+            },
+            "originalReleaseDate": "/Date(1227690000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Sports & Recreation"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082e/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4003-803f-00195454082e",
+            "downloadTypeClass": "Theme",
+            "downloadTypeText": "Theme",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$0.63",
+                "silverPrice": "$0.63"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0.63,
+                    "display": "$0.63",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

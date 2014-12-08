@@ -1,0 +1,123 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802454108bc",
+    "title": "FIFA 10",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "FIFA 10 gives players new levels of control and innovation to experience the beautiful game like never before. Featuring core gameplay refinements based on responsiveness and intelligence on top of an already potent game engine, FIFA 10 continues to set the benchmark as the most complete football simulation.",
+    "genres": [
+        {
+            "label": "Sports & Recreation"
+        }
+    ],
+    "publisher": "Electronic Arts",
+    "studio": "EA Canada",
+    "originalReleaseDate": "/Date(1266969600000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg10.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg11.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg12.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg13.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/screenlg14.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/FIFA-10/66acd000-77fe-1000-9115-d802454108bc",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 42070
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454108bc/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400b-80bf-0001454108bc",
+            "title": "FIFA 10 Official Trailer (HD)",
+            "description": "Download the official FIFA 10 Trailer now! Watch the video that was unveiled at Gamescom 2009 in Cologne, Germany.  Visit http://fifa.easports.com and sign up for our newsletter and receive exclusive offers only from EA SPORTS™   EA SPORTS™ introduces FIFA 10 the latest release of the best-selling football franchise in history. Responding to consumer feedback from over 275 million online games played FIFA 10 refines an already potent game engine, focusing on what matters most to fans. FIFA10 brings you a variety of innovative improvements on game play including a breadth of new defensive and offensive options.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 678
+                }
+            },
+            "originalReleaseDate": "/Date(1252573200000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Sports & Recreation"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108bc/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001454108bc",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

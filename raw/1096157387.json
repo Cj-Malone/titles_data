@@ -1,0 +1,1478 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802415608cb",
+    "title": "Modern Warfare® 3",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English.  Modern Warfare® is back. The best-selling first person action series of all-time returns with the epic sequel to multiple \"Game of the Year\" award winner, \"Call of Duty®: Modern Warfare 2.\" In the world’s darkest hour, are you willing to do what is necessary? Prepare yourself for a cinematic thrill-ride as only Call of Duty can deliver. Online, the definitive Multiplayer experience returns bigger and better than ever, loaded with new maps, modes and features. Co-Op play has evolved with all-new Spec-Ops missions and leaderboards, as well as Survival Mode, an action-packed combat progression unlike any other.",
+    "genres": [
+        {
+            "label": "Shooter"
+        }
+    ],
+    "publisher": "Activision",
+    "studio": "Infinity Ward and Sledgehammer Games",
+    "originalReleaseDate": "/Date(1320710400000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood and Gore",
+                "image": null
+            },
+            {
+                "label": "Drug Reference",
+                "image": null
+            },
+            {
+                "label": "Intense Violence",
+                "image": null
+            },
+            {
+                "label": "Strong Language",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/415608cb/CODMW3_Manual_EN_Revised.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/screenlg3.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Modern-Warfare-3/66acd000-77fe-1000-9115-d802415608cb",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 697959
+        }
+    },
+    "price": {
+        "goldPrice": "$49.99",
+        "silverPrice": "$49.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 49.99,
+            "display": "$49.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameDemo",
+        "GameVideo",
+        "GameAddon",
+        "GamerPic",
+        "AvatarItem"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608cb/Children",
+    "childDownloads": [
+        {
+            "id": "00000008-c5f5-0221-c776-9b37415608cb",
+            "title": "10th Prestige T-Shirt",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 85
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-c5f5-0221-c776-9b37415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-c5f5-0221-c776-9b37415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-76d2-b2e2-c647-8012415608cb",
+            "title": "10th Prestige T-Shirt",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-76d2-b2e2-c647-8012415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-76d2-b2e2-c647-8012415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "d546da50-fd55-4a06-9cc9-3d4a704845c4",
+            "title": "Collection 1",
+            "description": "If you are a Call of Duty Elite premium member, you already have access to the content in this Content Collection. Redeploying with an arsenal of content unlike any in franchise history, Call of Duty®: Modern Warfare® 3’s first downloadable “Collection” arrives stockpiled with not only four Multiplayer/Survival Mode Maps, but two Special Ops Missions—the first time Call of Duty® has ever made Special Ops downloadable online. Armed with just this one content pack, players can choose between heading to a militarized Central Park in “Liberation,” destroying scenic vistas in a seaside Italian getaway in “Piazza,” raining glass on New York passersby from 70-stories-up in “Overwatch,” and battling beside a downed Air Force One in “Black Box.” As if that breadth of multiplayer variety wasn’t enough, fans of Special Ops can hop aboard snowmobiles to infiltrate a diamond mine in “”Black Ice” or head to India, where “Negotiator” will leave the fate of hostages in their hands. In a class of its own with half-a-dozen forms of content, Modern Warfare® 3’s first downloadable “Collection” offers a range of combat and co-op the likes of which has never been seen before.  After this download is complete, please download the accompanying Collection 1 maps from the in-game STORE option in the MULTIPLAYER menu.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 23117
+                }
+            },
+            "originalReleaseDate": "/Date(1332234000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/d546da50-fd55-4a06-9cc9-3d4a704845c4/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/d546da50-fd55-4a06-9cc9-3d4a704845c4",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$14.99",
+                "silverPrice": "$14.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 14.99,
+                    "display": "$14.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "d8b07225-4bfb-4ab3-84f5-5296ad789947",
+            "title": "Collection 2",
+            "description": "Modern Warfare® 3’s second “Collection” deploys with 3 Multiplayer/Survival Mode Maps, 2 Special Ops Missions, and 2 all-new “Face Off” maps. Totally new to the franchise, these super-concentrated hot spots distill all the fury of Multiplayer into a whole new breed of close combat. Scoping the Mediterranean, Hamburg, a sprawling vacation resort and even the Scottish Islands, players hungry for action will have no shortage of venues to test their Multiplayer and Special Ops skills.  After this download is complete, please download the accompanying Collection 2 maps from the in-game STORE option in the MULTIPLAYER menu.  If you are a Call of Duty ELITE premium member, you already have access to the content in this Content Collection.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 15572
+                }
+            },
+            "originalReleaseDate": "/Date(1337677200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/d8b07225-4bfb-4ab3-84f5-5296ad789947/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/d8b07225-4bfb-4ab3-84f5-5296ad789947",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$14.99",
+                "silverPrice": "$14.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 14.99,
+                    "display": "$14.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-0751-f251-c7cb-38b4415608cb",
+            "title": "Captain John Price",
+            "description": "Captain John Price",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 97
+                }
+            },
+            "originalReleaseDate": "/Date(1332234000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-0751-f251-c7cb-38b4415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-0751-f251-c7cb-38b4415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-f83f-7201-c464-7f15415608cb",
+            "title": "John \"Soap\" MacTavish",
+            "description": "John \"Soap\" MacTavish",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 133
+                }
+            },
+            "originalReleaseDate": "/Date(1332234000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-f83f-7201-c464-7f15415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-f83f-7201-c464-7f15415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "98747549-77e3-4f95-b0fc-c0a65b0f2fb9",
+            "title": "Collection 1 Behind the Scenes Trailer",
+            "description": "Infinity Ward, Sledgehammer Games, and Raven Software discuss the upcoming Collection 1 in this behind-the-scenes multiplayer video for Call of Duty®: Modern Warfare® 3. Our biggest content pack in franchise history arrives with four Multiplayer/Survival Mode Maps and two Special Ops Missions. Collection 1 is available for purchase on March 20th, first on Xbox LIVE.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 632
+                }
+            },
+            "originalReleaseDate": "/Date(1333530000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/98747549-77e3-4f95-b0fc-c0a65b0f2fb9",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "9d0ed313-886b-45ff-9120-5ed31e1b2361",
+            "title": "FACE OFF Collection 2 Launch Trailer",
+            "description": "Grab a friend and experience an all-new way to play multiplayer. The second Call of Duty®: Modern Warfare® 3 DLC Collection launches with all-new Multiplayer/Survival Mode Maps, Special Ops Missions and the debut of Face Off maps. Totally new to the franchise, FACE OFF distills all the fun and intensity of multiplayer into a new breed of 1 vs. 1 and 2 vs. 2 close combat. In addition to 2 Face Off maps, Collection 2 deploys with 3 additional multiplayer maps and 2 Special Ops Missions.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 514
+                }
+            },
+            "originalReleaseDate": "/Date(1337763600000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/9d0ed313-886b-45ff-9120-5ed31e1b2361",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-e27b-42b1-c6c6-b8c5415608cb",
+            "title": "American Special Forces",
+            "description": "High-risk dangerous mission? Impossible Odds? No problem, Special Forces gets it done.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 814
+                }
+            },
+            "originalReleaseDate": "/Date(1321952400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-e27b-42b1-c6c6-b8c5415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-e27b-42b1-c6c6-b8c5415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-d62c-32c2-c813-b1a6415608cb",
+            "title": "American Special Forces",
+            "description": "High-risk dangerous mission? Impossible Odds? No problem, Special Forces gets it done.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 10
+                }
+            },
+            "originalReleaseDate": "/Date(1321952400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-d62c-32c2-c813-b1a6415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-d62c-32c2-c813-b1a6415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "3db87b9a-8191-4954-95ad-a6e86c1cd335",
+            "title": "American Special Forces Picture Pack",
+            "description": "This picture pack contains character art from Call of Duty® Modern Warfare® 3.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 6233
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/3db87b9a-8191-4954-95ad-a6e86c1cd335",
+            "downloadTypeClass": "GamerPic",
+            "downloadTypeText": "GamerPic",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-df84-d272-c7b5-bb50415608cb",
+            "title": "American Special Forces (Scuba)",
+            "description": "Land, Air, or Sea, there is no safe haven for the enemy.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 13
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-df84-d272-c7b5-bb50415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-df84-d272-c7b5-bb50415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-65aa-d2a1-c719-1e8a415608cb",
+            "title": "American Special Forces (Scuba)",
+            "description": "Land, Air, or Sea, there is no safe haven for the enemy.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 119
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-65aa-d2a1-c719-1e8a415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-65aa-d2a1-c719-1e8a415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-d5f0-f282-c8ea-628f415608cb",
+            "title": "Assassin T-Shirt",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-d5f0-f282-c8ea-628f415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-d5f0-f282-c8ea-628f415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-b102-b2b1-cf03-b7e7415608cb",
+            "title": "Assassin T-Shirt",
+            "description": "Download this avatar item.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 68
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-b102-b2b1-cf03-b7e7415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-b102-b2b1-cf03-b7e7415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "459014f9-26ea-4320-805f-e695e780ab32",
+            "title": "Assault Strike Package Picture Pack",
+            "description": "This picture pack contains 10 Assault Strike Package icons.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 1869
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/459014f9-26ea-4320-805f-e695e780ab32",
+            "downloadTypeClass": "GamerPic",
+            "downloadTypeText": "GamerPic",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-c8e3-c2d1-ca6b-17d2415608cb",
+            "title": "British Special Forces",
+            "description": "Geared and ready for hazardous conditions, Special Forces are prepared to do what it takes to complete the mission.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 79
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-c8e3-c2d1-ca6b-17d2415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-c8e3-c2d1-ca6b-17d2415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000ffc-4c2b-f292-cfcc-fd24415608cb",
+            "title": "British Special Forces",
+            "description": "Geared and ready for hazardous conditions, Special Forces are prepared to do what it takes to complete the mission.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 14
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000ffc-4c2b-f292-cfcc-fd24415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000ffc-4c2b-f292-cfcc-fd24415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$4.99",
+                "silverPrice": "$4.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 4.99,
+                    "display": "$4.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d802415608cb",
+            "title": "Modern Warfare® 3",
+            "description": "(Online Interactions Not Rated by the ESRB)  The Games on Demand version supports  English.  Modern Warfare® is back. The best-selling first person action series of all-time returns with the epic sequel to multiple \"Game of the Year\" award winner, \"Call of Duty®: Modern Warfare 2.\" In the world’s darkest hour, are you willing to do what is necessary? Prepare yourself for a cinematic thrill-ride as only Call of Duty can deliver. Online, the definitive Multiplayer experience returns bigger and better than ever, loaded with new maps, modes and features. Co-Op play has evolved with all-new Spec-Ops missions and leaderboards, as well as Survival Mode, an action-packed combat progression unlike any other.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 697959
+                }
+            },
+            "originalReleaseDate": "/Date(1335258000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+                    "Online Interactions Not Rated by the ESRB"
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameDemo",
+                "GameVideo",
+                "GameAddon",
+                "GamerPic",
+                "AvatarItem"
+            ],
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608cb",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$49.99",
+                "silverPrice": "$49.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 49.99,
+                    "display": "$49.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000040-bc85-3203-cbec-6627415608cb",
+            "title": "Call of Duty: MW3 Hat",
+            "description": "Download this Avatar item now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 128
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000040-bc85-3203-cbec-6627415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000040-bc85-3203-cbec-6627415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-ca7d-72f1-c9da-006d415608cb",
+            "title": "Call of Duty: MW3 Hooded Sweatshirt",
+            "description": "Download this Avatar item now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.25,
+                    "Count": 69
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-ca7d-72f1-c9da-006d415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-ca7d-72f1-c9da-006d415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-d981-2222-c8f9-ded7415608cb",
+            "title": "Call of Duty: MW3 Hooded Sweatshirt",
+            "description": "Download this Avatar item now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 13
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-d981-2222-c8f9-ded7415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-d981-2222-c8f9-ded7415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-846b-2241-c697-3c0f415608cb",
+            "title": "Call of Duty: MW3 T-Shirt",
+            "description": "Download this Avatar item now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4.5,
+                    "Count": 87
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-846b-2241-c697-3c0f415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-846b-2241-c697-3c0f415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000008-fe7f-82d2-c2c7-76f4415608cb",
+            "title": "Call of Duty: MW3 T-Shirt",
+            "description": "Download this Avatar item now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 2.5,
+                    "Count": 12
+                }
+            },
+            "originalReleaseDate": "/Date(1314954000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000008-fe7f-82d2-c2c7-76f4415608cb/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000008-fe7f-82d2-c2c7-76f4415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-c6c8-62f3-c425-0666415608cb",
+            "title": "Care Package",
+            "description": "Care Package on the way.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 221
+                }
+            },
+            "originalReleaseDate": "/Date(1323334800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-c6c8-62f3-c425-0666415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-c6c8-62f3-c425-0666415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-15c1-a2e3-cadf-c287415608cb",
+            "title": "Care Package",
+            "description": "Care Package on the way.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 150
+                }
+            },
+            "originalReleaseDate": "/Date(1320742800000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-15c1-a2e3-cadf-c287415608cb/0/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-15c1-a2e3-cadf-c287415608cb",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "d754dbb5-f548-459e-86ec-f4a7a5b77a8b",
+            "title": "FACE OFF: Behind the Scenes Preview",
+            "description": "Grab a friend and experience an all-new way to play Call of Duty® multiplayer. Infinity Ward, Sledgehammer Games, and Raven Software discuss the ALL-NEW Face Off gameplay style and Collection 2 DLC in this behind-the-scenes multiplayer video for Call of Duty®: Modern Warfare® 3. ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 361
+                }
+            },
+            "originalReleaseDate": "/Date(1337158800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/d754dbb5-f548-459e-86ec-f4a7a5b77a8b",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "c9fd13b0-aed2-45b0-91ee-aec8407a7cb8",
+            "title": "Collection 3: Chaos Pack",
+            "description": "With its third DLC Collection, Modern Warfare® 3 drops a combat-heavy care package of Special Ops Chaos mode, 4 new Special Ops missions, and 3 FACE OFF maps for the ultimate trifecta in solo and co-op gameplay. High-altitude Special Ops challenges put tactical skills to the test, with players navigating armed drones above a Russian destroyer and evading RPGs from the roof of a helicopter-swarmed hotel. Upping the ante further, FACE OFF firefights pit players head-to-head on a six-lane stretch of desert highway, at an abandoned crossroads near a New York overpass, and near the path of a violent tornado.  A whole new way to play Call of Duty®, Special Ops Chaos mode delivers the ultimate in arcade mayhem. Experience truly heart-pounding and adrenaline-fueled action while competing for high scores in Resistance, Village, Underground and Dome. Chain kills together against a never-ending onslaught of enemies to increase your combo multiplier and earn performance enhancing perks. Choose your route through each map to optimize weapon pickups, attack, and escape options. Play solo, split screen or online with a friend to take out as many enemies as possible before they take you down or the clock hits zero.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 5603
+                }
+            },
+            "originalReleaseDate": "/Date(1344502800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/c9fd13b0-aed2-45b0-91ee-aec8407a7cb8/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/c9fd13b0-aed2-45b0-91ee-aec8407a7cb8",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$14.99",
+                "silverPrice": "$14.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 14.99,
+                    "display": "$14.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "9a82eba1-2db0-4e75-a3d5-0876ac216caf",
+            "title": "Collection 4: Final Assault",
+            "description": "Saluting Modern Warfare® 3’s Season of Content, the fourth and final DLC collection deploys with five all-new Multiplayer Maps. Surrounded by mountains, “Gulch” sends combatants into a forgotten mining town with only mine shafts and equipment sheds for cover. The Jersey coast awaits in “Boardwalk,” where fun in the sun means facing enemies on the beach. Players must earn their sea legs on “Off shore” and “Decommission,” where deadly oceanic oilrigs and a maze of rotting ocean liners provide the perfect setting for shoreline-based combat. Rounding out the collection is a trip to New Orleans’ war-torn French Quarter, where “Parish” pits players against one another amidst the city’s rubble.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 10943
+                }
+            },
+            "originalReleaseDate": "/Date(1346922000000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/9a82eba1-2db0-4e75-a3d5-0876ac216caf/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/9a82eba1-2db0-4e75-a3d5-0876ac216caf",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$14.99",
+                "silverPrice": "$14.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 14.99,
+                    "display": "$14.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "bec00b47-acb1-4440-b8ef-e844c5e75c67",
+            "title": "Content Season 2012 Kick-Off",
+            "description": "The Call of Duty®: MW3 content season kicks off this month first on Xbox LIVE delivering a variety of brand new content every month over the next 9 months for Call of Duty ELITE premium members. Published by Activision, the developers from Infinity Ward, Sledgehammer Games, Raven Software and Beachhead Studio introduce the first two Call of Duty ELITE drops, multiplayer maps Liberation and Piazza, available to our premium members first on Xbox LIVE on January 24th.  For non-premium members, the content is coming to you as well, stay tuned for dates.  And this is only the beginning... Follow #MW3 updates on Twitter via @fourzerotwo, and join us at http://www.facebook.com/MW3 and http://www.callofduty.com/mw3.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 1989
+                }
+            },
+            "originalReleaseDate": "/Date(1326272400000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood and Gore",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Intense Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Strong Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Shooter"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608cb/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/bec00b47-acb1-4440-b8ef-e844c5e75c67",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

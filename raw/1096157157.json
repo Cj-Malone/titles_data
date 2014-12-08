@@ -1,0 +1,170 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802415607e5",
+    "title": "Cabela's Safari",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Travel to Africa, the ultimate big game hunting destination in the world in Cabela's African Safari. Experience the challenge of hunting the Dangerous Seven of African big game—lions, leopards, elephants, hippos, crocodiles, rhinos, and Cape buffalo. Live the adventure of the ultimate safari hunter as your expeditions take you from the plains of South Africa north to the Zambezi River across expansive and unforgiving country. Discover the magic of Africa with its untamed wilds, exotic wildlife, breathtaking beauty, and danger around every corner! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        }
+    ],
+    "publisher": "Activision",
+    "studio": "Fun Labs",
+    "originalReleaseDate": "/Date(1283299200000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://epix.xbox.com/shaXam/0201/e2/4a/e24a8ee9-75eb-48e3-8d69-32d634d55da9.PDF?v=1#cabelaAS-en.PDF",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/screenlg8.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Cabelas-Safari/66acd000-77fe-1000-9115-d802415607e5",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 13160
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameAddon",
+        "GamerPic"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415607e5/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400c-80c0-0000415607e5",
+            "title": "Safari Bonus Animal",
+            "description": "This bonus pack will give you a new animal (Caracal) to be hunted in the Safari Hunt mode. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 178
+                }
+            },
+            "originalReleaseDate": "/Date(1165572000000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400c-80c0-0000415607e5",
+            "downloadTypeClass": "GameAddon",
+            "downloadTypeText": "Add-on",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.88",
+                "silverPrice": "$1.88"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.88,
+                    "display": "$1.88",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000000-0000-4002-8020-0000415607e5",
+            "title": "Safari Picture Pack",
+            "description": "A selection of pictures from Cabela's African Safari to use as your gamer pictures. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 142
+                }
+            },
+            "originalReleaseDate": "/Date(1165572000000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607e5/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-4002-8020-0000415607e5",
+            "downloadTypeClass": "GamerPic",
+            "downloadTypeText": "GamerPic",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.25",
+                "silverPrice": "$1.25"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.25,
+                    "display": "$1.25",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d8024b4f07d9",
+    "title": "WARRIORS OROCHI",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d9/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d9/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English, French, German.  A dream collaboration between the Dynasty Warriors and Samurai Warriors series! Form a team of brave warriors to challenge Orochi, the Serpent King!",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        }
+    ],
+    "publisher": "TECMO KOEI AMERICA., LTD. ",
+    "studio": "TECMO KOEI GAMES Co., Ltd　",
+    "originalReleaseDate": "/Date(1319500800000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Violence",
+                "image": null
+            },
+            {
+                "label": "Mild Language",
+                "image": null
+            },
+            {
+                "label": "Mild Suggestive Themes",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+
+    ],
+    "detailsUrl": "/en-US/Product/WARRIORS-OROCHI/66acd000-77fe-1000-9115-d8024b4f07d9",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4,
+            "Count": 1935
+        }
+    },
+    "price": {
+        "goldPrice": "$29.99",
+        "silverPrice": "$29.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 29.99,
+            "display": "$29.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4f07d9/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d8024b4f07d9",
+            "title": "WARRIORS OROCHI",
+            "description": "The Games on Demand version supports  English, French, German.  A dream collaboration between the Dynasty Warriors and Samurai Warriors series! Form a team of brave warriors to challenge Orochi, the Serpent King!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 1935
+                }
+            },
+            "originalReleaseDate": "/Date(1329814800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Suggestive Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4f07d9/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4f07d9",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$29.99",
+                "silverPrice": "$29.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 29.99,
+                    "display": "$29.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

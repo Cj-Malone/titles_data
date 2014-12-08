@@ -1,0 +1,120 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802425607e0",
+    "title": "Disney Sing It",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "You and your friends can now belt out to your favorite songs and videos from the coolest stars - - sing to 35 chart-topping tunes including hits from Camp Rock, High School Musical, Hannah Montana, Cheetah Girls, as well as hits from Aly and AJ, Corbin Bleu, Everlife, Jordan Pruitt, and more. Take center stage as a solo artist and discover the inner performer in you in various single player modes. Release those vocal powers and challenge friends to a sing-off! You and up to seven of your friends will have the ultimate fun karaoke experience playing various multiplayer modes including duet, versus and team play. So, grab your friends, grab a mic and belt it out with the stars!",
+    "genres": [
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Music"
+        }
+    ],
+    "publisher": "Disney",
+    "studio": "Zoe Mode corporation",
+    "originalReleaseDate": "/Date(1224547200000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+        "http://mktplassets.xbox.com/NR/rdonlyres/1A9ADF1B-960D-44B7-A43F-A10DE838F613/0/vidDisneySingItcdnhi.asx"
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/screenlg5.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Disney-Sing-It/66acd000-77fe-1000-9115-d802425607e0",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3,
+            "Count": 3985
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802425607e0/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400b-80bf-0001425607e0",
+            "title": "Game Trailer",
+            "description": "Get ready to belt it with Disney Sing It, the all new karaoke videogame where you can rock out to today's hippest tunes and have a blast with your friends and some of your favorite Disney stars!   Disney Sing It is available in stores October 2008!  Check out the trailer now!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 102
+                }
+            },
+            "originalReleaseDate": "/Date(1224493200000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Music"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425607e0/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400b-80bf-0001425607e0",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

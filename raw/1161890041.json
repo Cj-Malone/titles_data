@@ -1,0 +1,144 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802454108f9",
+    "title": "Harry Potter and the Deathly Hallows™ - Part 1",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish.  The Harry Potter and the Deathly Hallows – Part 1 videogame is the most challenging yet, packed from start to finish with action and combat. Playing as Harry, you are on the run from the opening sequence, fighting for survival on a desperate and dangerous quest to locate and destroy Voldemort’s Horcruxes. You must defeat Death Eaters and Snatchers in epic battle sequences at every turn. With only your wand for protection, it’s time to muster your most powerful magic against relentless assaults from all sides. There are no more lessons. No more training. This time the danger is real. It’s time to fight your life.",
+    "genres": [
+        {
+            "label": "Action & Adventure"
+        },
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Shooter"
+        },
+        {
+            "label": "Kinect"
+        }
+    ],
+    "publisher": "ELECTRONIC ARTS",
+    "studio": "Bright Light",
+    "originalReleaseDate": "/Date(1290124800000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Fantasy Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/454108f9/1/HPDH-en-revised.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108f9/1033/screenlg6.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Harry-Potter-and-the-Deathly-Hallows-Part-1/66acd000-77fe-1000-9115-d802454108f9",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.75,
+            "Count": 60688
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameVideo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454108f9/Children",
+    "childDownloads": [
+        {
+            "id": "b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+            "title": "Kinect Launch Titles Montage",
+            "description": "This montage showcases all the games available on Kinect beginning November 2010.  You are the controller for all these amazing experiences.  ",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 946
+                }
+            },
+            "originalReleaseDate": "/Date(1288256400000)/",
+            "contentRating": {
+                "label": "RP (Rating Pending)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+                "age": 18,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Platformer"
+                },
+                {
+                    "label": "Shooter"
+                },
+                {
+                    "label": "Sports & Recreation"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+            "downloadTypeClass": "GameVideo",
+            "downloadTypeText": "Video",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

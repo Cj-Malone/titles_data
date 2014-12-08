@@ -1,0 +1,153 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802544307d1",
+    "title": "DEAD OR ALIVE 4",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "mighty magnificent stimulating graceful fighting!",
+    "genres": [
+        {
+            "label": "Fighting"
+        }
+    ],
+    "publisher": "Tecmo",
+    "studio": "Team NINJA",
+    "originalReleaseDate": "/Date(1199145600000)/",
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Partial Nudity",
+                "image": null
+            },
+            {
+                "label": "Sexual Themes",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+            "Online Interactions Not Rated by the ESRB"
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg6.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg7.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg8.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg9.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg10.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg11.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/1033/screenlg12.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/7177/screenlg13.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544307d1/7177/screenlg14.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/DEAD-OR-ALIVE-4/66acd000-77fe-1000-9115-d802544307d1",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 4.25,
+            "Count": 17535
+        }
+    },
+    "price": {
+        "goldPrice": null,
+        "silverPrice": null
+    },
+    "prices": [
+
+    ],
+    "childDownloadTypes": [
+        "GameDemo"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802544307d1/Children",
+    "childDownloads": [
+        {
+            "id": "00000000-0000-400d-80d0-0001544307d1",
+            "title": "DEAD OR ALIVE 4 Demo",
+            "description": "Experience for yourself the unequaled action of the most beautiful fighting game in the world, Dead or Alive 4, in this demo.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.75,
+                    "Count": 1779
+                }
+            },
+            "originalReleaseDate": "/Date(1153774800000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Partial Nudity",
+                        "image": null
+                    },
+                    {
+                        "label": "Sexual Themes",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Fighting"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000000-0000-400d-80d0-0001544307d1/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/00000000-0000-400d-80d0-0001544307d1",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

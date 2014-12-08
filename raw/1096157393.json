@@ -1,0 +1,141 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d802415608d1",
+    "title": "Battleship",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Invasion at Sea.  Revenge on Land.  Command your troops on the ground and your fleet on the sea to wage war against an unknown alien invader.  This is your fleet.  These are your forces.  This is your fight.  Secure the sea with ship-to-ship battles, airstrikes and radar sweeps. Storm the shores to battle aliens in epic first-person action. Blow enemies out of the water with cutting-edge, upgradeable weapons.",
+    "genres": [
+        {
+            "label": "Shooter"
+        },
+        {
+            "label": "Strategy & Simulation"
+        }
+    ],
+    "publisher": "Activision",
+    "studio": "Double Helix",
+    "originalReleaseDate": "/Date(1344902400000)/",
+    "contentRating": {
+        "label": "T (Teen)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+        "age": 13,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Violence",
+                "image": null
+            },
+            {
+                "label": "Mild Language",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/415608d1/4003X3-227_Battleship%20MNL_Digital.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/screenlg4.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Battleship/66acd000-77fe-1000-9115-d802415608d1",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 6906
+        }
+    },
+    "price": {
+        "goldPrice": "$39.99",
+        "silverPrice": "$39.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 39.99,
+            "display": "$39.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608d1/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d802415608d1",
+            "title": "Battleship",
+            "description": "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  Invasion at Sea.  Revenge on Land.  Command your troops on the ground and your fleet on the sea to wage war against an unknown alien invader.  This is your fleet.  These are your forces.  This is your fight.  Secure the sea with ship-to-ship battles, airstrikes and radar sweeps. Storm the shores to battle aliens in epic first-person action. Blow enemies out of the water with cutting-edge, upgradeable weapons.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 6906
+                }
+            },
+            "originalReleaseDate": "/Date(1344934800000)/",
+            "contentRating": {
+                "label": "T (Teen)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+                "age": 13,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Language",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Shooter"
+                },
+                {
+                    "label": "Strategy & Simulation"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415608d1/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415608d1",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$39.99",
+                "silverPrice": "$39.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 39.99,
+                    "display": "$39.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

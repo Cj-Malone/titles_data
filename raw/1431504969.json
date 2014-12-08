@@ -1,0 +1,727 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80255530849",
+    "title": "CSI: Fatal Conspiracy",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports  English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   For the first time in the CSI game series, team up with the cast of CSI: Crime Scene InvestigationTM not only to solve some of the most gruesome crimes of Sin City, but also to take down a dangerous drug cartel. Unveil clues in 5 connected cases to bring a powerful drug lord to justice in the most strategic and unpredictable CSI game yet!  Key Features  TAKE DOWN THE QUEEN…  Partner with FBI agent Gene Huntby in 5 connected cases.   UNVEIL A CONSPIRACY…  Be prepared to work with your CSI partners, including the returning Sara Sidle, to solve murder cases and uncover the Fatal Conspiracy behind the crimes you investigate.   FEEL CHILLS RUN DOWN YOUR SPINE…  While exploring crime scenes, analyzing unusual evidence, or following the twists of the story.   PERFORM THE TASKS OF A CSI DETECTIVE…     Collect evidence at the crime scene     Interview a variety of witnesses and suspects     Analyze the evidence with the latest technology",
+    "genres": [
+        {
+            "label": "Other"
+        },
+        {
+            "label": "Action & Adventure"
+        }
+    ],
+    "publisher": "Ubisoft",
+    "studio": "Telltale Games",
+    "originalReleaseDate": null,
+    "contentRating": {
+        "label": "M (Mature)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+        "age": 17,
+        "purchaseAgeGate": true,
+        "videoAgeGate": true,
+        "descriptors": [
+            {
+                "label": "Blood",
+                "image": null
+            },
+            {
+                "label": "Drug Reference",
+                "image": null
+            },
+            {
+                "label": "Violence",
+                "image": null
+            },
+            {
+                "label": "Mild Sexual Themes",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": null,
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/screenlg5.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/CSI-Fatal-Conspiracy/66acd000-77fe-1000-9115-d80255530849",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 6801
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game",
+        "GameDemo",
+        "Theme",
+        "AvatarItem"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80255530849/Children",
+    "childDownloads": [
+        {
+            "id": "00001000-c9a7-32a3-ca4f-f89355530849",
+            "title": "Crime Scene",
+            "description": "CSI: Fatal Conspiracy - Deck out your crime scene with the latest forensic helpers—evidence markers and a nifty camera to get pictures of the clues from every angle.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 14
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-c9a7-32a3-ca4f-f89355530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-c9a7-32a3-ca4f-f89355530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000040-5dee-c2e3-c880-3cb655530849",
+            "title": "CSI Cap",
+            "description": "CSI: Fatal Conspiracy - Protect your head from the hot Nevada sun, or those bright forensic lights, with this stylish CSI cap.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 2.75,
+                    "Count": 12
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000040-5dee-c2e3-c880-3cb655530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000040-5dee-c2e3-c880-3cb655530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "5c0b56b3-ad9b-4c73-b44d-192e270ebdb3",
+            "title": "CSI Fatal Conspiracy Premium Theme",
+            "description": "Immerse yourself in the world of CSI: Crime Scene Investigation™ with this Premium Theme from CSI: Fatal Conspiracy. This theme takes you inside the CSI world and brings it to your dashboard.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3,
+                    "Count": 80
+                }
+            },
+            "originalReleaseDate": "/Date(1288083600000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/5c0b56b3-ad9b-4c73-b44d-192e270ebdb3",
+            "downloadTypeClass": "Theme",
+            "downloadTypeText": "Theme",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d80255530849",
+            "title": "CSI: Fatal Conspiracy",
+            "description": "The Games on Demand version supports  English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".   For the first time in the CSI game series, team up with the cast of CSI: Crime Scene InvestigationTM not only to solve some of the most gruesome crimes of Sin City, but also to take down a dangerous drug cartel. Unveil clues in 5 connected cases to bring a powerful drug lord to justice in the most strategic and unpredictable CSI game yet!  Key Features  TAKE DOWN THE QUEEN…  Partner with FBI agent Gene Huntby in 5 connected cases.   UNVEIL A CONSPIRACY…  Be prepared to work with your CSI partners, including the returning Sara Sidle, to solve murder cases and uncover the Fatal Conspiracy behind the crimes you investigate.   FEEL CHILLS RUN DOWN YOUR SPINE…  While exploring crime scenes, analyzing unusual evidence, or following the twists of the story.   PERFORM THE TASKS OF A CSI DETECTIVE…     Collect evidence at the crime scene     Interview a variety of witnesses and suspects     Analyze the evidence with the latest technology",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 6801
+                }
+            },
+            "originalReleaseDate": "/Date(1313485200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Sexual Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game",
+                "GameDemo",
+                "Theme",
+                "AvatarItem"
+            ],
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530849/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80255530849",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "66acd000-77fe-1000-9115-d8025553886a",
+            "title": "CSI: Fatal Conspiracy Demo",
+            "description": "Download the CSI: CRIME SCENE INVESTIGATION™ FATAL CONSPIRACY demo and follow the twists and turns as the conspiracy begins to unfold when another  victim is found dead in her car. Piece together the evidence, take it to the lab for analysis and uncover the truth in the most suspenseful and chilling investigation seen yet.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.25,
+                    "Count": 1795
+                }
+            },
+            "originalReleaseDate": "/Date(1290589200000)/",
+            "contentRating": {
+                "label": "M (Mature)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+                "age": 17,
+                "purchaseAgeGate": true,
+                "videoAgeGate": true,
+                "descriptors": [
+                    {
+                        "label": "Blood",
+                        "image": null
+                    },
+                    {
+                        "label": "Drug Reference",
+                        "image": null
+                    },
+                    {
+                        "label": "Violence",
+                        "image": null
+                    },
+                    {
+                        "label": "Mild Sexual Themes",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                },
+                {
+                    "label": "Puzzle & Trivia"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553886a/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025553886a",
+            "downloadTypeClass": "GameDemo",
+            "downloadTypeText": "Demo",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "Free",
+                "silverPrice": "Free"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 0,
+                    "display": "Free",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000880-80c2-a212-c471-1c9d55530849",
+            "title": "CSI Gloves",
+            "description": "CSI: Crime Scene Investigation™ Fatal Conspiracy - Was that a fingerprint you nearly smudged? There are all sorts of reasons why you should keep your bare hands out of a crime scene. Cover yours with these forensic gloves.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000880-80c2-a212-c471-1c9d55530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000880-80c2-a212-c471-1c9d55530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000880-dfed-e2a1-c685-4e3a55530849",
+            "title": "CSI Gloves",
+            "description": "CSI: Crime Scene Investigation™ Fatal Conspiracy - Was that a fingerprint you nearly smudged? There are all sorts of reasons why you should keep your bare hands out of a crime scene. Cover yours with these forensic gloves.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000880-dfed-e2a1-c685-4e3a55530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000880-dfed-e2a1-c685-4e3a55530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-47c8-3281-c173-3bdb55530849",
+            "title": "CSI Long Sleeve Tee",
+            "description": "Show your support for CSI: Crime Scene Investigation™ Fatal Conspiracy the videogame with this stylish long sleeve top.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-47c8-3281-c173-3bdb55530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-47c8-3281-c173-3bdb55530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-cc4f-a252-cb0f-5aeb55530849",
+            "title": "CSI Long Sleeve Tee",
+            "description": "Show your support for CSI: Crime Scene Investigation™ Fatal Conspiracy the videogame with this stylish long sleeve top.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-cc4f-a252-cb0f-5aeb55530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-cc4f-a252-cb0f-5aeb55530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.00",
+                "silverPrice": "$1.00"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1,
+                    "display": "$1.00",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-48a9-6272-ce31-a6e155530849",
+            "title": "CSI Vest",
+            "description": "CSI: Fatal Conspiracy - Casing a crime scene for clues can require tons of important gear. Store yours in this practical but stylish vest.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-48a9-6272-ce31-a6e155530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-48a9-6272-ce31-a6e155530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-c76f-12c1-cf70-1ec355530849",
+            "title": "CSI Vest",
+            "description": "CSI: Fatal Conspiracy - Casing a crime scene for clues can require tons of important gear. Store yours in this practical but stylish vest.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 4,
+                    "Count": 10
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-c76f-12c1-cf70-1ec355530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-c76f-12c1-cf70-1ec355530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00001000-5982-b283-c81a-446955530849",
+            "title": "Evidence Bag",
+            "description": "CSI: Crime Scene Investigation™ Fatal Conspiracy - Congratulations, you found something! Now what, you say? Easy, store it in this handy evidence bag! Perfect for clues of all shapes and sizes.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00001000-5982-b283-c81a-446955530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00001000-5982-b283-c81a-446955530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$2.99",
+                "silverPrice": "$2.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 2.99,
+                    "display": "$2.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-f473-a291-cbf7-a57255530849",
+            "title": "Lab Coat",
+            "description": "CSI: Fatal Conspiracy - When it’s time to head out of the field and into the laboratory, one must dress accordingly. Trade your outdoor togs for this snazzy lab coat.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-f473-a291-cbf7-a57255530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-f473-a291-cbf7-a57255530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        },
+        {
+            "id": "00000208-2514-52a2-cd6b-3d2e55530849",
+            "title": "Lab Coat",
+            "description": "CSI: Fatal Conspiracy - When it’s time to head out of the field and into the laboratory, one must dress accordingly. Trade your outdoor togs for this snazzy lab coat.",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 0,
+                    "Count": 0
+                }
+            },
+            "originalReleaseDate": "/Date(1300352400000)/",
+            "contentRating": null,
+            "childDownloadTypes": null,
+            "genres": [
+                {
+                    "label": "Other"
+                },
+                {
+                    "label": "Action & Adventure"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/00000208-2514-52a2-cd6b-3d2e55530849/1033/thumblg.png",
+            "url": "/en-US/X8/Game/00000208-2514-52a2-cd6b-3d2e55530849",
+            "downloadTypeClass": "AvatarItem",
+            "downloadTypeText": "Avatar",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$1.99",
+                "silverPrice": "$1.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 1.99,
+                    "display": "$1.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}

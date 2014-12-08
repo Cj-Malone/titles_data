@@ -1,0 +1,141 @@
+{
+    "version": "1",
+    "id": "66acd000-77fe-1000-9115-d80255530877",
+    "title": "Just Dance Kids 2",
+    "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/boxartlg.jpg",
+    "backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/background.jpg",
+    "downloadTypeClass": "Game",
+    "downloadTypeText": "Game",
+    "platform": "Xbox",
+    "description": "The Games on Demand version supports English, French.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  The coolest dance experience for kids is back, Just Dance Kids 2 is now on Kinect for Xbox360! Featuring 40 fun and crazy dance routines to kids favorite songs, including today’s hottest hits like Love Me, Just The Way You Are, and Whip My Hair, songs from kids' favorite TV shows including big Time Rush, Yo Gabba Gabba!, and The Wiggles! Just Dance Kids 2 gets kids of all ages up and dancing with colorful graphics, super-fun dance moves, and kid-friendly gameplay!",
+    "genres": [
+        {
+            "label": "Family"
+        },
+        {
+            "label": "Music"
+        },
+        {
+            "label": "Kinect"
+        }
+    ],
+    "publisher": "Ubisoft",
+    "studio": "Ubisoft",
+    "originalReleaseDate": "/Date(1319500800000)/",
+    "contentRating": {
+        "label": "E (Everyone)",
+        "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+        "age": 6,
+        "purchaseAgeGate": false,
+        "videoAgeGate": false,
+        "descriptors": [
+            {
+                "label": "Mild Lyrics",
+                "image": null
+            }
+        ],
+        "disclaimers": [
+
+        ]
+    },
+    "trailers": [
+
+    ],
+    "gameManual": "http://download.xbox.com/content/55530877/JDK2012_X360_Digital_Mnl.pdf",
+    "screenshots": [
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/screenlg1.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/screenlg2.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/screenlg3.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/screenlg4.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/screenlg5.jpg",
+        "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/screenlg6.jpg"
+    ],
+    "detailsUrl": "/en-US/Product/Just-Dance-Kids-2/66acd000-77fe-1000-9115-d80255530877",
+    "userRating": {
+        "allowed": true,
+        "current": {
+            "Aggregate": 3.5,
+            "Count": 1810
+        }
+    },
+    "price": {
+        "goldPrice": "$19.99",
+        "silverPrice": "$19.99"
+    },
+    "prices": [
+        {
+            "method": "currency",
+            "amount": 19.99,
+            "display": "$19.99",
+            "tax": "plus tax",
+            "user": "silver"
+        }
+    ],
+    "childDownloadTypes": [
+        "Game"
+    ],
+    "childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80255530877/Children",
+    "childDownloads": [
+        {
+            "id": "66acd000-77fe-1000-9115-d80255530877",
+            "title": "Just Dance Kids 2",
+            "description": "The Games on Demand version supports English, French.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  This game requires a Kinect™ Sensor.  The coolest dance experience for kids is back, Just Dance Kids 2 is now on Kinect for Xbox360! Featuring 40 fun and crazy dance routines to kids favorite songs, including today’s hottest hits like Love Me, Just The Way You Are, and Whip My Hair, songs from kids' favorite TV shows including big Time Rush, Yo Gabba Gabba!, and The Wiggles! Just Dance Kids 2 gets kids of all ages up and dancing with colorful graphics, super-fun dance moves, and kid-friendly gameplay!",
+            "userRating": {
+                "allowed": true,
+                "current": {
+                    "Aggregate": 3.5,
+                    "Count": 1810
+                }
+            },
+            "originalReleaseDate": "/Date(1361264400000)/",
+            "contentRating": {
+                "label": "E (Everyone)",
+                "image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+                "age": 6,
+                "purchaseAgeGate": false,
+                "videoAgeGate": false,
+                "descriptors": [
+                    {
+                        "label": "Mild Lyrics",
+                        "image": null
+                    }
+                ],
+                "disclaimers": [
+
+                ]
+            },
+            "childDownloadTypes": [
+                "Game"
+            ],
+            "genres": [
+                {
+                    "label": "Family"
+                },
+                {
+                    "label": "Music"
+                },
+                {
+                    "label": "Kinect"
+                }
+            ],
+            "image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530877/1033/boxartlg.jpg",
+            "url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80255530877",
+            "downloadTypeClass": "Game",
+            "downloadTypeText": "Game",
+            "platform": "Xbox",
+            "price": {
+                "goldPrice": "$19.99",
+                "silverPrice": "$19.99"
+            },
+            "prices": [
+                {
+                    "method": "currency",
+                    "amount": 19.99,
+                    "display": "$19.99",
+                    "tax": "plus tax",
+                    "user": "silver"
+                }
+            ]
+        }
+    ]
+}
