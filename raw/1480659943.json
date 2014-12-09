@@ -1,0 +1,278 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584113e7",
+	"title": "Takedown:  Red Sabre",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Fight smart in lethal close-quarter tactical combat. Non-linear environments mean engagements change every time you play. Tactics and realism rule the day. ",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Strategy & Simulation"
+		}
+	],
+	"publisher": "505 Games",
+	"studio": "Serellan",
+	"originalReleaseDate": "/Date(1379635200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/screenlg12.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Takedown-Red-Sabre/66acd000-77fe-1000-9115-d802584113e7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 1509
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584113e7/Children",
+	"childDownloads": [
+		{
+			"id": "d5a33728-d210-473c-b9cb-b473a0bea569",
+			"title": "Trial Game - Takedown:  Red Sabre",
+			"description": "Fight smart in lethal close-quarter tactical combat. Non-linear environments mean engagements change every time you play. Tactics and realism rule the day. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1392973200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d5a33728-d210-473c-b9cb-b473a0bea569/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d5a33728-d210-473c-b9cb-b473a0bea569",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584113e7",
+			"title": "Takedown:  Red Sabre",
+			"description": "Fight smart in lethal close-quarter tactical combat. Non-linear environments mean engagements change every time you play. Tactics and realism rule the day. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 1509
+				}
+			},
+			"originalReleaseDate": "/Date(1392973200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584113e7",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3ba154af-446f-4d9c-a29e-2e7c44e9b04a",
+			"title": "Takedown: Red Sabre gameplay trailer",
+			"description": "The Takedown gameplay trailer shows the Red Sabre team in action, taking out deadly enemy tangoes during a daring hostage rescue mission. Use all of your FPS shooting skills in deadly co-op close quarter combat – where one shot can make a difference.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 85
+				}
+			},
+			"originalReleaseDate": "/Date(1379494800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113e7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3ba154af-446f-4d9c-a29e-2e7c44e9b04a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

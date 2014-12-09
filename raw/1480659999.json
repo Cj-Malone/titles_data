@@ -1,0 +1,854 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841141f",
+	"title": "Magic 2015",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841141f/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841141f/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Hunt bigger game on a bold new adventure with Magic 2015 — Duels of the Planeswalkers! Hone your skills as you battle your way across the planes of the Multiverse. Beware though, Planeswalker. Your biggest danger is one of your own... Garruk Wildspeaker, the greatest hunter known, is now hunting you! Magic 2015 is the best way to learn to play the Magic trading card game. It provides hours of game play and allows you to collect cards and build decks from that collection.",
+	"genres": [
+		{
+			"label": "Strategy & Simulation"
+		},
+		{
+			"label": "Card & Board"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Wizards of the Coast LLC / Stainless Games Ltd.",
+	"originalReleaseDate": "/Date(1405468800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Magic-2015/66acd000-77fe-1000-9115-d8025841141f",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 3207
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841141f/Children",
+	"childDownloads": [
+		{
+			"id": "fc52e88d-ed2c-4deb-b7c1-6bc6184aeb56",
+			"title": "Card Collection Bundle",
+			"description": "Immediately unlocks all earnable cards from the Innistrad, Theros, Ravnica, Shandalar, Zendikar, and Battle Booster Collections, plus 300 Foil Stickers.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 93
+				}
+			},
+			"originalReleaseDate": "/Date(1415178000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/fc52e88d-ed2c-4deb-b7c1-6bc6184aeb56/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fc52e88d-ed2c-4deb-b7c1-6bc6184aeb56",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$24.99",
+				"silverPrice": "$24.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 24.99,
+					"display": "$24.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0d045a59-3315-4637-a98e-b60afd737614",
+			"title": "Collection Unlock — Alara",
+			"description": "Unlock the power of Alara! This will unlock all the cards from the Alara collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1415178000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0d045a59-3315-4637-a98e-b60afd737614/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0d045a59-3315-4637-a98e-b60afd737614",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d3dfb913-41a2-4857-ba2d-15f0a6e4686d",
+			"title": "Collection Unlock — Innistrad",
+			"description": "Unlock the power of Innistrad! This will add all the cards from Innistrad to your collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 44
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d3dfb913-41a2-4857-ba2d-15f0a6e4686d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d3dfb913-41a2-4857-ba2d-15f0a6e4686d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "01ea1cb9-557a-4f2e-bdbc-5afba06c469c",
+			"title": "Collection Unlock — Ravnica",
+			"description": "Unlock the power of Ravnica! This will add all the cards from Ravnica to your collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/01ea1cb9-557a-4f2e-bdbc-5afba06c469c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/01ea1cb9-557a-4f2e-bdbc-5afba06c469c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e2f2c4cc-1472-4315-a148-54cf6e12eaab",
+			"title": "Collection Unlock — Shandalar",
+			"description": "Unlock the power of Shandalar! This will add all the cards from Shandalar to your collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e2f2c4cc-1472-4315-a148-54cf6e12eaab/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e2f2c4cc-1472-4315-a148-54cf6e12eaab",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6be10079-648b-42c1-8ef8-6cfb4f76f213",
+			"title": "Collection Unlock — Theros",
+			"description": "Unlock the power of Theros! This will add all the cards from Theros to your collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 39
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6be10079-648b-42c1-8ef8-6cfb4f76f213/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6be10079-648b-42c1-8ef8-6cfb4f76f213",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9e794379-7be5-4bea-8909-f1d052762bf2",
+			"title": "Collection Unlock — Zendikar",
+			"description": "Unlock the power of Zendikar! This will add all the cards from Zendikar to your collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 34
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9e794379-7be5-4bea-8909-f1d052762bf2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9e794379-7be5-4bea-8909-f1d052762bf2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "35966429-e983-4b9f-8d85-d9c4e6f4689b",
+			"title": "Collection Unlock—Battle Boosters",
+			"description": "Unlock the power of the hunt! This will add all the cards from the Battle Boosters to your collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1415178000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/35966429-e983-4b9f-8d85-d9c4e6f4689b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/35966429-e983-4b9f-8d85-d9c4e6f4689b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "38a7520b-a507-406c-9268-865dc617e8da",
+			"title": "Trial Game - Magic 2015",
+			"description": "Hunt bigger game on a bold new adventure with Magic 2015 — Duels of the Planeswalkers! Hone your skills as you battle your way across the Multiverse but beware: one of your own kind is stalking you even now. Magic 2015 is the best way to learn to play the Magic trading card game. It provides hours of game play and allows you to collect cards and build decks from that collection. Trial version includes tutorial, one full plane of battle, and access to the Deck Builder.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/38a7520b-a507-406c-9268-865dc617e8da/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/38a7520b-a507-406c-9268-865dc617e8da",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025841141f",
+			"title": "Magic 2015",
+			"description": "Hunt bigger game on a bold new adventure with Magic 2015 — Duels of the Planeswalkers! Hone your skills as you battle your way across the planes of the Multiverse. Beware though, Planeswalker. Your biggest danger is one of your own... Garruk Wildspeaker, the greatest hunter known, is now hunting you! Magic 2015 is the best way to learn to play the Magic trading card game. It provides hours of game play and allows you to collect cards and build decks from that collection.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 3207
+				}
+			},
+			"originalReleaseDate": "/Date(1405501200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841141f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841141f",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "571908bb-ff75-4816-9dfe-34b7e9024a2d",
+			"title": "Magic 2015—Garruk’s Revenge",
+			"description": "Walk in the footsteps of the Multiverse’s greatest hunter with the Magic 2015—Garruk’s Revenge expansion! Take on the role of Garruk and hunt your prey across the planes.  New campaign levels, new cards to collect and much more.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 41
+				}
+			},
+			"originalReleaseDate": "/Date(1415178000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/571908bb-ff75-4816-9dfe-34b7e9024a2d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/571908bb-ff75-4816-9dfe-34b7e9024a2d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b484ec5f-668f-4d85-84c5-7e961750465a",
+			"title": "Magic 2015—Garruk’s Revenge (Multiplayer Only)",
+			"description": "Walk in the footsteps of the Multiverse’s greatest hunter with the Magic 2015—Garruk’s Revenge expansion! Take on the role of Garruk and hunt your prey across the planes.  New campaign levels, new cards to collect and much more.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1415178000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b484ec5f-668f-4d85-84c5-7e961750465a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b484ec5f-668f-4d85-84c5-7e961750465a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

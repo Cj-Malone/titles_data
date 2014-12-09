@@ -1,0 +1,652 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802435907d5",
+	"title": "Enemy Front",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  ENEMY FRONT is the first truly modern WW2 FPS, featuring stunning visuals, open-ended levels and a richly interactive combat experience that breaks out of the standard model of highly linear scripted FPS experiences, giving the player full freedom to own their playing style. Intense Combat, Sniping, Stealth and Sabotage – all are viable approaches for the player, maximizing player engagement and replayability.",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "CI Games",
+	"studio": "CI Games",
+	"originalReleaseDate": "/Date(1398902400000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": "http://download.xbox.com/content/435907d5/EnemyFront_X360_MNL_EN.indd.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Enemy-Front/66acd000-77fe-1000-9115-d802435907d5",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1400
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802435907d5/Children",
+	"childDownloads": [
+		{
+			"id": "6f91cf89-83f3-4d09-8cbd-450815c6cbc5",
+			"title": "Bundle Pack",
+			"description": "Experience the full spectrum of warfare with this premium DLC pack for Enemy Front.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 11
+				}
+			},
+			"originalReleaseDate": "/Date(1410080400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6f91cf89-83f3-4d09-8cbd-450815c6cbc5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6f91cf89-83f3-4d09-8cbd-450815c6cbc5",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8fe9cb34-9c91-45e5-8e70-b0072a21f7bd",
+			"title": "Demolition Pack",
+			"description": "DLC includes one Multiplayer character Elite Grenadier and weapon Bazooka. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1410166800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8fe9cb34-9c91-45e5-8e70-b0072a21f7bd/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8fe9cb34-9c91-45e5-8e70-b0072a21f7bd",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802435907d5",
+			"title": "Enemy Front",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Polish, Portuguese, Russian.   Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  ENEMY FRONT is the first truly modern WW2 FPS, featuring stunning visuals, open-ended levels and a richly interactive combat experience that breaks out of the standard model of highly linear scripted FPS experiences, giving the player full freedom to own their playing style. Intense Combat, Sniping, Stealth and Sabotage – all are viable approaches for the player, maximizing player engagement and replayability.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1400
+				}
+			},
+			"originalReleaseDate": "/Date(1402383660000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802435907d5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802435907d5",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b62496f0-822c-4274-9e6a-af82b48dabb7",
+			"title": "Limited Pack",
+			"description": "DLC includes Single Player mission st. Nazaire, two Multiplayer  characters and two Multiplayer weapons. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1410166800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b62496f0-822c-4274-9e6a-af82b48dabb7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b62496f0-822c-4274-9e6a-af82b48dabb7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "583e5a6e-0787-4238-bc74-959528c5bc15",
+			"title": "Multiplayer Expansion Pack",
+			"description": "Multiplayer DLC includes 4 MP Maps and one special MP mode The Great Escape. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 32
+				}
+			},
+			"originalReleaseDate": "/Date(1404205200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/583e5a6e-0787-4238-bc74-959528c5bc15/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/583e5a6e-0787-4238-bc74-959528c5bc15",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4443dbd9-8c77-4995-87ce-90ed04a0c2aa",
+			"title": "Resistance Pack",
+			"description": "DLC includes one Multiplayer character Warsaw Resistance Fighter and weapon Thompson SMG",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1410166800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4443dbd9-8c77-4995-87ce-90ed04a0c2aa/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4443dbd9-8c77-4995-87ce-90ed04a0c2aa",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ac7ae431-0d86-4255-95ed-aed4bbcc22a7",
+			"title": "Sniper Pack",
+			"description": "DLC includes one Multiplayer character US Sniper and weapon WZ35 Rifle.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1410166800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ac7ae431-0d86-4255-95ed-aed4bbcc22a7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ac7ae431-0d86-4255-95ed-aed4bbcc22a7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2b2b5112-8d87-4ce9-bf05-78e99a2df2ad",
+			"title": "ST. Nazaire Map Pack",
+			"description": "DLC includes Single Player mission st. Nazaire.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1410166800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2b2b5112-8d87-4ce9-bf05-78e99a2df2ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2b2b5112-8d87-4ce9-bf05-78e99a2df2ad",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2f5549e2-de05-4b07-b9ff-872f4d41feea",
+			"title": "StormTrooper Pack",
+			"description": "DLC includes one Multiplayer character Elite Trooper and weapon FG 42.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1410166800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2f5549e2-de05-4b07-b9ff-872f4d41feea/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2f5549e2-de05-4b07-b9ff-872f4d41feea",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

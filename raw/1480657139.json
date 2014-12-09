@@ -1,0 +1,117 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584108f3",
+	"title": "Roogoo",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Local Multiplayer 2-4, Xbox LIVE Multiplayer 1-2, HD (High Definition). Help Roogoo defeat their opposites, the evil Meemoo, while racing through 45 progressive action based puzzle filled levels. Learn how to swizzle, roll, and boost. Help save planet Roo! Defeat the Prince, Meemoo, and Ninja-Moo. An addicting game for everyone with great multiplayer competition. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "SouthPeak Games",
+	"studio": "SpiderMonk Entertainment",
+	"originalReleaseDate": "/Date(1261440000000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584108f3/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Roogoo/66acd000-77fe-1000-9115-d802584108f3",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.25,
+			"Count": 1111
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584108f3/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4000-8000-0000584108f3",
+			"title": "Trial Game - Roogoo",
+			"description": "Local Multiplayer 2-4, Xbox LIVE Multiplayer 1-2, HD (High Definition). Help Roogoo defeat their opposites, the evil Meemoo, while racing through 45 progressive action based puzzle filled levels. Learn how to swizzle, roll, and boost. Help save planet Roo! Defeat the Prince, Meemoo, and Ninja-Moo. An addicting game for everyone with great multiplayer competition. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1212566400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584108f3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584108f3",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

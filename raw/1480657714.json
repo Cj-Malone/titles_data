@@ -1,0 +1,134 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b32",
+	"title": "Gatling Gears",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "When the Empire begins its reign of destruction in a thirst for natural resources, it’s up to Max Brawley, a retired Gatling Gear pilot, to stop them. Together with his niece and his trusty Gatling Gear unit he must fight his way to the heart of the Empire and eliminate the destruction at its source.	This product supports the following languages: In-game speech: English; On-screen text: English.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Intergrow Inc.",
+	"studio": "Vanguard Games",
+	"originalReleaseDate": "/Date(1305072000000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Gatling-Gears/66acd000-77fe-1000-9115-d80258410b32",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 6686
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b32/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410b32",
+			"title": "Gatling Gears",
+			"description": "When the Empire begins its reign of destruction in a thirst for natural resources, it’s up to Max Brawley, a retired Gatling Gear pilot, to stop them. Together with his niece and his trusty Gatling Gear unit he must fight his way to the heart of the Empire and eliminate the destruction at its source.	This product supports the following languages: In-game speech: English; On-screen text: English.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 6686
+				}
+			},
+			"originalReleaseDate": "/Date(1308560400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b32/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b32",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

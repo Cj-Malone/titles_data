@@ -1,0 +1,119 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b64",
+	"title": "The War of the Worlds",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b64/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b64/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The War of the Worlds is a dark and breathtaking new vision of the classic H.G. Wells novel, retold as a 2D side-scrolling platformer, and narrated by the acclaimed actor, Patrick Stewart. ",
+	"genres": [
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "Paramount Digital Entertainment",
+	"studio": "Other Ocean",
+	"originalReleaseDate": "/Date(1319500800000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b64/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b64/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b64/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b64/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/The-War-of-the-Worlds/66acd000-77fe-1000-9115-d80258410b64",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 4756
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b64/Children",
+	"childDownloads": [
+		{
+			"id": "31edaa1e-d73a-4f80-9ec4-b12fd3e5e5e6",
+			"title": "Trial Game - War of the Worlds",
+			"description": "The War of the Worlds is a dark and breathtaking new vision of the classic H.G. Wells novel, retold as a 2D side-scrolling platformer, and narrated by the acclaimed actor, Patrick Stewart. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1319619600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/31edaa1e-d73a-4f80-9ec4-b12fd3e5e5e6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/31edaa1e-d73a-4f80-9ec4-b12fd3e5e5e6",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,112 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258480816",
+	"title": "Kinect Sparkler",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480816/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480816/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Paint with light! Use your body and fingers to paint with sparklers. Pose by yourself or with friends and then paint or write messages around yourselves in 3D! Your room becomes your canvas. Share your masterpiece with your friends and family when you're done.",
+	"genres": [
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Game Studios",
+	"studio": "Smoking Gun Inc.",
+	"originalReleaseDate": null,
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480816/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480816/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480816/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Kinect-Sparkler/66acd000-77fe-1000-9115-d80258480816",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 4207
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258480816/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80cf-000158480816",
+			"title": "Kinect Sparkler",
+			"description": "Paint with light! Use your body and fingers to paint with sparklers. Pose by yourself or with friends and then paint or write messages around yourselves in 3D! Your room becomes your canvas. Share your masterpiece with your friends and family when you're done. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 156
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480816/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000158480816",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

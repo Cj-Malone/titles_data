@@ -1,0 +1,1531 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111f7",
+	"title": "Minecraft: Xbox 360 Edition",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Imagine it, build it! Minecraft: Xbox 360 Edition lets you create worlds from the comfort of your sofa. Play alone or play with your friends. Explore, build and conquer! At night monsters come out, so make sure to build a shelter before that happens. After that, your world is your imagination. Turn your hours into minutes with Minecraft!  To experience split-screen functionality a high-definition television is required.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Strategy & Simulation"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "4J Studios / Mojang",
+	"originalReleaseDate": "/Date(1336521600000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg14.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Minecraft-Xbox-360-Edition/66acd000-77fe-1000-9115-d802584111f7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 1114617
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111f7/Children",
+	"childDownloads": [
+		{
+			"id": "00001000-74b1-9283-cc84-9b4a584111f7",
+			"title": "1st Birthday Cape",
+			"description": "Dress code: Minecraft style.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 385
+				}
+			},
+			"originalReleaseDate": "/Date(1368090000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-74b1-9283-cc84-9b4a584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-74b1-9283-cc84-9b4a584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0f6bc93b-ff3c-4214-b86f-56afad88e04d",
+			"title": "A Creative Adventure Trailer",
+			"description": "The new 1.8.2 update is coming and here’s what new adventures await you. Join our Minecraft residents as they travel through a newly created Survival world taking you on a tour of some of the new features that you’ll soon discover; new food to eat, keeping hunger at bay, new enemies, rivers, strongholds, villages, ravines and abandoned mineshafts. And Creative mode is here, full flexibility for you to create whatever you want with your friends.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 2326
+				}
+			},
+			"originalReleaseDate": "/Date(1350464400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0f6bc93b-ff3c-4214-b86f-56afad88e04d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1ebb57bf-4a2d-4e30-bf94-5cefe055b398",
+			"title": "Around the World Theme",
+			"description": "Wondrous places as you have never seen them before!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 706
+				}
+			},
+			"originalReleaseDate": "/Date(1371027600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1ebb57bf-4a2d-4e30-bf94-5cefe055b398",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d6013452-ac3d-47aa-b392-90d2e4d9a4e9",
+			"title": "Battle & Beasts Skin Pack",
+			"description": "By popular demand, Warriors and Animals are the main flavours for this Skin Pack. Hope you enjoy customising your Minecraft character with these!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 8210
+				}
+			},
+			"originalReleaseDate": "/Date(1368003600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d6013452-ac3d-47aa-b392-90d2e4d9a4e9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d6013452-ac3d-47aa-b392-90d2e4d9a4e9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4c60fec9-a40b-42dc-af45-055c7d1d8030",
+			"title": "Battle & Beasts (Trial)",
+			"description": "Try a few skins from this collection of Warriors and Animals before you buy. Unlock the full version to enjoy access to all of the cool skins you can see in this Trial!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 5365
+				}
+			},
+			"originalReleaseDate": "/Date(1368003600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4c60fec9-a40b-42dc-af45-055c7d1d8030/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4c60fec9-a40b-42dc-af45-055c7d1d8030",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-4bb6-3231-c1c2-cd8a584111f7",
+			"title": "Cow T-shirt",
+			"description": "A marvellous Minecraft cow t-shirt",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 42
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-4bb6-3231-c1c2-cd8a584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-4bb6-3231-c1c2-cd8a584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-fce1-d262-ce5c-702c584111f7",
+			"title": "Cow T-shirt",
+			"description": "A marvellous Minecraft cow t-shirt",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-fce1-d262-ce5c-702c584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-fce1-d262-ce5c-702c584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-5d70-62a3-c1bb-dd0c584111f7",
+			"title": "Minecraft Creeper Head ",
+			"description": "Stand out from the crowd with your very own cardboard Creeper Head! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 1628
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-5d70-62a3-c1bb-dd0c584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-5d70-62a3-c1bb-dd0c584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000074c-c888-3251-c250-796e584111f7",
+			"title": "Creeper Hoodie Zipped-Up",
+			"description": "The awesome Minecraft Creeper hoodie, but in fully zipped-up appearance. Love it!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 54
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000074c-c888-3251-c250-796e584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/0000074c-c888-3251-c250-796e584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000074c-d3a9-3222-c5db-d67b584111f7",
+			"title": "Creeper Hoodie Zipped-Up",
+			"description": "The awesome Minecraft Creeper hoodie, but in fully zipped-up appearance. Love it!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000074c-d3a9-3222-c5db-d67b584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/0000074c-d3a9-3222-c5db-d67b584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "95a63550-c482-41c2-afd7-1d36fd9fd1d2",
+			"title": "Doctor Who Skins Volume I",
+			"description": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth,  Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 3571
+				}
+			},
+			"originalReleaseDate": "/Date(1412326800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/95a63550-c482-41c2-afd7-1d36fd9fd1d2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/95a63550-c482-41c2-afd7-1d36fd9fd1d2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1a13af2c-bc65-47b6-a5eb-30d17be4c563",
+			"title": "Doctor Who Skins Volume I (Trial)",
+			"description": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Free trial pack includes Ice Warriors, River Song, Roman Rory, Silurians (2010 edition), Susan Foreman and Zygons. The full version features more Doctors, more companions and more monsters from the last 50 years of Doctor Who to use in your Minecraft worlds!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 189
+				}
+			},
+			"originalReleaseDate": "/Date(1412326800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1a13af2c-bc65-47b6-a5eb-30d17be4c563/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1a13af2c-bc65-47b6-a5eb-30d17be4c563",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-dbea-7223-c1d5-6561584111f7",
+			"title": "Ender Dragon Pet",
+			"description": "A cuter, friendly version of his bigger, less playful Minecraft sister.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 270
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-dbea-7223-c1d5-6561584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-dbea-7223-c1d5-6561584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-d51e-02a3-c4f7-29fe584111f7",
+			"title": "Enderman Pet ",
+			"description": "Give him your heart! He’s quite endearing, in a Minecraft sort of way.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 100
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-d51e-02a3-c4f7-29fe584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-d51e-02a3-c4f7-29fe584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b79ba4fb-4c84-45de-ad1d-6bec1209e250",
+			"title": "Halo Mash-up",
+			"description": "Two of the greatest games ever come together on Xbox. Welcome to the Minecraft Halo Mash-up Pack, which includes new Skins, new Textures, classic Halo music, and an amazing Halo world filled with iconic moments to explore.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 1873
+				}
+			},
+			"originalReleaseDate": "/Date(1401267600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b79ba4fb-4c84-45de-ad1d-6bec1209e250/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b79ba4fb-4c84-45de-ad1d-6bec1209e250",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d6edb1e3-3432-4c76-9b9a-6c17e18aeb26",
+			"title": "Halo Mash-up: Minecraft Evolved",
+			"description": "Follow the Master Chief to epic Halo locations as you’ve never seen them before…it’s time to finish the fight, Minecraft-style.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 344
+				}
+			},
+			"originalReleaseDate": "/Date(1401440400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d6edb1e3-3432-4c76-9b9a-6c17e18aeb26",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "944adb00-9869-4ab6-9f2f-1cb0d27c2ca1",
+			"title": "Halo Mash-up (Trial)",
+			"description": "Halo and Minecraft: enough said. Try out this Mash-up pack as long as you wish, but be aware you won’t be able to save your creations before upgrading to the full version.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1103
+				}
+			},
+			"originalReleaseDate": "/Date(1401267600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/944adb00-9869-4ab6-9f2f-1cb0d27c2ca1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/944adb00-9869-4ab6-9f2f-1cb0d27c2ca1",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4afce596-9899-4890-aaf6-a89111fbcb11",
+			"title": "Heroes vs. Villains ",
+			"description": "Earth’s Mightiest Heroes are coming to Minecraft, and they are not alone. Be ready for a world-shattering clash!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 269
+				}
+			},
+			"originalReleaseDate": "/Date(1389171600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4afce596-9899-4890-aaf6-a89111fbcb11",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-43be-4223-c45c-71da584111f7",
+			"title": "Iron Golem",
+			"description": "Craft your Minecraft Iron Golem and get a nice surprise.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 183
+				}
+			},
+			"originalReleaseDate": "/Date(1361869200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-43be-4223-c45c-71da584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-43be-4223-c45c-71da584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "653e9c9f-ada3-40a0-8c8a-15333d546241",
+			"title": "Marvel Avengers Skin Pack",
+			"description": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 9566
+				}
+			},
+			"originalReleaseDate": "/Date(1387789200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/653e9c9f-ada3-40a0-8c8a-15333d546241/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/653e9c9f-ada3-40a0-8c8a-15333d546241",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0e44f97b-2692-4fdf-b95e-40558be7ed95",
+			"title": "Marvel Avengers Skin Pack (Trial)",
+			"description": "Try a few of the sensational Marvel skins from this Skin Pack. Lots more awaits in the full version. Pick it up and assemble your Avengers! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1190
+				}
+			},
+			"originalReleaseDate": "/Date(1387789200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0e44f97b-2692-4fdf-b95e-40558be7ed95/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0e44f97b-2692-4fdf-b95e-40558be7ed95",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "96bf4ff1-23be-43ac-90b2-5d4e67b45bac",
+			"title": "Marvel Guardians of the Galaxy Skin Pack ",
+			"description": "Join Marvel’s Guardians of the Galaxy in the most cosmic Marvel skin pack for for Minecraft yet! Star-Lord, Gamora, Rocket, Groot and Drax are only part of the pack of 24 skins inspired both by Marvel’s blockbuster film and the comic books. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 3119
+				}
+			},
+			"originalReleaseDate": "/Date(1406883600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/96bf4ff1-23be-43ac-90b2-5d4e67b45bac/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/96bf4ff1-23be-43ac-90b2-5d4e67b45bac",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a63f2064-9fec-4114-9f35-3dccf23df261",
+			"title": "Marvel Guardians of the Galaxy Skin Pack (Trial)",
+			"description": "Join Marvel’s Guardians of the Galaxy in the most cosmic-scaled Marvel Skin Pack for Minecraft yet!  Free trial pack includes Drax, Carina and the Sakaaran Warrior.  Other film characters -- and more! -- await you in the full version.	 ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 567
+				}
+			},
+			"originalReleaseDate": "/Date(1406883600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a63f2064-9fec-4114-9f35-3dccf23df261/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a63f2064-9fec-4114-9f35-3dccf23df261",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "27071c4d-f67b-46ab-bee0-dedccb27252a",
+			"title": "Marvel Spider-Man Skin Pack",
+			"description": "Look out! Here comes the Spider-Man Skin Pack! Featuring an assortment of 35 friends and foes straight from the saga of your favorite Wall-Crawler, this pack is sure to amaze. Catch it now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 656
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/27071c4d-f67b-46ab-bee0-dedccb27252a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/27071c4d-f67b-46ab-bee0-dedccb27252a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f911427e-b289-4948-a4f1-fff1b3e3bc7e",
+			"title": "Marvel Spider-Man Skin Pack (Trial)",
+			"description": "Have a peek behind the mask of the spectacular Spider-Man Skin Pack. Many more amazing friends (and foes) await in the full version!		 ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 471
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f911427e-b289-4948-a4f1-fff1b3e3bc7e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f911427e-b289-4948-a4f1-fff1b3e3bc7e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "62eddd25-3811-44c5-919a-f8702737ee47",
+			"title": "Mass Effect Mash-up",
+			"description": "Shape the fate of your Minecraft galaxy with this amazing Mass Effect Mash-up pack: includes thirty-six Mass Effect character skins, all-new Mass Effect inspired game textures, Mass Effect themed menus, a world featuring the Mars Base Camp and a Mass Effect 3 soundtrack compilation to set the mood.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 7132
+				}
+			},
+			"originalReleaseDate": "/Date(1378285200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/62eddd25-3811-44c5-919a-f8702737ee47/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/62eddd25-3811-44c5-919a-f8702737ee47",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-0536-b203-c24b-0cb1584111f7",
+			"title": "Melon Farming",
+			"description": "Mmmm, Minecraft Melons! But first, a bit of farming is required… ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 80
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-0536-b203-c24b-0cb1584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-0536-b203-c24b-0cb1584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-79de-3243-ca71-d124584111f7",
+			"title": "Minecon 2012 Cape",
+			"description": "This is the Minecon 2012 Cape. Did you make it to France? Even if you didn’t, this special Minecraft cape will look great on your Avatar!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 430
+				}
+			},
+			"originalReleaseDate": "/Date(1361869200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-79de-3243-ca71-d124584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-79de-3243-ca71-d124584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-4583-f2e3-c2fc-599c584111f7",
+			"title": "Minecon 2013 Cape",
+			"description": "For the lucky ones who attended the event and for all the Minecraft fans who were there in spirit as well!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 225
+				}
+			},
+			"originalReleaseDate": "/Date(1383296400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-4583-f2e3-c2fc-599c584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-4583-f2e3-c2fc-599c584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-ea4d-22d3-c456-5414584111f7",
+			"title": "Minecon 2011 Cape ",
+			"description": "If you didn't make it to Minecon 2011, now you can pretend you did! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 614
+				}
+			},
+			"originalReleaseDate": "/Date(1335862800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-ea4d-22d3-c456-5414584111f7/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-ea4d-22d3-c456-5414584111f7",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

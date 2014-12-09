@@ -1,0 +1,600 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025858084b",
+	"title": "Kinect for Xbox 360",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "With Kinect™ for Xbox 360® you don’t just play the game, you are the game. It’s immersive, futuristic technology that brings games and entertainment to life, putting you right in the middle of the action in ways you never expected.  By controlling games with your whole body, you’re part of the story, and nothing comes between you and the fun. ",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "Xbox LIVE",
+	"studio": "Xbox LIVE",
+	"originalReleaseDate": "/Date(1288828800000)/",
+	"contentRating": {
+		"label": "RP (Rating Pending)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+		"age": 18,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Kinect-for-Xbox-360/66acd000-77fe-1000-9115-d8025858084b",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 16011
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025858084b/Children",
+	"childDownloads": [
+		{
+			"id": "bd4732ea-7ced-425e-afbd-1e910e5268db",
+			"title": "Get Your Whole Body in the Game",
+			"description": "Kinect™ for Xbox 360® brings games and entertainment to life in extraordinary new ways – no controller required.  Easy to use and instantly fun, it gets your whole body in the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bd4732ea-7ced-425e-afbd-1e910e5268db",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "586dedd2-df22-451a-8ef6-8fded5532f01",
+			"title": "How to Use Kinect",
+			"description": "A how-to lesson on the basics of using Kinect.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1288774800000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/586dedd2-df22-451a-8ef6-8fded5532f01",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a9ab00b6-4934-429b-9de6-347bebb4a35d",
+			"title": "Kinect Family Fun",
+			"description": "With Kinect™ for Xbox 360®, you are the controller. Easy pick-up-and-play fun for the whole family, it’ll have everyone up off the couch laughing, cheering and playing along.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 26
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a9ab00b6-4934-429b-9de6-347bebb4a35d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "617f07e8-b40d-421d-8521-4cf56e6bff38",
+			"title": "Kinect for Xbox 360: Kinect is About YOU",
+			"description": "Kinect™ for Xbox 360® brings games and entertainment to life in extraordinary new ways – no controller required.  Simply jump in, Kinect recognizes you. And stay connected with friends in fun new ways!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 34
+				}
+			},
+			"originalReleaseDate": "/Date(1288774800000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/617f07e8-b40d-421d-8521-4cf56e6bff38",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+			"title": "Kinect Launch Titles Montage",
+			"description": "This montage showcases all the games available on Kinect beginning November 2010.  You are the controller for all these amazing experiences.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 947
+				}
+			},
+			"originalReleaseDate": "/Date(1288256400000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Platformer"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Sports & Recreation"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b652eede-fcbd-44e7-92ac-fa3a2cc8e4b8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fe356843-22e2-4345-8378-ee2c7419270e",
+			"title": "Kinect Premium Theme",
+			"description": "Kinect Premium Theme",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 188
+				}
+			},
+			"originalReleaseDate": "/Date(1288828800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fe356843-22e2-4345-8378-ee2c7419270e",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d388c3e0-d2f6-4e5f-a2dd-4d74266fa35e",
+			"title": "Setting Up Hardware & Play Space",
+			"description": "A step-by-step guide to setting up your Xbox 360, Kinect sensor and play space.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 47
+				}
+			},
+			"originalReleaseDate": "/Date(1288774800000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d388c3e0-d2f6-4e5f-a2dd-4d74266fa35e",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4ef04118-e625-40bb-b3cd-b69e079f643c",
+			"title": "Settings & Xbox LIVE",
+			"description": "A simple tutorial on finalizing console settings and connecting to Xbox LIVE.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 32
+				}
+			},
+			"originalReleaseDate": "/Date(1288774800000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4ef04118-e625-40bb-b3cd-b69e079f643c",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1e5c290c-91a1-455e-9f46-ccacb6f455c7",
+			"title": "Xbox LIVE + Kinect Montage",
+			"description": "Kinect™ for Xbox 360® with Xbox LIVE brings games and entertainment to life in extraordinary new ways – no controller required.  Easy to use and fun for everyone. Control movies and entertainment with the wave of a hand or the sound of your voice!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 42
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1e5c290c-91a1-455e-9f46-ccacb6f455c7",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0d0b8569-05ef-443a-972e-39f5af0fec18",
+			"title": "YOU Are the Controller",
+			"description": "Kinect™ for Xbox 360® brings games and entertainment to life in extraordinary new ways – no controller required.  No gadgets.  No gizmos.  Just you.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1288861200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858084b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0d0b8569-05ef-443a-972e-39f5af0fec18",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

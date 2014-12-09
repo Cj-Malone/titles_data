@@ -1,0 +1,768 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b86",
+	"title": "Fable Heroes",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Fable Heroes is a fresh spin on the beloved Fable franchise in which up to four players play both cooperatively and competitively in this hack-and-slash adventure.  Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Xbox 360.  ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Lionhead Studios",
+	"originalReleaseDate": "/Date(1335916800000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Fable-Heroes/66acd000-77fe-1000-9115-d80258410b86",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 16834
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GamerPic",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b86/Children",
+	"childDownloads": [
+		{
+			"id": "eeccd9b5-8b66-48d5-97bd-a5c8b3731032",
+			"title": "Trial Game - Fable Heroes",
+			"description": "(Online Interactions Not Rated by the ESRB) Fable Heroes is a fresh spin on the beloved Fable franchise in which up to four players play both cooperatively and competitively in this hack-and-slash adventure.  Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Xbox 360.  ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1335949200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/eeccd9b5-8b66-48d5-97bd-a5c8b3731032/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/eeccd9b5-8b66-48d5-97bd-a5c8b3731032",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410b86",
+			"title": "Fable Heroes",
+			"description": "(Online Interactions Not Rated by the ESRB) Fable Heroes is a fresh spin on the beloved Fable franchise in which up to four players play both cooperatively and competitively in this hack-and-slash adventure.  Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Xbox 360.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 16834
+				}
+			},
+			"originalReleaseDate": "/Date(1335949200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GamerPic",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b86",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6f8e6498-2b32-4711-8c79-026270a408bb",
+			"title": "Fable Heroes",
+			"description": "(Online Interactions Not Rated by the ESRB) Fable Heroes is a fresh spin on the beloved Fable franchise in which up to four players play both cooperatively and competitively in this hack-and-slash adventure.  Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Xbox 360.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 170
+				}
+			},
+			"originalReleaseDate": "/Date(1335949200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6f8e6498-2b32-4711-8c79-026270a408bb",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "90369f38-b77a-4a27-a25d-b1030103935f",
+			"title": "Fable Heroes Picture Pack 1",
+			"description": "A pack containing 5 of your favourite Heroes; Hero King, Reaver, Hammer, Garth, and Jack of Blades!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 162
+				}
+			},
+			"originalReleaseDate": "/Date(1335430800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/90369f38-b77a-4a27-a25d-b1030103935f",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "14877489-13d0-4937-a26e-608405cd9b63",
+			"title": "Fable Heroes Picture Pack 2",
+			"description": "A pack containing 5 of your favourite Heroes; Sir Walter Beck, Ben Finn, Maze, Lucien, and Scythe!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 159
+				}
+			},
+			"originalReleaseDate": "/Date(1335430800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/14877489-13d0-4937-a26e-608405cd9b63",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "882576fa-a1d8-4895-aec2-aa7841f589ba",
+			"title": "Fable Heroes Premium Theme",
+			"description": "With the Fable Heroes Premium Theme, you’ll be the envy of all your friends, and most of your enemies, and some of those whose feelings toward you are fairly neutral.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 134
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b86/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/882576fa-a1d8-4895-aec2-aa7841f589ba",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000077c-4b43-42d2-cfbd-7d1758410b86",
+			"title": "Fable Hobbe Disguise",
+			"description": "Disguise yourself as everyone's favourite little nuisance. Recommended gear for spelunkers!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000077c-4b43-42d2-cfbd-7d1758410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000077c-4b43-42d2-cfbd-7d1758410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000077c-604a-22e1-c88c-235e58410b86",
+			"title": "Fable Hobbe Disguise",
+			"description": "Disguise yourself as everyone's favourite little nuisance. Recommended gear for spelunkers!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 71
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000077c-604a-22e1-c88c-235e58410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000077c-604a-22e1-c88c-235e58410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-604b-5293-c299-9c3458410b86",
+			"title": "Hero Puppet Head",
+			"description": "A Puppet Head to wear on your head. No strings attached.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 119
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-604b-5293-c299-9c3458410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-604b-5293-c299-9c3458410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-774b-3211-c78e-9cd958410b86",
+			"title": "Jack of Blades Outfit",
+			"description": "Dress up as the most sinister Fable character ever... If you dare!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 180
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-774b-3211-c78e-9cd958410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-774b-3211-c78e-9cd958410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-8b45-02c2-c9ca-15a158410b86",
+			"title": "Jack of Blades Outfit",
+			"description": "Dress up as the most sinister Fable character ever... If you dare!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-8b45-02c2-c9ca-15a158410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-8b45-02c2-c9ca-15a158410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "783611c2-071e-4414-bcc5-293fd14f29e7",
+			"title": "Microsoft Studios Presents: Arcade NEXT ",
+			"description": "Arcade NEXT delivers this season’s most anticipated downloadable games from Microsoft Studios, with four back-to-back weeks of exciting new Xbox LIVE Arcade titles. With one new game releasing each week, titles include the scenic “Trials Evolution,” action-packed “Bloodforge,” adventurous “Fable Heroes” and block-building “Minecraft: Xbox 360 Edition.” These Xbox LIVE Arcade games will also feature increased Gamerscore points, with up to 30 Achievements available to unlock!  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 3909
+				}
+			},
+			"originalReleaseDate": "/Date(1332752400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07c3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/783611c2-071e-4414-bcc5-293fd14f29e7",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000077c-5946-6212-ce2d-0eba58410b86",
+			"title": "Reaver Outfit",
+			"description": "You too can be eternally youthful -- and eternally stylish -- with this Hero of Skill outfit.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000077c-5946-6212-ce2d-0eba58410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000077c-5946-6212-ce2d-0eba58410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000077c-4d42-0201-c891-05ec58410b86",
+			"title": "Reaver Outfit",
+			"description": "You too can be eternally youthful -- and eternally stylish -- with this Hero of Skill outfit.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 31
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000077c-4d42-0201-c891-05ec58410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000077c-4d42-0201-c891-05ec58410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-ca4f-a203-cc43-29e758410b86",
+			"title": "Son of Chesty",
+			"description": "Your very own Son of Chesty to treasure... Watch out, he bites!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 62
+				}
+			},
+			"originalReleaseDate": "/Date(1335258000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-ca4f-a203-cc43-29e758410b86/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-ca4f-a203-cc43-29e758410b86",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

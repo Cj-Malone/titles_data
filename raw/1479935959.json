@@ -1,0 +1,89 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802583607d7",
+	"title": "Garfield",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802583607d7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802583607d7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Check out the Garfield Collection!",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Xbox LIVE",
+	"studio": "Xbox LIVE",
+	"originalReleaseDate": "/Date(1355788800000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Garfield/66acd000-77fe-1000-9115-d802583607d7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 240
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802583607d7/Children",
+	"childDownloads": [
+		{
+			"id": "4ced320f-efaf-4351-949a-dff40624dca7",
+			"title": "Garfield Gamer Pics",
+			"description": "Download this picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 193
+				}
+			},
+			"originalReleaseDate": "/Date(1370854800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802583607d7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4ced320f-efaf-4351-949a-dff40624dca7",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

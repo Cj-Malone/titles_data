@@ -1,0 +1,388 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584112ad",
+	"title": "STX",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Special Forces: Team X (STX) is a team centric 3rd Person cover based shooter. The game features a unique map selection system, with the ability to shape the battlefield by selecting individual environmental pieces, resulting in over 100 map variations. STX supports asymmetric game play with 2-4 teams and 5 frenetic game modes. Cooperative play between team members is richly rewarded. Customize your skills, weapons and character to tailor your tactics and performance in battle. STX brings you the brutality of war as you take on the role of an elite soldier in a Special Forces squad. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Atari, Inc.",
+	"studio": "Zombie Studios",
+	"originalReleaseDate": "/Date(1360108800000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/STX/66acd000-77fe-1000-9115-d802584112ad",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 3475
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112ad/Children",
+	"childDownloads": [
+		{
+			"id": "cb522491-0001-4d70-8bb8-e0dc27956bd4",
+			"title": "Trial Game - Special Forces: Team X ",
+			"description": "Special Forces: Team X (STX) is a team centric 3rd Person cover based shooter. The game features a unique map selection system, with the ability to shape the battlefield by selecting individual environmental pieces, resulting in over 100 map variations. STX supports asymmetric game play with 2-4 teams and 5 frenetic game modes. Cooperative play between team members is richly rewarded. Customize your skills, weapons and character to tailor your tactics and performance in battle. STX brings you the brutality of war as you take on the role of an elite soldier in a Special Forces squad. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360141200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/cb522491-0001-4d70-8bb8-e0dc27956bd4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cb522491-0001-4d70-8bb8-e0dc27956bd4",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584112ad",
+			"title": "STX",
+			"description": "Special Forces: Team X (STX) is a team centric 3rd Person cover based shooter. The game features a unique map selection system, with the ability to shape the battlefield by selecting individual environmental pieces, resulting in over 100 map variations. STX supports asymmetric game play with 2-4 teams and 5 frenetic game modes. Cooperative play between team members is richly rewarded. Customize your skills, weapons and character to tailor your tactics and performance in battle. STX brings you the brutality of war as you take on the role of an elite soldier in a Special Forces squad. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 3475
+				}
+			},
+			"originalReleaseDate": "/Date(1362474000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112ad",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "dc61e4c8-7b6f-4fac-a158-d747efc9ee4a",
+			"title": "Special Forces: Team X - Announcement Trailer",
+			"description": "Special Forces: Team X, available February 6th, 2013. This active cover based, 3rd person shooter drops you into the heat of battle against ferocious enemies deployed in ever changing environments. 2- 4 teams wage war and struggle for possession of some of the most powerful and exciting bonus weaponry available.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 40
+				}
+			},
+			"originalReleaseDate": "/Date(1360141200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/dc61e4c8-7b6f-4fac-a158-d747efc9ee4a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cf7218a6-7605-4efd-ac0a-850ee676b6db",
+			"title": "Special Forces: Team X - Preview Trailer",
+			"description": "Announcing Special Forces: Team X. With a unique player voting system that offers over a hundred map configurations, Special Forces: Team X transports you to the frenetic battles of our comic book heroes. An arsenal of weapons like none before is at your disposal, including chainsaws, dogs, airstrikes and some of the most famous licensed guns in the world.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 56
+				}
+			},
+			"originalReleaseDate": "/Date(1360141200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cf7218a6-7605-4efd-ac0a-850ee676b6db",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "80d5321e-27d4-4a33-b097-032017eb65da",
+			"title": "Special Forces: Team X - Release Trailer",
+			"description": "Download Special Forces: Team X now! This team based casual-core shooter supports 5 intense game types for waging your own wars online. Customize your character and weapons, choose your taunts, unlock new skills and perfect your chosen melee attack. Run for cover and clamber over the uniquely customizable environment. Grab your chainsaw and dog and start fighting today!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 52
+				}
+			},
+			"originalReleaseDate": "/Date(1362128400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/80d5321e-27d4-4a33-b097-032017eb65da",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

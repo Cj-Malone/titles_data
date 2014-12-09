@@ -1,0 +1,428 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584107f6",
+	"title": "Texas Hold'em",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Single Player, Xbox LIVE Multiplayer 2-8, HD (High Definition), Xbox LIVE Vision. Upgrade to the full game! Test your skills in Xbox LIVE tournaments and custom matches, or simply enjoy a friendly game with your pals. Measure your progress with our unique bankroll system, and track your stats by profile. Texas Hold'em features advanced AI, multiple configurable game modes, and Xbox LIVE Vision camera support. There are no refunds for this item. For more information, see www.xbox.com/LIVE/accounts.",
+	"genres": [
+		{
+			"label": "Card & Board"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "TikGames, LLC.",
+	"originalReleaseDate": "/Date(1259712000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Simulated Gambling",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Texas-Holdem/66acd000-77fe-1000-9115-d802584107f6",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 15766
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon",
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107f6/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80cf-0001584107f6",
+			"title": "Texas Hold 'em - Environment: Casino",
+			"description": "Liven up your Texas Hold 'em game with some new scenery. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 117
+				}
+			},
+			"originalReleaseDate": "/Date(1252486800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Simulated Gambling",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0001584107f6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-0002584107f6",
+			"title": "Texas Hold 'em - Environment: Hip Hop",
+			"description": "Liven up your Texas Hold 'em game with some new scenery. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 91
+				}
+			},
+			"originalReleaseDate": "/Date(1252486800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Simulated Gambling",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0002584107f6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80c0-0000584107f6",
+			"title": "Texas Hold 'em - Environment: Jungle Party",
+			"description": "Liven up your Texas Hold 'em game with some new scenery. Take the party to the jungle and play on jungle-themed tables with a fun new card deck. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 77
+				}
+			},
+			"originalReleaseDate": "/Date(1184140800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Simulated Gambling",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80c0-0000584107f6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.88",
+				"silverPrice": "$1.88"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.88,
+					"display": "$1.88",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-8020-0000584107f6",
+			"title": "Texas Hold 'em - Picture Pack: Jungle Party",
+			"description": "Show off your wild side with these jungle themed Gamer Pics. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 68
+				}
+			},
+			"originalReleaseDate": "/Date(1184140800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-8020-0000584107f6",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-8030-0000584107f6",
+			"title": "Texas Hold 'em - Theme Pack: Casino 1",
+			"description": "Give your Xbox 360 a classy Casino theme! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 74
+				}
+			},
+			"originalReleaseDate": "/Date(1184140800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-8030-0000584107f6",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.63",
+				"silverPrice": "$0.63"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.63,
+					"display": "$0.63",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0000584107f6",
+			"title": "Trial Game - Texas Hold 'em",
+			"description": "Single Player, Xbox LIVE Multiplayer 2-8, HD (High Definition), Xbox LIVE Vision. Check out the trial version and enjoy a complete single player version of Texas Hold'em. Enjoy multiple game modes including tournaments, custom games, and scenarios. Whether you're a poker pro or brand new to the game, Texas Hold'em has excitement and challenges for you.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1184144400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Simulated Gambling",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584107f6",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584107f6",
+			"title": "Texas Hold'em",
+			"description": "Single Player, Xbox LIVE Multiplayer 2-8, HD (High Definition), Xbox LIVE Vision. Upgrade to the full game! Test your skills in Xbox LIVE tournaments and custom matches, or simply enjoy a friendly game with your pals. Measure your progress with our unique bankroll system, and track your stats by profile. Texas Hold'em features advanced AI, multiple configurable game modes, and Xbox LIVE Vision camera support. There are no refunds for this item. For more information, see www.xbox.com/LIVE/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 15766
+				}
+			},
+			"originalReleaseDate": "/Date(1184144400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Simulated Gambling",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon",
+				"GamerPic",
+				"Theme"
+			],
+			"genres": [
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107f6",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

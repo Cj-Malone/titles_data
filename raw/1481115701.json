@@ -1,0 +1,112 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258480835",
+	"title": "Kinect Rush: Snapshot",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480835/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480835/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Enter the worlds of five beloved Disney•Pixar movies - The Incredibles, Ratatouille, UP, Cars, and Toy Story - to become a unique character using Kinect for Xbox 360, and have your photo taken with your Pixar friends! Then share your Kinect Rush Snapshots online!",
+	"genres": [
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Asobo Studio",
+	"originalReleaseDate": "/Date(1333670400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480835/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480835/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480835/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Kinect-Rush-Snapshot/66acd000-77fe-1000-9115-d80258480835",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 6638
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258480835/Children",
+	"childDownloads": [
+		{
+			"id": "d816f6d4-eb6b-4011-9ae7-3f76faf2a03d",
+			"title": "Kinect Rush: Snapshot",
+			"description": "Enter the worlds of five beloved Disney•Pixar movies - The Incredibles, Ratatouille, UP, Cars, and Toy Story - to become a unique character using Kinect for Xbox 360, and have your photo taken with your Pixar friends! Then share your Kinect Rush Snapshots online!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 607
+				}
+			},
+			"originalReleaseDate": "/Date(1333702800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d816f6d4-eb6b-4011-9ae7-3f76faf2a03d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d816f6d4-eb6b-4011-9ae7-3f76faf2a03d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

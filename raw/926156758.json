@@ -1,0 +1,144 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802373407d6",
+	"title": "AT:TSotNK",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "This Games on Demand version supports English, French, Spanish, Italian, German and Portuguese Subtitles.  What time is it?  It’s time to join Finn (the human) and his best bro Jake (the shape shifting dog) on an original heroic adventure through the mysterious Nameless Kingdom. Go on epic quests, solve challenging puzzles and uncover hidden secrets by exploring a new realm created exclusively for the video game.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Little Orbit LLC.",
+	"studio": "WayForward",
+	"originalReleaseDate": "/Date(1416268800000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Cartoon Violence",
+				"image": null
+			},
+			{
+				"label": "Comic Mischief",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/AT-TSotNK/66acd000-77fe-1000-9115-d802373407d6",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 42
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802373407d6/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802373407d6",
+			"title": "AT:TSotNK",
+			"description": "This Games on Demand version supports English, French, Spanish, Italian, German and Portuguese Subtitles.  What time is it?  It’s time to join Finn (the human) and his best bro Jake (the shape shifting dog) on an original heroic adventure through the mysterious Nameless Kingdom. Go on epic quests, solve challenging puzzles and uncover hidden secrets by exploring a new realm created exclusively for the video game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 42
+				}
+			},
+			"originalReleaseDate": "/Date(1416297660000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					},
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802373407d6",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

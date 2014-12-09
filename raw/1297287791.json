@@ -1,0 +1,700 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d530a6f",
+	"title": "Karaoke",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Bring the party to your house and sing to over 8,000 songs from the latest hits to the oldies but goodies!  Your avatar will go on stage and sing to your voice with a full complement of stage props and back band.  Songs don't require any download and will playback immediately via streaming for a robust karaoke experience.  Requires an Xbox 360 Headset, Xbox Wireless Microphone or Xbox 360 compatible USB microphone. ",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Music"
+		},
+		{
+			"label": "Kinect"
+		},
+		{
+			"label": "Avatar"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Stingray Music USA Inc. and iNiS Corporation",
+	"originalReleaseDate": "/Date(1355788800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Sexual Themes",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			},
+			{
+				"label": "Violent References",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530a6f/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Karaoke/66acd000-77fe-1000-9115-d8024d530a6f",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 4452
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d530a6f/Children",
+	"childDownloads": [
+		{
+			"id": "00000a38-769a-b221-cec0-415f4d530a6f",
+			"title": "Acid Rocker",
+			"description": "Set your guitar aflame with this outfit!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000a38-769a-b221-cec0-415f4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000a38-769a-b221-cec0-415f4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000278-1d5b-d2e2-c415-7f604d530a6f",
+			"title": "Country Proud",
+			"description": "Show your country-western pride!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000278-1d5b-d2e2-c415-7f604d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000278-1d5b-d2e2-c415-7f604d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000278-ff06-6251-ccca-f7c64d530a6f",
+			"title": "Country Proud",
+			"description": "Show your country-western pride!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000278-ff06-6251-ccca-f7c64d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000278-ff06-6251-ccca-f7c64d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000bb8-7149-4292-c4ae-ec1f4d530a6f",
+			"title": "Glam Rocker",
+			"description": "Rock all night in this outfit!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000bb8-7149-4292-c4ae-ec1f4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000bb8-7149-4292-c4ae-ec1f4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000bb8-532f-92d1-cb86-c8184d530a6f",
+			"title": "Glam Rocker",
+			"description": "Rock all night in this outfit!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000bb8-532f-92d1-cb86-c8184d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000bb8-532f-92d1-cb86-c8184d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000b38-c4dd-b2d2-c0c3-4c4c4d530a6f",
+			"title": "Hunka Hunka Rock",
+			"description": "Hail to the king!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000b38-c4dd-b2d2-c0c3-4c4c4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000b38-c4dd-b2d2-c0c3-4c4c4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000b38-e5e6-6281-cec3-916f4d530a6f",
+			"title": "Hunka Hunka Rock",
+			"description": "Hail to the king!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000b38-e5e6-6281-cec3-916f4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000b38-e5e6-6281-cec3-916f4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000338-c898-0282-c9d0-18794d530a6f",
+			"title": "Move Buster",
+			"description": "Break out the parachute pants!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000338-c898-0282-c9d0-18794d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000338-c898-0282-c9d0-18794d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000338-c769-3291-c7b1-4f824d530a6f",
+			"title": "Move Buster",
+			"description": "Break out the parachute pants!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000338-c769-3291-c7b1-4f824d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000338-c769-3291-c7b1-4f824d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000a38-7c77-4262-c96f-57944d530a6f",
+			"title": "Queen of the Charts",
+			"description": "Show you're the top of the pop charts!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000a38-7c77-4262-c96f-57944d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000a38-7c77-4262-c96f-57944d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000138-e6d1-02f2-c643-140c4d530a6f",
+			"title": "Queen of the Charts Extreme",
+			"description": "Add some avante garde to your pop fame!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000138-e6d1-02f2-c643-140c4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000138-e6d1-02f2-c643-140c4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-7f48-a2f2-c8f8-6eda4d530a6f",
+			"title": "Sgt. Psychedelic",
+			"description": "Find your 60's rock roots with this outfit.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-7f48-a2f2-c8f8-6eda4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-7f48-a2f2-c8f8-6eda4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-7b9f-6221-ca7b-518f4d530a6f",
+			"title": "Sgt. Psychedelic",
+			"description": "Find your 60's rock roots with this outfit.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1360054800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-7b9f-6221-ca7b-518f4d530a6f/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-7b9f-6221-ca7b-518f4d530a6f",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,597 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584107db",
+	"title": "Outpost Kaloki X",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Single Player, HD (High Definition) Everyone loves galactic lemonade… which means big space bucks for you! But how are you going to supply power to your lemonade stand? Better build a solar windmill… But how will you pay for the windmill with no space dollars??? Outpost Kaloki X is the light-hearted space-station tycoon game filled with clever characters and wacky storylines, where it’s your job to keep the visiting aliens happy and rake in the cash! Play the Adventure Story, the War Story or any one of 11 different Scenarios. Chat with your patrons to find out what they really want… and to get hot tips on cool expansions. Complete lower-level expansions to unlock more advanced ones. Can you juggle the needs of your station, the desires of your clients and your own hopes for cash and glory? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Strategy & Simulation"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "NinjaBee",
+	"originalReleaseDate": "/Date(1262563200000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Crude Humor",
+				"image": null
+			},
+			{
+				"label": "Mild Animated Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Outpost-Kaloki-X/66acd000-77fe-1000-9115-d802584107db",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 2984
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon",
+		"GamerPic"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107db/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4000-8000-0006584107db",
+			"title": "Bounty Hunter Scenario - Outpost Kaloki",
+			"description": "Single Player, HD (High Definition) Earn fame and glory as a destroyer of nasty evil alien robots in this scenario for Outpost Kaloki X.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1136851200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0006584107db",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0008584107db",
+			"title": "Challenge of the Gods Scenario - Outpost Kaloki",
+			"description": "Single Player, HD (High Definition) Please the Greek gods of your choice without angering the others in this challenging extra scenario for Outpost Kaloki X. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1139270400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0008584107db",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0004584107db",
+			"title": "Fireworks Scenario - Outpost Kaloki",
+			"description": "Single Player, HD (High Definition) Help direct Superstar Fishy McFisherson's fireworks extravaganza in this scenario for Outpost Kaloki X.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1130803200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0004584107db",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0010584107db",
+			"title": "Love Story Scenario - Outpost Kaloki",
+			"description": "Single Player, HD (High Definition) Choose a sweetheart and win her heart in this romantic 5-part story for Outpost Kaloki X. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 26
+				}
+			},
+			"originalReleaseDate": "/Date(1136851200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0010584107db",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.49",
+				"silverPrice": "$2.49"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.49,
+					"display": "$2.49",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0002584107db",
+			"title": "Outpost Kaloki Picture Pack 1",
+			"description": "A collection of 10 cute, cartoony gamer pictures from Outpost Kaloki X. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 88
+				}
+			},
+			"originalReleaseDate": "/Date(1128297600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0002584107db",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0003584107db",
+			"title": "Outpost Kaloki Picture Pack 2",
+			"description": "A collection of 10 cute, cartoony gamer pictures from Outpost Kaloki X. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 22
+				}
+			},
+			"originalReleaseDate": "/Date(1136851200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0003584107db",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0005584107db",
+			"title": "Outpost Kaloki Picture Pack 3",
+			"description": "A collection of 10 cute, cartoony gamer pictures from Outpost Kaloki X. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1139270400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0005584107db",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0000584107db",
+			"title": "Trial Game - Outpost Kaloki",
+			"description": "Single Player, HD (High Definition) Everyone loves galactic lemonade… which means big space bucks for you! But how are you going to supply power to your lemonade stand? Better build a solar windmill… But how will you pay for the windmill with no space dollars??? Outpost Kaloki X is the light-hearted space-station tycoon game filled with clever characters and wacky storylines, where it’s your job to keep the visiting aliens happy and rake in the cash! Play the Adventure Story, the War Story or any one of 11 different Scenarios. Chat with your patrons to find out what they really want… and to get hot tips on cool expansions. Complete lower-level expansions to unlock more advanced ones. Can you juggle the needs of your station, the desires of your clients and your own hopes for cash and glory?",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1132012800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584107db",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584107db",
+			"title": "Outpost Kaloki X",
+			"description": "Single Player, HD (High Definition) Everyone loves galactic lemonade… which means big space bucks for you! But how are you going to supply power to your lemonade stand? Better build a solar windmill… But how will you pay for the windmill with no space dollars??? Outpost Kaloki X is the light-hearted space-station tycoon game filled with clever characters and wacky storylines, where it’s your job to keep the visiting aliens happy and rake in the cash! Play the Adventure Story, the War Story or any one of 11 different Scenarios. Chat with your patrons to find out what they really want… and to get hot tips on cool expansions. Complete lower-level expansions to unlock more advanced ones. Can you juggle the needs of your station, the desires of your clients and your own hopes for cash and glory? There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 2984
+				}
+			},
+			"originalReleaseDate": "/Date(1132045200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon",
+				"GamerPic"
+			],
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107db",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0007584107db",
+			"title": "The Swarm Scenario - Outpost Kaloki",
+			"description": "Single Player, HD (High Definition)  Defend your station as long as you can against an increasing swarm of nasty evil alien robot attackers!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1139270400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0007584107db",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

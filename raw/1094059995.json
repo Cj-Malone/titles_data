@@ -1,0 +1,125 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802413607db",
+	"title": "Battlestar Galactica Pics & Themes",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413607db/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413607db/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Check out the Battlestar Galactica Pics & Themes",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "NBC Universal",
+	"studio": "meemo, LLC",
+	"originalReleaseDate": "/Date(1375056000000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Battlestar-Galactica-Pics-Themes/66acd000-77fe-1000-9115-d802413607db",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 59
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802413607db/Children",
+	"childDownloads": [
+		{
+			"id": "bf50fbac-9e61-4097-8eaf-1f487d60b07d",
+			"title": "Battlestar Galactica Gamer Pictures",
+			"description": "Download this Battlestar Galactica picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1375347600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413607db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bf50fbac-9e61-4097-8eaf-1f487d60b07d",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ff9c836c-42f6-4fcd-abcd-f40ddb7f7f73",
+			"title": "Battlestar Galactica Premium Theme",
+			"description": "Download this Battlestar Galactica Premium Theme.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1375347600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802413607db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ff9c836c-42f6-4fcd-abcd-f40ddb7f7f73",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

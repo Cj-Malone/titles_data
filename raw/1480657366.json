@@ -1,0 +1,209 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584109d6",
+	"title": "Fret Nice",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "FRET NICE™ is a 2D platformer that’ll rock your world. Control your character through funky-fresh stages to explore hidden areas, collect items, and clash note-for-note with outrageous, heavy metal bosses! Rock out by blasting enemies with riff combos and creating your own sounds with each “strum” of a chord! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "TECMO",
+	"studio": "Pieces Interactive",
+	"originalReleaseDate": "/Date(1266364800000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Strong Lyrics",
+				"image": null
+			},
+			{
+				"label": "Animated Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Fret-Nice/66acd000-77fe-1000-9115-d802584109d6",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 2,
+			"Count": 2530
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109d6/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4000-8000-0000584109d6",
+			"title": "Trial Game - Fret Nice",
+			"description": "Check out this free trial of the jammin' 2D platformer FRET NICE™! Explore this funky-fresh stage, and strum riff combos to blast your enemies and save the world from the evil Hair Bängers!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1267002000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Strong Lyrics",
+						"image": null
+					},
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584109d6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584109d6",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584109d6",
+			"title": "Fret Nice",
+			"description": "FRET NICE™ is a 2D platformer that’ll rock your world. Control your character through funky-fresh stages to explore hidden areas, collect items, and clash note-for-note with outrageous, heavy metal bosses! Rock out by blasting enemies with riff combos and creating your own sounds with each “strum” of a chord! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2,
+					"Count": 2530
+				}
+			},
+			"originalReleaseDate": "/Date(1267002000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Strong Lyrics",
+						"image": null
+					},
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109d6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109d6",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

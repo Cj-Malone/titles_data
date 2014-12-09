@@ -1,0 +1,190 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841081a",
+	"title": "Super Contra",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Help Lance and Bill stop Red Falcon before they take over the world.  Celebrating the 20th anniversary of Contra, this newly updated version of Super Contra features enhanced graphics, HD support, and Co-op multiplayer over Xbox LIVE.   The Alien Wars are coming... do you have what it takes to defend earth? There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+	"genres": [
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Konami",
+	"studio": "Digital Eclipse",
+	"originalReleaseDate": "/Date(1260230400000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/screenlg12.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Super-Contra/66acd000-77fe-1000-9115-d8025841081a",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 4242
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841081a/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4000-8000-00005841081a",
+			"title": "Trial Game - Super Contra",
+			"description": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Red Falcon has returned and it will take more than just the spread gun to defeat them. Try the first level alone or with a friend, then buy the full version to play online and unlock the entire game. Features Xbox LIVE Co-op play and enhanced graphics and sound.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1185350400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-00005841081a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-00005841081a",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025841081a",
+			"title": "Super Contra",
+			"description": "Single Player, Xbox LIVE Multiplayer 1-2, Local Multiplayer 1-2, HD (High Definition). Help Lance and Bill stop Red Falcon before they take over the world.  Celebrating the 20th anniversary of Contra, this newly updated version of Super Contra features enhanced graphics, HD support, and Co-op multiplayer over Xbox LIVE.   The Alien Wars are coming... do you have what it takes to defend earth? There are no refunds for this item. For more information, see www.xbox.com/Live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 4242
+				}
+			},
+			"originalReleaseDate": "/Date(1185350400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841081a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841081a",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,449 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584107ee",
+	"title": "Crystal Quest",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Single Player, HD (High Definition) The 1987 classic returns with updated graphics, enhanced special effects and Dolby sound! Pilot your ship through 60 waves, collecting crystals and evading the Nasties. These unique baddies--each one different--emerge from portals on each side of the screen. Fire your weapon at them, or deploy a smart bomb to vaporize every Nasty on the screen. Grab all the crystals to open the gateway at the bottom of the screen. And don’t forget to gather up the goodies in each wave… you can find bonus points, extra smart bombs and even an occasional mega-crystal for massive points! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Stainless Games",
+	"originalReleaseDate": "/Date(1264118400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Crystal-Quest/66acd000-77fe-1000-9115-d802584107ee",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 2432
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107ee/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4000-8000-0002584107ee",
+			"title": "Animal Madness Sound Pack - Crystal Quest",
+			"description": "Insane sounds from the animal kingdom. Player must be sitting down for play due to possible injuries caused by excessive laughing. Apply generously. Not to be taken internally. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 31
+				}
+			},
+			"originalReleaseDate": "/Date(1139529600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0002584107ee",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0000584107ee",
+			"title": "Trial Game - Crystal Quest",
+			"description": "Single Player, HD (High Definition) The 1987 classic returns with updated graphics, enhanced special effects and Dolby sound! Pilot your ship through 60 waves, collecting crystals and evading the Nasties. These unique baddies--each one different--emerge from portals on each side of the screen. Fire your weapon at them, or deploy a smart bomb to vaporize every Nasty on the screen. Grab all the crystals to open the gateway at the bottom of the screen. And don’t forget to gather up the goodies in each wave… you can find bonus points, extra smart bombs and even an occasional mega-crystal for massive points!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1139097600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584107ee",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584107ee",
+			"title": "Crystal Quest",
+			"description": "(Online Interactions Not Rated by the ESRB) Single Player, HD (High Definition) The 1987 classic returns with updated graphics, enhanced special effects and Dolby sound! Pilot your ship through 60 waves, collecting crystals and evading the Nasties. These unique baddies--each one different--emerge from portals on each side of the screen. Fire your weapon at them, or deploy a smart bomb to vaporize every Nasty on the screen. Grab all the crystals to open the gateway at the bottom of the screen. And don’t forget to gather up the goodies in each wave… you can find bonus points, extra smart bombs and even an occasional mega-crystal for massive points! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 2432
+				}
+			},
+			"originalReleaseDate": "/Date(1139097600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107ee",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0004584107ee",
+			"title": "Nano Graphics Pack - Crystal Quest",
+			"description": "Complete graphics reskin that turns the game into an achingly good-looking view through an electron microscope into a bizarre world of semi-transparent critters and X-ray weirdness. Spooky!There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 28
+				}
+			},
+			"originalReleaseDate": "/Date(1139529600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0004584107ee",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0005584107ee",
+			"title": "Sketch Graphics Pack - Crystal Quest",
+			"description": "Complete graphics reskin that gives the game a cool “handcrafted by draftsman” look. Nothing else looks anything like it. Amaze your friends. Stun your mom. Confuse your dog. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1139529600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0005584107ee",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0006584107ee",
+			"title": "Super Synth Sounds Pack - Crystal Quest",
+			"description": "This spiffy set of novelty noises turns your quest for crystals into a whirling wonderland of swooping synthesizer sounds. Tune in, turn up, and freak out! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1139529600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0006584107ee",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0003584107ee",
+			"title": "Xtreme Scenario - Crystal Quest",
+			"description": "Single Player, HD (High Definition)  So, you think you’re a Crystal Quest Pro player? Are you ready for the challenge of Crystal Quest Xtreme? All scores are doubled, so scoring opportunities are huge. You may need to lie down after play. Sissies need not apply. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1139529600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107ee/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0003584107ee",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

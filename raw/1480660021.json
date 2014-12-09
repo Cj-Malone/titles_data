@@ -1,0 +1,210 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258411435",
+	"title": "Putty Squad",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Putty Squad is a no-holds-barred retro gaming experience brought to life for the modern gamer. Our hero, Putty, can inflate, morph, stretch, punch and absorb, taking on ferocious enemies on his mission to rescue imprisoned putties.  Putty Squad features lovingly created levels that will test your timing, skill and imagination in a charming and incredibly addictive adventure.  Accessible to the both casual and serious gamer, Putty Squad will keep you hooked for hours and hours of game play fun. ",
+	"genres": [
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "System 3 Software Ltd",
+	"studio": "System 3 Software Ltd",
+	"originalReleaseDate": "/Date(1288569600000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			},
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Alcohol and Tobacco Reference",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Putty-Squad/66acd000-77fe-1000-9115-d80258411435",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 402
+		}
+	},
+	"price": {
+		"goldPrice": "$12.99",
+		"silverPrice": "$12.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 12.99,
+			"display": "$12.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411435/Children",
+	"childDownloads": [
+		{
+			"id": "470acdf5-2627-4157-b208-109448f362f7",
+			"title": "Trial Game - Putty Squad",
+			"description": "Putty Squad is a no-holds-barred retro gaming experience brought to life for the modern gamer. Our hero, Putty, can inflate, morph, stretch, punch and absorb, taking on ferocious enemies on his mission to rescue imprisoned putties.  Putty Squad features lovingly created levels that will test your timing, skill and imagination in a charming and incredibly addictive adventure.  Accessible to the both casual and serious gamer, Putty Squad will keep you hooked for hours and hours of game play fun. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1403686800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Alcohol and Tobacco Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/470acdf5-2627-4157-b208-109448f362f7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/470acdf5-2627-4157-b208-109448f362f7",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258411435",
+			"title": "Putty Squad",
+			"description": "Putty Squad is a no-holds-barred retro gaming experience brought to life for the modern gamer. Our hero, Putty, can inflate, morph, stretch, punch and absorb, taking on ferocious enemies on his mission to rescue imprisoned putties.  Putty Squad features lovingly created levels that will test your timing, skill and imagination in a charming and incredibly addictive adventure.  Accessible to the both casual and serious gamer, Putty Squad will keep you hooked for hours and hours of game play fun. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 402
+				}
+			},
+			"originalReleaseDate": "/Date(1403686800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Alcohol and Tobacco Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411435/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411435",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$12.99",
+				"silverPrice": "$12.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 12.99,
+					"display": "$12.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

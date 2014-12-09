@@ -1,0 +1,94 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410a5d",
+	"title": "Destination: Arcade",
+	"image": "http://mktplassets.xbox.com/NR/rdonlyres/B67F194B-29EC-4E2F-916C-1A39C333EBBC/0/cboxdestinationarcade.jpg",
+	"backgroundImage": null,
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "This application is for recommending games to friends, finding cool games in a fun and intuitive way and to celebrate the awesomeness that is Xbox LIVE Arcade.",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Microsoft",
+	"studio": "Microsoft",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Destination-Arcade/66acd000-77fe-1000-9115-d80258410a5d",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 12465
+		}
+	},
+	"price": {
+		"goldPrice": "Free",
+		"silverPrice": "Free"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 0,
+			"display": "Free",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a5d/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410a5d",
+			"title": "Destination: Arcade",
+			"description": "This application is for recommending games to friends, finding cool games in a fun and intuitive way and to celebrate the awesomeness that is Xbox LIVE Arcade.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 12465
+				}
+			},
+			"originalReleaseDate": "/Date(1279702800000)/",
+			"contentRating": null,
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://mktplassets.xbox.com/NR/rdonlyres/B67F194B-29EC-4E2F-916C-1A39C333EBBC/0/cboxdestinationarcade.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a5d",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,241 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841098b",
+	"title": "Yosumin! LIVE",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) A puzzle game where the aim is to find rectangles of matching tiles known as \"yosumin\" and make them disappear. Make massive rectangles for the ultimate feeling of satisfaction! It's not just about solo play - there are online battle modes to enjoy as well! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "Square Enix",
+	"studio": "SQUARE ENIX",
+	"originalReleaseDate": "/Date(1260921600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Yosumin-LIVE/66acd000-77fe-1000-9115-d8025841098b",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.25,
+			"Count": 2049
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841098b/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80cf-00015841098b",
+			"title": "Yosumin Adventure",
+			"description": "A puzzle adventure where you must travel the world to recover the pieces of a beautiful stained-glass window. Play your way through stage after stage, using the Treats given to you by the Grand Goldmin to help you on your way! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 62
+				}
+			},
+			"originalReleaseDate": "/Date(1245834000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-00015841098b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-00005841098b",
+			"title": "Trial Game - Yosumin! LIVE",
+			"description": "Find rectangles of matching yosumin and make them disappear in this fun-filled puzzle game! The trial version offers time-limited play and two playable characters to try in the Battle Yosumin! multiplayer mode. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1243411200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-00005841098b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-00005841098b",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025841098b",
+			"title": "Yosumin! LIVE",
+			"description": "(Online Interactions Not Rated by the ESRB) A puzzle game where the aim is to find rectangles of matching tiles known as \"yosumin\" and make them disappear. Make massive rectangles for the ultimate feeling of satisfaction! It's not just about solo play - there are online battle modes to enjoy as well! This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 2049
+				}
+			},
+			"originalReleaseDate": "/Date(1243414800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841098b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841098b",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

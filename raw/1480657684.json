@@ -1,0 +1,138 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b14",
+	"title": "Crimson Dragon",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Several generations have passed since the human colonists of Planet Draco lost contact with Earth, and they have reached an uneasy truce with the native dragons. Now they face the return of an old threat, a colossal destroyer known as the White Phantom. In \"Crimson Dragon,\" use Kinect to control your dragon and fight off the violent enemy life forms. Teach your dragon new skills, and train it to become strong enough to face combat in harder missions. Bring your trained dragon online to take on missions in co-op. Now, embark on your journey to Planet Draco!",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Xbox LIVE Arcade",
+	"studio": "Grounding Inc. / LAND HO! CO., LTD",
+	"originalReleaseDate": "/Date(1318809600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Crimson-Dragon/66acd000-77fe-1000-9115-d80258410b14",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 6896
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b14/Children",
+	"childDownloads": [
+		{
+			"id": "76d4939d-d76f-41d9-988c-e53c24d63af3",
+			"title": "Crimson Dragon Trailer",
+			"description": "Several generations have passed since the human colonists of Planet Draco lost contact with Earth, and they have reached an uneasy truce with the native dragons. Now they face the return of an old threat, a colossal destroyer known as the White Phantom. In \"Crimson Dragon,\" use Kinect to control your dragon and fight off the violent enemy life forms. Teach your dragon new skills, and train it to become strong enough to face combat in harder missions. Bring your trained dragon online to take on missions in co-op. Now, embark on your journey to Planet Draco!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 305
+				}
+			},
+			"originalReleaseDate": "/Date(1333011600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b14/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/76d4939d-d76f-41d9-988c-e53c24d63af3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

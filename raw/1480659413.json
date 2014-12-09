@@ -1,0 +1,299 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111d5",
+	"title": "Leedmees",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Full body puzzle action game, \"Leedmees\" for Kinect, is a unique puzzle game that utilizes your brain and body! Your body is part of the stage. Use your whole body to work the contraptions while you lead the Leedmees to the goal! Featuring fantastic visuals and sounds which add flavor to the gameplay. In Multiplayer Mode, cooperate with your friend or family member to lead the Leedmees to the goal. Flex your bodies and brains to challenge the stages and strengthen the bond between yourselves! For those love birds out there, this will surely bring you even closer together!",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "KONAMI",
+	"studio": "KONAMI",
+	"originalReleaseDate": null,
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Leedmees/66acd000-77fe-1000-9115-d802584111d5",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 6038
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111d5/Children",
+	"childDownloads": [
+		{
+			"id": "eb4c2c06-457e-4c97-a9ed-cc101f2cd212",
+			"title": "Trial Game - Leedmees",
+			"description": "Full body puzzle action game, \"Leedmees\" for Kinect, is a unique puzzle game that utilizes your brain and body! Your body is part of the stage. Use your whole body to work the contraptions while you lead the Leedmees to the goal! Featuring fantastic visuals and sounds which add flavor to the gameplay. In Multiplayer Mode, cooperate with your friend or family member to lead the Leedmees to the goal. Flex your bodies and brains to challenge the stages and strengthen the bond between yourselves! For those love birds out there, this will surely bring you even closer together!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1320310800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/eb4c2c06-457e-4c97-a9ed-cc101f2cd212/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/eb4c2c06-457e-4c97-a9ed-cc101f2cd212",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584111d5",
+			"title": "Leedmees",
+			"description": "Full body puzzle action game, \"Leedmees\" for Kinect, is a unique puzzle game that utilizes your brain and body! Your body is part of the stage. Use your whole body to work the contraptions while you lead the Leedmees to the goal! Featuring fantastic visuals and sounds which add flavor to the gameplay. In Multiplayer Mode, cooperate with your friend or family member to lead the Leedmees to the goal. Flex your bodies and brains to challenge the stages and strengthen the bond between yourselves! For those love birds out there, this will surely bring you even closer together!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 6038
+				}
+			},
+			"originalReleaseDate": "/Date(1315386000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111d5",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f30e6030-2685-466d-a9b4-06b0b4c235b8",
+			"title": "Leedmees E3Trailer",
+			"description": "This is a trailer for the full body puzzle action game, \"Leedmees\" for Kinect. Your body is part of the stage. Use your whole body to work the contraptions while you lead the Leedmees to the goal! Featuring fantastic visuals and sounds which add flavor to the gameplay. In Multiplayer Mode, cooperate with your friend or family member to lead the Leedmees to the goal. Flex your bodies and brains to challenge the stages and strengthen the bond between yourselves! For those love birds out there, this will surely bring you even closer together!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 143
+				}
+			},
+			"originalReleaseDate": "/Date(1307437200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f30e6030-2685-466d-a9b4-06b0b4c235b8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "813bf8ba-f9ba-45f9-837a-44a527a29429",
+			"title": "Leedmees Launch Trailer",
+			"description": "Check out this trailer for Leedmees, where you use your body as a bridge to bring the cute Leedmees to their goal!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 185
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111d5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/813bf8ba-f9ba-45f9-837a-44a527a29429",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

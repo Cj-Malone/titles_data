@@ -1,0 +1,163 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802585708da",
+	"title": "HONOR THE CODE",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585708da/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585708da/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "\"Honor the Code\" gives serious Halo fans the chance to win exclusive Halo Reach prizing including customized Xbox 360's, Framed Halo Reach artwork, gaming accessories and one of two Halo Reach Mongoose quads! Look for specially marked packages featuring the game character and visit honorthecode.com for your chance to win - the Battle Begins Now",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Mtn. Dew, Doritos, and Halo: Reach",
+	"studio": "Mtn. Dew, Doritos, and Halo: Reach",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/HONOR-THE-CODE/66acd000-77fe-1000-9115-d802585708da",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 13076
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802585708da/Children",
+	"childDownloads": [
+		{
+			"id": "849a638f-c668-4a52-b2b7-c5501bbe2287",
+			"title": "HONOR THE CODE - Gamer Picture Pack",
+			"description": "Download this free HONOR THE CODE gamer picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 490
+				}
+			},
+			"originalReleaseDate": "/Date(1284195600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585708da/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/849a638f-c668-4a52-b2b7-c5501bbe2287",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": null
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "a26ef62a-bf26-43a3-b165-73ae630d3900",
+			"title": "HONOR THE CODE Theme Pack",
+			"description": "Download the free HONOR THE CODE Theme Pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 133
+				}
+			},
+			"originalReleaseDate": "/Date(1283472000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585708da/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a26ef62a-bf26-43a3-b165-73ae630d3900",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ac0dee93-c2e5-4392-a43b-69f5c53d4314",
+			"title": "HONOR THE CODE Theme Pack",
+			"description": "Download the free HONOR THE CODE Theme Pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 314
+				}
+			},
+			"originalReleaseDate": "/Date(1284195600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585708da/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ac0dee93-c2e5-4392-a43b-69f5c53d4314",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": null
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		}
+	]
+}

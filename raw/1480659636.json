@@ -1,0 +1,136 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584112b4",
+	"title": "Boxing Fight",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall. ",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Rare",
+	"originalReleaseDate": "/Date(1372118400000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Boxing-Fight/66acd000-77fe-1000-9115-d802584112b4",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 4243
+		}
+	},
+	"price": {
+		"goldPrice": "$1.99",
+		"silverPrice": "$1.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 1.99,
+			"display": "$1.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112b4/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802584112b4",
+			"title": "Boxing Fight",
+			"description": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 4243
+				}
+			},
+			"originalReleaseDate": "/Date(1372150800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112b4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112b4",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

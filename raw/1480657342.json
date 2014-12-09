@@ -1,0 +1,353 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584109be",
+	"title": "Spelunky",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Spelunky is a unique platformer with randomized levels that offer a new and challenging experience each time you play! Journey deep underground and explore fantastic places filled with monsters, traps, and treasure. Fully-destructible environments open up lots of strategies and make it a blast to master the game's many secrets. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Mossmouth",
+	"originalReleaseDate": "/Date(1341360000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Crude Humor",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/screenlg12.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Spelunky/66acd000-77fe-1000-9115-d802584109be",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 8953
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109be/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802584109be",
+			"title": "Spelunky",
+			"description": "Spelunky is a unique platformer with randomized levels that offer a new and challenging experience each time you play! Journey deep underground and explore fantastic places filled with monsters, traps, and treasure. Fully-destructible environments open up lots of strategies and make it a blast to master the game's many secrets. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 8953
+				}
+			},
+			"originalReleaseDate": "/Date(1341392400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109be/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109be",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "84216996-5e3c-44a7-be89-3b851be64257",
+			"title": "Trial Game - Spelunky",
+			"description": "Spelunky is a unique platformer with randomized levels that offer a new and challenging experience each time you play! Journey deep underground and explore fantastic places filled with monsters, traps, and treasure. Fully-destructible environments open up lots of strategies and make it a blast to master the game's many secrets. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1341392400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/84216996-5e3c-44a7-be89-3b851be64257/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/84216996-5e3c-44a7-be89-3b851be64257",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9cbc608b-a438-4772-8bbf-4339365cd2e0",
+			"title": "Spelunky: Arenas DLC",
+			"description": "Can't get enough of Spelunky's fast-paced Deathmatch Mode? The Arenas DLC reveals 24 new arenas to battle your friends in! These chaotic death traps offer up all kinds of devious ways to kill or be killed, from sacrificial altars to perilous bee hives. Will anyone survive?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 60
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9cbc608b-a438-4772-8bbf-4339365cd2e0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9cbc608b-a438-4772-8bbf-4339365cd2e0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "679e4fab-f0f1-4b27-9601-aa453443a80e",
+			"title": "Spelunky: Explorers DLC",
+			"description": "8 adventurous new souls have entered the caves seeking excitement and treasure! The Explorers DLC adds the Eskimo, the Robot, the Viking, the Round Girl, the Round Boy, the Cyclops, the Ninja, and the Golden Monk to Spelunky's lovable cast. These characters can be selected in both Adventure Mode and Deathmatch Mode.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 103
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/679e4fab-f0f1-4b27-9601-aa453443a80e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/679e4fab-f0f1-4b27-9601-aa453443a80e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

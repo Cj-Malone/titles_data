@@ -1,0 +1,112 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025848081e",
+	"title": "Musical Feet",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081e/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081e/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Make music with your feet! Select a sound (musical instrument, animal, or even your own voice) and dance across a giant virtual keyboard! Ham it up to become a Music Feet maestro, and share recordings with friends and family! Note: Musical Feet requires a minimum play space of 7.5 feet (2.25 meters).",
+	"genres": [
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Smoking Gun Interactive",
+	"originalReleaseDate": "/Date(1319414400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081e/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081e/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081e/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Musical-Feet/66acd000-77fe-1000-9115-d8025848081e",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1855
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025848081e/Children",
+	"childDownloads": [
+		{
+			"id": "a6d2f8fc-1245-4a7f-adfa-2dca49e0651a",
+			"title": "Musical Feet",
+			"description": "Make music with your feet! Select a sound (musical instrument, animal, or even your own voice) and dance across a giant virtual keyboard! Ham it up to become a Music Feet maestro, and share recordings with friends and family! Note: Musical Feet requires a minimum play space of 7.5 feet (2.25 meters).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 128
+				}
+			},
+			"originalReleaseDate": "/Date(1319446800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a6d2f8fc-1245-4a7f-adfa-2dca49e0651a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a6d2f8fc-1245-4a7f-adfa-2dca49e0651a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

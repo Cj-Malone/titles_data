@@ -1,0 +1,594 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584109ef",
+	"title": "Hydrophobia",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Hydrophobia™ is a third person survival adventure set in a floating city, where terrorists take control and heroine Kate has to overcome her haunting childhood memories and fight back using all her skills and expertise as a systems engineer. Hydrophobia offers fast-paced action and breathtaking visuals; engage in mind blowing “flow combat” where emergent gameplay results in a never-the-same-experience. Unleash floating oil fires, electricity and the power of the water itself to wipe out your enemy as you discover the terrifying truth of the Malthusian agenda; Save the World, Kill Yourself. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Dark Energy Digital, Ltd.",
+	"originalReleaseDate": "/Date(1281571200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Hydrophobia/66acd000-77fe-1000-9115-d802584109ef",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 14663
+		}
+	},
+	"price": {
+		"goldPrice": "$2.99",
+		"silverPrice": "$2.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 2.99,
+			"display": "$2.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109ef/Children",
+	"childDownloads": [
+		{
+			"id": "31840c89-ba03-4c65-9ccf-93d773558d58",
+			"title": "20 Ways to Kill a Malthusian",
+			"description": "In the latest Hydrophobia developer diary, we count down the top 20 ways to kill a Malthusian in the entirely dynamic environments of Hydrophobia. What methods will you discover?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 78
+				}
+			},
+			"originalReleaseDate": "/Date(1285837200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/31840c89-ba03-4c65-9ccf-93d773558d58",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-000a584109ef",
+			"title": "Challenge Room - Trailer",
+			"description": "Use Hydro Kinetic abilities to control water itself and obliterate wave after wave of Malthusian enemies in the Hydrophobia Challenge Room. Raise objects and characters in a churning column of water and burn, electrocute, drown, crush, shoot, and explode your way through the horde. Chained attacks build your multiplier through 5 intense rounds of HydroEngine physics driven action, as you pursue a record score on the global leaderboards. The Hydrophobia Challenge Room is unlocked on completion of the main campaign.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 92
+				}
+			},
+			"originalReleaseDate": "/Date(1282122000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-000a584109ef",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-0006584109ef",
+			"title": "Control is an Illusion - Trailer",
+			"description": "In the mid 21st century the world has become consumed by the Great Population Flood, resulting in global famine and conflict. The hopes mankind now rest with NanoCell, one of the Founding Fathers of the Queen of the World, the so called ‘city at sea’. NanoCell’s water purification research promises to ‘make the desserts bloom’, but opinion is divided; will this solve the worlds population problem, or fuel it?  On the eve of the 10th Anniversary Celebrations, when the world awaits a NanoCell breakthrough announcement, the great vessel comes under attack from Neo Malthusian terrorists with a terrifying agenda; save the world, kill yourself.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 146
+				}
+			},
+			"originalReleaseDate": "/Date(1281517200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-0006584109ef",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584109ef",
+			"title": "Hydrophobia",
+			"description": "Hydrophobia™ is a third person survival adventure set in a floating city, where terrorists take control and heroine Kate has to overcome her haunting childhood memories and fight back using all her skills and expertise as a systems engineer. Hydrophobia offers fast-paced action and breathtaking visuals; engage in mind blowing “flow combat” where emergent gameplay results in a never-the-same-experience. Unleash floating oil fires, electricity and the power of the water itself to wipe out your enemy as you discover the terrifying truth of the Malthusian agenda; Save the World, Kill Yourself. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 14663
+				}
+			},
+			"originalReleaseDate": "/Date(1285750800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109ef",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0000584109ef",
+			"title": "Trial Game - Hydrophobia",
+			"description": "Hydrophobia™ is a third person survival adventure set in a floating city, where terrorists take control and heroine Kate has to overcome her haunting childhood memories and fight back using all her skills and expertise as a systems engineer. Hydrophobia offers fast-paced action and breathtaking visuals; engage in mind blowing “flow combat” where emergent gameplay results in a never-the-same-experience. Unleash floating oil fires, electricity and the power of the water itself to wipe out your enemy as you discover the terrifying truth of the Malthusian agenda; Save the World, Kill Yourself. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1285750800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584109ef",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-00175858083f",
+			"title": "Hydrophobia Trailer (HD)",
+			"description": "Watch the coolest new game trailers from E3 2010.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 234
+				}
+			},
+			"originalReleaseDate": "/Date(1276689600000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858083f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-00175858083f",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "686e9268-3606-4e55-9d14-7b55dc6ed633",
+			"title": "LP4 Developer Diary",
+			"description": "In this developer diary Dark Energy explain how the versatile LP4 pistol is used to trigger the dynamic environment weapons of Hydrophobia unique 'flow combat' gameplay",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 56
+				}
+			},
+			"originalReleaseDate": "/Date(1286614800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/686e9268-3606-4e55-9d14-7b55dc6ed633",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c138fa21-7ed8-4453-b583-f85581decc19",
+			"title": "MAVI Trailer",
+			"description": "In this developer diary we take a look at Kate's augmented reality flexible screen device - the MAVI. Players can use the MAVI to remotely open doors, enchance geometry, hack consoles, hijack CCTV cameras and uncover secret codes.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 39
+				}
+			},
+			"originalReleaseDate": "/Date(1288256400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109ef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c138fa21-7ed8-4453-b583-f85581decc19",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

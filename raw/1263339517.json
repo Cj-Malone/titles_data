@@ -1,0 +1,410 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024b4d07fd",
+	"title": "Risen 3 Titan Lords",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish.  The world has been abandoned by its gods and is scarred from the rampage of the Titans. Humanity is struggling to regain strength and rally its forces. You, however, have more pressing concerns: your own life has been shattered and you must set off to reclaim what is lost amidst the darkness that is spreading throughout the world.  Step into a classic hand-crafted role-playing world - full of rugged charm, colorful characters and demonic dangers. From quaint medieval-style towns to delving deep into the dank dark of mines, to the supernatural shadow world, there is a wealth of possibilities waiting to be explored. Magic is back! Crystal magic has returned, bringing with it devastating new combat abilities. Freedom of choice: Choose when and where you want to go and experience consequences for the actions you take. Choose to ally yourself with one of three distinct guilds, each offering unique skills, armouries and quests allowing you to approach your quest in very different ways. ",
+	"genres": [
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Deep Silver",
+	"studio": "Piranha Bytes",
+	"originalReleaseDate": "/Date(1407801600000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Drug Reference",
+				"image": null
+			},
+			{
+				"label": "Sexual Themes",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Use of Alcohol",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Risen-3-Titan-Lords/66acd000-77fe-1000-9115-d8024b4d07fd",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 1274
+		}
+	},
+	"price": {
+		"goldPrice": "$33.49",
+		"silverPrice": "$49.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 49.99,
+			"display": "$49.99",
+			"tax": "plus tax",
+			"user": "silver"
+		},
+		{
+			"method": "currency",
+			"amount": 33.49,
+			"display": "$33.49",
+			"tax": "plus tax",
+			"user": "gold"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4d07fd/Children",
+	"childDownloads": [
+		{
+			"id": "d4fb2068-3957-456c-b777-5c2339283a12",
+			"title": "Adventure Garb",
+			"description": "The Adventure Garb not only protects you from the elements, it also helps you to defy the dangers found in the unknown wilderness or shady harbour taverns. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1407834000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d4fb2068-3957-456c-b777-5c2339283a12/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d4fb2068-3957-456c-b777-5c2339283a12",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "95bb9939-27a6-4169-9d06-769105296836",
+			"title": "Fog Island",
+			"description": "A stranded Inquisition raiding party is searching for new territory in a world where madness seems to spread. Help them unveil the deadly secret found on this island.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 31
+				}
+			},
+			"originalReleaseDate": "/Date(1407834000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/95bb9939-27a6-4169-9d06-769105296836/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/95bb9939-27a6-4169-9d06-769105296836",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8024b4d07fd",
+			"title": "Risen 3 Titan Lords",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish.  The world has been abandoned by its gods and is scarred from the rampage of the Titans. Humanity is struggling to regain strength and rally its forces. You, however, have more pressing concerns: your own life has been shattered and you must set off to reclaim what is lost amidst the darkness that is spreading throughout the world.  Step into a classic hand-crafted role-playing world - full of rugged charm, colorful characters and demonic dangers. From quaint medieval-style towns to delving deep into the dank dark of mines, to the supernatural shadow world, there is a wealth of possibilities waiting to be explored. Magic is back! Crystal magic has returned, bringing with it devastating new combat abilities. Freedom of choice: Choose when and where you want to go and experience consequences for the actions you take. Choose to ally yourself with one of three distinct guilds, each offering unique skills, armouries and quests allowing you to approach your quest in very different ways. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 1274
+				}
+			},
+			"originalReleaseDate": "/Date(1407834000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07fd/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4d07fd",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$33.49",
+				"silverPrice": "$49.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 49.99,
+					"display": "$49.99",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 33.49,
+					"display": "$33.49",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "78964df8-b84c-4fdd-8ebb-9e71d9b7bb78",
+			"title": "Uprising of the Little Guys",
+			"description": "Goblins and Gnomes are fighting for supremacy on the Isle of Thieves. Save the Gnomes and their culture from impending annihilation.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1407834000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/78964df8-b84c-4fdd-8ebb-9e71d9b7bb78/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/78964df8-b84c-4fdd-8ebb-9e71d9b7bb78",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

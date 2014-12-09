@@ -1,0 +1,1268 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410860",
+	"title": "Magic: The Gathering",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Magic: The Gathering — Duels of the Planeswalkers brings the world’s premier trading card game to your living room! Play single and multiplayer campaign modes, test your skills with unique challenges, and engage online opponents via Xbox LIVE. With multiple game modes, an interactive tutorial, leaderboards, and achievements, Duels of the Planeswalkers has something for everyone!  Check out www.duelsoftheplaneswalkers.com for additional game details and promotions! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Strategy & Simulation"
+		},
+		{
+			"label": "Card & Board"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Wizards of the Coast / Stainless Games",
+	"originalReleaseDate": "/Date(1281312000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Animated Blood",
+				"image": null
+			},
+			{
+				"label": "Mild Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Magic-The-Gathering/66acd000-77fe-1000-9115-d80258410860",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 59401
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410860/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80cf-000158410860",
+			"title": "Duels of the Planeswalkers Backgrounds",
+			"description": "(Online Interactions Not Rated by the ESRB) Need a change of scenery? Add 3 new backgrounds to your Magic: The Gathering — Duels of the Planeswalkers menus. This in-game content pack includes an ethereal blue, a macabre black, a blazing red, and a savage green setting. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 369
+				}
+			},
+			"originalReleaseDate": "/Date(1249981200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-000158410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000158410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000558410860",
+			"title": "Duels of the Planeswalkers Player Personas",
+			"description": "(Online Interactions Not Rated by the ESRB) Give yourself a new look! Choose from 10 new personas for Magic: The Gathering — Duels of the Planeswalkers. Show a new side of yourself in local matches and on Xbox LIVE. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 501
+				}
+			},
+			"originalReleaseDate": "/Date(1247907600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-000558410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000558410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000358410860",
+			"title": "Expansion Pack 1 (Full Version)",
+			"description": "The legendary dragon Planeswalker Nicol Bolas has come out of hiding and now he’s more powerful than ever! This expansion pack features new cards and new decks to add to your arsenal. Now you can wield the power of Tezzeret’s “Relics of Doom” deck, unlock three new cards for each of the eight original decks, or defeat the new single-player campaign to unlock Jace Beleren’s “Mind of the Void” and Sarkhan Vol’s “Cries of Rage” decks. This expansion pack also contains four new Two-Headed Giant co-op levels as well as three new puzzling challenge levels to test your Magic skills.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 1152
+				}
+			},
+			"originalReleaseDate": "/Date(1256083200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000358410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000258410860",
+			"title": "Expansion Pack 1 (Multiplayer Only)",
+			"description": "This free game add-on is required to duel opponents on Xbox LIVE who have purchased Expansion Pack 1. To access all Expansion Pack 1 features, purchase the full version. This version can be upgraded to the full version at any time.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 573
+				}
+			},
+			"originalReleaseDate": "/Date(1256083200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000258410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000958410860",
+			"title": "Expansion Pack 2 (Full Version)",
+			"description": "The vampire Planeswalker Sorin Markov has walked the Multiverse for thousands of years. His thirst is eternal, and bloodless victims litter his wake. Expansion Pack 2 features new cards and new decks from the latest Magic: The Gathering trading card game sets. Wield Nicol Bolas’s “Eons of Evil” deck, unlock three new cards for each deck you already own, and defeat eight new campaign levels to unlock Rhys’s “Heart of Worlds” and Chandra Nalaar’s “Heat of Battle” decks. This expansion pack also contains four new Two-Headed Giant co-op levels as well as five new puzzling challenge levels to test your Magic skills. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 661
+				}
+			},
+			"originalReleaseDate": "/Date(1273622400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000958410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000a58410860",
+			"title": "Expansion Pack 2 (Multiplayer Only)",
+			"description": "This free game add-on is required to duel opponents on Xbox LIVE who have purchased Expansion Pack 2. To access all Expansion Pack 2 features, purchase the full version. This version can be upgraded to the full version at any time.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 299
+				}
+			},
+			"originalReleaseDate": "/Date(1273622400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000a58410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9ea7d603-2966-4aff-bc9c-b42d5491d244",
+			"title": "Expansion Pack 3 (Full Version)",
+			"description": "The ancient evil dragon Planeswalker Nicol Bolas commanded Sarkhan Vol to guard Zendikar’s mysterious Eye of Ugin. In the Eye’s chamber, the dragon-worshipping shaman slowly spiraled into madness. Expansion Pack 3 features new cards and new decks from the latest Magic: The Gathering trading card game sets. Wield Sorin Markov’s “Master of Shadows” deck, unlock three new cards for each deck you already own, and defeat eight new campaign levels to unlock Gideon Jura’s “Rally of Righteousness” and Niv-Mizzet’s “Root of the Firemind” decks. This expansion pack also contains four new Two-Headed Giant co-op levels as well as five new puzzling challenge levels. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 119
+				}
+			},
+			"originalReleaseDate": "/Date(1288742400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violent References",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9ea7d603-2966-4aff-bc9c-b42d5491d244/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9ea7d603-2966-4aff-bc9c-b42d5491d244",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "569a62d9-7257-40f6-a30e-62ee0e07ffa4",
+			"title": "Expansion Pack 3 (Multiplayer Only)",
+			"description": "This free game add-on is required to duel opponents on Xbox LIVE who have purchased Expansion Pack 3. To access all Expansion Pack 3 features, purchase the full version. This version can be upgraded to the full version at any time.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 59
+				}
+			},
+			"originalReleaseDate": "/Date(1288742400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violent References",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/569a62d9-7257-40f6-a30e-62ee0e07ffa4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/569a62d9-7257-40f6-a30e-62ee0e07ffa4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000958410860",
+			"title": "Magic Black Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. Black is the color of death, fear, and amorality—these are the twisted values of the darkness. Black magic is powerful and easy to wield, but it comes with a high price. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 108
+				}
+			},
+			"originalReleaseDate": "/Date(1257498000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000958410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000a58410860",
+			"title": "Magic Blue Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. Blue magic is about deceit, logic, and illusion. Blue mages want to know everything, and they’ll go to any lengths to do so. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 104
+				}
+			},
+			"originalReleaseDate": "/Date(1257498000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000a58410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000858410860",
+			"title": "Magic Green Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. Green magic is about growth, life, and brute force. Green mages understand that the world obeys the law of the jungle—everything is either predator or prey. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 98
+				}
+			},
+			"originalReleaseDate": "/Date(1257498000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000858410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-000558410860",
+			"title": "Magic Picture Pack 1 - Mana Symbols",
+			"description": "Choose your weapon! This collection of 10 Magic: The Gathering gamer pics features the game’s most iconic elements. The Mana Symbols pack includes the white, blue, black, red, and green mana symbols and the five emblems of the shattered plane of Alara—Bant, Esper, Grixis, Jund, and Naya. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 107
+				}
+			},
+			"originalReleaseDate": "/Date(1260176400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-000558410860",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-000458410860",
+			"title": "Magic Picture Pack 2 - Planeswalkers",
+			"description": "Ignite your spark! This collection of 10 Magic: The Gathering gamer pics features some of the most powerful beings in the Multiverse. The Planeswalkers pack includes Jace, Chandra, Garruk, Ajani, Liliana, Sarkhan, Elspeth, Tezzeret, and Nissa. It also includes the tap symbol. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 112
+				}
+			},
+			"originalReleaseDate": "/Date(1260176400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-000458410860",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000758410860",
+			"title": "Magic Red Theme (Premium)",
+			"description": "Download this theme.Transform your Xbox 360 dashboard with this Magic: The Gathering theme. Red magic is about fury and passion. When a red mage fights, lightning arcs across the blood-red sky, lava erupts from the earth, and flash fires consume the land. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 100
+				}
+			},
+			"originalReleaseDate": "/Date(1257498000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000758410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410860",
+			"title": "Magic: The Gathering",
+			"description": "Magic: The Gathering — Duels of the Planeswalkers brings the world’s premier trading card game to your living room! Play single and multiplayer campaign modes, test your skills with unique challenges, and engage online opponents via Xbox LIVE. With multiple game modes, an interactive tutorial, leaderboards, and achievements, Duels of the Planeswalkers has something for everyone!  Check out www.duelsoftheplaneswalkers.com for additional game details and promotions! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 59401
+				}
+			},
+			"originalReleaseDate": "/Date(1255683600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"GamerPic",
+				"Theme"
+			],
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410860",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-000058410860",
+			"title": "Trial Game - Magic: The Gathering",
+			"description": "Magic: The Gathering — Duels of the Planeswalkers brings the world’s premier trading card game to your living room! Play single and multiplayer campaign modes, test your skills with unique challenges, and engage online opponents via Xbox LIVE. With multiple game modes, an interactive tutorial, leaderboards, and achievements, Duels of the Planeswalkers has something for everyone!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1255683600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-000058410860",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000258410860",
+			"title": "Magic: The Gathering® - Blue Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. Blue magic is about deceit, logic, and illusion. Blue mages want to know everything, and they’ll go to any lengths to do so. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 83
+				}
+			},
+			"originalReleaseDate": "/Date(1245924000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000258410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000458410860",
+			"title": "Magic: The Gathering® - Game Tables",
+			"description": "(Online Interactions Not Rated by the ESRB) Throw down in style! Add 3 new playfields to your Magic: The Gathering — Duels of the Planeswalkers matches. This in-game content pack includes the perfect playing surfaces for blue, red, and green decks. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 594
+				}
+			},
+			"originalReleaseDate": "/Date(1247907600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-000458410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000458410860",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000358410860",
+			"title": "Magic: The Gathering® - Red Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. Red magic is about fury and passion. When a red mage fights, lightning arcs across the blood-red sky, lava erupts from the earth, and flash fires consume the land. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 75
+				}
+			},
+			"originalReleaseDate": "/Date(1245924000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000358410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000458410860",
+			"title": "Magic: The Gathering® - White Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. White is the color of law, order, and structure. White magic heals and protects and is often a force for justice and honor. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 69
+				}
+			},
+			"originalReleaseDate": "/Date(1245852000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000458410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000658410860",
+			"title": "Magic White Theme (Premium)",
+			"description": "Transform your Xbox 360 dashboard with this Magic: The Gathering theme. White is the color of law, order, and structure. White magic heals and protects and is often a force for justice and honor. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 82
+				}
+			},
+			"originalReleaseDate": "/Date(1257498000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000658410860",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80bf-000a58410860",
+			"title": "Trailer, Duels of the Planeswalkers",
+			"description": "Get a glimpse of what awaits you with this exciting Magic: The Gathering XBLA title.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 92
+				}
+			},
+			"originalReleaseDate": "/Date(1256720400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-000a58410860",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

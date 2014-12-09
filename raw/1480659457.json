@@ -1,0 +1,593 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258411201",
+	"title": "Rhythm Party",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "\"Rhythm Party\" is a rhythm action game developed exclusively for Kinect on Xbox LIVE Arcade! Brought to you by the \"Dance Masters\" development team, it transforms your entire body into a controller. No need for choreography anymore. You're the choreographer and the dancer! When your body appears at the center of the screen, just dance! Game play is simple: Use your arms and legs to hit the Ripples in time with the rhythm while you create an original performance. Your performance skills are the key! With a soundtrack recorded largely in collaboration with top international artists, and different special effects for every song, this game is guaranteed to get your body moving and your blood pumping!",
+	"genres": [
+		{
+			"label": "Music"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Konami Digital Entertainment, Inc.",
+	"studio": "Konami Digital Entertainment Co., Ltd.",
+	"originalReleaseDate": "/Date(1328054400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Alcohol Reference",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Rhythm-Party/66acd000-77fe-1000-9115-d80258411201",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 4130
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411201/Children",
+	"childDownloads": [
+		{
+			"id": "36daf664-d0f9-4b4d-ae76-b7c76166a844",
+			"title": "Master Level Pack",
+			"description": "This Master Level Pack adds new master level songs to the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 103
+				}
+			},
+			"originalReleaseDate": "/Date(1329296400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/36daf664-d0f9-4b4d-ae76-b7c76166a844/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/36daf664-d0f9-4b4d-ae76-b7c76166a844",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258411201",
+			"title": "Rhythm Party",
+			"description": "\"Rhythm Party\" is a rhythm action game developed exclusively for Kinect on Xbox LIVE Arcade! Brought to you by the \"Dance Masters\" development team, it transforms your entire body into a controller. No need for choreography anymore. You're the choreographer and the dancer! When your body appears at the center of the screen, just dance! Game play is simple: Use your arms and legs to hit the Ripples in time with the rhythm while you create an original performance. Your performance skills are the key! With a soundtrack recorded largely in collaboration with top international artists, and different special effects for every song, this game is guaranteed to get your body moving and your blood pumping!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 4130
+				}
+			},
+			"originalReleaseDate": "/Date(1328086800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411201",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5aef2264-9d7a-41e0-8ee1-cbfc9fc504e8",
+			"title": "Trial Game - Rhythm Party",
+			"description": "\"Rhythm Party\" is a rhythm action game developed exclusively for Kinect on Xbox LIVE Arcade! Brought to you by the \"Dance Masters\" development team, it transforms your entire body into a controller. No need for choreography anymore. You're the choreographer and the dancer! When your body appears at the center of the screen, just dance! Game play is simple: Use your arms and legs to hit the Ripples in time with the rhythm while you create an original performance. Your performance skills are the key! With a soundtrack recorded largely in collaboration with top international artists, and different special effects for every song, this game is guaranteed to get your body moving and your blood pumping!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1328086800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/5aef2264-9d7a-41e0-8ee1-cbfc9fc504e8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5aef2264-9d7a-41e0-8ee1-cbfc9fc504e8",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9f0eb0f6-009c-48d8-9041-dcda24f4bb6b",
+			"title": "Rhythm Party Trailer",
+			"description": "Watch the trailer for \"Rhythm Party,\" a rhythm action game developed exclusively for Kinect.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 158
+				}
+			},
+			"originalReleaseDate": "/Date(1327914000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411201/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9f0eb0f6-009c-48d8-9041-dcda24f4bb6b",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5f7f08c6-4678-4bc7-88ff-15443af16239",
+			"title": "Song Pack No. 1",
+			"description": "\"Music Downloads Not Rated by the ESRB\"  This is Rhythm Party Song Pack No. 1. New songs and stages have been added. “KEEP IT REAL” by NAOKI feat. Tiffany, “DM STAR” by NAOKI, “UNBELIEVABLE (Sparky remix)” by jun feat. Sarah-Jane.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 115
+				}
+			},
+			"originalReleaseDate": "/Date(1329296400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/5f7f08c6-4678-4bc7-88ff-15443af16239/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5f7f08c6-4678-4bc7-88ff-15443af16239",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e62681fd-e0af-408a-acbf-df961615390d",
+			"title": "Song Pack No. 2",
+			"description": "\"Music Downloads Not Rated by the ESRB\"  This is Rhythm Party Song Pack No. 2. New songs and stages have been added. “ACTIVATION” by jun feat. Kathy Sledge, “Pharaoh ★ Love” by Des-ROW, “Diamond Night” by TOMOSUKE feat. Alexa Slaymaker.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 75
+				}
+			},
+			"originalReleaseDate": "/Date(1329296400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e62681fd-e0af-408a-acbf-df961615390d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e62681fd-e0af-408a-acbf-df961615390d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6a56d62b-3a4a-43e9-ba65-4617c67fdd83",
+			"title": "Song Pack No. 3",
+			"description": "\"Music Downloads Not Rated by the ESRB\" This is Rhythm Party Song Pack No. 3. New songs and stages have been added. “All Around The World” by Stacey Q, “ЁVOLUTIФN” by TЁЯRA, “El ritmo te controla” by Jeanette Herrera.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 83
+				}
+			},
+			"originalReleaseDate": "/Date(1330506000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6a56d62b-3a4a-43e9-ba65-4617c67fdd83/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6a56d62b-3a4a-43e9-ba65-4617c67fdd83",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0c136fe1-0157-4ae6-b709-e5bcbf7309fc",
+			"title": "Song Pack No. 4",
+			"description": "\"Music Downloads Not Rated by the ESRB\" This is Rhythm Party Song Pack No. 4. New songs and stages have been added. “INSIDE YOUR MIND” by Limahl, “The Sunbeam” by Des-ROW + XX, “bag” by RevenG.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 76
+				}
+			},
+			"originalReleaseDate": "/Date(1331715600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0c136fe1-0157-4ae6-b709-e5bcbf7309fc/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0c136fe1-0157-4ae6-b709-e5bcbf7309fc",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "04c5fa5c-ec7d-420b-a1ab-871ad62400b1",
+			"title": "Song Pack No. 5",
+			"description": "\"Music Downloads Not Rated by the ESRB\" This is Rhythm Party Song Pack No. 5. New songs and stages have been added. “Lame by Monday” by Des-ROW, “華爛漫 -Flowers- (2nd EDITION)” by TЁЯRA, “LOVE IS THE POWER -Re:born-” by NM.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 65
+				}
+			},
+			"originalReleaseDate": "/Date(1332925200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Alcohol Reference",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/04c5fa5c-ec7d-420b-a1ab-871ad62400b1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/04c5fa5c-ec7d-420b-a1ab-871ad62400b1",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

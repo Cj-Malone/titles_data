@@ -1,0 +1,217 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410a39",
+	"title": "Space Channel 5 Part 2",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Hey there, SpaceCats – meet Ulala, the grooviest reporter in the galaxy! She’s got attitude, and she’s got moves. Help her get the scoop on an unidentified Dance Troupe that has captured thousands of people and is forcing them to dance! Will you be able to free the hostages, and uncover who’s behind the kidnappings all while bustin’ some groovy moves to sweet beats? ",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Music"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "SEGA",
+	"studio": "SEGA",
+	"originalReleaseDate": "/Date(1298419200000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Mild Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Space-Channel-5-Part-2/66acd000-77fe-1000-9115-d80258410a39",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 4190
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a39/Children",
+	"childDownloads": [
+		{
+			"id": "bbd1c937-ab30-42f1-9116-6bd9745d26e5",
+			"title": "Trial Game - Space Channel 5 Part 2",
+			"description": "Hey there, SpaceCats – meet Ulala, the grooviest reporter in the galaxy! She’s got attitude, and she’s got moves. Help her get the scoop on an unidentified Dance Troupe that has captured thousands of people and is forcing them to dance! Will you be able to free the hostages, and uncover who’s behind the kidnappings all while bustin’ some groovy moves to sweet beats? ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1317805200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/bbd1c937-ab30-42f1-9116-6bd9745d26e5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bbd1c937-ab30-42f1-9116-6bd9745d26e5",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410a39",
+			"title": "Space Channel 5 Part 2",
+			"description": "Hey there, SpaceCats – meet Ulala, the grooviest reporter in the galaxy! She’s got attitude, and she’s got moves. Help her get the scoop on an unidentified Dance Troupe that has captured thousands of people and is forcing them to dance! Will you be able to free the hostages, and uncover who’s behind the kidnappings all while bustin’ some groovy moves to sweet beats? ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 4190
+				}
+			},
+			"originalReleaseDate": "/Date(1317805200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a39/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a39",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

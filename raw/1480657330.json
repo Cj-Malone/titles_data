@@ -1,0 +1,820 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584109b2",
+	"title": "Bomberman Battlefest",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) The ultimate party game is back! Blast your way through a dozen arenas with more gimmicks, more power-ups, more game modes, and more costumes than ever before! Up to eight players can pick teams and blast their way to victory playing Capture the Flag, Bankroll, Capture the Crown, Paintbomb, and VIP! Visit exotic locales like Adventure Island, a Pirate Ship on the stormy seas, and the futuristic Laser Arena! May the best Bomber win!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Avatar"
+		}
+	],
+	"publisher": "Hudson Entertainment",
+	"studio": "Pi Studios",
+	"originalReleaseDate": "/Date(1291766400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Bomberman-Battlefest/66acd000-77fe-1000-9115-d802584109b2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 6966
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109b2/Children",
+	"childDownloads": [
+		{
+			"id": "00001000-72e2-2283-c39d-f3f6584109b2",
+			"title": "Black & White Bomber Plush Set",
+			"description": "Cute, cuddly plush versions of the Black Bomber and White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-72e2-2283-c39d-f3f6584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-72e2-2283-c39d-f3f6584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1e3cdaa7-7603-4011-8d83-24732dc6c952",
+			"title": "Trial Game - Bomberman Battlefest",
+			"description": "The ultimate party game is back! Blast your way through a dozen arenas with more gimmicks, more power-ups, more game modes, and more costumes than ever before! Up to eight players can pick teams and blast their way to victory playing Capture the Flag, Bankroll, Capture the Crown, Paintbomb, and VIP! Visit exotic locales like Adventure Island, a Pirate Ship on the stormy seas, and the futuristic Laser Arena! May the best Bomber win!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1291798800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1e3cdaa7-7603-4011-8d83-24732dc6c952/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1e3cdaa7-7603-4011-8d83-24732dc6c952",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584109b2",
+			"title": "Bomberman Battlefest",
+			"description": "(Online Interactions Not Rated by the ESRB) The ultimate party game is back! Blast your way through a dozen arenas with more gimmicks, more power-ups, more game modes, and more costumes than ever before! Up to eight players can pick teams and blast their way to victory playing Capture the Flag, Bankroll, Capture the Crown, Paintbomb, and VIP! Visit exotic locales like Adventure Island, a Pirate Ship on the stormy seas, and the futuristic Laser Arena! May the best Bomber win!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 6966
+				}
+			},
+			"originalReleaseDate": "/Date(1291798800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109b2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584109b2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "65c322e6-a41a-4da9-9941-390cf79cbe19",
+			"title": "Bomb-Up Pack I",
+			"description": "Craving more Bomberman action?  Put on your Power Glove and go low-gravity with the all-new Asteroid arena!  Bomb your opponents into traffic in Intersection!  Dress up in two new costumes, the mighty Bombzilla and the heroic Firebomb!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1293613200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/65c322e6-a41a-4da9-9941-390cf79cbe19/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/65c322e6-a41a-4da9-9941-390cf79cbe19",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3e3157a3-d8a5-4812-8444-f748889cdc22",
+			"title": "Bomb-Up Pack II",
+			"description": "The Bomberman action never ends!  The new Charger arena boosts your bombs bigger than ever!  Go retro with Future, where the teleporters will take anything you throw at them!  Dress for the occasion by terrorizing your opponents as a werewolf or playing nice as the nurse!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1294822800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/3e3157a3-d8a5-4812-8444-f748889cdc22/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3e3157a3-d8a5-4812-8444-f748889cdc22",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1fd98b7b-3fe1-4bb4-94c7-2f777d543a87",
+			"title": "Bomb-Up Pack III",
+			"description": "A true Bomber never stops, and neither will you!  The action continues in two new arenas -- Dodge spears like a true ninja in the Dojo, and take advantage of an extra life in Resurrection!  Show up your opponents with the classy Matador costume or ready yourself for the field as Farmer Bomb!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1296032400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1fd98b7b-3fe1-4bb4-94c7-2f777d543a87/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1fd98b7b-3fe1-4bb4-94c7-2f777d543a87",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-7a6c-c241-cb6e-1a5d584109b2",
+			"title": "Detonating Dilemma T-Shirt",
+			"description": "T-shirt emblazoned with the \"Detonating Dilemma\" screen.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-7a6c-c241-cb6e-1a5d584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-7a6c-c241-cb6e-1a5d584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-fcd3-c212-c4d0-b393584109b2",
+			"title": "Detonating Dilemma T-Shirt",
+			"description": "T-shirt emblazoned with the \"Detonating Dilemma\" screen.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-fcd3-c212-c4d0-b393584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-fcd3-c212-c4d0-b393584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d794-0283-c6c1-fb8e584109b2",
+			"title": "White Bomber Cap",
+			"description": "Put on this cap to look and feel like the White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d794-0283-c6c1-fb8e584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d794-0283-c6c1-fb8e584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-eb10-0283-c83a-fca7584109b2",
+			"title": "White Bomber Helmet",
+			"description": "Put on this helmet to look and feel like the White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-eb10-0283-c83a-fca7584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-eb10-0283-c83a-fca7584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-1748-e2b1-ca9c-f87f584109b2",
+			"title": "White Bomber Long Sleeve T",
+			"description": "Put on this long sleeve T-shirt to look and feel like the White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-1748-e2b1-ca9c-f87f584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-1748-e2b1-ca9c-f87f584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-de57-b2d2-caae-2d61584109b2",
+			"title": "White Bomber Long Sleeve T",
+			"description": "Put on this long sleeve T-shirt to look and feel like the White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-de57-b2d2-caae-2d61584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-de57-b2d2-caae-2d61584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-f4de-f261-c9d7-b1a9584109b2",
+			"title": "White Bomber Pixel T-Shirt",
+			"description": "T-shirt with White Bomber done in pixel art.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-f4de-f261-c9d7-b1a9584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-f4de-f261-c9d7-b1a9584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-eaff-22c2-cc6e-6a01584109b2",
+			"title": "White Bomber Pixel T-Shirt",
+			"description": "T-shirt with White Bomber done in pixel art.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-eaff-22c2-cc6e-6a01584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-eaff-22c2-cc6e-6a01584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-f134-f242-c960-1eb3584109b2",
+			"title": "White Bomber Suit",
+			"description": "Put on this suit to look and feel like the White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-f134-f242-c960-1eb3584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-f134-f242-c960-1eb3584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-c787-22a1-c0d2-9927584109b2",
+			"title": "White Bomber Suit",
+			"description": "Put on this suit to look and feel like the White Bomber.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1292403600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-c787-22a1-c0d2-9927584109b2/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-c787-22a1-c0d2-9927584109b2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258580895",
+	"title": "Marvel",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580895/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580895/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Nuff said!",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Disney Interactive Studios",
+	"studio": "Lakshya Digital, LTD.",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580895/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580895/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580895/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Marvel/66acd000-77fe-1000-9115-d80258580895",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 12410
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258580895/Children",
+	"childDownloads": [
+		{
+			"id": "45a5dfd8-49c8-4161-8731-b3aa5aea304b",
+			"title": "Classic Marvel Heroes – Gamer Pics Issue #1",
+			"description": "Download this picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 3899
+				}
+			},
+			"originalReleaseDate": "/Date(1324371600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560815/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/45a5dfd8-49c8-4161-8731-b3aa5aea304b",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fdcef878-2095-4826-a529-6e076fec5fc1",
+			"title": "Marvel: Classic Comic Covers Premium Theme",
+			"description": "Join your favorite Marvel Heroes with these classic comic covers.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1697
+				}
+			},
+			"originalReleaseDate": "/Date(1324371600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560815/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fdcef878-2095-4826-a529-6e076fec5fc1",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

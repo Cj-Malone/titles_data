@@ -1,0 +1,251 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841128c",
+	"title": "Karateka",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "From PRINCE OF PERSIA creator Jordan Mechner, the original side-scrolling karate classic comes to XBLA with art by Jeff Matsuda (The Batman) and music by Grammy-winning composer Christopher Tin (CIVILIZATION IV).  Fight to save the lovely Mariko from the evil warlord Akuma and reunite her with her True Love!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Fighting"
+		}
+	],
+	"publisher": "D3Publisher",
+	"studio": "Liquid Entertainment",
+	"originalReleaseDate": "/Date(1352246400000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Karateka/66acd000-77fe-1000-9115-d8025841128c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 1268
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841128c/Children",
+	"childDownloads": [
+		{
+			"id": "00255076-9a28-45c5-816f-d5d7e532e3b8",
+			"title": "Trial Game - Karateka",
+			"description": "From PRINCE OF PERSIA creator Jordan Mechner, the original side-scrolling karate classic comes to XBLA with art by Jeff Matsuda (The Batman) and music by Grammy-winning composer Christopher Tin (CIVILIZATION IV).  Fight to save the lovely Mariko from the evil warlord Akuma and reunite her with her True Love!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1352278800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00255076-9a28-45c5-816f-d5d7e532e3b8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00255076-9a28-45c5-816f-d5d7e532e3b8",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025841128c",
+			"title": "Karateka",
+			"description": "From PRINCE OF PERSIA creator Jordan Mechner, the original side-scrolling karate classic comes to XBLA with art by Jeff Matsuda (The Batman) and music by Grammy-winning composer Christopher Tin (CIVILIZATION IV).  Fight to save the lovely Mariko from the evil warlord Akuma and reunite her with her True Love!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 1268
+				}
+			},
+			"originalReleaseDate": "/Date(1370595600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841128c",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "03fb6172-c271-40b5-98d3-426ba6fcb1d0",
+			"title": "Launch Trailer - Karateka",
+			"description": "From PRINCE OF PERSIA creator Jordan Mechner, the original side-scrolling karate classic comes to XBLA with art by Jeff Matsuda (The Batman) and music by Grammy-winning composer Christopher Tin (CIVILIZATION IV).  Fight to save the lovely Mariko from the evil warlord Akuma and reunite her with her True Love!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1352970000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841128c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/03fb6172-c271-40b5-98d3-426ba6fcb1d0",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

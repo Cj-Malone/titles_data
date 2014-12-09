@@ -1,0 +1,145 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024e4d0869",
+	"title": "Digimon: ASR",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Spanish, Portuguese.  Let’s get ready to Digi-Rumble! Jam-packed with an all-star cast from the Digimon Universe, Digimon All-Star Rumble throws down with immersive 3D battle arenas and high-impact, in-your-face fighting action. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Fighting"
+		}
+	],
+	"publisher": "BANDAI NAMCO Games America, Inc.",
+	"studio": "PROPE, LTD.",
+	"originalReleaseDate": "/Date(1415664000000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Digimon-ASR/66acd000-77fe-1000-9115-d8024e4d0869",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 256
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024e4d0869/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024e4d0869",
+			"title": "Digimon: ASR",
+			"description": "The Games on Demand version supports English, French, Spanish, Portuguese.  Let’s get ready to Digi-Rumble! Jam-packed with an all-star cast from the Digimon Universe, Digimon All-Star Rumble throws down with immersive 3D battle arenas and high-impact, in-your-face fighting action. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 256
+				}
+			},
+			"originalReleaseDate": "/Date(1415692860000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d0869/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024e4d0869",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

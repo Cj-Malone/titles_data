@@ -1,0 +1,386 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410a78",
+	"title": "Guwange",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) At the far reaches of the Eastern kingdom, in the age of Muromachi... this is the tale of those who wielded the power of the Shikigami. In ages past, when men worshipped nature, believed in spirits and feared the darkness of night, they would also become envoys of a mysterious power.  A unique shooting game set in the late Muromachi age of Japan, Guwange includes 3 fully-featured game modes. Challenge the online leaderboards in Score Attack mode! Play with a friend in online CO-OP play! The shooter classic \"Guwange\" is reborn for a new generation!",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "CAVE",
+	"studio": "CAVE",
+	"originalReleaseDate": "/Date(1289952000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Guwange/66acd000-77fe-1000-9115-d80258410a78",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 2489
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a78/Children",
+	"childDownloads": [
+		{
+			"id": "67c86f16-ef63-483a-a458-0df3cc55e926",
+			"title": "Trial Game - Guwange",
+			"description": "At the far reaches of the Eastern kingdom, in the age of Muromachi... this is the tale of those who wielded the power of the Shikigami. In ages past, when men worshipped nature, believed in spirits and feared the darkness of night, they would also become envoys of a mysterious power.  A unique shooting game set in the late Muromachi age of Japan, Guwange includes 3 fully-featured game modes. Challenge the online leaderboards in Score Attack mode! Play with a friend in online CO-OP play! The shooter classic \"Guwange\" is reborn for a new generation!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1289379600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/67c86f16-ef63-483a-a458-0df3cc55e926/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/67c86f16-ef63-483a-a458-0df3cc55e926",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410a78",
+			"title": "Guwange",
+			"description": "(Online Interactions Not Rated by the ESRB) At the far reaches of the Eastern kingdom, in the age of Muromachi... this is the tale of those who wielded the power of the Shikigami. In ages past, when men worshipped nature, believed in spirits and feared the darkness of night, they would also become envoys of a mysterious power.  A unique shooting game set in the late Muromachi age of Japan, Guwange includes 3 fully-featured game modes. Challenge the online leaderboards in Score Attack mode! Play with a friend in online CO-OP play! The shooter classic \"Guwange\" is reborn for a new generation!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 2489
+				}
+			},
+			"originalReleaseDate": "/Date(1289379600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GamerPic",
+				"Theme"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a78",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "db1f84e1-f049-4dc8-a3d6-48f5d0820685",
+			"title": "Guwange Gamer Picture Pack 1",
+			"description": "10 gamer picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/db1f84e1-f049-4dc8-a3d6-48f5d0820685",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "aaf88111-7ebf-49d2-b697-5c0dde1f4d72",
+			"title": "Guwange Gamer Picture Pack 2",
+			"description": "10 gamer picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/aaf88111-7ebf-49d2-b697-5c0dde1f4d72",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8f42d390-0ae4-4937-98f4-94a62d0a5257",
+			"title": "Guwange Premium Theme 1",
+			"description": "Premium Theme",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 24
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8f42d390-0ae4-4937-98f4-94a62d0a5257",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c31db45a-ea2c-41ea-ade3-187eff41dea9",
+			"title": "Guwange Premium Theme 2",
+			"description": "Premium Theme",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a78/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c31db45a-ea2c-41ea-ade3-187eff41dea9",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

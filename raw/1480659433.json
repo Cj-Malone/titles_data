@@ -1,0 +1,851 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111e9",
+	"title": "Zuma's Revenge!",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Experience new levels of ball-blasting action!  Leap in and conquer 69 levels of Adventure mode. Discover four new Spirit Animals (at least one of them is a monkey!) and harness their abilities to power up your game. Dive in to the high-stakes Iron Frog mode: 10 levels, one frog. Can you make it out alive? Battle all 8 tiki bosses in the fast-paced Boss Rush. Enter the Weekly Challenge and compete for high score on a new level every week.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "PopCap Games",
+	"studio": "PopCap Games",
+	"originalReleaseDate": "/Date(1341964800000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Cartoon Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/screenlg14.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Zumas-Revenge/66acd000-77fe-1000-9115-d802584111e9",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 8850
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		},
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "gold"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111e9/Children",
+	"childDownloads": [
+		{
+			"id": "00001000-7a0d-4283-c114-18f9584111e9",
+			"title": "Chicken Shakers",
+			"description": "Shake to the rhythm with Drumstick Willie’s chicken head maracas! Chikka chikka chikka!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-7a0d-4283-c114-18f9584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-7a0d-4283-c114-18f9584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-7a01-92d2-ca06-b32a584111e9",
+			"title": "Hans P. Froggendorfer",
+			"description": "Tell the world you love Zuma with this toadally awesome costume!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-7a01-92d2-ca06-b32a584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-7a01-92d2-ca06-b32a584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-7a02-2291-cacf-32d2584111e9",
+			"title": "Hans P. Froggendorfer",
+			"description": "Tell the world you love Zuma with this toadally awesome costume!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 15
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-7a02-2291-cacf-32d2584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-7a02-2291-cacf-32d2584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000010-7a06-7211-c5d2-b452584111e9",
+			"title": "PopCap Funderwear",
+			"description": "Sport these boxers when you don’t care who sees your PopCap loyalty.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 43
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000010-7a06-7211-c5d2-b452584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000010-7a06-7211-c5d2-b452584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000010-7a05-b222-cb4f-d4bc584111e9",
+			"title": "PopCap Funderwear",
+			"description": "Sport these boxers when you don’t care who sees your PopCap loyalty.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 11
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000010-7a05-b222-cb4f-d4bc584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000010-7a05-b222-cb4f-d4bc584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-7a0b-22b2-ca9e-ccd2584111e9",
+			"title": "Shaman Tiki Outfit",
+			"description": "Can you harness magical powers? Probably not, but you can look awesome!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-7a0b-22b2-ca9e-ccd2584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-7a0b-22b2-ca9e-ccd2584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-7a0c-f201-c99b-3f26584111e9",
+			"title": "Shaman Tiki Suit",
+			"description": "Can you harness magical powers? Probably not, but you can look awesome!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-7a0c-f201-c99b-3f26584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-7a0c-f201-c99b-3f26584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-7a0e-4213-cfe7-2942584111e9",
+			"title": "Spirit Monkey",
+			"description": "Your Spirit Monkey is a renowned trickster. Will he be able to fool you with his wily ways?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-7a0e-4213-cfe7-2942584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-7a0e-4213-cfe7-2942584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-7a07-92f3-cbe8-eab1584111e9",
+			"title": "Tiki Mask",
+			"description": "Take on the tikis’ ornate looks with this take on a tiki mask.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-7a07-92f3-cbe8-eab1584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-7a07-92f3-cbe8-eab1584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-7a09-02e2-c77f-57e4584111e9",
+			"title": "Villager Costume",
+			"description": "Look like you just returned from Zuma island, without the earthy smell!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-7a09-02e2-c77f-57e4584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-7a09-02e2-c77f-57e4584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-7a0a-6211-c00c-fdae584111e9",
+			"title": "Villager Costume",
+			"description": "Look like you just returned from Zuma island, without the earthy smell!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-7a0a-6211-c00c-fdae584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-7a0a-6211-c00c-fdae584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-7a04-4271-cbc8-7fb7584111e9",
+			"title": "Zuma T-Shirt",
+			"description": "Wear your heart on your sleeve and show how much you love the Zuma Frog.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 56
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-7a04-4271-cbc8-7fb7584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-7a04-4271-cbc8-7fb7584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-7a03-e232-c6e0-7cf9584111e9",
+			"title": "Zuma T-Shirt",
+			"description": "Wear your heart on your sleeve and show how much you love the Zuma Frog.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-7a03-e232-c6e0-7cf9584111e9/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-7a03-e232-c6e0-7cf9584111e9",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "1a0b9fd8-bbe5-4098-8f02-916fba0d415a",
+			"title": "Trial Game - Zuma's Revenge!",
+			"description": "This game was made by PopCap with love. Download the free trial and see for yourself.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1341997200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1a0b9fd8-bbe5-4098-8f02-916fba0d415a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1a0b9fd8-bbe5-4098-8f02-916fba0d415a",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584111e9",
+			"title": "Zuma's Revenge!",
+			"description": "Experience new levels of ball-blasting action!  Leap in and conquer 69 levels of Adventure mode. Discover four new Spirit Animals (at least one of them is a monkey!) and harness their abilities to power up your game. Dive in to the high-stakes Iron Frog mode: 10 levels, one frog. Can you make it out alive? Battle all 8 tiki bosses in the fast-paced Boss Rush. Enter the Weekly Challenge and compete for high score on a new level every week.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 8850
+				}
+			},
+			"originalReleaseDate": "/Date(1341997200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111e9",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "2c416534-725b-4b93-8cb7-ce4e126cf8ee",
+			"title": "Zuma’s Revenge! Premium Theme",
+			"description": "Bring the Zuma jungle with you everywhere you go!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 117
+				}
+			},
+			"originalReleaseDate": "/Date(1341997200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2c416534-725b-4b93-8cb7-ce4e126cf8ee",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "57f2388d-1b19-4a1b-85ba-69775577f59d",
+			"title": "Zuma's Revenge! Trailer",
+			"description": "Experience new levels of ball-blasting action!  Leap in and conquer 69 levels of Adventure mode. Discover four new Spirit Animals (at least one of them is a monkey!) and harness their abilities to power up your game. Dive in to the high-stakes Iron Frog mode: 10 levels, one frog. Can you make it out alive? Battle all 8 tiki bosses in the fast-paced Boss Rush. Enter the Weekly Challenge and compete for high score on a new level every week.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 162
+				}
+			},
+			"originalReleaseDate": "/Date(1341306000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111e9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/57f2388d-1b19-4a1b-85ba-69775577f59d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

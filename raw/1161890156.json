@@ -1,0 +1,94 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024541096c",
+	"title": "EA SPORTS™",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Download the EA SPORTS App to sign up for EA SPORTS Season Ticket and get access to amazing member benefits across Madden NFL, NHL®, FIFA, Tiger Woods PGA TOUR®, and NCAA Football®, plus other great features!  Subscribing to EA SPORTS Season Ticket  to get:  • Access to over 8000 Microsoft® Points worth of PDLC • 3 Day Early Access to all participating franchises • Get 20% off additional PDLC in all participating franchises Subscribe now for 2000 Microsoft® Points / 12 months*  Conditions and restrictions apply.  See WWW.EASPORTS.COM/SEASONTICKET",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "EA SPORTS™",
+	"studio": "EA SPORTS™",
+	"originalReleaseDate": "/Date(1304553600000)/",
+	"contentRating": null,
+	"trailers": [
+		"http://download.xbox.com/content/4541096c/NA%20Streaming.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/EA-SPORTS/66acd000-77fe-1000-9115-d8024541096c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 11850
+		}
+	},
+	"price": {
+		"goldPrice": "Free",
+		"silverPrice": "Free"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 0,
+			"display": "Free",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024541096c/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024541096c",
+			"title": "EA SPORTS™",
+			"description": "Download the EA SPORTS App to sign up for EA SPORTS Season Ticket and get access to amazing member benefits across Madden NFL, NHL®, FIFA, Tiger Woods PGA TOUR®, and NCAA Football®, plus other great features!  Subscribing to EA SPORTS Season Ticket  to get:  • Access to over 8000 Microsoft® Points worth of PDLC • 3 Day Early Access to all participating franchises • Get 20% off additional PDLC in all participating franchises Subscribe now for 2000 Microsoft® Points / 12 months*  Conditions and restrictions apply.  See WWW.EASPORTS.COM/SEASONTICKET",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 11850
+				}
+			},
+			"originalReleaseDate": "/Date(1312286400000)/",
+			"contentRating": null,
+			"childDownloadTypes": [
+
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024541096c",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

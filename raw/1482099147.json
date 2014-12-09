@@ -1,0 +1,86 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802585709cb",
+	"title": "Intel",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585709cb/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585709cb/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Download Exclusive Intel Content Here!",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Xbox LIVE",
+	"studio": "Intel",
+	"originalReleaseDate": "/Date(1331510400000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Intel/66acd000-77fe-1000-9115-d802585709cb",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 455
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802585709cb/Children",
+	"childDownloads": [
+		{
+			"id": "12cf7bf4-97b4-4a2e-a079-4814b8112fc7",
+			"title": "Intel Themes",
+			"description": "Download the exclusive Intel Themes here!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 160
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802585709cb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/12cf7bf4-97b4-4a2e-a079-4814b8112fc7",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

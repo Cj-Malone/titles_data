@@ -1,0 +1,391 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258411446",
+	"title": "Guacamelee! STCE",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics.	 Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these.   Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets.   But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Activision",
+	"studio": "DrinkBox Studios",
+	"originalReleaseDate": "/Date(1404259200000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Use of Alcohol",
+				"image": null
+			},
+			{
+				"label": "Mild Blood",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Guacamelee-STCE/66acd000-77fe-1000-9115-d80258411446",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1476
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GamerPic"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411446/Children",
+	"childDownloads": [
+		{
+			"id": "482f1205-994a-42d4-be06-978819a9e630",
+			"title": "Guacamelee! Super Turbo Championship Edition - Guac Pic Pack",
+			"description": "Embrace the bright and beautiful world of Guacamelee! STCE by purchasing the official Guac Pic Pack, featuring Juan Aguacate, Carlos Calaca, Tostada, the pride of Mexico and the mighty Combo Chicken!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 40
+				}
+			},
+			"originalReleaseDate": "/Date(1403168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/482f1205-994a-42d4-be06-978819a9e630",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "095c61c7-b639-4e8e-a133-4eddfbb78f26",
+			"title": "Guacamelee! Super Turbo Championship Edition - Squawking Chicken Pic Pack",
+			"description": "The Guacamelee! STCE 'Squawking Chicken' Pic Pack includes Running Juan, Green Skeleton, Child Juan, Sugar Skull PLUS a squawking Chicken!  How can you resist?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 41
+				}
+			},
+			"originalReleaseDate": "/Date(1403168400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/095c61c7-b639-4e8e-a133-4eddfbb78f26",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "872dd8c2-9faf-415e-b541-30b491012a81",
+			"title": "Guacamelee! Super Turbo Championship Edition - Somewhat Evil Pic Pack",
+			"description": "The Guacamelee! STCE 'Somewhat Evil' Gamer Pic Pack includes close-ups of villains Carlos Calaca and Flame Face, PLUS Uay Chivo, INTENSO-Juan and Diablito.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1404291600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/872dd8c2-9faf-415e-b541-30b491012a81",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258411446",
+			"title": "Guacamelee! STCE",
+			"description": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics.	 Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these.   Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets.   But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1476
+				}
+			},
+			"originalReleaseDate": "/Date(1404291600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GamerPic"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411446",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "235aaa46-6479-4798-9880-4ac44651db63",
+			"title": "Trial Game - Guacamelee! Super Turbo Championship Edition",
+			"description": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics.	 Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these.   Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets.   But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1404291600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/235aaa46-6479-4798-9880-4ac44651db63/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/235aaa46-6479-4798-9880-4ac44651db63",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "812494ed-f40d-4f68-ac6e-0a0bc1e500d0",
+			"title": "Guacamelee! Super Turbo Championship Edition",
+			"description": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics.	 Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these.   Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets.   But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 45
+				}
+			},
+			"originalReleaseDate": "/Date(1394182800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411446/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/812494ed-f40d-4f68-ac6e-0a0bc1e500d0",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1686 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111de",
+	"title": "The Walking Dead",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Episode one of a five-part game series set in the same universe as Robert Kirkman’s award-winning series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. Experience events, meet people and visit locations that foreshadow the story of Deputy Sheriff Rick Grimes. A tailored game experience – actions, choices and decisions you make will affect how your story plays out across the entire series.  Additional episodes available as downloadable content.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Telltale Games",
+	"studio": "Telltale Games",
+	"originalReleaseDate": "/Date(1335312000000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/584111de/ESRB.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/The-Walking-Dead/66acd000-77fe-1000-9115-d802584111de",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 94973
+		}
+	},
+	"price": {
+		"goldPrice": "Free",
+		"silverPrice": "Free"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 0,
+			"display": "Free",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111de/Children",
+	"childDownloads": [
+		{
+			"id": "2dff6cc0-24ee-4eb9-a1da-c7355b6ea14c",
+			"title": "Accolades Trailer",
+			"description": "Download and watch the Accolades trailer for 'Episode 1: A New Day', Telltale Games’ critically-acclaimed first episode in the five-part game series set in the same universe as Robert Kirkman's award-winning comic book series The Walking Dead.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 487
+				}
+			},
+			"originalReleaseDate": "/Date(1359709200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2dff6cc0-24ee-4eb9-a1da-c7355b6ea14c",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "88fd8bae-2413-48d3-8851-648c88d8d691",
+			"title": "Choice Matters Trailer",
+			"description": "Download this trailer to see why choice matters in The Walking Dead.  Experience events, meet people and visit locations foreshadowing the story of Deputy Sheriff Rick Grimes in this extension of Robert Kirkman's award-winning universe. A five-part game of adventure horror where the decisions you make will have profound and lasting consequences throughout the series. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 491
+				}
+			},
+			"originalReleaseDate": "/Date(1337936400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/88fd8bae-2413-48d3-8851-648c88d8d691",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0e09cc66-eedf-45b5-acc0-44f426044b6b",
+			"title": "Episode 1 Stats Trailer",
+			"description": "Download and watch the 'Episode 1 Stats Trailer' to see how difficult choices and decisions influence the story and create a 'tailored' experience in The Walking Dead.  This trailer highlights some of those harrowing choices players were faced with throughout the episode and demonstrates the decisions players made in a world gone to hell. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 99
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0e09cc66-eedf-45b5-acc0-44f426044b6b",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e5cb133c-182d-4b59-b257-ddd14cede7ec",
+			"title": "Episode 2 Accolades Trailer",
+			"description": "Download and watch the Accolades trailer for 'Episode 2: Starved for Help', Telltale Games’ critically-acclaimed second episode in the five-part game series set in the same universe as Robert Kirkman's award-winning comic book series The Walking Dead.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 124
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e5cb133c-182d-4b59-b257-ddd14cede7ec",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2c066844-fa3b-44a3-8afa-b5eccf63c87d",
+			"title": "Episode 2 Launch Trailer",
+			"description": "Download and watch the launch trailer for 'Episode 2: Starved for Help'.  With starvation and bandit attacks as much of a threat as the undead, you will learn what you’re willing to resort to in order to survive. As things become ever more desperate, the group is offered food from strangers, but at what cost?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 84
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2c066844-fa3b-44a3-8afa-b5eccf63c87d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "73f01066-551b-4cba-a1f8-954590206005",
+			"title": "Episode 2: Starved For Help",
+			"description": "Episode two of a five-part series set in Robert Kirkman’s award-winning universe. Three months after the events of episode one, starvation forces the group to seek food from strangers.  In a world where the living can be more dangerous than the undead, this is a risky move, but you’ll soon learn how far you’ll go to survive. How will the choices you made in episode one affect your story?  Purchase of this DLC requires The Walking Dead - Episode 1: A New Day.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 8667
+				}
+			},
+			"originalReleaseDate": "/Date(1340787600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/73f01066-551b-4cba-a1f8-954590206005/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/73f01066-551b-4cba-a1f8-954590206005",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b6b06c50-b17c-43e8-9812-6ab7e12ec687",
+			"title": "Episode 2 Stats Trailer",
+			"description": "Download and watch the 'Episode 2 Stats Trailer' to see how difficult choices and decisions influence the story and create a 'tailored' experience in The Walking Dead.  This trailer highlights some of those harrowing choices players were faced with throughout the episode and demonstrates the decisions players made in a world gone to hell.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 73
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b6b06c50-b17c-43e8-9812-6ab7e12ec687",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "53b11162-d0f4-48f7-b400-b03f249bb42b",
+			"title": "Episode 3 Accolades Trailer",
+			"description": "Download and watch the Accolades trailer for 'Episode 3: Long Road Ahead’, Telltale Games’ critically-acclaimed third episode in the five-part game series set in the same universe as Robert Kirkman's award-winning comic book series The Walking Dead.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 75
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/53b11162-d0f4-48f7-b400-b03f249bb42b",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9b76b67f-e722-4576-b3c8-91f7a8702962",
+			"title": "Episode 3 Launch Trailer",
+			"description": "Download and watch the launch trailer for 'Episode 3: Long Road Ahead'. The motor inn has been home for the past few months, but dwindling supplies, threats from outside and betrayal from within set events in motion that change everything and cause Lee to reevaluate what and who is  important to him. Fleeing Macon, the survivors head toward the perceived safety of the coast, but is anywhere really safe when danger follows them at every step?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 63
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9b76b67f-e722-4576-b3c8-91f7a8702962",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0d264495-99d3-4540-8089-05b4195d690b",
+			"title": "Episode 3: Long Road Ahead (ESRB Rating: MATURE with Strong Language, Blood and Gore, Drug Reference, Intense Violence) ",
+			"description": "(ESRB Rating: MATURE with Strong Language, Blood and Gore, Drug Reference, Intense Violence)   Episode three of a five-part game series set in Robert Kirkman’s award-winning universe. Treachery within the group leads to a devastating series of events in the most emotionally turbulent episode to date!  Will the tough choices you made in episodes one and two come back to haunt you or prove to be worthwhile decisions?   Purchase of this DLC requires The Walking Dead - Episode 1: A New Day.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 6362
+				}
+			},
+			"originalReleaseDate": "/Date(1346230800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0d264495-99d3-4540-8089-05b4195d690b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0d264495-99d3-4540-8089-05b4195d690b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "67abdaa0-62f1-4930-b32f-5640604e17e1",
+			"title": "Episode 3 Stats Trailer",
+			"description": "Download and watch the 'Episode 3 Stats Trailer' to see how difficult choices and decisions influence the story and create a 'tailored' experience in The Walking Dead.  This trailer highlights some of those harrowing choices players were faced with throughout the episode and demonstrates the decisions players made in a world gone to hell.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 68
+				}
+			},
+			"originalReleaseDate": "/Date(1360918800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/67abdaa0-62f1-4930-b32f-5640604e17e1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b6efc11d-58a7-48db-876c-17513e4d8ff4",
+			"title": "Episode 4 Accolades Trailer",
+			"description": "Download and watch the Accolades trailer for 'Episode 4: Around Every Corner’, Telltale Games’ critically-acclaimed penultimate episode in the five-part game series set in the same universe as Robert Kirkman's award-winning comic book series The Walking Dead.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 90
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b6efc11d-58a7-48db-876c-17513e4d8ff4",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c13db0e9-393c-4344-97c3-ea4d18ebc309",
+			"title": "Episode 4: Around Every Corner  (ESRB Rating: MATURE with Strong Language, Blood and Gore, Intense Violence, Sexual Themes) ",
+			"description": "(ESRB Rating: MATURE with Strong Language, Blood and Gore, Intense Violence, Sexual Themes)  Episode four of a five-part game series set in Robert Kirkman’s award-winning universe.  In the wake of terrible loss, the group arrives in Savannah in search of salvation from the horrors around them. Stalked by an unseen human threat, learn to deal with an increasingly paranoid group and how to protect Clementine.   Purchase of this DLC requires The Walking Dead - Episode 1: A New Day.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 4538
+				}
+			},
+			"originalReleaseDate": "/Date(1349859600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c13db0e9-393c-4344-97c3-ea4d18ebc309/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c13db0e9-393c-4344-97c3-ea4d18ebc309",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4e69eeaf-083c-4cb3-a91b-5b0f5253a6bb",
+			"title": "Episode 4 Launch Trailer",
+			"description": "Download and watch the launch trailer for 'Episode 4: Around Every Corner'.  In the wake of terrible loss, the group arrives in Savannah in search of a boat and escape from the horrors around them. Stalked by an unseen human threat and the constant menace of the undead, Lee must decide how to deal with an increasingly paranoid group and above all, how to protect Clementine.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 61
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4e69eeaf-083c-4cb3-a91b-5b0f5253a6bb",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "bdf786e2-06b6-4c73-8b3c-0e548c8b5650",
+			"title": "Episode 4 Stats Trailer",
+			"description": "Download and watch the 'Episode 4 Stats Trailer' to see how difficult choices and decisions influence the story and create a 'tailored' experience in The Walking Dead.  This trailer highlights some of those harrowing choices players were faced with throughout the episode and demonstrates the decisions players made in a world gone to hell.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 81
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bdf786e2-06b6-4c73-8b3c-0e548c8b5650",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9cdb624e-4c4b-48b3-a8e1-8281e15a3699",
+			"title": "Episode 5 Launch Trailer",
+			"description": "Download and watch the launch trailer for 'Episode 5: No Time Left', the final episode of a five-part game series set in Robert Kirkman's award-winning zombie apocalypse. With time running out and the odds stacked against you, Clementine's fate is in your hands. The culmination of your choices leads to the stunning conclusion of this first season of The Walking Dead.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 115
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9cdb624e-4c4b-48b3-a8e1-8281e15a3699",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b314b510-2191-4b42-8d51-a804b3c20328",
+			"title": "Episode 5 Stats Trailer",
+			"description": "Download and watch the 'Episode 5 Stats Trailer' to see how difficult choices and decisions influence the story and create a 'tailored' experience in The Walking Dead.  This trailer highlights some of those harrowing choices players were faced with throughout the episode and demonstrates the decisions players made in a world gone to hell.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 79
+				}
+			},
+			"originalReleaseDate": "/Date(1361350800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b314b510-2191-4b42-8d51-a804b3c20328",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c0d5912b-ae75-4ca5-a6fd-d2d8fca139c6",
+			"title": "Launch Trailer",
+			"description": "An untold story set in the world of The Walking Dead follows convicted criminal Lee Everett; a man given a second chance at life in a world gone to hell. With danger around every corner, protecting an orphaned girl named Clementine may offer him redemption in a world of true horror. Experience events, meet people and visit locations foreshadowing the story of Deputy Sheriff Rick Grimes in this extension of Robert Kirkman's award-winning universe. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 229
+				}
+			},
+			"originalReleaseDate": "/Date(1335862800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c0d5912b-ae75-4ca5-a6fd-d2d8fca139c6",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "16a3ed4f-cc6f-48ac-a4c7-2c69d9950795",
+			"title": "Playing Dead: Episode 1 ",
+			"description": "Playing Dead takes you behind the scenes of The Walking Dead video game based on Robert Kirkman's award-winning comic book series.  In this episode, we find out what the game is, what it isn't and why fans of The Walking Dead are going to love it. To get an inside scoop, we'll be talking with game designers Sean Vanaman and Jake Rodkin. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1397
+				}
+			},
+			"originalReleaseDate": "/Date(1334134800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/16a3ed4f-cc6f-48ac-a4c7-2c69d9950795",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0f7dcc0f-31cf-48d7-b16e-1bfc5464bb9d",
+			"title": "Playing Dead: Episode 2",
+			"description": "In this episode of Playing Dead, Telltale discusses how they will expand Robert Kirkman’s award-winning universe with a brand new story and characters.  Telltale will also be talking about choice in the game and how they plan on giving players a “tailored experience” throughout the five-part game series. To help discuss this and more, we’ll be talking with game designer Sean Vanaman and story consultant Gary Whitta (screenwriter for The Book of Eli).",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 1251
+				}
+			},
+			"originalReleaseDate": "/Date(1334134800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0f7dcc0f-31cf-48d7-b16e-1bfc5464bb9d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e7a6119d-8876-49a5-9a08-3cbfb5d8f824",
+			"title": "Playing Dead: Episode 3",
+			"description": "In this episode of Playing Dead, we interview Robert Kirkman, the creator of The Walking Dead, and learn why he chose to work with Telltale Games. Kirkman also discusses why The Walking Dead game isn’t like any other zombie themed game out there; why it has heart and how it’s about people who must make tough choices to survive in a world gone to hell.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 965
+				}
+			},
+			"originalReleaseDate": "/Date(1334134800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e7a6119d-8876-49a5-9a08-3cbfb5d8f824",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3cd8fc9f-053f-478d-8cf2-2f2c8b742e51",
+			"title": "The Walking Dead: 400 Days",
+			"description": "Centered on a truck stop on a Georgia highway, this DLC episode for Season 1 of The Walking Dead tells five linked stories of survival. The Walking Dead: 400 Days offers more of the horror and human drama of Robert Kirkman and Telltale’s award-winning series. Echoes of the choices you made in Season 1 will carry over into '400 Days' and the choices you make in '400 Days' will resonate into Season 2.   Purchase of this DLC requires that The Walking Dead - Episode 1: A New Day is installed.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 3976
+				}
+			},
+			"originalReleaseDate": "/Date(1373014800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/3cd8fc9f-053f-478d-8cf2-2f2c8b742e51/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3cd8fc9f-053f-478d-8cf2-2f2c8b742e51",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7adbb587-4723-4013-b8f4-9d84d6d03851",
+			"title": "Teaser Trailer",
+			"description": "Experience a world gone to hell in this teaser trailer for The Walking Dead.  Based on Robert Kirkman’s Eisner-Award winning comic book series, The Walking Dead allows gamers to experience the true horror of the zombie apocalypse.  A five-part game series of adventure horror where the decisions you make change the story you experience.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 1083
+				}
+			},
+			"originalReleaseDate": "/Date(1334134800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7adbb587-4723-4013-b8f4-9d84d6d03851",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584111de",
+			"title": "The Walking Dead",
+			"description": "Episode one of a five-part game series set in the same universe as Robert Kirkman’s award-winning series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. Experience events, meet people and visit locations that foreshadow the story of Deputy Sheriff Rick Grimes. A tailored game experience – actions, choices and decisions you make will affect how your story plays out across the entire series.  Additional episodes available as downloadable content.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 94973
+				}
+			},
+			"originalReleaseDate": "/Date(1335517200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111de",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "227f2603-1ab9-4776-a7ab-0e19343cc080",
+			"title": "Episode 5: No Time Left",
+			"description": "The final episode of a five-part game series set in Robert Kirkman’s award-winning zombie apocalypse. With time running out and the odds stacked against you, Clementine’s fate is in your hands. The culmination of your choices leads to the stunning conclusion of this first season of The Walking Dead.  Purchase of this DLC requires The Walking Dead - Episode 1: A New Day.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 5,
+					"Count": 4446
+				}
+			},
+			"originalReleaseDate": "/Date(1353488400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/227f2603-1ab9-4776-a7ab-0e19343cc080/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/227f2603-1ab9-4776-a7ab-0e19343cc080",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ab62353e-c6c8-417c-a14e-607cd91c5a60",
+			"title": "Debut Trailer",
+			"description": "The Walking Dead comes to life in this gruesomely crafted trailer using a striking combination of 2D and 3D artwork from the game.  The Walking Dead is a five-part game series of adventure horror where the decisions you make change the story you experience.  Witness events, meet people and visit locations that foreshadow the story of Deputy Sheriff Rick Grimes in this extension of Robert Kirkman's award-winning universe. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 808
+				}
+			},
+			"originalReleaseDate": "/Date(1334134800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ab62353e-c6c8-417c-a14e-607cd91c5a60",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,112 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025848081f",
+	"title": "Junk Fu",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Can you master Junk Fu? Or will Junk Fu master you? Chop, kick, and smash junk as it flies off a junkyard conveyor belt. Turn junk into junk food by cranking up your calorie burn! The more you move, the more you burn. The more you burn, the more goodies you earn!  ",
+	"genres": [
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Wahoo Studios",
+	"originalReleaseDate": "/Date(1327881600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081f/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Junk-Fu/66acd000-77fe-1000-9115-d8025848081f",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 2187
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025848081f/Children",
+	"childDownloads": [
+		{
+			"id": "7d75e76f-d2a5-42ee-b579-69cec081a62a",
+			"title": "Junk Fu",
+			"description": "Can you master Junk Fu? Or will Junk Fu master you? Chop, kick, and smash junk as it flies off a junkyard conveyor belt. Turn junk into junk food by cranking up your calorie burn! The more you move, the more you burn. The more you burn, the more goodies you earn!  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 241
+				}
+			},
+			"originalReleaseDate": "/Date(1329728400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/7d75e76f-d2a5-42ee-b579-69cec081a62a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7d75e76f-d2a5-42ee-b579-69cec081a62a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025848081a",
+	"title": "Avatar Kinect",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081a/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081a/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Express yourself with your Xbox avatar! Watch your avatar mimic your facial expressions and gestures as you chat with friends in our 3D stages, and then share recordings of your chats!  Avatar Kinect is available to all Xbox LIVE members who have a Kinect Sensor.  Log on and join in the fun!",
+	"genres": [
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Xbox LIVE Productions",
+	"studio": "Good Science Studios",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081a/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081a/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081a/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Avatar-Kinect/66acd000-77fe-1000-9115-d8025848081a",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 16203
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025848081a/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80cf-00015848081a",
+			"title": "Avatar Kinect",
+			"description": "Express yourself with your Xbox avatar! Watch your avatar mimic your facial expressions and gestures as you chat with friends in our 3D stages, and then share recordings of your chats!  Avatar Kinect is available to all Xbox LIVE members who have a Kinect Sensor.  Log on and join in the fun!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 1520
+				}
+			},
+			"originalReleaseDate": "/Date(1311584400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025848081a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-00015848081a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

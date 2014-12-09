@@ -1,0 +1,251 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b95",
+	"title": "Babel Rising",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Babel Rising lets you play as a God and use your powers to prevent humans from building the tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians.  Face a wide range of challenging enemies and levels and use Kinect to get a unique feeling of power!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Mando Productions",
+	"originalReleaseDate": "/Date(1339545600000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Cartoon Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Babel-Rising/66acd000-77fe-1000-9115-d80258410b95",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 3310
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b95/Children",
+	"childDownloads": [
+		{
+			"id": "d0ea61d3-b715-4806-8c7b-4e05d3b1a3b2",
+			"title": "Trial Game - Babel Rising",
+			"description": "Babel Rising lets you play as a God and use your powers to prevent humans from building the tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians.  Face a wide range of challenging enemies and levels and use Kinect to get a unique feeling of power!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1339578000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d0ea61d3-b715-4806-8c7b-4e05d3b1a3b2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d0ea61d3-b715-4806-8c7b-4e05d3b1a3b2",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410b95",
+			"title": "Babel Rising",
+			"description": "Babel Rising lets you play as a God and use your powers to prevent humans from building the tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians.  Face a wide range of challenging enemies and levels and use Kinect to get a unique feeling of power!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 3310
+				}
+			},
+			"originalReleaseDate": "/Date(1339578000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b95/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b95",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e2eab28c-543a-4f7f-a76b-d86e8bf0a2e0",
+			"title": "Babel Rising - Sky’s the Limit",
+			"description": "The Humans are defying you once more! Embody a vengeful god and get it over with the waves of heretics who try to build two new towers. Let’s unleash your mighty powers and confront new vicious types of units in exciting exclusive levels.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 109
+				}
+			},
+			"originalReleaseDate": "/Date(1341997200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e2eab28c-543a-4f7f-a76b-d86e8bf0a2e0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e2eab28c-543a-4f7f-a76b-d86e8bf0a2e0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

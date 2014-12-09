@@ -1,0 +1,354 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258411235",
+	"title": "NFL Blitz",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) The big hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience.	Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz! ",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Electronic Arts Inc.",
+	"studio": "Electronic Arts - Tiburon",
+	"originalReleaseDate": "/Date(1326758400000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			},
+			{
+				"label": "Mild Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			},
+			{
+				"label": "Mild Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/NFL-Blitz/66acd000-77fe-1000-9115-d80258411235",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 40398
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411235/Children",
+	"childDownloads": [
+		{
+			"id": "2712bf88-2ca2-4b3a-bdf1-f2cb543706c5",
+			"title": "Trial Game - NFL Blitz",
+			"description": "(Online Interactions Not Rated by the ESRB)  The big hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience.	Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz! ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1325667600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2712bf88-2ca2-4b3a-bdf1-f2cb543706c5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2712bf88-2ca2-4b3a-bdf1-f2cb543706c5",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258411235",
+			"title": "NFL Blitz",
+			"description": "(Online Interactions Not Rated by the ESRB) The big hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience.	Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 40398
+				}
+			},
+			"originalReleaseDate": "/Date(1325667600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo"
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411235",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3c747509-7fa4-4353-8b71-f2f31715ccb2",
+			"title": "NFL Blitz Gameplay Sizzle Trailer",
+			"description": "The exciting hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience.	Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 586
+				}
+			},
+			"originalReleaseDate": "/Date(1324544400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3c747509-7fa4-4353-8b71-f2f31715ccb2",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "950da770-f0a8-4419-89ad-334b35fdc958",
+			"title": "NFL Blitz is Back Trailer",
+			"description": "The exciting hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience.	Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 769
+				}
+			},
+			"originalReleaseDate": "/Date(1324544400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411235/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/950da770-f0a8-4419-89ad-334b35fdc958",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

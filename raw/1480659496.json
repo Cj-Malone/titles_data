@@ -1,0 +1,335 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258411228",
+	"title": "Mark of the Ninja",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "A ninja is powerful yet fragile. Quick but deliberate. Mark of the Ninja is a stealth platformer that puts you in control of a Ninja who's clan is in danger of extinction. Observe your enemies from the darkness, manipulate them with simple yet versatile tools, and experience what it is to be a Ninja.   From the award-winning studio that brought you Shank, Mark of the Ninja is a game about finesse, manipulation, and sacrifice.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Klei",
+	"originalReleaseDate": "/Date(1346976000000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Mark-of-the-Ninja/66acd000-77fe-1000-9115-d80258411228",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 10376
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon",
+		"SmartGlass"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411228/Children",
+	"childDownloads": [
+		{
+			"id": "f1e8d232-cc23-4778-bf78-41b65b47d02f",
+			"title": "Trial Game - Mark of the Ninja",
+			"description": "A ninja is powerful yet fragile. Quick but deliberate. Mark of the Ninja is a stealth platformer that puts you in control of a Ninja who's clan is in danger of extinction. Observe your enemies from the darkness, manipulate them with simple yet versatile tools, and experience what it is to be a Ninja.   From the award-winning studio that brought you Shank, Mark of the Ninja is a game about finesse, manipulation, and sacrifice.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1347008400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f1e8d232-cc23-4778-bf78-41b65b47d02f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f1e8d232-cc23-4778-bf78-41b65b47d02f",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8ffd41da-5734-4266-8d95-9cdb8a508932",
+			"title": "Mark of the Ninja",
+			"description": " A ninja is powerful yet fragile. Quick but deliberate. Mark of the Ninja is a stealth platformer that puts you in control of a Ninja who's clan is in danger of extinction. Observe your enemies from the darkness, manipulate them with simple yet versatile tools, and experience what it is to be a Ninja.   From the award-winning studio that brought you Shank, Mark of the Ninja is a game about finesse, manipulation, and sacrifice.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1351175174923)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8ffd41da-5734-4266-8d95-9cdb8a508932/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8ffd41da-5734-4266-8d95-9cdb8a508932",
+			"downloadTypeClass": "SmartGlass",
+			"downloadTypeText": "SmartGlass",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258411228",
+			"title": "Mark of the Ninja",
+			"description": "A ninja is powerful yet fragile. Quick but deliberate. Mark of the Ninja is a stealth platformer that puts you in control of a Ninja who's clan is in danger of extinction. Observe your enemies from the darkness, manipulate them with simple yet versatile tools, and experience what it is to be a Ninja.   From the award-winning studio that brought you Shank, Mark of the Ninja is a game about finesse, manipulation, and sacrifice.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 10376
+				}
+			},
+			"originalReleaseDate": "/Date(1347008400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon",
+				"SmartGlass"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411228/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258411228",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e5650b62-7aae-4ea9-8b3a-3a9f06c212e6",
+			"title": "Mark of the Ninja Special Edition",
+			"description": "Mark of the Ninja Special Edition adds new content and unique behind the scenes insights. A new level focusing on the tattoo artist Dosan contains two new items and a new playstyle, both also usable in the main game. Additionally, every level in the game was enhanced with over 1300 lines of developer commentaries, detailing how Ninja was created and other anecdotes from the team.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 161
+				}
+			},
+			"originalReleaseDate": "/Date(1376643600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e5650b62-7aae-4ea9-8b3a-3a9f06c212e6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e5650b62-7aae-4ea9-8b3a-3a9f06c212e6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

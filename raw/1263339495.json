@@ -1,0 +1,680 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024b4d07e7",
+	"title": "Sacred 3",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Sacred 3 is an arcade Hack ‘n’ Slash game for up to four players, set in the war for Ancaria. Choose from legendary heroes and fight together against the rise of evil. You will face hordes of grimmocs, brute beasts, legions of mercenaries and undead wizards. Develop your character’s skills and abilities and band  together to use powerful co-op abilities and tactics. Victory is Ours. Glory is Mine. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Deep Silver",
+	"studio": "keen games",
+	"originalReleaseDate": "/Date(1407196800000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Sacred-3/66acd000-77fe-1000-9115-d8024b4d07e7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 2.75,
+			"Count": 1071
+		}
+	},
+	"price": {
+		"goldPrice": "$33.49",
+		"silverPrice": "$49.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 49.99,
+			"display": "$49.99",
+			"tax": "plus tax",
+			"user": "silver"
+		},
+		{
+			"method": "currency",
+			"amount": 33.49,
+			"display": "$33.49",
+			"tax": "plus tax",
+			"user": "gold"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4d07e7/Children",
+	"childDownloads": [
+		{
+			"id": "e5321e45-4e8a-43be-8f56-b9e890f80a16",
+			"title": "Malakhim Hero",
+			"description": "Play as Kython the Malakhim, a mysterious dark assassin from unknown origins.  Use powerful blood magic to reinforce the resistance, and protect Ancaria. This pack contains Kython the Malakhim as a fully playable character. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 57
+				}
+			},
+			"originalReleaseDate": "/Date(1407229200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e5321e45-4e8a-43be-8f56-b9e890f80a16/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e5321e45-4e8a-43be-8f56-b9e890f80a16",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4cf95cd2-845d-4e5e-af66-675020bcedd7",
+			"title": "Orc of Thrones",
+			"description": "Play as Garok the Orc, the true heir of the Orc Throne. Betrayed by his brother Gragon, he sets out to kill him and return his tribe back to the ways of nature. This pack contains Garok the Orc as a fully playable character. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4cf95cd2-845d-4e5e-af66-675020bcedd7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4cf95cd2-845d-4e5e-af66-675020bcedd7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ffc6339c-1f5b-4582-b756-8e0337201087",
+			"title": "Orcland Story",
+			"description": "Gragon has taken the Orc Throne, corrupted Orcland and turned its Orcs into Grimmocs. Fight your way through the homeland of the Grimmocs and defeat the wrongful king Gragon. This pack contains 4 all-new missions set in the canyons of Orcland. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1413882000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ffc6339c-1f5b-4582-b756-8e0337201087/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ffc6339c-1f5b-4582-b756-8e0337201087",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8024b4d07e7",
+			"title": "Sacred 3",
+			"description": "Sacred 3 is an arcade Hack ‘n’ Slash game for up to four players, set in the war for Ancaria. Choose from legendary heroes and fight together against the rise of evil. You will face hordes of grimmocs, brute beasts, legions of mercenaries and undead wizards. Develop your character’s skills and abilities and band  together to use powerful co-op abilities and tactics. Victory is Ours. Glory is Mine. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 1071
+				}
+			},
+			"originalReleaseDate": "/Date(1407229200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024b4d07e7",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$33.49",
+				"silverPrice": "$49.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 49.99,
+					"display": "$49.99",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 33.49,
+					"display": "$33.49",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "dd4ecc9d-51b8-4278-8c04-14300b5ee838",
+			"title": "Sacred 3 Announcement Trailer",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1393578000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/dd4ecc9d-51b8-4278-8c04-14300b5ee838",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3f8da19e-a214-4c36-aa16-34f72c738e4a",
+			"title": "Sacred 3 Gameplay Trailer",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1395219600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3f8da19e-a214-4c36-aa16-34f72c738e4a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a51972c4-d16a-443a-b5bd-0a4f4ed299b3",
+			"title": "Sacred 3 Trophy Trailer",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 48
+				}
+			},
+			"originalReleaseDate": "/Date(1404205200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07e7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a51972c4-d16a-443a-b5bd-0a4f4ed299b3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ef03fcc9-57ae-4fbe-822d-41877c5d7790",
+			"title": "Underworld Story",
+			"description": "Venture into the Underworld through a newly-discovered portal and find the mysterious tower guarded by the Black Seraphim. This pack contains 4 all-new missions set in the Underworld of Ancaria. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ef03fcc9-57ae-4fbe-822d-41877c5d7790/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ef03fcc9-57ae-4fbe-822d-41877c5d7790",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f45405af-640e-4161-95e9-456dc938731b",
+			"title": "Z4ngr13f Weapon Spirit",
+			"description": "Z4ngr13f, aka John, was busy pwning mobs in Sacred during a speedrun when lightning struck and he got sucked into the world of Ancaria. With the expertise of Z4ngr13f sealed into your weapon of choice, those Ashen troops stand no chance! This pack contains the exclusive Z4ngr13f Weapon Spirit. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1407229200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f45405af-640e-4161-95e9-456dc938731b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f45405af-640e-4161-95e9-456dc938731b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

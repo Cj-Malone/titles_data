@@ -1,0 +1,658 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410a7e",
+	"title": "Torchlight",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Torchlight is an action-roleplaying game developed by the creators of popular games Diablo and FATE.  Players will choose from among three character classes, and venture from the safety of the town of Torchlight into randomly generated dungeon levels, with a huge variety of creepy monsters, endless variations of loot to find, and quests to complete. Randomized levels and an 'endless dungeon' unlocked after completing the main game ensure a long-lived gameplay experience. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Runic Games",
+	"originalReleaseDate": "/Date(1295395200000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Animated Blood",
+				"image": null
+			},
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Animated Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Torchlight/66acd000-77fe-1000-9115-d80258410a7e",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 43379
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a7e/Children",
+	"childDownloads": [
+		{
+			"id": "00000bb8-7e89-12d1-c3bc-0aec58410a7e",
+			"title": "Alchemist Gear ",
+			"description": "XBOX 360 exclusive Alchemist armor ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 37
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000bb8-7e89-12d1-c3bc-0aec58410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000bb8-7e89-12d1-c3bc-0aec58410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-5943-f2d1-c61f-ff8b58410a7e",
+			"title": "Destroyer Gear ",
+			"description": "XBOX 360 exclusive Destroyer armor ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 41
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-5943-f2d1-c61f-ff8b58410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-5943-f2d1-c61f-ff8b58410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000100-92d8-62f3-c451-3c0d58410a7e",
+			"title": "Extend-O-Goggles ",
+			"description": "These Torchlight steampunk goggles with telescoped eye are one of a kind. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000100-92d8-62f3-c451-3c0d58410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000100-92d8-62f3-c451-3c0d58410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-4aa9-c223-c15b-137c58410a7e",
+			"title": "Potion Dispenser ",
+			"description": "An official hands-free mana and health potion dispenser, perfect for the adventurer on the go. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 34
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-4aa9-c223-c15b-137c58410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-4aa9-c223-c15b-137c58410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-741e-e213-cf1f-899458410a7e",
+			"title": "Runic Games Beanie ",
+			"description": "A black and grey beanie with the Runic 'whorl' logo. This beanie a replica of the one the Runic devs wear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 23
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-741e-e213-cf1f-899458410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-741e-e213-cf1f-899458410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-23e3-1231-c0c9-7a7a58410a7e",
+			"title": "Runic Games Tee ",
+			"description": "Go for the short sleeve option in this black tee shirt with the striking Runic Games logo ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-23e3-1231-c0c9-7a7a58410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-23e3-1231-c0c9-7a7a58410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-a638-8282-cef6-101758410a7e",
+			"title": "Runic Games Tee ",
+			"description": "Go for the short sleeve option in this black tee shirt with the striking Runic Games logo ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-a638-8282-cef6-101758410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-a638-8282-cef6-101758410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410a7e",
+			"title": "Torchlight",
+			"description": "Torchlight is an action-roleplaying game developed by the creators of popular games Diablo and FATE.  Players will choose from among three character classes, and venture from the safety of the town of Torchlight into randomly generated dungeon levels, with a huge variety of creepy monsters, endless variations of loot to find, and quests to complete. Randomized levels and an 'endless dungeon' unlocked after completing the main game ensure a long-lived gameplay experience. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 43379
+				}
+			},
+			"originalReleaseDate": "/Date(1299661200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a7e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a7e",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6ad9a240-86ab-435c-94b8-9600077ce7c9",
+			"title": "Trial Game - Torchlight",
+			"description": "Torchlight is an action-roleplaying game developed by the creators of popular games Diablo and FATE.  Players will choose from among three character classes, and venture from the safety of the town of Torchlight into randomly generated dungeon levels, with a huge variety of creepy monsters, endless variations of loot to find, and quests to complete. Randomized levels and an 'endless dungeon' unlocked after completing the main game ensure a long-lived gameplay experience. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1299661200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6ad9a240-86ab-435c-94b8-9600077ce7c9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6ad9a240-86ab-435c-94b8-9600077ce7c9",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d7aa-52c3-c1cd-900658410a7e",
+			"title": "Torchlight Ballcap ",
+			"description": "The brilliant ember of Torchlight stands out on this black ballcap ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 15
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d7aa-52c3-c1cd-900658410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d7aa-52c3-c1cd-900658410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fd41df0b-1bbf-4c65-bb14-4a9d82362645",
+			"title": "Torchlight Trailer",
+			"description": "Download this trailer. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 91
+				}
+			},
+			"originalReleaseDate": "/Date(1297328400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/fd41df0b-1bbf-4c65-bb14-4a9d82362645/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fd41df0b-1bbf-4c65-bb14-4a9d82362645",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-011a-e222-ca48-9f3058410a7e",
+			"title": "Vanquisher Gear ",
+			"description": "XBOX 360 exclusive Vanquisher armor ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-011a-e222-ca48-9f3058410a7e/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-011a-e222-ca48-9f3058410a7e",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

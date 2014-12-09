@@ -1,0 +1,98 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258580879",
+	"title": "Dumbo",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580879/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580879/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Check out the latest items in the Dumbo Collection.",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Disney Interactive Studios",
+	"studio": "Disney Interactive Studios",
+	"originalReleaseDate": null,
+	"contentRating": {
+		"label": "eC (Early Childhood)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/0.png",
+		"age": 3,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Dumbo/66acd000-77fe-1000-9115-d80258580879",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1726
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258580879/Children",
+	"childDownloads": [
+		{
+			"id": "66008910-f312-4569-b89e-a395c7904ccd",
+			"title": "Dumbo's Big Top Circus",
+			"description": "Amaze your friends & family when you join the circus.   ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 91
+				}
+			},
+			"originalReleaseDate": "/Date(1313053200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256080b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66008910-f312-4569-b89e-a395c7904ccd",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

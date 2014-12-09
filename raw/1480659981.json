@@ -1,0 +1,616 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841140d",
+	"title": "Child of Light",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Child of Light is an adventure inspired by fairy tales. The story takes us on the coming-of-age journey of Aurora, the daughter of a duke, who is transported to the fantastic world of Lemuria. Identified as a Child of Light and granted the power of flight, Aurora must fight the dark creatures of the Queen of the Night on her quest to save the sun, the moon, and the stars.",
+	"genres": [
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Ubisoft",
+	"originalReleaseDate": "/Date(1398816000000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Use of Alcohol and Tobacco",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Child-of-Light/66acd000-77fe-1000-9115-d8025841140d",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 1152
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841140d/Children",
+	"childDownloads": [
+		{
+			"id": "bc1dde23-15dd-4807-b0de-0b919c688ea0",
+			"title": "Trial Game - Child of Light",
+			"description": "Child of Light is an adventure inspired by fairy tales. The story takes us on the coming-of-age journey of Aurora, the daughter of a duke, who is transported to the fantastic world of Lemuria. Identified as a Child of Light and granted the power of flight, Aurora must fight the dark creatures of the Queen of the Night on her quest to save the sun, the moon, and the stars.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/bc1dde23-15dd-4807-b0de-0b919c688ea0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bc1dde23-15dd-4807-b0de-0b919c688ea0",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0af87c92-b149-4f3a-a8ed-c0906b9adf8c",
+			"title": "Rough Oculi Pack",
+			"description": "Contains several Rough Oculi: 2 Sapphires, 2 Rubies, 2 Emeralds, 1 Citrine, 1 Tourmaline, 1 Amethyst.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0af87c92-b149-4f3a-a8ed-c0906b9adf8c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/0af87c92-b149-4f3a-a8ed-c0906b9adf8c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9a860cca-0342-420d-9756-681cc88590ec",
+			"title": "Stardust Pack",
+			"description": "Contains several clusters of Stardust: 2 HP, 2 MP, 2 Strength, 2 Defense, 2 Magic, 2 Magic Defense, 1 Critical Hit, 1 Dodge, 1 Speed.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9a860cca-0342-420d-9756-681cc88590ec/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9a860cca-0342-420d-9756-681cc88590ec",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025841140d",
+			"title": "Child of Light",
+			"description": "Child of Light is an adventure inspired by fairy tales. The story takes us on the coming-of-age journey of Aurora, the daughter of a duke, who is transported to the fantastic world of Lemuria. Identified as a Child of Light and granted the power of flight, Aurora must fight the dark creatures of the Queen of the Night on her quest to save the sun, the moon, and the stars.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 1152
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841140d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841140d",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cab27e7b-c01f-47c4-9157-957fa68321a6",
+			"title": "Faceted Oculi Pack",
+			"description": "Contains several Faceted Oculi: 2 Sapphires, 2 Rubies, 2 Emeralds.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/cab27e7b-c01f-47c4-9157-957fa68321a6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cab27e7b-c01f-47c4-9157-957fa68321a6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "bab23479-3c99-4e76-a9d7-03381d677321",
+			"title": "Light Pack ",
+			"description": "Contains the Princess of the Wind avatar, the Heal skill and a small pack of Rough Oculi: 3 Sapphires, 2 Rubies, 3 Emeralds. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/bab23479-3c99-4e76-a9d7-03381d677321/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bab23479-3c99-4e76-a9d7-03381d677321",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "782bf115-a7a8-4381-a39b-7b058913a76a",
+			"title": "Tumbled Oculi Pack",
+			"description": "Contains several Tumbled Oculi: 2 Sapphires, 2 Rubies, 2 Emeralds, 1 Citrine, 1 Tourmaline, 1 Amethyst.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/782bf115-a7a8-4381-a39b-7b058913a76a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/782bf115-a7a8-4381-a39b-7b058913a76a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "61f8ec91-fd75-4189-bec5-b329e9d68e12",
+			"title": "Dark Pack",
+			"description": "Contains the Inked Aurora avatar, several clusters of Stardust: 1 MP, 1 Defense, 1 Magic Defense, and a small pack of Rough Oculi: 3 Sapphires, 2 Rubies, 3 Emeralds. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/61f8ec91-fd75-4189-bec5-b329e9d68e12/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/61f8ec91-fd75-4189-bec5-b329e9d68e12",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "81730dca-9740-427a-9a5f-f46afc12d81a",
+			"title": "The Golem’s Plight Pack ",
+			"description": "The Golem's Plight Pack contains the Golem quest, which unlocks another powerful ally to fight alongside Aurora.  Also included in the pack are the unique, powerful Erin's Stone and a pack of smaller Rough Oculi: 3 Blue, 3 Red and 3 Green.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 19
+				}
+			},
+			"originalReleaseDate": "/Date(1398848400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol and Tobacco",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/81730dca-9740-427a-9a5f-f46afc12d81a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/81730dca-9740-427a-9a5f-f46afc12d81a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

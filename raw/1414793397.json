@@ -1,0 +1,359 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802545408b5",
+	"title": "NBA 2K15",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese. On the heels of NBA 2K14’s 70 Game of the Year Award Nominations, the NBA 2K franchise is the ultimate basketball simulation experience. Featuring NBA MVP Kevin Durant on the cover, NBA 2K15 hits the court with unprecedented life-like graphics, ultra-realistic NBA gameplay, and more. Take your MyPLAYER online and hit the courts in our fully-featured Crew Mode, now with NBA Rules. Every jersey, juke, and pom pon is brought to life with unrivaled realism. To top it off, NBA 2K15’s music has been curated by famed producer and musician, Pharrell. NBA 2K15 has created a truly authentic NBA adventure. It’s up to you to claim your destiny. #YourTimeHasCome ",
+	"genres": [
+		{
+			"label": "Strategy & Simulation"
+		},
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "2K",
+	"studio": "Visual Concepts",
+	"originalReleaseDate": "/Date(1412640000000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Lyrics",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/NBA-2K15/66acd000-77fe-1000-9115-d802545408b5",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 6851
+		}
+	},
+	"price": {
+		"goldPrice": "$59.99",
+		"silverPrice": "$59.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 59.99,
+			"display": "$59.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545408b5/Children",
+	"childDownloads": [
+		{
+			"id": "1a025b83-6920-44f6-86dc-1c7c74887708",
+			"title": "Blue Diamond Bling Pack",
+			"description": "Unlocks a diamond jewelry set for your MyPLAYER that provides a +10 boost to all attributes.  Collection includes diamond watch, bracelet, earrings and rings.  Attribute boosts are applied upon ownership, and jewelry items need not be worn to receive boosts.  Collections do not stack, and if multiple collections are owned, only the highest boost will be applied to your MyPLAYER.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 76
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/1a025b83-6920-44f6-86dc-1c7c74887708/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/1a025b83-6920-44f6-86dc-1c7c74887708",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$24.99",
+				"silverPrice": "$24.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 24.99,
+					"display": "$24.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e0aee55f-e0e9-4d52-aed8-b8ed09727206",
+			"title": "Gold Bling Pack",
+			"description": "Unlocks a gold jewelry set for your MyPLAYER that provides a +3 boost to all attributes.  Collection includes gold watch, bracelet, earrings and rings.  Attribute boosts are applied upon ownership, and jewelry items need not be worn to receive boosts.  Collections do not stack, and if multiple collections are owned, only the highest boost will be applied to your MyPLAYER.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 49
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e0aee55f-e0e9-4d52-aed8-b8ed09727206/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e0aee55f-e0e9-4d52-aed8-b8ed09727206",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802545408b5",
+			"title": "NBA 2K15",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese. On the heels of NBA 2K14’s 70 Game of the Year Award Nominations, the NBA 2K franchise is the ultimate basketball simulation experience. Featuring NBA MVP Kevin Durant on the cover, NBA 2K15 hits the court with unprecedented life-like graphics, ultra-realistic NBA gameplay, and more. Take your MyPLAYER online and hit the courts in our fully-featured Crew Mode, now with NBA Rules. Every jersey, juke, and pom pon is brought to life with unrivaled realism. To top it off, NBA 2K15’s music has been curated by famed producer and musician, Pharrell. NBA 2K15 has created a truly authentic NBA adventure. It’s up to you to claim your destiny. #YourTimeHasCome ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 6851
+				}
+			},
+			"originalReleaseDate": "/Date(1412665260000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408b5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802545408b5",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$59.99",
+				"silverPrice": "$59.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 59.99,
+					"display": "$59.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c4273152-86c3-467b-bec8-6a30e8f97472",
+			"title": "Platinum Bling Pack",
+			"description": "Unlocks a platinum jewelry set for your MyPLAYER that provides a +6 boost to all attributes.  Collection includes platinum watch, bracelet, earrings and rings.  Attribute boosts are applied upon ownership, and jewelry items need not be worn to receive boosts.  Collections do not stack, and if multiple collections are owned, only the highest boost will be applied to your MyPLAYER.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c4273152-86c3-467b-bec8-6a30e8f97472/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c4273152-86c3-467b-bec8-6a30e8f97472",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b9d7bc04-44e0-47a9-b1c1-17739e1feddc",
+			"title": "Spanish Commentary Pack",
+			"description": "Enjoy in-game NBA commentary in Spanish from three of Spain’s most prominent basketball journalists – Antoni Daimiel and Sixto Miguel Serrano from Canal+ along with Jorge Quiroga of Marca – with this Spanish Commentary Add-On pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 84
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b9d7bc04-44e0-47a9-b1c1-17739e1feddc/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b9d7bc04-44e0-47a9-b1c1-17739e1feddc",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,865 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410889",
+	"title": "Peggle",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Experience the ball-bouncing, peg-busting phenomenon! Do you have what it takes to become a Peggle™ Master? Take your best shot! Conquer 55 levels with 10 mystical Magic Powers and rack up bonus points. Face off against friends in 4-player Xbox LIVE® multiplayer play, and test your skills in 75 Grand Master Challenges. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "PopCap Games, Inc.",
+	"studio": "PopCap Games, Inc.",
+	"originalReleaseDate": "/Date(1236729600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Peggle/66acd000-77fe-1000-9115-d80258410889",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 60088
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		},
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "gold"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon",
+		"GamerPic",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410889/Children",
+	"childDownloads": [
+		{
+			"id": "00000544-626c-c2d3-cf78-5ea558410889",
+			"title": "Bjorn Hat",
+			"description": "Some people call it a unicorn dreamyhead; others call it a mullet-horn.  We call it the perfect accessory for every occasion.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 131
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-626c-c2d3-cf78-5ea558410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-626c-c2d3-cf78-5ea558410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-626d-22f2-c47c-8c6e58410889",
+			"title": "Cinderbottom Costume",
+			"description": "You'll never look hotter than when you don this Lord Cinderbottom costume.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-626d-22f2-c47c-8c6e58410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-626d-22f2-c47c-8c6e58410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-626e-5241-cad9-187058410889",
+			"title": "Cinderbottom Costume",
+			"description": "Heat things up with this Lord Cinderbottom costume. Note: costume doesn't necessarily grant you the title of Lord.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-626e-5241-cad9-187058410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-626e-5241-cad9-187058410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-d644-e281-ceec-9e8f58410889",
+			"title": "Master Hu Rocker Costume",
+			"description": "Hu are you? Hu? Hu? Hu Hu? Let your avatar rock out, Master Hu style.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 24
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-d644-e281-ceec-9e8f58410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-d644-e281-ceec-9e8f58410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-d644-a2a2-cdce-bd1c58410889",
+			"title": "Master Hu Rocker Costume",
+			"description": "Bust pegs -- and eardrums -- as you rock out with this Master Hu costume.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-d644-a2a2-cdce-bd1c58410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-d644-a2a2-cdce-bd1c58410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410889",
+			"title": "Peggle",
+			"description": "Experience the ball-bouncing, peg-busting phenomenon! Do you have what it takes to become a Peggle™ Master? Take your best shot! Conquer 55 levels with 10 mystical Magic Powers and rack up bonus points. Face off against friends in 4-player Xbox LIVE® multiplayer play, and test your skills in 75 Grand Master Challenges. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 60088
+				}
+			},
+			"originalReleaseDate": "/Date(1236762000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon",
+				"GamerPic",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410889",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-000058410889",
+			"title": "Trial Game - Peggle™",
+			"description": "Experience the ball-bouncing, peg-busting phenomenon! Buy the full game to play all 55 levels, face off against up to 4 friends over Xbox LIVE® multiplayer, and test your skills in 75 Grand Master Challenges. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1236758400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-000058410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-000058410889",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-000158410889",
+			"title": "Peggle™ Gamer Picture Pack",
+			"description": "Do you love Peggle? Become your favorite Peggle Master on Xbox LIVE! This collection of gamer pictures includes all 10 Peggle Masters, and will make your friends jealous. Experience the ball-bouncing phenomenon! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 252
+				}
+			},
+			"originalReleaseDate": "/Date(1236762000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-000158410889",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-d644-f2c2-cb98-3ecd58410889",
+			"title": "Peggle Hoodie",
+			"description": "Sport your Peggle Fever with this hoodie.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-d644-f2c2-cb98-3ecd58410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-d644-f2c2-cb98-3ecd58410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-d644-1211-ce51-cfe758410889",
+			"title": "Peggle Hoodie",
+			"description": "Sport your Peggle Fever with this hoodie.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-d644-1211-ce51-cfe758410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-d644-1211-ce51-cfe758410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400c-80cf-000158410889",
+			"title": "Peggle™ Nights Content Pack",
+			"description": "Stay up late with the next episode of PopCap’s peg-busting phenomenon and meet the Peggle™ Masters’ nighttime alter egos. Enter a dreamscape world featuring 60 new Adventure levels, 75 new challenges, and befriend a new Peggle Master. Wield 11 Magic Powers, score new style shots, and rack up tons of bonus points. Stock your Trophy Room and prove your Peggle prowess in four game modes including four-player Xbox LIVE® multiplayer play. It’s Extreme Fever under the silver moon... catch it in Peggle Nights today! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 2364
+				}
+			},
+			"originalReleaseDate": "/Date(1258016400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-400c-80cf-000158410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-000158410889",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.49",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 2.49,
+					"display": "$2.49",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4002-802f-000258410889",
+			"title": "Peggle™ Nights Gamer Picture Pack",
+			"description": "Want to really become a Peggle™ Master? Assume the identity of your favorite Peggle character on Xbox LIVE! This collection of gamer pics includes all 11 Peggle Masters from the next episode of PopCap’s peg-busting phenomenon, Peggle Nights! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 236
+				}
+			},
+			"originalReleaseDate": "/Date(1258534800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-000258410889",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000258410889",
+			"title": "Peggle™ Nights Premium Theme",
+			"description": "Do you love Peggle™ Nights? Re-skin your entire Xbox dashboard with Peggle Nights art! This theme pack features cool game art including Peggle Masters and game levels, so even when you’re not playing Peggle Nights, you can still bask in Extreme Fever glory! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 144
+				}
+			},
+			"originalReleaseDate": "/Date(1258534800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000258410889",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-000158410889",
+			"title": "Peggle™ Premium Theme",
+			"description": "Do you love Peggle? Now, re-skin your entire Xbox dashboard experience with this premium Peggle theme! This theme pack includes cool game art including Peggle Masters and game levels. Experience the ball-bouncing phenomenon! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 166
+				}
+			},
+			"originalReleaseDate": "/Date(1236855600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410889/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-000158410889",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-d644-5203-c1d9-677a58410889",
+			"title": "Renfield Head",
+			"description": "Turn your avatar into a Jack-o-Awesome. Then go score some Spooky Balls just because you can.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 49
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-d644-5203-c1d9-677a58410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-d644-5203-c1d9-677a58410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-d644-d223-c775-322f58410889",
+			"title": "Splork-o-Matic",
+			"description": "Have a Space Blast as a remote-controlled Splork flies around your avatar.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-d644-d223-c775-322f58410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-d644-d223-c775-322f58410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-626a-a2f1-c97f-be9158410889",
+			"title": "Super Bjorn Costume",
+			"description": "Become two legendary creatures in one - a superhero and a unicorn!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 279
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-626a-a2f1-c97f-be9158410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-626a-a2f1-c97f-be9158410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-626b-82b2-c322-229058410889",
+			"title": "Super Bjorn Costume",
+			"description": "Become two legendary creatures in one - a superhero and a unicorn!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-626b-82b2-c322-229058410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-626b-82b2-c322-229058410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d644-8253-c653-1c5758410889",
+			"title": "Warren's Lucky Hat",
+			"description": "Feeling lucky? Wear this hat and watch your dreams come true. (*Dreams may not really come true.)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1311843600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d644-8253-c653-1c5758410889/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d644-8253-c653-1c5758410889",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,555 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410a89",
+	"title": "Ghostbusters: Sanctum of Slime",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Strap on your proton packs for an all-new Ghostbusting adventure! Ectoplasmic threats are spawning all over New York, and only you and your team of rookie Ghostbusters can stop them. Choose from 4 new playable characters. Hop in the all-new ECTO-4WD and blast your foes with a medley of destructive weapons. Battle against the hordes of evil entities alone or with a team of friends through local or online multiplayer co-op. Show them you ain’t afraid of no ghosts! ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Atari",
+	"studio": "Behaviour",
+	"originalReleaseDate": "/Date(1300838400000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+		"http://mktplassets.xbox.com/NR/rdonlyres/78019233-4235-461B-9EF3-4922CE679E35/0/vidGhostbustersSofScdnhi.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Ghostbusters-Sanctum-of-Slime/66acd000-77fe-1000-9115-d80258410a89",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 26907
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a89/Children",
+	"childDownloads": [
+		{
+			"id": "00001000-4d67-4293-c142-5b5958410a89",
+			"title": "Ecto-4WD  ",
+			"description": "Your very own toy version of the Ecto-4WD from Ghostbusters: Sanctum of Slime! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 61
+				}
+			},
+			"originalReleaseDate": "/Date(1300784400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-4d67-4293-c142-5b5958410a89/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-4d67-4293-c142-5b5958410a89",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-c5f8-b221-caca-f98158410a89",
+			"title": "Ghostbusters Jumpsuit  ",
+			"description": "Suit up to fight ghosts in the official Ghostbusters jumpsuit! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 162
+				}
+			},
+			"originalReleaseDate": "/Date(1300784400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-c5f8-b221-caca-f98158410a89/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-c5f8-b221-caca-f98158410a89",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-d2ed-e2c2-cd8b-aa5d58410a89",
+			"title": "Ghostbusters Jumpsuit  ",
+			"description": "Suit up to fight ghosts in the official Ghostbusters jumpsuit! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1300784400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-d2ed-e2c2-cd8b-aa5d58410a89/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-d2ed-e2c2-cd8b-aa5d58410a89",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410a89",
+			"title": "Ghostbusters: Sanctum of Slime",
+			"description": "(Online Interactions Not Rated by the ESRB) Strap on your proton packs for an all-new Ghostbusting adventure! Ectoplasmic threats are spawning all over New York, and only you and your team of rookie Ghostbusters can stop them. Choose from 4 new playable characters. Hop in the all-new ECTO-4WD and blast your foes with a medley of destructive weapons. Battle against the hordes of evil entities alone or with a team of friends through local or online multiplayer co-op. Show them you ain’t afraid of no ghosts! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 26907
+				}
+			},
+			"originalReleaseDate": "/Date(1333962000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a89/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a89",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8f51d1da-2378-4f11-b402-6b48f8c22eb9",
+			"title": "Trial Game - Ghostbusters: Sanctum of Slime",
+			"description": "Strap on your proton packs for an all-new Ghostbusting adventure! Ectoplasmic threats are spawning all over New York, and only you and your team of rookie Ghostbusters can stop them. Choose from 4 new playable characters. Hop in the all-new ECTO-4WD and blast your foes with a medley of destructive weapons. Battle against the hordes of evil entities alone or with a team of friends through local or online multiplayer co-op. Show them you ain’t afraid of no ghosts! ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1300870800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8f51d1da-2378-4f11-b402-6b48f8c22eb9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8f51d1da-2378-4f11-b402-6b48f8c22eb9",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "06bf893e-0ee9-41a0-a44f-7ec3bbe6491c",
+			"title": "Ghostbusters: Sanctum of Slime",
+			"description": "Introducing the new class of Ghostbusters! Prepare for an all-new adventure in Ghostbusters: Sanctum of Slime!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 72
+				}
+			},
+			"originalReleaseDate": "/Date(1299142800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/06bf893e-0ee9-41a0-a44f-7ec3bbe6491c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/06bf893e-0ee9-41a0-a44f-7ec3bbe6491c",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d3e6-82c3-cb53-965858410a89",
+			"title": "Ghostbusters: Sanctum of Slime Baseball Cap ",
+			"description": "The official baseball cap of Ghosbusters: Sanctum of Slime ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 70
+				}
+			},
+			"originalReleaseDate": "/Date(1300784400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d3e6-82c3-cb53-965858410a89/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d3e6-82c3-cb53-965858410a89",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7ba26ffe-ab3b-43bf-8e7a-020bf0386c58",
+			"title": "Ghostbusters Sanctum of Slime Challenge Pack",
+			"description": "Ghostbusters: Sanctum of Slime gets a whole lot more with the all new single player Challenge Pack, including Lonely Hero mode and Arcade Challenge mode. In Lonely Hero, there is no co-op, no friendly teammates, just you and waves of the paranormally possessed. Designed for seasoned gamers, Arcade Challenge gives you 3 lives and that’s it; how far can you get? See how your skills line up on a distinct Global Leaderboard. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 195
+				}
+			},
+			"originalReleaseDate": "/Date(1306918800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/7ba26ffe-ab3b-43bf-8e7a-020bf0386c58/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7ba26ffe-ab3b-43bf-8e7a-020bf0386c58",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-d129-b223-c3e1-b67f58410a89",
+			"title": "Slimer ",
+			"description": "Everyone's favorite ghost buddy, Slimer! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 147
+				}
+			},
+			"originalReleaseDate": "/Date(1300784400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-d129-b223-c3e1-b67f58410a89/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-d129-b223-c3e1-b67f58410a89",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-a560-62a3-c3b4-b9b058410a89",
+			"title": "Stay Puft Marshmallow Man ",
+			"description": "Cuddle up to the Stay Puft Marshallmallow Man! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 128
+				}
+			},
+			"originalReleaseDate": "/Date(1300784400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-a560-62a3-c3b4-b9b058410a89/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-a560-62a3-c3b4-b9b058410a89",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

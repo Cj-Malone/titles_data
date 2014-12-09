@@ -1,0 +1,128 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584112a1",
+	"title": "Ski Race",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall. So much to experience – at a fraction of the cost of real-life lessons!",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Rare",
+	"originalReleaseDate": "/Date(1353369600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Ski-Race/66acd000-77fe-1000-9115-d802584112a1",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 2025
+		}
+	},
+	"price": {
+		"goldPrice": "$1.99",
+		"silverPrice": "$1.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 1.99,
+			"display": "$1.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112a1/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802584112a1",
+			"title": "Ski Race",
+			"description": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall. So much to experience – at a fraction of the cost of real-life lessons!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 2025
+				}
+			},
+			"originalReleaseDate": "/Date(1353402000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112a1",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

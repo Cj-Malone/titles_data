@@ -1,0 +1,263 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584107e5",
+	"title": "RoboBlitz",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Single Player, HD (High Definition). Wasn't that cool? Well, it gets even cooler. Purchase the full version of RoboBlitz™ and you'll get even more weapons, more baddies, and more of that juicy physics magic you just can't get anywhere else on Xbox Live® Arcade. See if you can score the full billion points. Buy RoboBlitz today! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Naked Sky Entertainment",
+	"originalReleaseDate": "/Date(1260447545867)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/RoboBlitz/66acd000-77fe-1000-9115-d802584107e5",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1969
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107e5/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4002-8020-0000584107e5",
+			"title": "Picture Pack 1 - RoboBlitz",
+			"description": "Bust out a Blitz pose, put on a Karl face, or show your inner space pirate with one these five cartoon-style RoboBlitz gamer pics. Download it now! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 34
+				}
+			},
+			"originalReleaseDate": "/Date(1171447200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-8020-0000584107e5",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.25",
+				"silverPrice": "$1.25"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.25,
+					"display": "$1.25",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584107e5",
+			"title": "RoboBlitz",
+			"description": "Single Player, HD (High Definition). Wasn't that cool? Well, it gets even cooler. Purchase the full version of RoboBlitz™ and you'll get even more weapons, more baddies, and more of that juicy physics magic you just can't get anywhere else on Xbox Live® Arcade. See if you can score the full billion points. Buy RoboBlitz today! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1969
+				}
+			},
+			"originalReleaseDate": "/Date(1164672000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GamerPic",
+				"Theme"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584107e5",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0000584107e5",
+			"title": "Trial Game - RoboBlitz™",
+			"description": "Single Player, HD (High Definition). Experience the first 3 levels of RoboBlitz™ - on the house! You can dine on our dime and sample the finest in physics-driven gameplay, all for free. While you're at it, feast on some of our crafty weapons. Roast a baddy or two. Even beat the game! Oh, wait... you'll need to buy the full version for that. But until then, enjoy!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1164672000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000000-0000-4000-8000-0000584107e5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0000584107e5",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-8030-0000584107e5",
+			"title": "Theme Pack 1 - RoboBlitz",
+			"description": "Bring the RoboBlitz world to your Xbox Dashboard with these fresh environments. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1171447200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584107e5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-8030-0000584107e5",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.88",
+				"silverPrice": "$1.88"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.88,
+					"display": "$1.88",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258580896",
+	"title": "Military Collection",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580896/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580896/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Command the attention of your friends and equip your avatar with this range of authentic military gear and accessories. Get ready to report for duty, soldier!",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Disruptive Publishers",
+	"studio": "Disruptive Publishers",
+	"originalReleaseDate": "/Date(1296086400000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Military-Collection/66acd000-77fe-1000-9115-d80258580896",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 2414
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258580896/Children",
+	"childDownloads": [
+		{
+			"id": "591de6e7-6bd4-4c21-8b3b-48ca41f07b9d",
+			"title": "Military Premium Theme",
+			"description": "Transform your dash into an epic battle ground with this awesome premium theme!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 282
+				}
+			},
+			"originalReleaseDate": "/Date(1326813060000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580850/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/591de6e7-6bd4-4c21-8b3b-48ca41f07b9d",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "75539ff7-70d2-4182-a325-b237d38e4e4e",
+			"title": "Military Service Medallion Picture Pack",
+			"description": "Download this picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 445
+				}
+			},
+			"originalReleaseDate": "/Date(1326790800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258580850/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/75539ff7-70d2-4182-a325-b237d38e4e4e",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

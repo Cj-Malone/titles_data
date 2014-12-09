@@ -1,0 +1,110 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584807d7",
+	"title": "Photo Party",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584807d7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584807d7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Photo Party is a fun new way to share your photos with your friends on Xbox Live. Plug in any supported digital media devices (such as your digital camera, a USB stick containing photos, a Zune, etc.) into your Xbox 360's USB port, get into an Xbox Live Party, and start a Photo Party!",
+	"genres": [
+		{
+			"label": "Family"
+		}
+	],
+	"publisher": "Sapphire",
+	"studio": "Microsoft",
+	"originalReleaseDate": null,
+	"contentRating": {
+		"label": "RP (Rating Pending)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+		"age": 18,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Photo-Party/66acd000-77fe-1000-9115-d802584807d7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 32085
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584807d7/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80cf-0001584807d7",
+			"title": "Photo Party",
+			"description": "Photo Party is a fun new way to share your photos with your friends on Xbox Live. Plug in any supported digital media devices (such as your digital camera, a USB stick containing photos, a Zune, etc.) into your Xbox 360's USB port, get into an Xbox Live Party, and start a Photo Party!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 1486
+				}
+			},
+			"originalReleaseDate": "/Date(1226944800000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584807d7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80cf-0001584807d7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": null
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		}
+	]
+}

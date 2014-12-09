@@ -1,0 +1,110 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584e07d1",
+	"title": "XNA Creators Club",
+	"image": "http://mktplassets.xbox.com/NR/rdonlyres/9F2DF856-6F3E-4D7C-B84C-19BDE2B66CB1/0/cboxxna.jpg",
+	"backgroundImage": null,
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Purchase or redeem your prepaid XNA Creators Club membership in order to design and play games on your Xbox 360 console.",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "XNA",
+	"studio": "Microsoft Corporation",
+	"originalReleaseDate": null,
+	"contentRating": {
+		"label": "RP (Rating Pending)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+		"age": 18,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/XNA-Creators-Club/66acd000-77fe-1000-9115-d802584e07d1",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 13220
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584e07d1/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400c-80af-e002584e07d1",
+			"title": "XNA Game Studio Connect",
+			"description": "Connect your Xbox 360 console to a computer running XNA Game Studio to deploy, debug, or play new games.  This title requires an active membership in the XNA Creators Club.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 570
+				}
+			},
+			"originalReleaseDate": "/Date(1225357200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://mktplassets.xbox.com/NR/rdonlyres/9F2DF856-6F3E-4D7C-B84C-19BDE2B66CB1/0/cboxxna.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400c-80af-e002584e07d1",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,206 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584113ed",
+	"title": "A.R.E.S.",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "A.R.E.S. Extinction Agenda EX, an action-packed side-scrolling game from Extend Studios, takes players on a thrilling sci-fi adventure!  Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "Aksys Games",
+	"studio": "Extend Studio;Origo Games",
+	"originalReleaseDate": "/Date(1378252800000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/ARES/66acd000-77fe-1000-9115-d802584113ed",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.25,
+			"Count": 492
+		}
+	},
+	"price": {
+		"goldPrice": "$6.99",
+		"silverPrice": "$6.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 6.99,
+			"display": "$6.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584113ed/Children",
+	"childDownloads": [
+		{
+			"id": "15dd07c7-0a82-447b-9c0a-1d1a9140e8b7",
+			"title": "Trial Game - A.R.E.S. Extinction Agenda EX",
+			"description": "A.R.E.S. Extinction Agenda EX, an action-packed side-scrolling game from Extend Studios, takes players on a thrilling sci-fi adventure!  Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1380704400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/15dd07c7-0a82-447b-9c0a-1d1a9140e8b7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/15dd07c7-0a82-447b-9c0a-1d1a9140e8b7",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584113ed",
+			"title": "A.R.E.S.",
+			"description": "A.R.E.S. Extinction Agenda EX, an action-packed side-scrolling game from Extend Studios, takes players on a thrilling sci-fi adventure!  Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 492
+				}
+			},
+			"originalReleaseDate": "/Date(1380704400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113ed/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584113ed",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$6.99",
+				"silverPrice": "$6.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 6.99,
+					"display": "$6.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,961 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410a57",
+	"title": "Bejeweled Blitz LIVE",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) The most competitive 60 seconds on XBLA!	Take on friends in the brilliant gem-matching action of Bejeweled Blitz LIVE! Choose your favorite playing style - Classic or Twist - and rocket up the leaderboards! Battle your way to the top in the all-new 16-player Party LIVE mode over Xbox LIVE. Create cascades of fun with Flame gems, Lightning gems and Hypercubes. You can even combine scores with friends for the highest weekly and all-time Friendscores. The challenge is irresistible!",
+	"genres": [
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "PopCap Games",
+	"studio": "Torpex Games",
+	"originalReleaseDate": "/Date(1298937600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": null,
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Bejeweled-Blitz-LIVE/66acd000-77fe-1000-9115-d80258410a57",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 19805
+		}
+	},
+	"price": {
+		"goldPrice": "$4.99",
+		"silverPrice": "$4.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 4.99,
+			"display": "$4.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a57/Children",
+	"childDownloads": [
+		{
+			"id": "633ae8f5-0112-41ba-9040-2a2ff804cca5",
+			"title": "Trial Game - Bejeweled Blitz LIVE",
+			"description": "The most competitive 60 seconds on XBLA!	Take on friends in the brilliant gem-matching action of Bejeweled Blitz LIVE! Choose your favorite playing style - Classic or Twist - and rocket up the leaderboards! Battle your way to the top in the all-new 16-player Party LIVE mode over Xbox LIVE. Create cascades of fun with Flame gems, Lightning gems and Hypercubes. You can even combine scores with friends for the highest weekly and all-time Friendscores. The challenge is irresistible!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1298451600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": null,
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/633ae8f5-0112-41ba-9040-2a2ff804cca5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/633ae8f5-0112-41ba-9040-2a2ff804cca5",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410a57",
+			"title": "Bejeweled Blitz LIVE",
+			"description": "(Online Interactions Not Rated by the ESRB) The most competitive 60 seconds on XBLA!	Take on friends in the brilliant gem-matching action of Bejeweled Blitz LIVE! Choose your favorite playing style - Classic or Twist - and rocket up the leaderboards! Battle your way to the top in the all-new 16-player Party LIVE mode over Xbox LIVE. Create cascades of fun with Flame gems, Lightning gems and Hypercubes. You can even combine scores with friends for the highest weekly and all-time Friendscores. The challenge is irresistible!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 19805
+				}
+			},
+			"originalReleaseDate": "/Date(1298451600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": null,
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a57/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410a57",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "94307961-ba1f-49e9-8204-1c34965fd092",
+			"title": "Bejeweled Blitz LIVE Premium Theme",
+			"description": "Deck out your Xbox backgrounds and friends channel with awesome Bejeweled imagery. Speedometers included.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 66
+				}
+			},
+			"originalReleaseDate": "/Date(1298419200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/94307961-ba1f-49e9-8204-1c34965fd092/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/94307961-ba1f-49e9-8204-1c34965fd092",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5ee0c54b-3997-4352-93a3-dc132a1ab132",
+			"title": "Bejeweled Blitz LIVE Trailer",
+			"description": "The world’s #1 puzzle game is now the most explosive 60 seconds on XBLA. Check out the gem-blasting action right here!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 51
+				}
+			},
+			"originalReleaseDate": "/Date(1297328400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": null,
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/5ee0c54b-3997-4352-93a3-dc132a1ab132/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5ee0c54b-3997-4352-93a3-dc132a1ab132",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-d644-a2a2-cdce-bd1c58410a57",
+			"title": "Blitz Battle Gear",
+			"description": "This armor will protect you from dangerous objects like gem shrapnel and guys wearing Bejeweled Tuxes.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-d644-a2a2-cdce-bd1c58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-d644-a2a2-cdce-bd1c58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-d644-e281-ceec-9e8f58410a57",
+			"title": "Blitz Battle Gear",
+			"description": "You ask: why would I need golden armor with gems on it? We say: Have you ever seen a Hypercube explode?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-d644-e281-ceec-9e8f58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-d644-e281-ceec-9e8f58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000800-d644-f2c3-cb3f-c99858410a57",
+			"title": "Blue Diamond Ring",
+			"description": "Tell the world you're taken — or, at the very least, you really like giant gem rings.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000800-d644-f2c3-cb3f-c99858410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000800-d644-f2c3-cb3f-c99858410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-d644-b2f1-c78c-fe0558410a57",
+			"title": "Gem Chain",
+			"description": "A dazzling chain of rare gems. And don't worry, the gems are heavy, but your avatar's neck won't get sore.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-d644-b2f1-c78c-fe0558410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-d644-b2f1-c78c-fe0558410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d644-8253-c653-1c5758410a57",
+			"title": "Gem Hat",
+			"description": "Got Bejeweled on your mind? Flaunt it with this multi-faceted hat.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 11
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d644-8253-c653-1c5758410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d644-8253-c653-1c5758410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-d644-5292-cf0f-7d0958410a57",
+			"title": "Gem Necklace",
+			"description": "A dazzling chain of rare gems. And don't worry, the gems are heavy, but your avatar's neck won't get sore.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-d644-5292-cf0f-7d0958410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-d644-5292-cf0f-7d0958410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-d644-e232-cc43-637758410a57",
+			"title": "High-Carat Racing Suit",
+			"description": "Nothing like reaching Blazing Speed… except for reaching Blazing Speed and looking great at the same time.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-d644-e232-cc43-637758410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-d644-e232-cc43-637758410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-d644-8251-cea6-f1bc58410a57",
+			"title": "High-Carat Racing Suit",
+			"description": "Reach Blazing Speed, torch the competition, and look awesome doing it.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-d644-8251-cea6-f1bc58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-d644-8251-cea6-f1bc58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c5dd9fbc-c789-4b09-afd7-de03d045000e",
+			"title": "How to Get High Scores",
+			"description": "You want to get a high score, don’t you? Watch this video for tips to help you dominate the leaderboards.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1298451600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": null,
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c5dd9fbc-c789-4b09-afd7-de03d045000e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c5dd9fbc-c789-4b09-afd7-de03d045000e",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fdb5c781-15e0-4938-9466-7c6dcc0e0860",
+			"title": "How to Make Special Gems",
+			"description": "Need the Bejeweled Blitz basics? Watch now and see how to create explosive special jewels like Lightning gems and Hypercubes!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 39
+				}
+			},
+			"originalReleaseDate": "/Date(1298451600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": null,
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/fdb5c781-15e0-4938-9466-7c6dcc0e0860/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fdb5c781-15e0-4938-9466-7c6dcc0e0860",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d644-f201-cc22-b41e58410a57",
+			"title": "King of Blitz",
+			"description": "Want to be Bejeweled Blitz royalty? Only a select few have what it takes to wear the crown jewels!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d644-f201-cc22-b41e58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d644-f201-cc22-b41e58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-d644-d223-c775-322f58410a57",
+			"title": "Magic Blitz Gem",
+			"description": "With the snap of your fingers, this blue diamond will unfold into a dazzling matrix of gemstone glory.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 23
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-d644-d223-c775-322f58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-d644-d223-c775-322f58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-d644-1211-ce51-cfe758410a57",
+			"title": "PopCap Shirt",
+			"description": "Show how much you love PopCap — creators of Bejeweled Blitz LIVE, Plants vs. Zombies, Peggle, and more!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-d644-1211-ce51-cfe758410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-d644-1211-ce51-cfe758410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.50",
+				"silverPrice": "$0.50"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.5,
+					"display": "$0.50",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-d644-f2c2-cb98-3ecd58410a57",
+			"title": "PopCap Shirt",
+			"description": "Show how much you love PopCap — creators of Bejeweled Blitz LIVE, Plants vs. Zombies, Peggle, and more!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-d644-f2c2-cb98-3ecd58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-d644-f2c2-cb98-3ecd58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.50",
+				"silverPrice": "$0.50"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.5,
+					"display": "$0.50",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-d644-b2b2-c93a-e83a58410a57",
+			"title": "Queen of Blitz",
+			"description": "Want to be Bejeweled Blitz royalty? Only a select few have what it takes to wear the crown jewels!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-d644-b2b2-c93a-e83a58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-d644-b2b2-c93a-e83a58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000438-d644-c2f2-c346-4ebb58410a57",
+			"title": "Ruby Dress",
+			"description": "The dress itself is stunning — but those ruby shoes! They’ll make you click your heals and shout, “There’s no place like Bejeweled Blitz. There’s no place like Bejeweled Blitz.”",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000438-d644-c2f2-c346-4ebb58410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000438-d644-c2f2-c346-4ebb58410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000a38-d644-f201-c475-698458410a57",
+			"title": "Ruby Tux",
+			"description": "The finest Bejeweled tux on the market, with rubies everywhere! Come on — it'll probably be the only suit in your wardrobe.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1297846800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000a38-d644-f201-c475-698458410a57/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000a38-d644-f201-c475-698458410a57",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

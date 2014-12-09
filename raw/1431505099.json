@@ -1,0 +1,147 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802555308cb",
+	"title": "The Crew",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Crew is a revolutionary action-driving MMO that connects players online like never before. The Crew takes you and your friends on a wild ride across a massive, open-world recreation of the United States that is loaded with exciting challenges. Generous in content and tailored for the connected generation, The Crew sets a new benchmark  that redefines action-driving games.",
+	"genres": [
+		{
+			"label": "Racing & Flying"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Ubisoft",
+	"originalReleaseDate": "/Date(1417478400000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308cb/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/The-Crew/66acd000-77fe-1000-9115-d802555308cb",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308cb/Children",
+	"childDownloads": [
+		{
+			"id": "67782ba4-0a6d-4cad-9313-e304b2733387",
+			"title": "The Crew Season Pass",
+			"description": "Expand your Crew experience with the Season Pass, which ensures that your garage will be well-stocked with a wealth of content for months to come : -One week early access for All Season Pass Content -Four Additional Car Packs (twelve cars total) *The Extreme Car Pack *The Speed Car Pack *The Vintage Car Pack *The Raid Car Pack -New car Stickers, Paint Jobs, and Unlocked Tuning Specs -Two Additional Cars Exclusive to Season Pass Holders ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1417510800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Racing & Flying"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/67782ba4-0a6d-4cad-9313-e304b2733387/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/67782ba4-0a6d-4cad-9313-e304b2733387",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$24.99",
+				"silverPrice": "$24.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 24.99,
+					"display": "$24.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

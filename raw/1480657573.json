@@ -1,0 +1,374 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410aa5",
+	"title": "Strania",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Reminiscent of nostalgic arcade games from the 1980s, XBox LIVE Arcade delivers an authentic robot shoot'em up with Strania. Incorporating strategic decision-making with the exhilarating action that defines the genre, Strania offers a dynamic game system and features dramatic effects plus a catchy soundtrack. Get ready for some hot arcade action as we're bringing back true hardcore arcade gameplay!",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "G.rev",
+	"studio": "G.rev",
+	"originalReleaseDate": "/Date(1301443200000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Strania/66acd000-77fe-1000-9115-d80258410aa5",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 2263
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"GamerPic"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410aa5/Children",
+	"childDownloads": [
+		{
+			"id": "c6183c80-4de8-41e5-bd41-389865b1e3d8",
+			"title": "Gamer Icon Pack 1 for Strania - The Stella Machina -",
+			"description": "Gamer Icon Pack 1 for Strania - The Stella Machina. Set of 5 characters & symbols from the Stranian army. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 38
+				}
+			},
+			"originalReleaseDate": "/Date(1301043600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c6183c80-4de8-41e5-bd41-389865b1e3d8",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5625a9d3-3050-4825-baae-a11956fe1946",
+			"title": "Gamer Icon Pack 2 for Strania - The Stella Machina -",
+			"description": "Gamer Icon Pack 2 for Strania - The Stella Machina. Set of 5 characters & symbols from the Vower army.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 48
+				}
+			},
+			"originalReleaseDate": "/Date(1304067600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5625a9d3-3050-4825-baae-a11956fe1946",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410aa5",
+			"title": "Strania",
+			"description": "(Online Interactions Not Rated by the ESRB) Reminiscent of nostalgic arcade games from the 1980s, XBox LIVE Arcade delivers an authentic robot shoot'em up with Strania. Incorporating strategic decision-making with the exhilarating action that defines the genre, Strania offers a dynamic game system and features dramatic effects plus a catchy soundtrack. Get ready for some hot arcade action as we're bringing back true hardcore arcade gameplay!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 2263
+				}
+			},
+			"originalReleaseDate": "/Date(1301475600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"GamerPic"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410aa5",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "414df183-ef7c-4533-8f6a-6b0c678e776f",
+			"title": "Trial Game - Strania - The Stella Machina -",
+			"description": "Reminiscent of nostalgic arcade games from the 1980s, XBox LIVE Arcade delivers an authentic robot shoot'em up with Strania. Incorporating strategic decision-making with the exhilarating action that defines the genre, Strania offers a dynamic game system and features dramatic effects plus a catchy soundtrack. Get ready for some hot arcade action as we're bringing back true hardcore arcade gameplay!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1301475600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/414df183-ef7c-4533-8f6a-6b0c678e776f/1041/boxartlg.jpg",
+			"url": "/en-US/X8/Game/414df183-ef7c-4533-8f6a-6b0c678e776f",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "45c63af7-ca54-485f-a838-05867abf5423",
+			"title": "Strania - The Stella Machina -",
+			"description": "Reminiscent of nostalgic arcade games from the 1980s, XBox LIVE Arcade delivers an authentic robot shoot'em up with Strania. Incorporating strategic decision-making with the exhilarating action that defines the genre, Strania offers a dynamic game system and features dramatic effects plus a catchy soundtrack. Get ready for some hot arcade action as we're bringing back true hardcore arcade gameplay!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 26
+				}
+			},
+			"originalReleaseDate": "/Date(1300266000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aa5/1041/boxartlg.jpg",
+			"url": "/en-US/X8/Game/45c63af7-ca54-485f-a838-05867abf5423",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "11077950-1d6a-449b-8c45-1783281f172e",
+			"title": "Strania - The Stella Machina - Add-on Gamemode \"Side VOWER\"",
+			"description": "Experience the other side of the epic of Strania with the Side Vower downloadable content pack. Play as Strania’s opposition – the Vower – who have traveled across the galaxy to reclaim the land they hold sacred. Side Vower includes six new stages featuring new enemy characters, frantic boss fights and new music tracks.	There are no refunds for this item. For more information, see www.xbox.com/live/accounts. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1305104400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/11077950-1d6a-449b-8c45-1783281f172e/1041/boxartlg.jpg",
+			"url": "/en-US/X8/Game/11077950-1d6a-449b-8c45-1783281f172e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,353 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802fffe07d1",
+	"title": "Xbox 360 Dashboard",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Xbox 360 Dashboard",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Xbox LIVE",
+	"studio": "Microsoft Corporation",
+	"originalReleaseDate": "/Date(1199145600000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Xbox-360-Dashboard/66acd000-77fe-1000-9115-d802fffe07d1",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 37636
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802fffe07d1/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400b-80b0-0016fffe07d1",
+			"title": "Family Settings Video (480p)",
+			"description": "Find out how Family Settings on Xbox 360 enhances you and your family’s entertainment experience. Parents can decide what games their kids can play, the extent of online access, and much more. (English, Not Rated)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 88
+				}
+			},
+			"originalReleaseDate": "/Date(1131926400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80b0-0016fffe07d1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80b0-0015fffe07d1",
+			"title": "Family Settings Video (720p)",
+			"description": "Find out how Family Settings on Xbox 360 enhances you and your family’s entertainment experience. Parents can decide what games their kids can play, the extent of online access, and much more. (English, Not Rated)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 119
+				}
+			},
+			"originalReleaseDate": "/Date(1131926400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80b0-0015fffe07d1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80b0-002cfffe07d1",
+			"title": "MCE Network Video (480p)",
+			"description": "Xbox 360 and a PC with Media Center Edition delivers the ultimate integration of gaming and room-to-room entertainment.  This video will show you the option best for you. (English, Not Rated)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 74
+				}
+			},
+			"originalReleaseDate": "/Date(1137369600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80b0-002cfffe07d1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80b0-002bfffe07d1",
+			"title": "MCE Network Video (720p)",
+			"description": "Xbox 360 and a PC with Media Center Edition delivers the ultimate integration of gaming and room-to-room entertainment.  This video will show you the option best for you. (English, Not Rated)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 120
+				}
+			},
+			"originalReleaseDate": "/Date(1137369600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80b0-002bfffe07d1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4000-8000-0003fffe07c3",
+			"title": "Red vs Blue Special",
+			"description": "Download the Red vs. Blue: The Full Circle trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 692
+				}
+			},
+			"originalReleaseDate": "/Date(1132012800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://mktplassets.xbox.com/NR/rdonlyres/7AB64323-D2A4-46DC-93B4-43ED42763FAD/0/cboxredvsbluegeneric.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4000-8000-0003fffe07c3",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0003fffe07c3",
+			"title": "Winter Holiday Theme",
+			"description": "Enjoy this limited time offer. Let it snow! No matter where you are in the world, you can experience a holiday winter wonderland on your Xbox 360.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 95
+				}
+			},
+			"originalReleaseDate": "/Date(1229504400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07c3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0003fffe07c3",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80b0-0004fffe07d1",
+			"title": "Xbox 360 Accessories Video (480p)",
+			"description": "With an advanced ecosystem of Authentic Xbox 360 Accessories, you’ll get the most out of your Xbox 360, because they come from Xbox 360.   From the award-winning Wireless Controller to the sleek Wireless Networking Adaptor, Authentic Xbox 360 Accessories define quality, design, and performance.  (English, Not Rated)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 107
+				}
+			},
+			"originalReleaseDate": "/Date(1131926400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80b0-0004fffe07d1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-400b-80b0-0003fffe07d1",
+			"title": "Xbox 360 Accessories Video (720p)",
+			"description": "With an advanced ecosystem of Authentic Xbox 360 Accessories, you’ll get the most out of your Xbox 360, because they come from Xbox 360.   From the award-winning Wireless Controller to the sleek Wireless Networking Adaptor, Authentic Xbox 360 Accessories define quality, design, and performance.  (English, Not Rated)",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 151
+				}
+			},
+			"originalReleaseDate": "/Date(1131926400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80b0-0003fffe07d1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

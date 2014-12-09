@@ -1,0 +1,833 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111fb",
+	"title": "Shoot Many Robots",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Shoot Many Robots is a 4-player co-op run-n’-gun action game starring robot slayer and gun aficionado, P. Walter Tugnut. From a gun that shoots garden gnome missiles to a tutu that boosts speed and damage, there are hundreds of crazy guns and gear to unlock that boost Walter’s stats – not to mention, make him look pretty. You and three friends can team up to exterminate a zillion robots while progressing through tons of missions, facing uncomfortably epic bosses, and leveling up along the way.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Role Playing"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Demiurge",
+	"originalReleaseDate": "/Date(1331683200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Sexual Themes",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Use of Alcohol",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Shoot-Many-Robots/66acd000-77fe-1000-9115-d802584111fb",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 11528
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111fb/Children",
+	"childDownloads": [
+		{
+			"id": "00000544-c68b-82b3-ca88-a910584111fb",
+			"title": "A Paper Bag",
+			"description": "You can't fear what you can't see.  Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 60
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-c68b-82b3-ca88-a910584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-c68b-82b3-ca88-a910584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-0953-92b3-ca0d-a6aa584111fb",
+			"title": "Beverage Hat",
+			"description": "Refreshment where it belongs: as close to your brain as possible.  Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 54
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-0953-92b3-ca0d-a6aa584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-0953-92b3-ca0d-a6aa584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-b32d-42e3-cdb7-b5ce584111fb",
+			"title": "Chopper Helmet",
+			"description": "Long ago they taunted you with cries of \"Robothead!\"  Turns out they were kinda right.  Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-b32d-42e3-cdb7-b5ce584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-b32d-42e3-cdb7-b5ce584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-ec46-7223-c17b-67e1584111fb",
+			"title": "Chopper Pet",
+			"description": "Bad things happen when wireless chainsaws download cute puppy videos in thunderstorms.	Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-ec46-7223-c17b-67e1584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-ec46-7223-c17b-67e1584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "000008f8-5bf0-82e1-c7de-9f98584111fb",
+			"title": "Fairy Outfit",
+			"description": "Tutu and tiara: because ballerinas are the ultimate athletes.  Wings: for luck.  Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/000008f8-5bf0-82e1-c7de-9f98584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/000008f8-5bf0-82e1-c7de-9f98584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584111fb",
+			"title": "Shoot Many Robots",
+			"description": "Shoot Many Robots is a 4-player co-op run-n’-gun action game starring robot slayer and gun aficionado, P. Walter Tugnut. From a gun that shoots garden gnome missiles to a tutu that boosts speed and damage, there are hundreds of crazy guns and gear to unlock that boost Walter’s stats – not to mention, make him look pretty. You and three friends can team up to exterminate a zillion robots while progressing through tons of missions, facing uncomfortably epic bosses, and leveling up along the way.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 11528
+				}
+			},
+			"originalReleaseDate": "/Date(1331715600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111fb",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b0cbe9e2-fbdf-4575-a928-6035e997eebc",
+			"title": "Trial Game - Shoot Many Robots",
+			"description": "Shoot Many Robots is a 4-player co-op run-n’-gun action game starring robot slayer and gun aficionado, P. Walter Tugnut. From a gun that shoots garden gnome missiles to a tutu that boosts speed and damage, there are hundreds of crazy guns and gear to unlock that boost Walter’s stats – not to mention, make him look pretty. You and three friends can team up to exterminate a zillion robots while progressing through tons of missions, facing uncomfortably epic bosses, and leveling up along the way.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1331715600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b0cbe9e2-fbdf-4575-a928-6035e997eebc/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b0cbe9e2-fbdf-4575-a928-6035e997eebc",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c64c0aa3-3907-4797-bcfc-fb10ba6353e6",
+			"title": "Shoot Many Robots - CustomizationTrailer",
+			"description": "How many games let you equip fairy wings, a viking helmet, tighty whities, and a flamethrower? And they're not just for aesthetics, either; all of them affect your stats in different ways and some grant special abilities. There are hundreds and hundreds of guns and gear to find in Shoot Many Robots, and you can tailor the equipment you wear to your play style.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 85
+				}
+			},
+			"originalReleaseDate": "/Date(1331888400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c64c0aa3-3907-4797-bcfc-fb10ba6353e6",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "85602de3-df8c-4fb1-80db-0bf4cf04b262",
+			"title": "Shoot Many Robots - Meet The Robots Trailer",
+			"description": "When we say you will be shooting \"many\" robots, we mean both quantity and variety. This trailer showcases more of the robots you will be dismantling with bullets. From the tiny, yet ferocious Hummer robot that buzzes above your head, to the hulking Six Pack that plants itself on the battlefield and spews missiles and robot hordes from its maw, there's quite an assortment of robots to kill. Familiarize yourself with the enemy; the robot apocalypse is almost upon us. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 149
+				}
+			},
+			"originalReleaseDate": "/Date(1331888400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/85602de3-df8c-4fb1-80db-0bf4cf04b262",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8da46197-1293-4140-a42b-fe8cbaaab0b8",
+			"title": "Shoot Many Robots - Missions Trailer",
+			"description": "It’s no secret that Shoot Many Robots is light on story. The robots are here, and it’s your job to shoot them. Blitzing through run-n-gun missions and standing your ground in survival missions, you must make your way to the robot factories and shut them down. And don’t forget to bring friends – four guns are better than one. Good luck, future Walters; many robots await your bullets.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 72
+				}
+			},
+			"originalReleaseDate": "/Date(1331888400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Sexual Themes",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8da46197-1293-4140-a42b-fe8cbaaab0b8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7a50f7be-a9af-4d79-851a-636214ece169",
+			"title": "Shoot Many Robots Premium Theme",
+			"description": "Take your dashboard from cheerless to fearless, from faded to Farm Town, from underwhelming to Overlord's Den, from gno fun to gnoming missile, from Shabbyshab McShabbersen to Shoot Many Robots, with this stunning makeover commemorating the release of the 4-player co-op run-n'-gun.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 111
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111fb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7a50f7be-a9af-4d79-851a-636214ece169",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-d292-52b2-c724-022b584111fb",
+			"title": "Shoot Many Robots Tee",
+			"description": "Celebrate your affinity for the premiere robot dating sim franchise.  Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-d292-52b2-c724-022b584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-d292-52b2-c724-022b584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-f602-c241-c049-93ef584111fb",
+			"title": "Shoot Many Robots Tee",
+			"description": "Celebrate your affinity for the premiere robot dating sim franchise.  Shoot Many Robots",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-f602-c241-c049-93ef584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-f602-c241-c049-93ef584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-e011-1283-cbee-7e22584111fb",
+			"title": "Toy Gnoming Missile Launcher",
+			"description": "Gary the Garden Gnome is prophesied to lead the forces of whimsy in the end-times Ragnarok against irony. Download this Shoot Many Robots Avatar item now!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 62
+				}
+			},
+			"originalReleaseDate": "/Date(1331629200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e011-1283-cbee-7e22584111fb/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e011-1283-cbee-7e22584111fb",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

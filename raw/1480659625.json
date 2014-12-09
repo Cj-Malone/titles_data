@@ -1,0 +1,101 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584112a9",
+	"title": "Avatar FameStar",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Avatar FameStar is a new program from Microsoft Studios that delivers new and exciting ways to play online with your friends and compete for social recognition!  Dress your Avatar with exclusive new outfits and items, and show your achievements off to your friends and competitors. Avatar FameStar puts you in the spotlight, bringing Avatar FameStar games together to reward people who play and compete!",
+	"genres": [
+		{
+			"label": "Avatar"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Microsoft Studios",
+	"originalReleaseDate": "/Date(1343952000000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Avatar-FameStar/66acd000-77fe-1000-9115-d802584112a9",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 2141
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112a9/Children",
+	"childDownloads": [
+		{
+			"id": "d454e908-4400-454f-aeda-9461fffe1d10",
+			"title": "Avatar FameStar Trailer",
+			"description": "Avatar FameStar is a new program from Microsoft Studios that delivers new and exciting ways to play online with your friends and compete for social recognition!  Dress your Avatar with exclusive new outfits and items, and show your achievements off to your friends and competitors. Avatar FameStar puts you in the spotlight, bringing Avatar FameStar games together to reward people who play and compete!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 183
+				}
+			},
+			"originalReleaseDate": "/Date(1343984400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Strategy & Simulation"
+				},
+				{
+					"label": "Card & Board"
+				},
+				{
+					"label": "Kinect"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112a9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d454e908-4400-454f-aeda-9461fffe1d10",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

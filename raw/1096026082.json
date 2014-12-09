@@ -1,0 +1,2168 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802415407e2",
+	"title": "P4AU",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\".  ATLUS and Arc System Works team up once again to produce the next deadly broadcast on the Midnight Channel! The P-1 Grand Prix tournament is barely over, but the P-1 Climax has already begun. A mysterious red fog settles over the real world and the Persona-users assemble anew to apprehend the culprit once and for all. The time to settle accounts has come.  The events of Persona 4 Arena reach their thrilling conclusion in the massive story mode of Persona 4 Arena Ultimax! New playable characters, including fan favorites from the Persona 3 and 4 RPGs, add even more breadth to the already diverse roster.  Master new skills, systems, modes, and “Shadow” versions of characters, and challenge the world’s best players in online matches.",
+	"genres": [
+		{
+			"label": "Fighting"
+		}
+	],
+	"publisher": "ATLUS",
+	"studio": "ATLUS/ARC SYSTEM WORKS",
+	"originalReleaseDate": "/Date(1416528000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Language",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Use of Tobacco",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Blood",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": "http://download.xbox.com/content/415407e2/P4AU_Xbx_DIG2.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415407e2/1033/screenlg13.jpg"
+	],
+	"detailsUrl": "/en-US/Product/P4AU/66acd000-77fe-1000-9115-d802415407e2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 643
+		}
+	},
+	"price": {
+		"goldPrice": "$59.99",
+		"silverPrice": "$59.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 59.99,
+			"display": "$59.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802415407e2/Children",
+	"childDownloads": [
+		{
+			"id": "ebd960fb-b21f-407e-9b66-7d1be92fd909",
+			"title": "Additional BGM #1",
+			"description": "Makes \"Persona Invocation\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ebd960fb-b21f-407e-9b66-7d1be92fd909/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ebd960fb-b21f-407e-9b66-7d1be92fd909",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "38421265-fa43-4692-8d58-cd2cc562e4b0",
+			"title": "Additional BGM #2",
+			"description": "Makes \"Persona\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/38421265-fa43-4692-8d58-cd2cc562e4b0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/38421265-fa43-4692-8d58-cd2cc562e4b0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e01369c3-4a38-4299-b380-059b50e83a0c",
+			"title": "Additional BGM #3",
+			"description": "Makes \"Someone Else's Man\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e01369c3-4a38-4299-b380-059b50e83a0c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e01369c3-4a38-4299-b380-059b50e83a0c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "6612bfc8-3266-4369-819c-da9c2d16fab2",
+			"title": "Additional BGM #4",
+			"description": "Makes \"Reach Out to the Truth -Instrumental Ver.-\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/6612bfc8-3266-4369-819c-da9c2d16fab2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/6612bfc8-3266-4369-819c-da9c2d16fab2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "eb43bccb-1301-4a9a-ae1d-58ce803f0fb0",
+			"title": "Additional BGM: P3 Pack",
+			"description": "Makes \"Burn My Dread,\" \"Memories of You\" and \"Deep Mentality \" available as BGM for battles and the main menu. NOTE: If you download \"System Data ver. 1.30\" or \"Additional Character 1, 2 or 3\", some BGM tracks will become the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/eb43bccb-1301-4a9a-ae1d-58ce803f0fb0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/eb43bccb-1301-4a9a-ae1d-58ce803f0fb0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4f28921b-1055-4b56-828f-0e6d57c735a5",
+			"title": "Additional BGM: P3F Pack",
+			"description": "Makes \"P3 FES,\" \"Brand New Days\" and \"Darkness\" available as BGM for battles and the main menu. NOTE: If you download \"System Data ver. 1.30\" or \"Additional Character 1, 2 or 3\", some BGM tracks will become the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4f28921b-1055-4b56-828f-0e6d57c735a5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4f28921b-1055-4b56-828f-0e6d57c735a5",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d80fa9fc-a21a-481c-a268-530f59d131a6",
+			"title": "Additional BGM: P3P Pack",
+			"description": "Makes \"Soul Phrase -long ver.-,\" \"Wiping All Out\" and \"Sun\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d80fa9fc-a21a-481c-a268-530f59d131a6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d80fa9fc-a21a-481c-a268-530f59d131a6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "111d8452-11ab-48ec-95ba-8da9335d3b05",
+			"title": "Additional BGM: P4 Pack #1",
+			"description": "Makes \"Pursuing My True Self,\" \"Heaven\" and \"Quelorie Magic!\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/111d8452-11ab-48ec-95ba-8da9335d3b05/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/111d8452-11ab-48ec-95ba-8da9335d3b05",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "76b4b3f2-24c6-452a-a87c-7e1007524579",
+			"title": "Additional BGM: P4 Pack #2",
+			"description": "Makes \"Never More,\" \"Time to Make History\" and \"It’s SHOW TIME!\" available as BGM for battles and the main menu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/76b4b3f2-24c6-452a-a87c-7e1007524579/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/76b4b3f2-24c6-452a-a87c-7e1007524579",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ed059bd8-1177-4042-aa28-cc2df7bd50b6",
+			"title": "Additional BGM: P4 Pack #3",
+			"description": "Makes \"Shadow World,\" \"Let's Hit the Beach\" and \"True Story\" available as BGM for battles and the main menu. NOTE: If you download \"System Data ver. 1.30\" or \"Additional Character 1, 2 or 3\", some BGM tracks will become the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ed059bd8-1177-4042-aa28-cc2df7bd50b6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ed059bd8-1177-4042-aa28-cc2df7bd50b6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8676363d-63ac-4185-a67d-a362ec4724ea",
+			"title": "Additional BGM: P4A Arranged Pack #1",
+			"description": "Makes \"The Arena -Naked Mix-,\" \"The Hero from Junes -Electro Mix-\" and \"Like a Dragon -Girl Pop Mix-\" available as BGM for battles and the main menu. NOTE: If you download \"System Data ver. 1.30\" or \"Additional Character 1, 2 or 3\", the BGM tracks will become the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8676363d-63ac-4185-a67d-a362ec4724ea/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8676363d-63ac-4185-a67d-a362ec4724ea",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "37c2ca8a-8c0b-4cae-951e-fec954a52e93",
+			"title": "Additional BGM: P4A Arranged Pack #2",
+			"description": "Makes \"Princess Amagi -Traditional Taste Mix-,\" \"The Wandering Wolf -Electro Mix-\" and \"Missions for the Brilliant Executioner -2K Mix-\" available as BGM for battles and the main menu. NOTE: If you download \"System Data ver. 1.30\" or \"Additional Character 1, 2 or 3\", the BGM tracks will become the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/37c2ca8a-8c0b-4cae-951e-fec954a52e93/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/37c2ca8a-8c0b-4cae-951e-fec954a52e93",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "907c33f5-114a-4977-b32f-7380784b4179",
+			"title": "Additional BGM: PQ Pack",
+			"description": "Makes \"MAZE OF LIFE,\" \"Light the Fire Up in the Night DARK HOUR\" and \"Light the Fire Up in the Night MIDNIGHT\" available as BGM for battles and the main menu. NOTE: If you download \"System Data ver. 1.30\" or \"Additional Character 1, 2 or 3\", some BGM tracks will become the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/907c33f5-114a-4977-b32f-7380784b4179/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/907c33f5-114a-4977-b32f-7380784b4179",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f57ba00e-bb90-483f-b010-644ac4036cac",
+			"title": "Additional Character 1: Tohru Adachi",
+			"description": "Adds Tohru Adachi to the roster of playable fighters and makes Episode \"Adachi\" available in Story Mode. This DLC also includes Glasses and 6 colors + 2 offline-only colors for Adachi. The icons \"Tohru Adachi C,\" \"Tohru Adachi D\" and \"Magatsu-Izanagi\" will also be available under P-Card Edit. NOTE: Episode \"Adachi\" is unlocked after completing Episode \"P4.\" NOTE: Downloading this will change certain BGM tracks into the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 44
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f57ba00e-bb90-483f-b010-644ac4036cac/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f57ba00e-bb90-483f-b010-644ac4036cac",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d4c7fcaf-3612-4a3e-b5d6-2d8785be1c30",
+			"title": "Additional Character 2: Marie",
+			"description": "Adds Marie to the roster of playable fighters. This DLC also includes Glasses and 6 colors + 2 offline-only colors for Marie. The icons \"Marie D,\" \"Marie E\" and \"Kaguya\" will also be available under P-Card Edit. NOTE: Downloading this will change certain BGM tracks into the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d4c7fcaf-3612-4a3e-b5d6-2d8785be1c30/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d4c7fcaf-3612-4a3e-b5d6-2d8785be1c30",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c713c30a-0b14-4e56-8813-51fa983a0525",
+			"title": "Additional Character 3: Margaret",
+			"description": "Adds Margaret to the roster of playable fighters. This DLC also includes Glasses and 6 colors + 2 offline-only colors for Margaret. The icons \"Margaret B,\" \"Margaret C,\" \"Cu Chulainn,\" \"Ardha\" and \"Yoshitsune\" will also be available under P-Card Edit. NOTE: Downloading this will change certain BGM tracks into the full-length versions.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c713c30a-0b14-4e56-8813-51fa983a0525/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c713c30a-0b14-4e56-8813-51fa983a0525",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f4cceca6-9e97-40b9-a803-2f56e61fda1c",
+			"title": "Additional Colors Full Pack",
+			"description": "Additional colors for all 19 characters. Each character will have 6 new colors + 2 offline-only colors.  NOTE: This DLC contains all of the individual Additional Colors Packs.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f4cceca6-9e97-40b9-a803-2f56e61fda1c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f4cceca6-9e97-40b9-a803-2f56e61fda1c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$5.99",
+				"silverPrice": "$5.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 5.99,
+					"display": "$5.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5a0ab722-04a2-45fa-8e3f-0e8a1801e013",
+			"title": "Additional Colors Pack #1",
+			"description": "Additional colors for Yu, Yukiko, and Teddie. Each character will have 6 new colors + 2 offline-only colors.  NOTE: This DLC is included in the \"Additional Colors Full Pack.\" NOTE: If you have purchased \"Additional Colors Pack #1\" or \"Additional Colors Full Pack\" for the original Persona 4 Arena, you do not have to purchase this.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/5a0ab722-04a2-45fa-8e3f-0e8a1801e013/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5a0ab722-04a2-45fa-8e3f-0e8a1801e013",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "919abb0f-3212-4b5b-97f7-73d0c1bf8423",
+			"title": "Additional Colors Pack #2",
+			"description": "Additional colors for Chie, Naoto, and Akihiko. Each character will have 6 new colors + 2 offline-only colors.  NOTE: This DLC is included in the \"Additional Colors Full Pack.\" NOTE: If you have purchased \"Additional Colors Pack #2\" or \"Additional Colors Full Pack\" for the original Persona 4 Arena, you do not have to purchase this.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/919abb0f-3212-4b5b-97f7-73d0c1bf8423/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/919abb0f-3212-4b5b-97f7-73d0c1bf8423",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "30a467dc-9c81-4d23-84e2-ebdca990bdf2",
+			"title": "Additional Colors Pack #3",
+			"description": "Additional colors for Yosuke, Aigis, and Labrys. Each character will have 6 new colors + 2 offline-only colors.  NOTE: This DLC is included in the \"Additional Colors Full Pack.\" NOTE: If you have purchased \"Additional Colors Pack #3\" or \"Additional Colors Full Pack\" for the original Persona 4 Arena, you do not have to purchase this.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/30a467dc-9c81-4d23-84e2-ebdca990bdf2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/30a467dc-9c81-4d23-84e2-ebdca990bdf2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9292e0b7-8171-4a18-a0aa-1a98c44cf11c",
+			"title": "Additional Colors Pack #4",
+			"description": "Additional colors for Kanji, Mitsuru, Elizabeth and Shadow Labrys. Each character will have 6 new colors + 2 offline-only colors. NOTE: This DLC is included in the \"Additional Colors Full Pack.\" NOTE: If you have purchased \"Additional Colors Pack #4\" or \"Additional Colors Full Pack\" for the original Persona 4 Arena, you do not have to purchase this.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9292e0b7-8171-4a18-a0aa-1a98c44cf11c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9292e0b7-8171-4a18-a0aa-1a98c44cf11c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a59652ea-c6ec-4110-996f-c09d38d95127",
+			"title": "Additional Colors Pack #5",
+			"description": "Additional colors for Yukari, Sho, and Ken. Each character will have 6 new colors + 2 offline-only colors.  NOTE: This DLC is included in the \"Additional Colors Full Pack.\"",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a59652ea-c6ec-4110-996f-c09d38d95127/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a59652ea-c6ec-4110-996f-c09d38d95127",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e6b513ee-6d9e-4e16-bf8c-b6cff94db4ce",
+			"title": "Additional Colors Pack #6",
+			"description": "Additional colors for Junpei, Minazuki, and Rise. Each character will have 6 new colors + 2 offline-only colors.  NOTE: This DLC is included in the \"Additional Colors Full Pack.\"",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e6b513ee-6d9e-4e16-bf8c-b6cff94db4ce/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e6b513ee-6d9e-4e16-bf8c-b6cff94db4ce",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cefd909c-688a-4110-9128-2c200c274345",
+			"title": "Boss Character Unlock",
+			"description": "Makes powerful boss versions of the characters available to play as. NOTE: Boss Characters are unavailable in certain modes. NOTE: This content can be unlocked normally through gameplay.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1412672400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/cefd909c-688a-4110-9128-2c200c274345/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cefd909c-688a-4110-9128-2c200c274345",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9c9d509e-a1ea-4ef4-a97c-3d026518a41f",
+			"title": "Challenge Demonstrations",
+			"description": "Unlocks demonstration videos for Challenges #25 and #30 in Challenge Mode for all characters. NOTE: This content can be unlocked normally through gameplay.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.75,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1413277200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9c9d509e-a1ea-4ef4-a97c-3d026518a41f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9c9d509e-a1ea-4ef4-a97c-3d026518a41f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d08ecc18-f032-46af-b55a-9a81e9563aa2",
+			"title": "Full Icon Unlock",
+			"description": "Unlocks all Icons. You may immediately select any Icon of your choice to represent you. NOTE: This content can be unlocked normally through gameplay.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d08ecc18-f032-46af-b55a-9a81e9563aa2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d08ecc18-f032-46af-b55a-9a81e9563aa2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d0e8ee65-98f0-45a5-8813-2331f287d233",
+			"title": "Full Title Unlock",
+			"description": "Unlocks all Title phrases in the game. You can select a combination of all available phrases to create your own Title. NOTE: This content can be unlocked normally through gameplay.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d0e8ee65-98f0-45a5-8813-2331f287d233/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d0e8ee65-98f0-45a5-8813-2331f287d233",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c282fc12-0baf-47d2-ac56-95ffa89934e8",
+			"title": "Glasses Full Pack",
+			"description": "Glasses for all characters. You can select different glasses colors for each character to wear during battle. NOTE: This DLC contains all of the individual \"Glasses Pack\" DLC.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c282fc12-0baf-47d2-ac56-95ffa89934e8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c282fc12-0baf-47d2-ac56-95ffa89934e8",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$5.99",
+				"silverPrice": "$5.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 5.99,
+					"display": "$5.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "b250d0b9-2778-4739-b61f-942b24106b83",
+			"title": "Glasses Pack #1",
+			"description": "Glasses for Yu, Yukiko, and Teddie. You can select different glasses colors for each character to wear during battle. NOTE: This DLC is included in the \"Glasses Full Pack.\" NOTE: If you have purchased \"Glasses Pack #1\" or \"Glasses Full Pack\" for the original Persona 4 Arena, you do not have to purchase this.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/b250d0b9-2778-4739-b61f-942b24106b83/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/b250d0b9-2778-4739-b61f-942b24106b83",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4e4c3b61-ba8d-41de-98fc-545a829a7c3c",
+			"title": "Glasses Pack #2",
+			"description": "Glasses for Chie, Naoto, and Akihiko. You can select different glasses colors for each character to wear during battle. NOTE: This DLC is included in the \"Glasses Full Pack.\" NOTE: If you have purchased \"Glasses Pack #2\" or \"Glasses Full Pack\" for the original Persona 4 Arena, you do not have to purchase this.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1412067600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Use of Tobacco",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Blood",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4e4c3b61-ba8d-41de-98fc-545a829a7c3c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4e4c3b61-ba8d-41de-98fc-545a829a7c3c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

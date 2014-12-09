@@ -1,0 +1,719 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b16",
+	"title": "Street Fighter III: Online Edition",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Street Fighter III: Third Strike Online Edition, one of the most revered, deep, and sophisticated fighting games of all time, now takes the battle online. Fighting game fans new and old owe it to themselves to experience this mastery of 2D fighting. Throw down with enhanced HD-filtered graphics, arcade-perfect gameplay, GGPO seamless multiplayer, YouTube™ replay sharing, new art, and more. It’s time you realized it’s the third strike that counts. • GGPO-Enabled Online Play: SFIII will feature pixel-perfect arcade play online, with a matching system and leaderboards. • Unchanged Arcade Gameplay: Utmost care was taken to maintain an arcade perfect experience and not to change the deep gameplay system. • Upgraded Visuals: Players can customize their viewing experience with new art, UI, and hand-tuned HD Filtering options. • YouTube™ Replay Sharing: Players will be able to watch local and global match replays in-game, and upload replays directly to YouTube™ to share with the rest of the world.",
+	"genres": [
+		{
+			"label": "Fighting"
+		}
+	],
+	"publisher": "Capcom Entertainment, Inc.",
+	"studio": "Iron Galaxy Studios",
+	"originalReleaseDate": "/Date(1314144000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Mild Animated Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/58410b16/Street%20Fighter%20III%20%20Third%20Strike.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Street-Fighter-III-Online-Edition/66acd000-77fe-1000-9115-d80258410b16",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 19576
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b16/Children",
+	"childDownloads": [
+		{
+			"id": "3086ea1d-d279-4992-8c1b-de372259e99f",
+			"title": "Character Color Pack 1",
+			"description": "Fight in style by unlocking a new set of seven colors for every character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 80
+				}
+			},
+			"originalReleaseDate": "/Date(1315386000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/3086ea1d-d279-4992-8c1b-de372259e99f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3086ea1d-d279-4992-8c1b-de372259e99f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a47ad414-5ff0-4fa2-89c5-ef6b63c5602b",
+			"title": "Character Color Pack 2",
+			"description": "Fight in style by unlocking a new set of seven colors for every character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 71
+				}
+			},
+			"originalReleaseDate": "/Date(1318410000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a47ad414-5ff0-4fa2-89c5-ef6b63c5602b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a47ad414-5ff0-4fa2-89c5-ef6b63c5602b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "76f701ff-1fc6-4f10-a7b1-3f04c821ab77",
+			"title": "Match Pack 1",
+			"description": "Watch matches from an exclusive tournament, featuring the best players from around the world.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 45
+				}
+			},
+			"originalReleaseDate": "/Date(1317805200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/76f701ff-1fc6-4f10-a7b1-3f04c821ab77/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/76f701ff-1fc6-4f10-a7b1-3f04c821ab77",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c4f1ff4c-9400-490f-b48a-83ef072ab1aa",
+			"title": "Match Pack 2",
+			"description": "Watch matches from an exclusive tournament, featuring the best players from around the world.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1319619600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/c4f1ff4c-9400-490f-b48a-83ef072ab1aa/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c4f1ff4c-9400-490f-b48a-83ef072ab1aa",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "86194286-2294-4434-95bc-b832f2ba95b3",
+			"title": "Music Pack 1",
+			"description": "Increase the amount of available music to listen to with these tracks from Street Fighter III: New Generation.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 73
+				}
+			},
+			"originalReleaseDate": "/Date(1319619600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/86194286-2294-4434-95bc-b832f2ba95b3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/86194286-2294-4434-95bc-b832f2ba95b3",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3852bc8f-4a90-4765-8931-0fe8d6454705",
+			"title": "Music Pack 2",
+			"description": "Increase the amount of available music to listen to with these tracks from Street Fighter III: 2nd Impact.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 64
+				}
+			},
+			"originalReleaseDate": "/Date(1319619600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/3852bc8f-4a90-4765-8931-0fe8d6454705/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3852bc8f-4a90-4765-8931-0fe8d6454705",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410b16",
+			"title": "Street Fighter III: Online Edition",
+			"description": "Street Fighter III: Third Strike Online Edition, one of the most revered, deep, and sophisticated fighting games of all time, now takes the battle online. Fighting game fans new and old owe it to themselves to experience this mastery of 2D fighting. Throw down with enhanced HD-filtered graphics, arcade-perfect gameplay, GGPO seamless multiplayer, YouTube™ replay sharing, new art, and more. It’s time you realized it’s the third strike that counts. • GGPO-Enabled Online Play: SFIII will feature pixel-perfect arcade play online, with a matching system and leaderboards. • Unchanged Arcade Gameplay: Utmost care was taken to maintain an arcade perfect experience and not to change the deep gameplay system. • Upgraded Visuals: Players can customize their viewing experience with new art, UI, and hand-tuned HD Filtering options. • YouTube™ Replay Sharing: Players will be able to watch local and global match replays in-game, and upload replays directly to YouTube™ to share with the rest of the world.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 19576
+				}
+			},
+			"originalReleaseDate": "/Date(1314176400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b16",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "49f35c1d-175f-46c3-87cc-7042037a89e9",
+			"title": "Trial Game - Street Fighter III: Third Strike Online Edition",
+			"description": "Street Fighter III: Third Strike Online Edition, one of the most revered, deep, and sophisticated fighting games of all time, now takes the battle online. Fighting game fans new and old owe it to themselves to experience this mastery of 2D fighting. Throw down with enhanced HD-filtered graphics, arcade-perfect gameplay, GGPO seamless multiplayer, YouTube™ replay sharing, new art, and more. It’s time you realized it’s the third strike that counts. • GGPO-Enabled Online Play: SFIII will feature pixel-perfect arcade play online, with a matching system and leaderboards. • Unchanged Arcade Gameplay: Utmost care was taken to maintain an arcade perfect experience and not to change the deep gameplay system. • Upgraded Visuals: Players can customize their viewing experience with new art, UI, and hand-tuned HD Filtering options. • YouTube™ Replay Sharing: Players will be able to watch local and global match replays in-game, and upload replays directly to YouTube™ to share with the rest of the world.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1314176400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/49f35c1d-175f-46c3-87cc-7042037a89e9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/49f35c1d-175f-46c3-87cc-7042037a89e9",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fc4fb3ed-7976-40c2-996f-87b22c29c998",
+			"title": "Street Fighter III: Third Strike Online Edition",
+			"description": "Download this trailer now and realize it's the Third Strike that counts!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 104
+				}
+			},
+			"originalReleaseDate": "/Date(1307523600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b16/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fc4fb3ed-7976-40c2-996f-87b22c29c998",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4c8ce564-b7aa-4a28-a28f-5f36f4bf440c",
+			"title": "Unlock Dipswitches",
+			"description": "This allows you to access all of the dipswitch functions without needing to unlock them by playing through the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 105
+				}
+			},
+			"originalReleaseDate": "/Date(1314176400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Mild Animated Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4c8ce564-b7aa-4a28-a28f-5f36f4bf440c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4c8ce564-b7aa-4a28-a28f-5f36f4bf440c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f9c358bb-287f-4a8f-aecf-a1550b3fc488",
+			"title": "Unlock Gill",
+			"description": "This content allows you to play as Gill, the self-proclaimed god, without beating the game with every character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 166
+				}
+			},
+			"originalReleaseDate": "/Date(1314176400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f9c358bb-287f-4a8f-aecf-a1550b3fc488/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f9c358bb-287f-4a8f-aecf-a1550b3fc488",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

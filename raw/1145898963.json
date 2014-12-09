@@ -1,0 +1,125 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802444d07d3",
+	"title": "Avatar Toy Armory",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802444d07d3/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802444d07d3/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Check out the latest Avatar Toy Armory avatar items!  ",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "XBOX LIVE",
+	"studio": "XBOX LIVE",
+	"originalReleaseDate": "/Date(1330387200000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Avatar-Toy-Armory/66acd000-77fe-1000-9115-d802444d07d3",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 14112
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802444d07d3/Children",
+	"childDownloads": [
+		{
+			"id": "03d1ed95-44c7-4aa0-bbd1-72f1051a7c4b",
+			"title": "Armory Picture Pack",
+			"description": "Download this picture pack.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 433
+				}
+			},
+			"originalReleaseDate": "/Date(1340096400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858089f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/03d1ed95-44c7-4aa0-bbd1-72f1051a7c4b",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "206ddcc5-a3dd-4905-9641-9bb0bd09b030",
+			"title": "Armory Premium Theme",
+			"description": "Transform your dash into a fully stocked armory with this awesome premium theme!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 244
+				}
+			},
+			"originalReleaseDate": "/Date(1340096400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858089f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/206ddcc5-a3dd-4905-9641-9bb0bd09b030",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

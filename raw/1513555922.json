@@ -1,0 +1,164 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025a3707d2",
+	"title": "Astro Gaming",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Astro Gaming themes and picture packs.",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Astro Gaming",
+	"studio": "Disruptive Publishers",
+	"originalReleaseDate": "/Date(1391472000000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/screenlg2.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Astro-Gaming/66acd000-77fe-1000-9115-d8025a3707d2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.75,
+			"Count": 68
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025a3707d2/Children",
+	"childDownloads": [
+		{
+			"id": "820e7b4a-b2aa-4bfd-894f-46c985815fe3",
+			"title": "Astro Gaming Alpha Picture Pack 1",
+			"description": "Download this official Astro Gaming picture pack!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 39
+				}
+			},
+			"originalReleaseDate": "/Date(1391677200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/820e7b4a-b2aa-4bfd-894f-46c985815fe3",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "34458752-10e3-4034-bfbe-b99a7862451b",
+			"title": "Astro Gaming Alpha Picture Pack 2",
+			"description": "Download this official Astro Gaming picture pack!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 79
+				}
+			},
+			"originalReleaseDate": "/Date(1391504400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/34458752-10e3-4034-bfbe-b99a7862451b",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a1616b85-ef37-4f0a-b3e6-8621b2efe04f",
+			"title": "Astro Gaming Alpha Theme",
+			"description": "Download this official Astro Gaming theme!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 98
+				}
+			},
+			"originalReleaseDate": "/Date(1391504400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025a3707d2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a1616b85-ef37-4f0a-b3e6-8621b2efe04f",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

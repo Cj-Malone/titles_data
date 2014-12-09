@@ -1,0 +1,126 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802454109dc",
+	"title": "NHL15",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, German, Czech, Finnish, Russian, Swedish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  NHL 15 brings together a generation of EA SPORTS innovation into one complete hockey package.  All-new commentary duo, Mike ‘Doc’ Emrick and Eddie Olczyk call the game in the most jam-packed hockey experience ever.",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Electronic Arts",
+	"studio": "EA SPORTS",
+	"originalReleaseDate": "/Date(1410220800000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/NHL15/66acd000-77fe-1000-9115-d802454109dc",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 2379
+		}
+	},
+	"price": {
+		"goldPrice": "$59.99",
+		"silverPrice": "$59.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 59.99,
+			"display": "$59.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109dc/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802454109dc",
+			"title": "NHL15",
+			"description": "The Games on Demand version supports English, French, German, Czech, Finnish, Russian, Swedish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  NHL 15 brings together a generation of EA SPORTS innovation into one complete hockey package.  All-new commentary duo, Mike ‘Doc’ Emrick and Eddie Olczyk call the game in the most jam-packed hockey experience ever.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 2379
+				}
+			},
+			"originalReleaseDate": "/Date(1410253200000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109dc/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109dc",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$59.99",
+				"silverPrice": "$59.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 59.99,
+					"display": "$59.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

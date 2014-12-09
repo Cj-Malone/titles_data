@@ -1,0 +1,89 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802fffe07df",
+	"title": "Optional Media Update",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07df/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802fffe07df/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Lets you play unprotected music (AAC format) on your console from iPod.",
+	"genres": [
+		{
+			"label": "Other"
+		}
+	],
+	"publisher": "Xbox LIVE",
+	"studio": "Microsoft Corporation",
+	"originalReleaseDate": "/Date(1199145600000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Optional-Media-Update/66acd000-77fe-1000-9115-d802fffe07df",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 61606
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802fffe07df/Children",
+	"childDownloads": [
+		{
+			"id": "71a23495-1c5f-4569-b0bc-56f951377aff",
+			"title": "Optional Media Update",
+			"description": "Lets you play unprotected music (AAC format) on your console from Zune or iPod. Lets you play MPEG4 movies on your console.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 2387
+				}
+			},
+			"originalReleaseDate": "/Date(1310115600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Other"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/71a23495-1c5f-4569-b0bc-56f951377aff/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/71a23495-1c5f-4569-b0bc-56f951377aff",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

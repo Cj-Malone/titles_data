@@ -1,0 +1,156 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d530aa2",
+	"title": "Fable Trilogy",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "This bundle includes three full Xbox 360 games: Fable Anniversary, Fable II and Fable III.  NOTE: These games must only be downloaded via this bundle app after purchase of the Fable Trilogy bundle.  Do not purchase any game individually from the Xbox Store or you will be charged again for that game and will not receive any refund.  If you already own one of the games, you will not receive a refund or discount for that game by purchasing this bundle.  Downloading this app and all three games requires 16.9 GB hard drive space.  These games support English.",
+	"genres": [
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Lionhead Studios",
+	"originalReleaseDate": "/Date(1391472000000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			},
+			{
+				"label": "Use of Alcohol",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Sexual Content",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Fable-Trilogy/66acd000-77fe-1000-9115-d8024d530aa2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 1550
+		}
+	},
+	"price": {
+		"goldPrice": "$59.99",
+		"silverPrice": "$59.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 59.99,
+			"display": "$59.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d530aa2/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024d530aa2",
+			"title": "Fable Trilogy",
+			"description": "This bundle includes three full Xbox 360 games: Fable Anniversary, Fable II and Fable III.  NOTE: These games must only be downloaded via this bundle app after purchase of the Fable Trilogy bundle.  Do not purchase any game individually from the Xbox Store or you will be charged again for that game and will not receive any refund.  If you already own one of the games, you will not receive a refund or discount for that game by purchasing this bundle.  Downloading this app and all three games requires 16.9 GB hard drive space.  These games support English.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 1550
+				}
+			},
+			"originalReleaseDate": "/Date(1391504400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Use of Alcohol",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Sexual Content",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aa2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d530aa2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$59.99",
+				"silverPrice": "$59.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 59.99,
+					"display": "$59.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

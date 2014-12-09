@@ -1,0 +1,966 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410abe",
+	"title": "Renegade Ops",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB) Praised by critics, 8.5/10 IGN and 8/10 Eurogamer, Renegade Ops is the most explosive experience on Xbox LIVE. Control five different vehicles on land and air, each with unique abilities in stunning environments. Power up your skills for the ultimate in destruction. Play alone or team up offline with two player split screen and experience the chaos of 4-Player online Co-op with your friends. Renegade Ops is a blast!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "SEGA",
+	"studio": "Avalanche",
+	"originalReleaseDate": "/Date(1315872000000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Renegade-Ops/66acd000-77fe-1000-9115-d80258410abe",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 7547
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GameAddon",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410abe/Children",
+	"childDownloads": [
+		{
+			"id": "00000ab8-deae-a2b1-c09f-a8b358410abe",
+			"title": "Armand Outfit",
+			"description": "Armand is the definition of larger than life and hell-bent on getting revenge. TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 42
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-deae-a2b1-c09f-a8b358410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-deae-a2b1-c09f-a8b358410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8f64920b-f268-4e6f-915d-86853dd50006",
+			"title": "Renegade Ops Coldstrike Campaign",
+			"description": "The Coldstrike campaign sees the Renegades go up against a new villain codenamed Coldstrike. General Bryant and his team must traverse vast arctic environments to help save innocent civilians and stop this latest threat by any means necessary!  - Take on all new enemies including Cryotech vehicles and monstrous Golems! - Travel across three new fully destructible artic themed maps! - Discover the identity of Coldstrike and stop it from wreaking havoc.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 128
+				}
+			},
+			"originalReleaseDate": "/Date(1324458000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8f64920b-f268-4e6f-915d-86853dd50006/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8f64920b-f268-4e6f-915d-86853dd50006",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-3efc-5202-c6a5-5fbf58410abe",
+			"title": "Diz Outfit",
+			"description": "Diz is a science prodigy, who by age 17 already had two degrees and a PhD in advanced physics. TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-3efc-5202-c6a5-5fbf58410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-3efc-5202-c6a5-5fbf58410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c2a30c15-c8e3-4813-8bba-1d4734f35f85",
+			"title": "Game Modes Trailer ",
+			"description": "Cause carnage in single player mode as one of four playable characters each with their own unique vehicle across nine luscious levels.  Awesome two player co-op as you team up locally on the same console. Use teamwork or compete for high scores. Or join your friends online with up to four player online co-op. True multiplayer has never been so much fun or caused such carnage.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1311757200000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c2a30c15-c8e3-4813-8bba-1d4734f35f85",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "000008f8-6769-c211-c73e-d0cf58410abe",
+			"title": "General Bryant Outfit",
+			"description": "General Bryant is the leader of RENEGADE OPS. Before that he had a long career in the US military. TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/000008f8-6769-c211-c73e-d0cf58410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/000008f8-6769-c211-c73e-d0cf58410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-ea55-f271-c554-b96d58410abe",
+			"title": "Gunnar Outfit",
+			"description": "Cool, calm, methodical. A professional mercenary for hire. TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-ea55-f271-c554-b96d58410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-ea55-f271-c554-b96d58410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-c1a6-02e1-ca21-fd9e58410abe",
+			"title": "Inferno Outfit",
+			"description": "Become notorious madman Inferno and wreck havok on the world! Can you defeat the Renegades?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 11
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-c1a6-02e1-ca21-fd9e58410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-c1a6-02e1-ca21-fd9e58410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "7fb24a55-e117-4aa5-a8c1-4c9b5fc4e469",
+			"title": "Launch trailer",
+			"description": "Renegade Ops is a twin-stick shooter where you control an elite group of ex-military personnel. Take on Inferno and his evil empire using a variety of upgradable vehicles. Travel across stunning environments and destroy everything in sight in this explosive new game from AVALANCHE STUDIOS. Think you got what it takes? Buy Renegade Ops now and prove it!!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 36
+				}
+			},
+			"originalReleaseDate": "/Date(1316509200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7fb24a55-e117-4aa5-a8c1-4c9b5fc4e469",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ac3cd500-664a-40ba-8556-3027ddfda75a",
+			"title": "Renegade Ops Reinforcement Pack Trailer",
+			"description": "General Bryant has found two new recruits to help in the fight against Inferno; Blazemo and Crystal.  Drive Blazemo's buggy with flaming pipes and use his special ability, Incinerator, to turn into a huge fireball that engulfs everything in its path and cause ultimate destruction!  Alternatively you can drive as Crystal and use her Force Field special ability to repel enemy fire and create a safe haven for you and your allies to shoot from.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 55
+				}
+			},
+			"originalReleaseDate": "/Date(1324458000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ac3cd500-664a-40ba-8556-3027ddfda75a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "51469238-26f4-47ac-8015-cf893bb7bbb7",
+			"title": "Renegade Ops Reinforcement Vehicle Pack",
+			"description": "General Bryant has found two new recruits to help in the fight against Inferno; Blazemo and Crystal.  Drive Blazemo's buggy with flaming pipes and use his special ability, Incinerator, to turn into a huge fireball that engulfs everything in its path and cause ultimate destruction!  Alternatively you can drive as Crystal and use her Force Field special ability to repel enemy fire and create a safe haven for you and your allies to shoot from.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 103
+				}
+			},
+			"originalReleaseDate": "/Date(1324458000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/51469238-26f4-47ac-8015-cf893bb7bbb7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/51469238-26f4-47ac-8015-cf893bb7bbb7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410abe",
+			"title": "Renegade Ops",
+			"description": "(Online Interactions Not Rated by the ESRB) Praised by critics, 8.5/10 IGN and 8/10 Eurogamer, Renegade Ops is the most explosive experience on Xbox LIVE. Control five different vehicles on land and air, each with unique abilities in stunning environments. Power up your skills for the ultimate in destruction. Play alone or team up offline with two player split screen and experience the chaos of 4-Player online Co-op with your friends. Renegade Ops is a blast!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 7547
+				}
+			},
+			"originalReleaseDate": "/Date(1315990800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GameAddon",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410abe",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "667ccdce-eadd-4ba6-8fe4-701aed563c66",
+			"title": "Trial Game - Renegade Ops",
+			"description": "In Renegade Ops you must defeat Inferno, a madman intent on global domination. Destroy enemies across a range of stunning environments using a wide variety of vehicles. Players have the choice to fight alone in single player mode, team up offline with two-player split screen or join the dynamic 4-player online co-op experience. Blast your way through enemy lines by working together, or compete for achievements as you and your friends aim to top the online leader boards. ",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1315990800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/667ccdce-eadd-4ba6-8fe4-701aed563c66/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/667ccdce-eadd-4ba6-8fe4-701aed563c66",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000040-190e-02f3-c475-a82e58410abe",
+			"title": "Renegade Ops Cap",
+			"description": "Support the Renegade Ops with this custom cap. TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-190e-02f3-c475-a82e58410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-190e-02f3-c475-a82e58410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5453-d2d1-c1b8-193158410abe",
+			"title": "Renegade Ops T-Shirt",
+			"description": "Support the Renegade Ops with this custom t-shirt (with added dog tags). TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5453-d2d1-c1b8-193158410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5453-d2d1-c1b8-193158410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-c366-0262-c6ce-1cb658410abe",
+			"title": "Renegade Ops T-Shirt",
+			"description": "Support the Renegade Ops with this custom t-shirt (with added dog tags). TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-c366-0262-c6ce-1cb658410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-c366-0262-c6ce-1cb658410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-853f-72c2-ce09-f38458410abe",
+			"title": "Roxy Outfit",
+			"description": "Roxy joined Renegade Ops on her 19th birthday in search of purpose and adventure.TEAM UP, TOOL UP AND RIP IT UP WITH RENEGADE OPS",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1315558800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-853f-72c2-ce09-f38458410abe/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-853f-72c2-ce09-f38458410abe",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ad1162c7-7ed0-418b-9e92-6c4630095c1d",
+			"title": "Upgrades Trailer",
+			"description": "Renegade Ops allows you to upgrade your character's vehicle both in game via the pick up of various different weapons such as flame throwers or rockets or by collecting upgrade points for you to spend between levels to max out your unique abilities, both offensively and defensively.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 22
+				}
+			},
+			"originalReleaseDate": "/Date(1313571600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410abe/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ad1162c7-7ed0-418b-9e92-6c4630095c1d",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

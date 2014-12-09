@@ -1,0 +1,178 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584112c8",
+	"title": "Skydive",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "In Skydive: Proximity Flight, your movements are completely unrestricted. With the help of Kinect sensor you can use your body to speed up, maneuver and soar through the air, like a real skydiver. Learn mid-air tricks that only professional skydivers can do, or make up your own tricks alone or with friends.",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "TopWare Interactive AG",
+	"studio": "Gaijin",
+	"originalReleaseDate": "/Date(1395100800000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Skydive/66acd000-77fe-1000-9115-d802584112c8",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.25,
+			"Count": 483
+		}
+	},
+	"price": {
+		"goldPrice": "$6.99",
+		"silverPrice": "$6.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 6.99,
+			"display": "$6.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112c8/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802584112c8",
+			"title": "Skydive",
+			"description": "In Skydive: Proximity Flight, your movements are completely unrestricted. With the help of Kinect sensor you can use your body to speed up, maneuver and soar through the air, like a real skydiver. Learn mid-air tricks that only professional skydivers can do, or make up your own tricks alone or with friends.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 483
+				}
+			},
+			"originalReleaseDate": "/Date(1394787600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo"
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584112c8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584112c8",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$6.99",
+				"silverPrice": "$6.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 6.99,
+					"display": "$6.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "43ddea81-22ec-4088-98f4-b99df97685c9",
+			"title": "Trial Game - Skydive",
+			"description": "In Skydive: Proximity Flight, your movements are completely unrestricted. With the help of Kinect sensor you can use your body to speed up, maneuver and soar through the air, like a real skydiver. Learn mid-air tricks that only professional skydivers can do, or make up your own tricks alone or with friends.",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1394787600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/43ddea81-22ec-4088-98f4-b99df97685c9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/43ddea81-22ec-4088-98f4-b99df97685c9",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

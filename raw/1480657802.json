@@ -1,0 +1,965 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80258410b8a",
+	"title": "Dragon's Lair",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version is fully playable with Kinect or the Xbox 360 controller so you can really show how well you wield Dirk's sword.  Included with this ultimate edition are bonus Avatar items, Gamerpics and even a full watch feature to sit back and enjoy Don Bluth's stunning animation.  In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles.  Lead on adventurer. Your quest awaits!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Classics"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Digital Leisure",
+	"originalReleaseDate": "/Date(1337299200000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Animated Blood",
+				"image": null
+			},
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/58410b8a/Dragons%20Lair%20ESRB%20Trailer.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Dragons-Lair/66acd000-77fe-1000-9115-d80258410b8a",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 5557
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"GamerPic",
+		"Theme",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b8a/Children",
+	"childDownloads": [
+		{
+			"id": "00000ffc-e0b3-4221-c1f9-5c2d58410b8a",
+			"title": "Black Knight Costume ",
+			"description": "Your enemies won’t dare take you on in this suit of armor! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 39
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-e0b3-4221-c1f9-5c2d58410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-e0b3-4221-c1f9-5c2d58410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000238-74ce-e2a2-c5da-97bc58410b8a",
+			"title": "Daphne Costume ",
+			"description": "You've got style and grace, so why not strut your stuff in this Princess Daphne costume. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000238-74ce-e2a2-c5da-97bc58410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000238-74ce-e2a2-c5da-97bc58410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-83c5-3203-cd9e-a0e858410b8a",
+			"title": "Daphne in Snow Globe ",
+			"description": "Keep Princess Daphne close by with this classic snow globe keepsake prop. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 24
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-83c5-3203-cd9e-a0e858410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-83c5-3203-cd9e-a0e858410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000077c-8480-a271-c603-ebb158410b8a",
+			"title": "Dirk Costume ",
+			"description": "Now you can finally show your face with pride in full Dirk the Daring style! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000077c-8480-a271-c603-ebb158410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000077c-8480-a271-c603-ebb158410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-d5a4-6273-ce58-3f3558410b8a",
+			"title": "Dirk the Daring's Helmet ",
+			"description": "Planning on an adventure today? Best to protect your head with Dirk the Daring's indestructible helmet. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-d5a4-6273-ce58-3f3558410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-d5a4-6273-ce58-3f3558410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80258410b8a",
+			"title": "Dragon's Lair",
+			"description": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version is fully playable with Kinect or the Xbox 360 controller so you can really show how well you wield Dirk's sword.  Included with this ultimate edition are bonus Avatar items, Gamerpics and even a full watch feature to sit back and enjoy Don Bluth's stunning animation.  In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles.  Lead on adventurer. Your quest awaits!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 5557
+				}
+			},
+			"originalReleaseDate": "/Date(1337331600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"GamerPic",
+				"Theme",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80258410b8a",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "78b5471f-3388-4b6d-901c-cd9edcce7b0a",
+			"title": "Trial Game - Dragon's Lair - Trial",
+			"description": "Now's your oppoutunity to give Dragon's Lair, one of the most beloved arcade games of all time, a fresh look!  This fully arcade authentic version includes all of the original scenes you've come to enjoy, and even full Kinect support so you can really show how well you wield Dirk's sword.  With the full version you'll even receive bonus Avatar items, Gamerpics and even have access to a full watch feature so you can sit back and enjoy Don Bluth's stunning animation.  In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Give Dragon's Lair a try today, and discover the magic everyones been talking about.  Lead on adventurer. Your quest awaits!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1337331600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/78b5471f-3388-4b6d-901c-cd9edcce7b0a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/78b5471f-3388-4b6d-901c-cd9edcce7b0a",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-2a15-c2e3-c732-b42858410b8a",
+			"title": "Dragon's Lair Arcade Cabinet ",
+			"description": "Join Dirk the Daring as he quests to rescue the princess Daphne from the evil dragon Singe with the classic arcade cabinet prop. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 51
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-2a15-c2e3-c732-b42858410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-2a15-c2e3-c732-b42858410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-8c00-2263-cf69-709258410b8a",
+			"title": "Singe ",
+			"description": "Memorialize your victory against Singe with this Singe the Dragon prop. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-8c00-2263-cf69-709258410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-8c00-2263-cf69-709258410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-c021-7261-c964-973058410b8a",
+			"title": "Dragon's Lair Castle T-Shirt",
+			"description": "Mordroc's castle, from arcade classic Dragon's Lair tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-c021-7261-c964-973058410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-c021-7261-c964-973058410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-215c-c2c2-c286-3db758410b8a",
+			"title": "Dragon's Lair Castle T-Shirt",
+			"description": "Mordroc's castle, from arcade classic Dragon's Lair tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-215c-c2c2-c286-3db758410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-215c-c2c2-c286-3db758410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "09a2ed38-de73-4595-baee-a35394f79b2b",
+			"title": "Dragon's Lair® Gamer Pics ",
+			"description": "It's time to make your love of all things Dragon's Lair® known. This Gamer Pics Pack has 10 fun and unique images from Dragon's Lair. Whether you want be Dirk the Daring, Princess Daphne or even the Lizard King there is a picture for you!  In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles.  Lead on adventurer. Your quest awaits!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 82
+				}
+			},
+			"originalReleaseDate": "/Date(1335517200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/09a2ed38-de73-4595-baee-a35394f79b2b",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-508c-42a1-cb8d-5ad858410b8a",
+			"title": "Dragon's Lair Logo T-Shirt",
+			"description": "Arcade classic Dragon's Lair logo tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 16
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-508c-42a1-cb8d-5ad858410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-508c-42a1-cb8d-5ad858410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-5161-32e2-cf7c-7acb58410b8a",
+			"title": "Dragon's Lair Logo T-Shirt",
+			"description": "Arcade classic Dragon's Lair logo tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-5161-32e2-cf7c-7acb58410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-5161-32e2-cf7c-7acb58410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "04d932af-a208-4b2a-a425-425ce34650b3",
+			"title": "Dragon's Lair® Theme ",
+			"description": "Cover yourself in all things Dragon's Lair® with a customized Dragon's Lair theme. This theme includes classic scenes from the cultural phenomenon that is Dragon's Lair.  Change the look of your background and give it a fun retro feel. Download today!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 97
+				}
+			},
+			"originalReleaseDate": "/Date(1335517200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/04d932af-a208-4b2a-a425-425ce34650b3",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "badd49c5-21fd-458d-95d8-53fd55afcd32",
+			"title": "Dragon's Lair® Trailer ",
+			"description": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version includes all of the original scenes you've come to enjoy, and even full Kinect support so you can really show how well you wield Dirk's sword.  Included with this ultimate edition are bonus Avatar items, Gamerpics and even a full watch feature to sit back and enjoy Don Bluth's stunning animation.  In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles.  Lead on adventurer. Your quest awaits!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 158
+				}
+			},
+			"originalReleaseDate": "/Date(1333702800000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Animated Blood",
+						"image": null
+					},
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b8a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/badd49c5-21fd-458d-95d8-53fd55afcd32",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-fac2-32c2-c1dc-749e58410b8a",
+			"title": "Resurrection T-Shirt",
+			"description": "Get back to the action with this Dirk the Daring resurrection tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-fac2-32c2-c1dc-749e58410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-fac2-32c2-c1dc-749e58410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-8842-02b1-c660-4a3458410b8a",
+			"title": "Resurrection T-Shirt",
+			"description": "Get back to the action with this Dirk the Daring resurrection tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 31
+				}
+			},
+			"originalReleaseDate": "/Date(1336467600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-8842-02b1-c660-4a3458410b8a/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-8842-02b1-c660-4a3458410b8a",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

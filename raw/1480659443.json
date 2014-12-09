@@ -1,0 +1,134 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111f3",
+	"title": "Double Fine Happy Action Theater",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Are you annoyed at how little magic you are able to shoot from your fingers? Have you ever tried to get grandma to do the worm, but all she would do is just stand there? Have you ever noticed how your living room doesn’t have any hot lava in it? And who designed this living room anyway?! It doesn’t even have any buildings to smash! Well, Double Fine Happy Action Theater can solve all of these problems and more! You will also be able to clone yourself or hang out in a plate of jelly if you want. And when you’re done with that, maybe you will want to feed some pigeons or have a snowball fight. There are 18 amazing ways that Double Fine Action Theater will enhance your life! And up to 5 of your friends’ lives too! (ages 2 to 102)",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Game Studios",
+	"studio": "Double Fine Productions",
+	"originalReleaseDate": "/Date(1328054400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			},
+			{
+				"label": "Mild Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/screenlg5.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Double-Fine-Happy-Action-Theater/66acd000-77fe-1000-9115-d802584111f3",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 8683
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111f3/Children",
+	"childDownloads": [
+		{
+			"id": "a919f634-1475-4ff6-b8a1-50ab32844098",
+			"title": "Launch Trailer",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 463
+				}
+			},
+			"originalReleaseDate": "/Date(1328605200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a919f634-1475-4ff6-b8a1-50ab32844098",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

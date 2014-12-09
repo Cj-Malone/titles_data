@@ -1,0 +1,1707 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841125c",
+	"title": "Kinect Party - Base Game",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Transform your living room into the ultimate Kinect Party!  Immerse yourself and up to 5 friends in this augmented reality playground as Kinect Party presents 36 mind-bending channels - each overflowing with outrageously unique, motion-controlled fun.  Wield nunchucks, grow fairy wings, dodge hot lava, harness electricity, dig for treasure, launch fireworks, become a fire breathing dragon and more! ",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "Double Fine Productions",
+	"originalReleaseDate": "/Date(1355788800000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			},
+			{
+				"label": "Mild Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/screenlg8.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Kinect-Party-Base-Game/66acd000-77fe-1000-9115-d8025841125c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 6121
+		}
+	},
+	"price": {
+		"goldPrice": "Free",
+		"silverPrice": "Free"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 0,
+			"display": "Free",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameVideo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841125c/Children",
+	"childDownloads": [
+		{
+			"id": "eddbad2b-e679-408f-867a-a9e149b0ec18",
+			"title": "Blizzard",
+			"description": "Unscramble the Blizzard Channel!  Freeze into ice sculptures and throw snowballs at your friends while your living room fills with snow!  Also unlocks more costume gear!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/eddbad2b-e679-408f-867a-a9e149b0ec18/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/eddbad2b-e679-408f-867a-a9e149b0ec18",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "8f152eb4-f147-42a9-bb3e-edff2f75d721",
+			"title": "Booty Shaker",
+			"description": "Unscramble the Booty Shaker Channel!  Shake your booty on the dance floor as you and your friends take turns in the spotlight showing off your best moves!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 37
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/8f152eb4-f147-42a9-bb3e-edff2f75d721/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/8f152eb4-f147-42a9-bb3e-edff2f75d721",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2e91c61b-915c-47a3-819f-339651d77004",
+			"title": "Bubble Bath",
+			"description": "Unscramble the Bubble Bath Channel!  Fill your room with foam, play with rubber duckies, and see if you can find the secret diving helmet!  Also unlocks more costume gear!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2e91c61b-915c-47a3-819f-339651d77004/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2e91c61b-915c-47a3-819f-339651d77004",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e28850f2-e337-4d17-b911-b5145e5446a9",
+			"title": "Bug Patrol",
+			"description": "Unscramble the Bug Patrol Channel!  Defend the world's landmarks from the bug infestation!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e28850f2-e337-4d17-b911-b5145e5446a9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e28850f2-e337-4d17-b911-b5145e5446a9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ec891e3b-63b6-4162-82c1-4b342bba6051",
+			"title": "Castle Smasher",
+			"description": "Unscramble the Bubble Bath Channel!  Fill your room with foam, play with rubber duckies, and see if you can find the secret diving helmet!  Also unlocks more costume gear!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 24
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ec891e3b-63b6-4162-82c1-4b342bba6051/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ec891e3b-63b6-4162-82c1-4b342bba6051",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "01d4638e-f763-46ab-9cbc-13603321c3f4",
+			"title": "Cosmic Flow",
+			"description": "Unscramble the Cosmic Flow Channel!  Enjoy slow tunes, move to the rhythm, and trip out to the colors of the Cosmic Flow!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 12
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/01d4638e-f763-46ab-9cbc-13603321c3f4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/01d4638e-f763-46ab-9cbc-13603321c3f4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f14a0d7e-2d90-40ad-9bac-464de9b849ad",
+			"title": "Dub Step",
+			"description": "Unscramble the Dubstep Channel!  Psychadelic colors, boombox helmets, turntables, and auto-scrub dancing in your living room!  Wub wub wub!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 90
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f14a0d7e-2d90-40ad-9bac-464de9b849ad/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f14a0d7e-2d90-40ad-9bac-464de9b849ad",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e6c00b5f-7bbc-4bf9-8a54-ea343ae6a8a4",
+			"title": "Fireworks",
+			"description": "Unscramble the Fireworks Channel!  Twirl sparklers on your hands or light fireworks placed on your floor!  Living room pyrotechnics have never been this easy!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e6c00b5f-7bbc-4bf9-8a54-ea343ae6a8a4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e6c00b5f-7bbc-4bf9-8a54-ea343ae6a8a4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2d38cadb-f9c8-47ed-b6e7-aa6b27308d7e",
+			"title": "Fish Tank",
+			"description": "Unscramble the Fish Tank Channel!  Blow bubbles under the sea and snatch the bait off the hook, but don't get caught!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 19
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2d38cadb-f9c8-47ed-b6e7-aa6b27308d7e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2d38cadb-f9c8-47ed-b6e7-aa6b27308d7e",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ea4e5fcb-1918-46a4-9028-bd8619ffbd36",
+			"title": "Googly Balls",
+			"description": "Unscramble the Googly Balls Channel!  Dive into a pit of cute, playful creatures, unlocking new colors by digging up glowing Googlies!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ea4e5fcb-1918-46a4-9028-bd8619ffbd36/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ea4e5fcb-1918-46a4-9028-bd8619ffbd36",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "48b9b153-e135-4621-92d5-132f796f4607",
+			"title": "High Voltage",
+			"description": "Unscramble the High Voltage Channel!  It's alive!  Become a conduit of high voltage electricity!  Throw lightning from your hands to electrify light bulbs, televisions, signs, and more!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 20
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/48b9b153-e135-4621-92d5-132f796f4607/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/48b9b153-e135-4621-92d5-132f796f4607",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "36f15028-b553-4778-9f82-55336aea6852",
+			"title": "Hot Lava",
+			"description": "Unscramble the Hot Lava Channel!  Look out!  Hot lava!  Stay on the couch to avoid it or dive in to become a fire thrower!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/36f15028-b553-4778-9f82-55336aea6852/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/36f15028-b553-4778-9f82-55336aea6852",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9fa66cd3-fa02-45a8-b799-0c723c140b7c",
+			"title": "Hyperspace",
+			"description": "Unscramble the Hyperspace Channel!  Blast the baddies in this retro-futuristic shooter!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.5,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9fa66cd3-fa02-45a8-b799-0c723c140b7c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9fa66cd3-fa02-45a8-b799-0c723c140b7c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d8025841125c",
+			"title": "Kinect Party - Base Game",
+			"description": "Transform your living room into the ultimate Kinect Party!  Immerse yourself and up to 5 friends in this augmented reality playground as Kinect Party presents 36 mind-bending channels - each overflowing with outrageously unique, motion-controlled fun.  Wield nunchucks, grow fairy wings, dodge hot lava, harness electricity, dig for treasure, launch fireworks, become a fire breathing dragon and more! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 6121
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameVideo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841125c",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d33d0667-6135-4129-8ea1-320491cffe87",
+			"title": "Kinect Party - Full Unlock",
+			"description": "Unlock all 36 mind-bending channels - each overflowing with outrageously unique, motion-controlled fun.  Wield nunchucks, grow fairy wings, dodge hot lava, harness electricity, dig for treasure, launch fireworks, become a fire breathing dragon and more!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 440
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d33d0667-6135-4129-8ea1-320491cffe87/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d33d0667-6135-4129-8ea1-320491cffe87",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "040f8602-737a-4331-9333-06857b472700",
+			"title": "Kinect Party - Full Unlock for DFHAT Owners",
+			"description": "As a prior owner of Double Fine Happy Action Theater enjoy this discounted opportunity to transform your living room into the ultimate Kinect Party!  Immerse yourself and up to 5 friends in this augmented reality playground as Kinect Party presents 36 mind-bending channels - each overflowing with outrageously unique, motion-controlled fun.  Wield nunchucks, grow fairy wings, dodge hot lava, harness electricity, dig for treasure, launch fireworks, become a fire breathing dragon and more!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 214
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/040f8602-737a-4331-9333-06857b472700/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/040f8602-737a-4331-9333-06857b472700",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$4.99",
+				"silverPrice": "$4.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 4.99,
+					"display": "$4.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5e4cb186-2e92-4d69-901d-f1fcf7116c1c",
+			"title": "Kinect Party Trailer",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 80
+				}
+			},
+			"originalReleaseDate": "/Date(1355907600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841125c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5e4cb186-2e92-4d69-901d-f1fcf7116c1c",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "259537e4-4141-4a9e-a165-e0cf1152f9b1",
+			"title": "Pigeon Feeder",
+			"description": "Unscramble the Pigeon Feeder Channel!  Who left the door open?  This room is filled with pigeons!   Chase em, feed em, but don't make them angry!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/259537e4-4141-4a9e-a165-e0cf1152f9b1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/259537e4-4141-4a9e-a165-e0cf1152f9b1",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f84d5475-a78c-45cc-9e92-1dfae21ec3e0",
+			"title": "Pine Cone Panic",
+			"description": "Unscramble the Pine Cone Panic Channel!  Max out your score by juggling pine cones and destroying blocks!  Also unlocks more costume gear!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 2.75,
+					"Count": 21
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f84d5475-a78c-45cc-9e92-1dfae21ec3e0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f84d5475-a78c-45cc-9e92-1dfae21ec3e0",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "887a0fef-96f0-41f3-8bf4-cb392d3d1584",
+			"title": "Starring You",
+			"description": "Unscramble the Starring You Channel!  You're the star of your own music video!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 18
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/887a0fef-96f0-41f3-8bf4-cb392d3d1584/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/887a0fef-96f0-41f3-8bf4-cb392d3d1584",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "bacfcf6f-e897-4d63-a593-207e75fe385a",
+			"title": "Sweet Tooth",
+			"description": "Unscramble the Sweet Tooth Channel!  Avoid the sweets and munch the fruits and vegetables while you chase Mr. Toothbrush through the world of sweets!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 14
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/bacfcf6f-e897-4d63-a593-207e75fe385a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bacfcf6f-e897-4d63-a593-207e75fe385a",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "096a44af-3629-40a3-a832-8c49dbf5d2f4",
+			"title": "The Blooming Garden",
+			"description": "Unscramble the Blooming Garden Channel!  Plant flowers in your living room to cultivate a lush garden paradise complete with sunbeams, rainbows, and butterflies!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 26
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/096a44af-3629-40a3-a832-8c49dbf5d2f4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/096a44af-3629-40a3-a832-8c49dbf5d2f4",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "5bbd5d22-d546-4c99-a1b0-7285a0e33bc5",
+			"title": "The Enchanted Forest",
+			"description": "Unscramble the Enchanted Forest Channel!  You're a beautiful fairy!  Collect wings to become the fairy princess, then cast spells to amaze and transform your friends!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 27
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/5bbd5d22-d546-4c99-a1b0-7285a0e33bc5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/5bbd5d22-d546-4c99-a1b0-7285a0e33bc5",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fa7876d8-d6cd-492e-9f73-92aa14d3368b",
+			"title": "The Magic Battle",
+			"description": "Unscramble the Magic Battle Channel!  Lightning bolt!  Fireball!  Laser!  Harness magic powers to battle space imps and your friends!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/fa7876d8-d6cd-492e-9f73-92aa14d3368b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fa7876d8-d6cd-492e-9f73-92aa14d3368b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "44777467-950b-4a47-a9a8-8b2fe7361ef2",
+			"title": "The Paint Master",
+			"description": "Unscramble the Paint Master Channel!  Don't worry about coloring between the lines, just pick your brush and paint where you like!  Then watch your masterpiece unfold!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 19
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/44777467-950b-4a47-a9a8-8b2fe7361ef2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/44777467-950b-4a47-a9a8-8b2fe7361ef2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e6a8d4a5-d951-46db-b1cc-024af1c570b6",
+			"title": "The Pirate's Treasure",
+			"description": "Unscramble the Pirate's Treasure Channel!  Arrgh, matey!  Spanish doubloons abound in your living room!  Dig in the sand to uncover the pirate's treasure!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 15
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e6a8d4a5-d951-46db-b1cc-024af1c570b6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e6a8d4a5-d951-46db-b1cc-024af1c570b6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d7563ddf-bb83-47ef-8a65-6c2d2d23ea1d",
+			"title": "The Popcorn Popper",
+			"description": "Unscramble the Popcorn Popper Channel!  The popcorn machine is broken!  You're going to need to pop that popcorn yourself!  Then add your favorite toppings to make the ultimate popcorn flavors!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 31
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d7563ddf-bb83-47ef-8a65-6c2d2d23ea1d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d7563ddf-bb83-47ef-8a65-6c2d2d23ea1d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9916c76a-3cf3-4125-bb26-611e66f6a736",
+			"title": "The Puddle Splasher",
+			"description": "Unscramble the Puddle Splasher Channel!  It's pouring rain in your living room!  Stomp in puddles, grow mushrooms, and dodge the lightning or you'll be in for a shock!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/9916c76a-3cf3-4125-bb26-611e66f6a736/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9916c76a-3cf3-4125-bb26-611e66f6a736",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "42292b13-c36a-46b2-945a-378d2255dfcf",
+			"title": "The Star Gazer",
+			"description": "Unscramble the Star Gazer Channel!  Pose in the night sky and make amazing constellations like the happy teapot and majestic eagle!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 66
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/42292b13-c36a-46b2-945a-378d2255dfcf/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/42292b13-c36a-46b2-945a-378d2255dfcf",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2e36d3e5-d0d9-4f17-8830-97f4256fbfa1",
+			"title": "The Super Duplicator",
+			"description": "Unscramble the Super Duplicator Channel!  What would you do with five clones?  High five yourself, tickle yourself, or get in a living room brawl?  Super Duplicator makes all this possible and more!  Also unlocks more costume gear! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 17
+				}
+			},
+			"originalReleaseDate": "/Date(1355821200000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2e36d3e5-d0d9-4f17-8830-97f4256fbfa1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2e36d3e5-d0d9-4f17-8830-97f4256fbfa1",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

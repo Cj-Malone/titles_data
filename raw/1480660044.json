@@ -1,0 +1,136 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025841144c",
+	"title": "RE Revelations 2",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The essential survival horror experience returns with the all-new Resident Evil Revelations 2. Terror follows you every step of the way as the startling truths hidden behind a veil of treachery and deceit are uncovered. ",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "CAPCOM CO., LTD.",
+	"studio": "CAPCOM CO., LTD.",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+		"http://download.xbox.com/content/5841144c/1stTrailer_ESRB.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/screenlg13.jpg"
+	],
+	"detailsUrl": "/en-US/Product/RE-Revelations-2/66acd000-77fe-1000-9115-d8025841144c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 253
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025841144c/Children",
+	"childDownloads": [
+		{
+			"id": "de4cbb7a-26b6-4263-830c-4898b6832cd2",
+			"title": "Resident Evil Revelations 2: Concept Teaser",
+			"description": "This concept teaser trailer portrays the essence of Resident Evil Revelations 2. Hidden secrets beckon to be discovered by anyone with eyes and wits sharp enough to find them.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1413363600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/de4cbb7a-26b6-4263-830c-4898b6832cd2",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "c267f501-58c4-48ef-b090-0e2471d4547a",
+			"title": "Resident Evil Revelations 2: First Trailer",
+			"description": "Resident Evil Revelations 2: First Trailer  Continuing the series legacy of delivering the essential survival horror experience, Resident Evil Revelations 2 promises all new horrors, terrifying locations and dramatic twists and turns.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 41
+				}
+			},
+			"originalReleaseDate": "/Date(1413363600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841144c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/c267f501-58c4-48ef-b090-0e2471d4547a",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

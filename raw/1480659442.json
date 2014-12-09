@@ -1,0 +1,980 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584111f2",
+	"title": "SONIC 4 Episode II",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "(Online Interactions Not Rated by the ESRB)  The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains!  Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day! Now joined by Tails, race across four new Zones and take down fearsome new badniks with deadly combination moves in order to put an end to this dastardly duo’s plans!   Experience the Sonic 4 saga as never before with the addition of a brand new engine; bringing you gameplay with updated physics and zones in stunning HD graphics! Also new to Episode II is the addition of online/local collaborative play where players can team up with a friend to take control of Sonic and Tails as they battle against Dr. Eggman!  BONUS! Owners of both Episode I & Episode II will unlock Episode Metal! Play as Sonic’s greatest rival in this exclusive zone and experience the untold story behind Metal Sonic’s revival!",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Platformer"
+		}
+	],
+	"publisher": "SEGA",
+	"studio": "SEGA",
+	"originalReleaseDate": "/Date(1337126400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/screenlg9.jpg"
+	],
+	"detailsUrl": "/en-US/Product/SONIC-4-Episode-II/66acd000-77fe-1000-9115-d802584111f2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 30606
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameVideo",
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111f2/Children",
+	"childDownloads": [
+		{
+			"id": "00001000-e728-c283-cbc5-378b584111f2",
+			"title": "Badnik Duo Toy",
+			"description": "Featuring two brand new badniks from Sonic The Hedgehog™ 4 Episode II, check out the playful side of Dr. Eggman’s creations with the Badnik Duo Toy! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 199
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e728-c283-cbc5-378b584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e728-c283-cbc5-378b584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-45ed-d283-cf55-9394584111f2",
+			"title": "Sonic the Hedgehog 4 Episode II Capsule Toy Avatar",
+			"description": "Save a captured critter from being turned into one of Dr. Eggman’s badniks with your own Capsule!	 ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 104
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-45ed-d283-cf55-9394584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-45ed-d283-cf55-9394584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-eac0-7263-ce15-eaae584111f2",
+			"title": "Drawstring Tails Plushie",
+			"description": "Up, up, and away! Inspired by Sonic’s longtime friend, take to the skies with the Drawstring Tails Plushie! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 308
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-eac0-7263-ce15-eaae584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-eac0-7263-ce15-eaae584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-e95b-a293-c8d0-39bd584111f2",
+			"title": "Episode II Game Cartridge Avatar",
+			"description": "Add on to your Sega Genesis/Sega Mega Drive collection with the Sonic The Hedgehog™ 4 Episode II Game Cartridge!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 84
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e95b-a293-c8d0-39bd584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e95b-a293-c8d0-39bd584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-60e5-42c2-c102-5e45584111f2",
+			"title": "Female T-Shirt Avatar",
+			"description": "Pick up the official Episode II T-Shirt and get ready for an all-new chapter in the Sonic 4 saga!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 15
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-60e5-42c2-c102-5e45584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-60e5-42c2-c102-5e45584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-f53b-0233-c62f-d596584111f2",
+			"title": "Half-pipe Special Stage ",
+			"description": "Race like Sonic through the Special Stage half pipes of Sonic The Hedgehog™ 4 Episode II and collect your own Chaos Emerald! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 317
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-f53b-0233-c62f-d596584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-f53b-0233-c62f-d596584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-3c81-82e1-c078-04d2584111f2",
+			"title": "Male T-Shirt Avatar",
+			"description": "Pick up the official Episode II T-Shirt and get ready for an all-new chapter in the Sonic 4 saga!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 137
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-3c81-82e1-c078-04d2584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-3c81-82e1-c078-04d2584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.00",
+				"silverPrice": "$1.00"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1,
+					"display": "$1.00",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000544-3b20-8273-c5a9-5085584111f2",
+			"title": "Sonic the Hedgehog 4 Episode II Metal Sonic Helmet Avatar",
+			"description": "Being bad never looked so good! Strike fear into the hearts of your rivals with this Metal Sonic Helmet! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 247
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000544-3b20-8273-c5a9-5085584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000544-3b20-8273-c5a9-5085584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-e212-b293-c7eb-ff6e584111f2",
+			"title": "Sonic the Hedgehog 4 Episode II Metal Sonic Toy Avatar",
+			"description": "Metal Sonic is back and ready for action in Sonic The Hedgehog™ 4 Episode II. Race around your own, miniature Metal Sonic with this remote controlled toy! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 120
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-e212-b293-c7eb-ff6e584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-e212-b293-c7eb-ff6e584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "9fda9067-f6d0-4c3e-b094-a4c4bf811544",
+			"title": "Reunion Trailer",
+			"description": "The long awaited reunion of Sonic and Tails is finally at hand! In this official trailer for Sonic The Hedgehog™ 4 Episode II, watch as Sonic and Tails unveil all new collaborative moves in their fight against the combined forces of Dr. Eggman and Metal Sonic!   Featuring an all new graphics and physics engine, breathtakingly stunning zones, and the return of the evil Metal Sonic, experience the evolution of the Sonic 4 saga when Episode II releases on XBLA later this Spring, and Windows Phone in the Summer.  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 850
+				}
+			},
+			"originalReleaseDate": "/Date(1332752400000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/9fda9067-f6d0-4c3e-b094-a4c4bf811544",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "d2b50d94-ea9a-421b-904f-966cf113f89e",
+			"title": "Trial Game - Sonic The Hedgehog™ 4 Episode II",
+			"description": "\"The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains!  Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day! Now joined by Tails, race across four new Zones and take down fearsome new badniks with deadly combination moves in order to put an end to this dastardly duo’s plans!   Experience the Sonic 4 saga as never before with the addition of a brand new engine; bringing you gameplay with updated physics and zones in stunning HD graphics! Also new to Episode II is the addition of online/local collaborative play where players can team up with a friend to take control of Sonic and Tails as they battle against Dr. Eggman!  BONUS! Owners of both Episode I & Episode II will unlock Episode Metal! Play as Sonic’s greatest rival in this exclusive zone and experience the untold story behind Metal Sonic’s revival!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1337158800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/d2b50d94-ea9a-421b-904f-966cf113f89e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/d2b50d94-ea9a-421b-904f-966cf113f89e",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584111f2",
+			"title": "SONIC 4 Episode II",
+			"description": "(Online Interactions Not Rated by the ESRB)  The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains!  Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day! Now joined by Tails, race across four new Zones and take down fearsome new badniks with deadly combination moves in order to put an end to this dastardly duo’s plans!   Experience the Sonic 4 saga as never before with the addition of a brand new engine; bringing you gameplay with updated physics and zones in stunning HD graphics! Also new to Episode II is the addition of online/local collaborative play where players can team up with a friend to take control of Sonic and Tails as they battle against Dr. Eggman!  BONUS! Owners of both Episode I & Episode II will unlock Episode Metal! Play as Sonic’s greatest rival in this exclusive zone and experience the untold story behind Metal Sonic’s revival!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 30606
+				}
+			},
+			"originalReleaseDate": "/Date(1337158800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameVideo",
+				"AvatarItem"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584111f2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "513431a1-536e-4506-9520-eac297aadcc8",
+			"title": "Sonic The Hedgehog™ 4 Episode II Lock-On Trailer",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 390
+				}
+			},
+			"originalReleaseDate": "/Date(1340787600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/513431a1-536e-4506-9520-eac297aadcc8",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000074c-e3ff-c2c2-c5cd-f741584111f2",
+			"title": "Sonic Hoodie Avatar",
+			"description": "Featuring the hedgehog’s iconic blue color and spikes, don this Sonic stylized hoodie in celebration of Sonic The Hedgehog ™ 4 Episode II!  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 35
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000074c-e3ff-c2c2-c5cd-f741584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000074c-e3ff-c2c2-c5cd-f741584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000074c-59b2-3231-cf32-a041584111f2",
+			"title": "Sonic Hoodie Avatar",
+			"description": "Featuring the hedgehog’s iconic blue color and spikes, don this Sonic stylized hoodie in celebration of Sonic The Hedgehog ™ 4 Episode II!  ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 444
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000074c-59b2-3231-cf32-a041584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000074c-59b2-3231-cf32-a041584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-4cb9-7261-c507-5825584111f2",
+			"title": "Tails Costume Avatar",
+			"description": "Touch the sky as Miles “Tails” Prower and join Sonic in his fight against Metal Sonic and Dr. Eggman in Sonic The Hedgehog™ 4 Episode II!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 135
+				}
+			},
+			"originalReleaseDate": "/Date(1335430800000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-4cb9-7261-c507-5825584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-4cb9-7261-c507-5825584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-aab5-32c2-ce40-5cbd584111f2",
+			"title": "Tails Costume Avatar",
+			"description": "Touch the sky as Miles “Tails” Prower and join Sonic in his fight against Metal Sonic and Dr. Eggman in Sonic The Hedgehog™ 4 Episode II!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 25
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-aab5-32c2-ce40-5cbd584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-aab5-32c2-ce40-5cbd584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000074c-2204-6272-c453-347c584111f2",
+			"title": "Tails Hoodie",
+			"description": "Take a lesson in style from Sonic’s high flying pal with this stylized Tails hoodie! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 40
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000074c-2204-6272-c453-347c584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000074c-2204-6272-c453-347c584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "0000074c-e4dc-a271-ce3f-f831584111f2",
+			"title": "Tails Hoodie",
+			"description": "Take a lesson in style from Sonic’s high flying pal with this stylized Tails hoodie! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 208
+				}
+			},
+			"originalReleaseDate": "/Date(1333443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/0000074c-e4dc-a271-ce3f-f831584111f2/0/thumblg.png",
+			"url": "/en-US/X8/Game/0000074c-e4dc-a271-ce3f-f831584111f2",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "3aaba61d-767a-4632-9170-bed4a8a7e5ac",
+			"title": "Teaser Trailer",
+			"description": "\"Download the teaser trailer for Sonic the Hedgehog™ 4 Episode II!	In the follow up to Episode I there are surprises in store with the arrival of Sonic’s legendary sidekick Tails! Race across all new zones and defeat the evil forces of Dr. Eggman and fearsome rival Metal Sonic.  The wait is finally over when the game releases in 2012.\" ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1381
+				}
+			},
+			"originalReleaseDate": "/Date(1325235600000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/3aaba61d-767a-4632-9170-bed4a8a7e5ac",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

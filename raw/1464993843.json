@@ -1,0 +1,110 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80257520833",
+	"title": "Mad Max",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Play as Mad Max, a lone warrior who must embark on a dangerous journey after his Interceptor is stolen by a deadly gang of marauders.  A reluctant hero with an instinct for survival, Max wants nothing more than to leave the madness behind and find solace in the storied “Plains of Silence”.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Warner Bros. Interactive Entertainment",
+	"studio": "Avalanche Studios",
+	"originalReleaseDate": "/Date(1419984000000)/",
+	"contentRating": {
+		"label": "RP (Rating Pending)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+		"age": 18,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+		"http://download.xbox.com/content/57520833/ESRB.asx"
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/screenlg1.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Mad-Max/66acd000-77fe-1000-9115-d80257520833",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 391
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80257520833/Children",
+	"childDownloads": [
+		{
+			"id": "02478838-59f6-4a98-8c63-010d155e67f1",
+			"title": "Mad Max - Gameplay Reveal - Soul of a Man",
+			"description": "Play as Mad Max, a lone warrior who must embark on a journey to reclaim his stolen interceptor from a deadly gang of marauders.  A reluctant hero with an instinct for survival, Max wants nothing more than to leave the madness behind and find solace in the storied “Plains of Silence”.  Take a first look at gameplay for the upcoming open-world game, Mad Max.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 156
+				}
+			},
+			"originalReleaseDate": "/Date(1374742800000)/",
+			"contentRating": {
+				"label": "RP (Rating Pending)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/60.png",
+				"age": 18,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520833/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/02478838-59f6-4a98-8c63-010d155e67f1",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}
