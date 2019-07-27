@@ -1,0 +1,983 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802373407d7",
+	"title": "Kung Fu Panda",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese. It is an age of Kung Fu heroes, warriors, and best of all, LEGENDARY LEGENDS! Face-off  alongside or against Po, Tigress, Monkey, Tai Lung, Master Shifu, and all of your favorite Kung Fu Panda characters in the Showdown of Legendary Legends. Up to four players compete in iconic locations throughout the Valley of Peace and beyond. Compete in an epic Tournament where all Kung Fu warriors contend for honor and glory. Who will reign on top as the mightiest warrior in the land? Will it be a mighty hero or a cunning villain?  Game Features: ▪ Fight in an action-packed Kung Fu competition set in the Kung Fu Panda universe – a showdown where all fighters must use their unique skills to compete for honor and glory ▪ Unique fighting styles – every character in the game has special attacks, unique moves and an Awesome Attack",
+	"genres": [
+		{
+			"label": "Fighting"
+		}
+	],
+	"publisher": "Little Orbit",
+	"studio": "Vicious Cycle Software",
+	"originalReleaseDate": "/Date(1447718400000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Cartoon Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Kung-Fu-Panda/66acd000-77fe-1000-9115-d802373407d7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 1640
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802373407d7/Children",
+	"childDownloads": [
+		{
+			"id": "babf906b-b19b-4ab2-9431-392ba9a1d4f6",
+			"title": "Kung Fu Panda Character: Armored Mr. Ping",
+			"description": "New playable character. Mr Ping has embraced the tournament and he puts on his Noodle Shop pots and pans armor.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 64
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/babf906b-b19b-4ab2-9431-392ba9a1d4f6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/babf906b-b19b-4ab2-9431-392ba9a1d4f6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "bcaca906-6f67-4374-9f11-e3957bebfe7b",
+			"title": "Kung Fu Panda Character: Bao",
+			"description": "Bao is an adorable pint-sized ball of fun from the Panda Village. Unlocks Bao as a playable character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 83
+				}
+			},
+			"originalReleaseDate": "/Date(1448960400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/bcaca906-6f67-4374-9f11-e3957bebfe7b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/bcaca906-6f67-4374-9f11-e3957bebfe7b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "92870fb3-7fda-43d8-852a-ae90ae8839b6",
+			"title": "Kung Fu Panda Character: Jombie Porcupine",
+			"description": "Now, a mindless jade zombie--or jombie--Porcupine is a dangerous enemy whose only goal is to serve his new master Kai. Unlocks Jombie Porcupine as a playable character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 88
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/92870fb3-7fda-43d8-852a-ae90ae8839b6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/92870fb3-7fda-43d8-852a-ae90ae8839b6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fb038e98-3e9b-494f-8ae3-a811736c6c8f",
+			"title": "Kung Fu Panda Character: Kai",
+			"description": "Kai is a fearsome and power hungry warrior who was banished to the Spirit Realm for all eternity. Unlocks Kai as a playable character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 51
+				}
+			},
+			"originalReleaseDate": "/Date(1448960400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/fb038e98-3e9b-494f-8ae3-a811736c6c8f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fb038e98-3e9b-494f-8ae3-a811736c6c8f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "a3b9db08-444c-4b2e-956e-fafa6d9b7445",
+			"title": "Kung Fu Panda Character: Rhino Armor Li",
+			"description": "New playable character. Li dons the Rhino Armor to show off his new moves.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 100
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/a3b9db08-444c-4b2e-956e-fafa6d9b7445/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/a3b9db08-444c-4b2e-956e-fafa6d9b7445",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "44aecf5b-ea72-40bf-8250-27ab87fbefc7",
+			"title": "Kung Fu Panda Character: Warrior Po",
+			"description": "New playable character. Play as Po in his Warrior form.  Unlocks Warrior as a playable character.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 114
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/44aecf5b-ea72-40bf-8250-27ab87fbefc7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/44aecf5b-ea72-40bf-8250-27ab87fbefc7",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "74fc227d-0368-49ae-9c62-6526a9cedc77",
+			"title": "Kung Fu Panda Level: Master Garden",
+			"description": "A garden next to the Jade Palace honoring all the previous masters. Unlocks Master's Garden as a playable level.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 62
+				}
+			},
+			"originalReleaseDate": "/Date(1448960400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/74fc227d-0368-49ae-9c62-6526a9cedc77/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/74fc227d-0368-49ae-9c62-6526a9cedc77",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "cd40b3ad-f145-4f4a-a8d9-8f988232720b",
+			"title": "Kung Fu Panda Level: Panda Vista",
+			"description": "Battle on top of the mountain path leading to the Panda Village. Unlocks Panda Vista as a playable level. ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 64
+				}
+			},
+			"originalReleaseDate": "/Date(1448960400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/cd40b3ad-f145-4f4a-a8d9-8f988232720b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/cd40b3ad-f145-4f4a-a8d9-8f988232720b",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "602c15b3-657e-4f83-bf9e-deb9fd1500cd",
+			"title": "Kung Fu Panda Skin: Jombie Crane",
+			"description": "New character skin. Play as Jombie Crane.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 113
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/602c15b3-657e-4f83-bf9e-deb9fd1500cd/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/602c15b3-657e-4f83-bf9e-deb9fd1500cd",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ce94f92b-21cd-4bcd-8ba4-82f086d40bed",
+			"title": "Kung Fu Panda Skin: Jombie Master Bear",
+			"description": "New character skin. Play as Jombie Master Bear.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1448960400000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ce94f92b-21cd-4bcd-8ba4-82f086d40bed/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ce94f92b-21cd-4bcd-8ba4-82f086d40bed",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "e5188885-7afd-428d-86a6-6b5d49af7b63",
+			"title": "Kung Fu Panda Skin: Jombie Master Chicken",
+			"description": "New character skin. Play as Jombie Master Chicken. Requires Master Chicken DLC.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e5188885-7afd-428d-86a6-6b5d49af7b63/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e5188885-7afd-428d-86a6-6b5d49af7b63",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "ad39b0e8-9cd0-4375-a773-62a2ea1b5560",
+			"title": "Kung Fu Panda Skin: Jombie Master Croc",
+			"description": "New character skin. Play as Jombie Master Croc.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 59
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/ad39b0e8-9cd0-4375-a773-62a2ea1b5560/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/ad39b0e8-9cd0-4375-a773-62a2ea1b5560",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "2803e14f-2f04-495e-ab01-08d2ee4295e2",
+			"title": "Kung Fu Panda Skin: Jombie Master Oogway",
+			"description": "New character skin. Play as Jombie Master Oogway.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 121
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/2803e14f-2f04-495e-ab01-08d2ee4295e2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/2803e14f-2f04-495e-ab01-08d2ee4295e2",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "f96c18a9-8679-41b0-a016-be08dd79f758",
+			"title": "Kung Fu Panda Skin: Jombie Monkey",
+			"description": "New character skin. Play as Jombie Monkey.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 136
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/f96c18a9-8679-41b0-a016-be08dd79f758/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/f96c18a9-8679-41b0-a016-be08dd79f758",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "35e49774-2877-46b0-ae9a-b62cee310e6c",
+			"title": "Kung Fu Panda Skin: Master Shifu",
+			"description": "New character skin. Play as Jombie Master Shifu.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 67
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/35e49774-2877-46b0-ae9a-b62cee310e6c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/35e49774-2877-46b0-ae9a-b62cee310e6c",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "4e7d215c-5398-4502-8c55-778680e75a24",
+			"title": "Kung Fu Panda Level: Spirit Realm",
+			"description": "A mystical level set in the fabled Spirit Realm. Unlocks Spirit Realm as a playable level.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 85
+				}
+			},
+			"originalReleaseDate": "/Date(1454058000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4e7d215c-5398-4502-8c55-778680e75a24/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4e7d215c-5398-4502-8c55-778680e75a24",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802373407d7",
+			"title": "Kung Fu Panda",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish, Portuguese. It is an age of Kung Fu heroes, warriors, and best of all, LEGENDARY LEGENDS! Face-off  alongside or against Po, Tigress, Monkey, Tai Lung, Master Shifu, and all of your favorite Kung Fu Panda characters in the Showdown of Legendary Legends. Up to four players compete in iconic locations throughout the Valley of Peace and beyond. Compete in an epic Tournament where all Kung Fu warriors contend for honor and glory. Who will reign on top as the mightiest warrior in the land? Will it be a mighty hero or a cunning villain?  Game Features: ▪ Fight in an action-packed Kung Fu competition set in the Kung Fu Panda universe – a showdown where all fighters must use their unique skills to compete for honor and glory ▪ Unique fighting styles – every character in the game has special attacks, unique moves and an Awesome Attack",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 1640
+				}
+			},
+			"originalReleaseDate": "/Date(1448874000000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Fighting"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802373407d7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802373407d7",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}
