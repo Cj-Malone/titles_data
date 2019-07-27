@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 for ARG in $*
 do
@@ -14,3 +14,4 @@ do
 		echo "ERROR: $ARG"
 	fi
 done
+
