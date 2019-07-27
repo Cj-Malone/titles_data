@@ -1,0 +1,140 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024256083c",
+	"title": "Indiana Jones & Emperor's Tomb",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Indy returns for a heart-stopping new adventure in Indiana Jones® and the Emperor's Tomb™! It's 1930s China, and Indiana Jones has been hired to recover one of the most powerful artifacts know to man before it falls into hostile hands. Join Indy in an epic, globe-spanning race that pits him against the Nazis and the Asian underworld in a harrowing quest for the mysterious \"Heart of the Dragon\".",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "LucasArts",
+	"studio": "The Collective Inc.",
+	"originalReleaseDate": "/Date(1560211200000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/screenlg11.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Indiana-Jones-Emperors-Tomb/66acd000-77fe-1000-9115-d8024256083c",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083c/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024256083c",
+			"title": "Indiana Jones & Emperor's Tomb",
+			"description": "Indy returns for a heart-stopping new adventure in Indiana Jones® and the Emperor's Tomb™! It's 1930s China, and Indiana Jones has been hired to recover one of the most powerful artifacts know to man before it falls into hostile hands. Join Indy in an epic, globe-spanning race that pits him against the Nazis and the Asian underworld in a harrowing quest for the mysterious \"Heart of the Dragon\".",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1560243600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083c/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083c",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

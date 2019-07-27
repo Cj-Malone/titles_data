@@ -1,0 +1,123 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802573607e4",
+	"title": "Handball 16",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, German, Spanish, Danish, Portuguese.Play with all your favourite players in THE handball simulation. Use all the real handball moves and tactics and challenge a friend in local multiplayer mode.",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Bigben Interactive",
+	"studio": "Eko Software",
+	"originalReleaseDate": "/Date(1448582400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Handball-16/66acd000-77fe-1000-9115-d802573607e4",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 244
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802573607e4/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802573607e4",
+			"title": "Handball 16",
+			"description": "The Games on Demand version supports English, French, German, Spanish, Danish, Portuguese.Play with all your favourite players in THE handball simulation. Use all the real handball moves and tactics and challenge a friend in local multiplayer mode.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 244
+				}
+			},
+			"originalReleaseDate": "/Date(1448614800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e4/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802573607e4",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

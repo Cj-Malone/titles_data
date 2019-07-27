@@ -1,0 +1,159 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802454109fe",
+	"title": "Jade Empire",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Only by mastering the greatest fighting styles and defeating the most powerful enemies will you earn your place as a master of Martial Arts in the world of Jade Empire.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Fighting"
+		},
+		{
+			"label": "Role Playing"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Xbox Game Studios",
+	"studio": "BioWare",
+	"originalReleaseDate": "/Date(1560211200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Jade-Empire/66acd000-77fe-1000-9115-d802454109fe",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109fe/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802454109fe",
+			"title": "Jade Empire",
+			"description": "Only by mastering the greatest fighting styles and defeating the most powerful enemies will you earn your place as a master of Martial Arts in the world of Jade Empire.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1560243600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Fighting"
+				},
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fe/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109fe",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

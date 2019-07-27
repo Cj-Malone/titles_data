@@ -1,0 +1,155 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802453307d1",
+	"title": "Psychonauts",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "A psychic odyssey through the minds of misfits, monsters and madmen. Is everything right in your head? Raz, a young psychic cadet discovers that someone is stealing brains. Using clairvoyance, astral projection, telekinesis and levitation help Raz foil this evil plot by entering their minds and smacking around a whole bunch of personal demons.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Platformer"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Xbox Game Studios",
+	"studio": "Double Fine Productions",
+	"originalReleaseDate": "/Date(1560211200000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Cartoon Violence",
+				"image": null
+			},
+			{
+				"label": "Crude Humor",
+				"image": null
+			},
+			{
+				"label": "Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Psychonauts/66acd000-77fe-1000-9115-d802453307d1",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802453307d1/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802453307d1",
+			"title": "Psychonauts",
+			"description": "A psychic odyssey through the minds of misfits, monsters and madmen. Is everything right in your head? Raz, a young psychic cadet discovers that someone is stealing brains. Using clairvoyance, astral projection, telekinesis and levitation help Raz foil this evil plot by entering their minds and smacking around a whole bunch of personal demons.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1560243600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Cartoon Violence",
+						"image": null
+					},
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Platformer"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453307d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802453307d1",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

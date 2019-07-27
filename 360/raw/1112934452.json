@@ -1,0 +1,130 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80242560834",
+	"title": "STAR WARS™ - Knights of the Old Republic™",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560834/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560834/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "It is four thousand years before the Galactic Empire, hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the legendary power of the Force™ on your quest to save the Republic? Or will you fall to the lure of the dark side?",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "Lucasarts",
+	"studio": "BioWare",
+	"originalReleaseDate": "/Date(1508371200000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/STAR-WARS-Knights-of-the-Old-Republic/66acd000-77fe-1000-9115-d80242560834",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560834/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d80242560834",
+			"title": "STAR WARS™ - Knights of the Old Republic™",
+			"description": "It is four thousand years before the Galactic Empire, hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the legendary power of the Force™ on your quest to save the Republic? Or will you fall to the lure of the dark side?",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1508749200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560834/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560834",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

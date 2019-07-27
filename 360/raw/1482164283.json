@@ -1,0 +1,125 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8025858083b",
+	"title": "Verizon Alan Wake",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858083b/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858083b/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Set in the deceptively idyllic town of Bright Falls, Washington, Alan Wake immerses players in an intense and expansive cinematic world that enables players to explore the hyper-realistic and interactive environments. Alan Wake is mission-based with a deeply engaging and suspenseful storyline unveiling new twists and profound character revelations at every turn. Unravel the riveting plot through multilayered character interactions, unique problem-solving, and intense combat against terrifying enemies. In this nightmarish world, where fantasy and reality collide, Alan Wake must use a variety of weapons to survive, including his most powerful ally against the darkness - light itself.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Microsoft Game Studios",
+	"studio": "Remedy Entertainment",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Verizon-Alan-Wake/66acd000-77fe-1000-9115-d8025858083b",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 4178
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8025858083b/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4002-802f-00015858083b",
+			"title": "Verizon Alan Wake Picture Pack",
+			"description": "Download this free Alan Wake picture pack from Verizon.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 490
+				}
+			},
+			"originalReleaseDate": "/Date(1270717200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858083b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-00015858083b",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-00015858083b",
+			"title": "Verizon Alan Wake Theme",
+			"description": "Download this free Alan Wake theme from Verizon.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 556
+				}
+			},
+			"originalReleaseDate": "/Date(1270717200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025858083b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-00015858083b",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

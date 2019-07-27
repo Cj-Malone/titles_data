@@ -1,0 +1,135 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802465607f8",
+	"title": "Bullet Soul -Infinite Burst-",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English.   Bullet Soul -Infinite Burst- is Japanese Shooter.  Please enjoy new Bullet Soul!",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "5pb.",
+	"studio": "Tachyon Inc.",
+	"originalReleaseDate": "/Date(1477612800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Fantasy Violence",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Bullet-Soul-Infinite-Burst/66acd000-77fe-1000-9115-d802465607f8",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.25,
+			"Count": 50
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802465607f8/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802465607f8",
+			"title": "Bullet Soul -Infinite Burst-",
+			"description": "The Games on Demand version supports English.   Bullet Soul -Infinite Burst- is Japanese Shooter.  Please enjoy new Bullet Soul!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 50
+				}
+			},
+			"originalReleaseDate": "/Date(1477990800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Fantasy Violence",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802465607f8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802465607f8",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

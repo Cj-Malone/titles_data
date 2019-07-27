@@ -1,0 +1,457 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802584113db",
+	"title": "Marvel Puzzle Quest",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The award winning match-3 puzzle gameplay meets Marvel’s biggest Super Heroes and Super Villains in the most epic puzzle adventure.  Combine your favorite characters from the Marvel Universe (Iron Man, Hulk, Thor, Venom, etc.) with deep RPG leveling, episodic events written by Marvel writers, and much more.  Put your squad to the test in battles against players in both online and local multiplayer to compete for the top of the leaderboards.  Unleash your inner Super Hero and wage war against your enemies before Norman Osborn and his minions reign supreme!",
+	"genres": [
+		{
+			"label": "Role Playing"
+		},
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "D3Publisher of America, Inc.",
+	"studio": "WayForward Technologies Inc.",
+	"originalReleaseDate": "/Date(1444953600000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Drug Reference",
+				"image": null
+			},
+			{
+				"label": "Suggestive Themes",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/screenlg4.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Marvel-Puzzle-Quest/66acd000-77fe-1000-9115-d802584113db",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.25,
+			"Count": 528
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameDemo",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584113db/Children",
+	"childDownloads": [
+		{
+			"id": "4f4bc212-9178-484c-912a-f165c2eea92e",
+			"title": "Trial Game - Marvel Puzzle Quest: Dark Reign",
+			"description": "The award winning match-3 puzzle gameplay meets Marvel’s biggest Super Heroes and Super Villains in the most epic puzzle adventure.  Combine your favorite characters from the Marvel Universe (Iron Man, Hulk, Thor, Venom, etc.) with deep RPG leveling, episodic events written by Marvel writers, and much more.  Put your squad to the test in battles against players in both online and local multiplayer to compete for the top of the leaderboards.  Unleash your inner Super Hero and wage war against your enemies before Norman Osborn and his minions reign supreme!",
+			"userRating": {
+				"allowed": false,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1444986000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/4f4bc212-9178-484c-912a-f165c2eea92e/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/4f4bc212-9178-484c-912a-f165c2eea92e",
+			"downloadTypeClass": "GameDemo",
+			"downloadTypeText": "Demo",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802584113db",
+			"title": "Marvel Puzzle Quest",
+			"description": "The award winning match-3 puzzle gameplay meets Marvel’s biggest Super Heroes and Super Villains in the most epic puzzle adventure.  Combine your favorite characters from the Marvel Universe (Iron Man, Hulk, Thor, Venom, etc.) with deep RPG leveling, episodic events written by Marvel writers, and much more.  Put your squad to the test in battles against players in both online and local multiplayer to compete for the top of the leaderboards.  Unleash your inner Super Hero and wage war against your enemies before Norman Osborn and his minions reign supreme!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.25,
+					"Count": 528
+				}
+			},
+			"originalReleaseDate": "/Date(1444986000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameDemo",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584113db/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802584113db",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "652000c3-f79a-4fe4-afd9-3e16c88091f3",
+			"title": "Marvel Puzzle Quest: Dark Reign -Volume 2: The Case of the Cold Chimichangas – Deadpool & Doctor Octopus",
+			"description": "Marvel Puzzle Quest: Dark Reign, Volume 2: The Case of the Cold Chimichangas – Deadpool & Doctor Octopus",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 125
+				}
+			},
+			"originalReleaseDate": "/Date(1444986000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/652000c3-f79a-4fe4-afd9-3e16c88091f3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/652000c3-f79a-4fe4-afd9-3e16c88091f3",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "822e49c3-2106-4517-9d6d-3f9b52e085c9",
+			"title": "Marvel Puzzle Quest: Dark Reign Volume 1: Science Friction – Hulk & Punisher",
+			"description": "This includes additional characters and missions, Hulk & Punisher.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1941
+				}
+			},
+			"originalReleaseDate": "/Date(1444986000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/822e49c3-2106-4517-9d6d-3f9b52e085c9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/822e49c3-2106-4517-9d6d-3f9b52e085c9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "18f77b3f-d379-4093-9caf-d0e08b8da32d",
+			"title": "Marvel Puzzle Quest: Dark Reign -The Mighty Tool-Kit Access Pass – Thor: Goddess of Thunder",
+			"description": "This includes additional character, Thor: Goddess of Thunder.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 88
+				}
+			},
+			"originalReleaseDate": "/Date(1456736400000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Drug Reference",
+						"image": null
+					},
+					{
+						"label": "Suggestive Themes",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/18f77b3f-d379-4093-9caf-d0e08b8da32d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/18f77b3f-d379-4093-9caf-d0e08b8da32d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

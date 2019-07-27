@@ -1,0 +1,138 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024256083b",
+	"title": "Star Wars Republic Commando",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Chaos has erupted throughout the galaxy.  As leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately, annihilate the enemy.  Your squad will follow your orders and your lead, working together as a team - instinctively, intelligently, instantly.  You are their leader.  They are your weapon.",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "LucasArts",
+	"studio": "LucasArts",
+	"originalReleaseDate": "/Date(1524700800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Star-Wars-Republic-Commando/66acd000-77fe-1000-9115-d8024256083b",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083b/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024256083b",
+			"title": "Star Wars Republic Commando",
+			"description": "Chaos has erupted throughout the galaxy.  As leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately, annihilate the enemy.  Your squad will follow your orders and your lead, working together as a team - instinctively, intelligently, instantly.  You are their leader.  They are your weapon.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1524474000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083b/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083b",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

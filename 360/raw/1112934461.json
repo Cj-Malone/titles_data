@@ -1,0 +1,151 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024256083d",
+	"title": "Armed & Dangerous",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Meet the Lionhearts, a smack-talking rag-tag band of rebels bound on an impossible quest. They're destined for victory in 12,000 bullets or less. If they can make it through an army of psychotic robots and wall-smashing Goliaths, they just might save the world ... If they don't burn it down first.",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "LucasArts",
+	"studio": "Planet Moon Studios",
+	"originalReleaseDate": "/Date(1560211200000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Crude Humor",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			},
+			{
+				"label": "Mild Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Armed-Dangerous/66acd000-77fe-1000-9115-d8024256083d",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083d/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024256083d",
+			"title": "Armed & Dangerous",
+			"description": "Meet the Lionhearts, a smack-talking rag-tag band of rebels bound on an impossible quest. They're destined for victory in 12,000 bullets or less. If they can make it through an army of psychotic robots and wall-smashing Goliaths, they just might save the world ... If they don't burn it down first.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1560243600000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Crude Humor",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					},
+					{
+						"label": "Mild Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083d",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

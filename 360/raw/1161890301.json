@@ -1,0 +1,144 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802454109fd",
+	"title": "BLACK",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Join the world’s most brutal and enigmatic strike force. The BLACK™ tactical squad operates under the cloak of complete anonymity and deniability to protect the U.S. from threats foreign and domestic. It answers to no one, allowing it to carry out covert operations around the globe. From manipulating politicians to controlling intelligence networks and militaries, BLACK operatives are trained at the highest level in psychological warfare, espionage, and lethal combat. Go deep into the world of clandestine warfare as you use any means necessary to get the job done.",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Electronic Arts",
+	"studio": "Criterion Games",
+	"originalReleaseDate": "/Date(1560211200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Strong Language",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/BLACK/66acd000-77fe-1000-9115-d802454109fd",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109fd/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802454109fd",
+			"title": "BLACK",
+			"description": "Join the world’s most brutal and enigmatic strike force. The BLACK™ tactical squad operates under the cloak of complete anonymity and deniability to protect the U.S. from threats foreign and domestic. It answers to no one, allowing it to carry out covert operations around the globe. From manipulating politicians to controlling intelligence networks and militaries, BLACK operatives are trained at the highest level in psychological warfare, espionage, and lethal combat. Go deep into the world of clandestine warfare as you use any means necessary to get the job done.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1560243600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Strong Language",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fd/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109fd",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

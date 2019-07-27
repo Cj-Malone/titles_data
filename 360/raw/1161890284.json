@@ -1,0 +1,124 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802454109ec",
+	"title": "EA SPORTS™ NHL® Legacy Edition",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, German, Czech, Finnish, Russian, Swedish. Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  EA SPORTS NHL Legacy Edition brings together the most popular modes and award-winning gameplay features from nine years of NHL hockey. Featuring updated rosters and authentic schedules, it’s the perfect experience for fans looking to get that complete hockey fix.",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Electronic Arts",
+	"studio": "EA Canada",
+	"originalReleaseDate": "/Date(1442275200000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/screenlg1.jpg"
+	],
+	"detailsUrl": "/en-US/Product/EA-SPORTS-NHL-Legacy-Edition/66acd000-77fe-1000-9115-d802454109ec",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 865
+		}
+	},
+	"price": {
+		"goldPrice": "$29.99",
+		"silverPrice": "$29.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 29.99,
+			"display": "$29.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109ec/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802454109ec",
+			"title": "EA SPORTS™ NHL® Legacy Edition",
+			"description": "The Games on Demand version supports English, French, German, Czech, Finnish, Russian, Swedish. Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.  EA SPORTS NHL Legacy Edition brings together the most popular modes and award-winning gameplay features from nine years of NHL hockey. Featuring updated rosters and authentic schedules, it’s the perfect experience for fans looking to get that complete hockey fix.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 865
+				}
+			},
+			"originalReleaseDate": "/Date(1442307600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109ec/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109ec",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$29.99",
+				"silverPrice": "$29.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 29.99,
+					"display": "$29.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

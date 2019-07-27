@@ -1,0 +1,760 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d530ac1",
+	"title": "Gears of War 4 Store",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ac1/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530ac1/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Gear up to battle the nightmare reborn! Outfit your Avatar with armor and weapons from Gears of War 4 and get ready for a new saga.",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Avatar"
+		}
+	],
+	"publisher": "Microsoft Studios",
+	"studio": "The Coalition",
+	"originalReleaseDate": "/Date(1462233600000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Gears-of-War-4-Store/66acd000-77fe-1000-9115-d8024d530ac1",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 744
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"AvatarItem"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d530ac1/Children",
+	"childDownloads": [
+		{
+			"id": "00000040-3746-b203-cd56-a9d14d530ac0",
+			"title": "Gears eSports Baseball Cap ",
+			"description": "Time to get your head in the game and push for the championship with this elite Gears eSports baseball cap.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000040-3746-b203-cd56-a9d14d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000040-3746-b203-cd56-a9d14d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-804d-b262-c88c-43434d530ac0",
+			"title": "Gears eSports Jersey ",
+			"description": "Look the part of a Gears of War pro player at a major event with this stylish jersey, featuring the official Gears eSports logo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-804d-b262-c88c-43434d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-804d-b262-c88c-43434d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-bf41-4261-cca1-3f734d530ac0",
+			"title": "Gears eSports Jersey ",
+			"description": "Look the part of a Gears of War pro player at a major event with this stylish jersey, featuring the official Gears eSports logo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-bf41-4261-cca1-3f734d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-bf41-4261-cca1-3f734d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-b24f-2251-c558-f4d74d530ac0",
+			"title": "Gears eSports Tee ",
+			"description": "Show off to your friends that you are the biggest Gears of War competitive fan by wearing this tee, featuring the official Gears eSports logo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-b24f-2251-c558-f4d74d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-b24f-2251-c558-f4d74d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-3a47-7252-c5b8-f2da4d530ac0",
+			"title": "Gears eSports Tee ",
+			"description": "Show off to your friends that you are the biggest Gears of War competitive fan by wearing this tee, featuring the official Gears eSports logo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-3a47-7252-c5b8-f2da4d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-3a47-7252-c5b8-f2da4d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00001000-3e43-12e3-c0f2-def64d530ac1",
+			"title": "Gears of War 4 Customized Lancer Toy ",
+			"description": "The new Customized Lancer Assault Rifle is still deadly as ever! Upgraded from the gun that won the Locust Wars, the Customized Lancer has been outfitted with a stock and flashlight and will once again be called upon to battle a fearsome enemy.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1465549200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00001000-3e43-12e3-c0f2-def64d530ac1/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00001000-3e43-12e3-c0f2-def64d530ac1",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-a248-12d1-c22d-d69e4d530ac0",
+			"title": "Gears of War 4 Logo Hoodie ",
+			"description": "Share your enthusiasm for Gears of War 4 with this hoodie featuring the game's official logo.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-a248-12d1-c22d-d69e4d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-a248-12d1-c22d-d69e4d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-3845-f281-cce6-7b034d530ac0",
+			"title": "Gears of War 4 Logo Tee ",
+			"description": "Excited for Gears of War 4? Momentarily numb the pain of waiting by sporting this fashionable black tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-3845-f281-cce6-7b034d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-3845-f281-cce6-7b034d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-8d46-92e2-cb77-59db4d530ac0",
+			"title": "Gears of War 4 Logo Tee ",
+			"description": "Excited for Gears of War 4? Momentarily numb the pain of waiting by sporting this fashionable black tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-8d46-92e2-cb77-59db4d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-8d46-92e2-cb77-59db4d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-3a43-1201-c109-d5654d530ac0",
+			"title": "Gears of War 4 Reveal Tee ",
+			"description": "Celebrate the first public appearance of JD from Gears of War 4 with this tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-3a43-1201-c109-d5654d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-3a43-1201-c109-d5654d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000008-9640-42f2-cf17-47244d530ac0",
+			"title": "Gears of War 4 Reveal Tee ",
+			"description": "Celebrate the first public appearance of JD from Gears of War 4 with this tee.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000008-9640-42f2-cf17-47244d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000008-9640-42f2-cf17-47244d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$0.99",
+				"silverPrice": "$0.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0.99,
+					"display": "$0.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-1e4b-c291-cfde-9ada4d530ac0",
+			"title": "Gears Weapons Hoodie (Black) ",
+			"description": "The Lancer and Gnasher are two of the most iconic weapons in the Gears of War universe. Available in pristine white and grime-resistant black.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-1e4b-c291-cfde-9ada4d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-1e4b-c291-cfde-9ada4d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-2644-b2d2-c9c3-601b4d530ac0",
+			"title": "Gears Weapons Hoodie (Black) ",
+			"description": "The Lancer and Gnasher are two of the most iconic weapons in the Gears of War universe. Available in pristine white and grime-resistant black.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-2644-b2d2-c9c3-601b4d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-2644-b2d2-c9c3-601b4d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-0d4e-e2c2-c276-f9404d530ac0",
+			"title": "Gears Weapons Hoodie (White) ",
+			"description": "The Lancer and Gnasher are two of the most iconic weapons in the Gears of War universe. Available in pristine white and grime-resistant black.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-0d4e-e2c2-c276-f9404d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-0d4e-e2c2-c276-f9404d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000208-c74f-6281-c6c9-1a954d530ac0",
+			"title": "Gears Weapons Hoodie (White) ",
+			"description": "The Lancer and Gnasher are two of the most iconic weapons in the Gears of War universe. Available in pristine white and grime-resistant black.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000208-c74f-6281-c6c9-1a954d530ac0/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000208-c74f-6281-c6c9-1a954d530ac0",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$1.99",
+				"silverPrice": "$1.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 1.99,
+					"display": "$1.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ab8-5e45-f281-c213-94744d530ac1",
+			"title": "JD Fenix Armor",
+			"description": "Channel your inner hero as JD Fenix, son of the legendary war hero Marcus Fenix. After the \"incident\", Lt. Fenix went AWOL in search of purpose, finding himself among the Outsiders of Sera.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1465549200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ab8-5e45-f281-c213-94744d530ac1/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ab8-5e45-f281-c213-94744d530ac1",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000ffc-d347-82f2-ccab-5b3f4d530ac1",
+			"title": "Kait Diaz Armor",
+			"description": "Kait is a true Outsider, headstrong and formidable. She is an expert hunter and tracker, living in harmony with her environment.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1465549200000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Avatar"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/00000ffc-d347-82f2-ccab-5b3f4d530ac1/1033/thumblg.png",
+			"url": "/en-US/X8/Game/00000ffc-d347-82f2-ccab-5b3f4d530ac1",
+			"downloadTypeClass": "AvatarItem",
+			"downloadTypeText": "Avatar",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$3.99",
+				"silverPrice": "$3.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.99,
+					"display": "$3.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

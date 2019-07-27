@@ -1,0 +1,131 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802544707d1",
+	"title": "Shooting Love 200X",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The historic success story of the arcades! Introducing the \"Shmups Skill Test\", a way to evalute your skills as a \"gamer age\". The high brow style of \"EXZEAL\", with 4 types of craft to choose from. The classic style of \"TRIZEAL Remix\", where you can switch between wide shots, lasers and missiles to strategically conquer a wide variety of stages. And, the console-only abstract shooter, \"MINUS ZERO\". Enjoy these 4 diverse shooters all from one package! ",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "Triangle Service Corp.",
+	"studio": "Triangle Service Corp.",
+	"originalReleaseDate": "/Date(1429574400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Fantasy Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Shares Info",
+			"Users Interact"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Shooting-Love-200X/66acd000-77fe-1000-9115-d802544707d1",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 177
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802544707d1/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802544707d1",
+			"title": "Shooting Love 200X",
+			"description": "The Games on Demand version supports English, Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The historic success story of the arcades! Introducing the \"Shmups Skill Test\", a way to evalute your skills as a \"gamer age\". The high brow style of \"EXZEAL\", with 4 types of craft to choose from. The classic style of \"TRIZEAL Remix\", where you can switch between wide shots, lasers and missiles to strategically conquer a wide variety of stages. And, the console-only abstract shooter, \"MINUS ZERO\". Enjoy these 4 diverse shooters all from one package! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 177
+				}
+			},
+			"originalReleaseDate": "/Date(1429606800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Fantasy Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Shares Info",
+					"Users Interact"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802544707d1/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802544707d1",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

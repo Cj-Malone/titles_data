@@ -1,0 +1,119 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802573607d7",
+	"title": "My Body Coach 3",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish. This game requires a Kinect™ Sensor. Slimming, fitness and relaxation: your well-being coach in your own home! - Create and record your own fitness sessions or let yourself be guided by a personalised coaching programme. - Your movements are corrected in real time with Kinect™. - New: relaxation and stretching!",
+	"genres": [
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Bigben Interactive",
+	"studio": "Kylotonn Entertainment",
+	"originalReleaseDate": "/Date(1375142400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/screenlg2.jpg"
+	],
+	"detailsUrl": "/en-US/Product/My-Body-Coach-3/66acd000-77fe-1000-9115-d802573607d7",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3,
+			"Count": 77
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802573607d7/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802573607d7",
+			"title": "My Body Coach 3",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish. This game requires a Kinect™ Sensor. Slimming, fitness and relaxation: your well-being coach in your own home! - Create and record your own fitness sessions or let yourself be guided by a personalised coaching programme. - Your movements are corrected in real time with Kinect™. - New: relaxation and stretching!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3,
+					"Count": 77
+				}
+			},
+			"originalReleaseDate": "/Date(1426842000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607d7/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802573607d7",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

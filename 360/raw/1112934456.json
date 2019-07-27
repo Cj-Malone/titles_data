@@ -1,0 +1,137 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80242560838",
+	"title": "Star Wars Jedi Knight: Jedi Academy",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series.  Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.  Interact with famous Star Wars characters in many classic Star Wars locations as you face the ultimate choice:  fight for good and freedom on the light side or follow the path of power and evil to the dark side.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "LucasArts",
+	"studio": "Raven Software",
+	"originalReleaseDate": "/Date(1524700800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Star-Wars-Jedi-Knight-Jedi-Academy/66acd000-77fe-1000-9115-d80242560838",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560838/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d80242560838",
+			"title": "Star Wars Jedi Knight: Jedi Academy",
+			"description": "Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series.  Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.  Interact with famous Star Wars characters in many classic Star Wars locations as you face the ultimate choice:  fight for good and freedom on the light side or follow the path of power and evil to the dark side.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1524474000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560838/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560838",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

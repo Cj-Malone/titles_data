@@ -1,0 +1,140 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802454109fa",
+	"title": "SSX 3",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Life begins at the summit of the first peak, where a daunting mountain awaits you—ride it … explore it … beat it! Featuring all-new freestyle events and racecourses, jaw-dropping tricks, and a cast of cool customizable characters, SSX 3 is yours to conquer.",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Electronic Arts",
+	"studio": "EA Vancouver",
+	"originalReleaseDate": "/Date(1523923200000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Comic Mischief",
+				"image": null
+			},
+			{
+				"label": "Mild Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/SSX-3/66acd000-77fe-1000-9115-d802454109fa",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109fa/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802454109fa",
+			"title": "SSX 3",
+			"description": "Life begins at the summit of the first peak, where a daunting mountain awaits you—ride it … explore it … beat it! Featuring all-new freestyle events and racecourses, jaw-dropping tricks, and a cast of cool customizable characters, SSX 3 is yours to conquer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1523610000000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Comic Mischief",
+						"image": null
+					},
+					{
+						"label": "Mild Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454109fa/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802454109fa",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802555308d5",
+	"title": "Just Dance 2018",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d5/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d5/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Just Dance 2018 is coming back on October 26th 2017 with over 40 tracks at launch.  From the hottest hits to family favorites, dance to 40 new tracks, including: • Shape of You - Ed Sheeran • Despacito - Luis Fonsi & Daddy Yankee • 24K Magic - Bruno Mars • John Wayne - Lady Gaga • Waka Waka - Shakira • Naughty Girl - Beyoncé • Rockabye - Clean Bandit Ft. Sean Paul & Anne-Marie ...and many more!",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Music"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Ubisoft Paris",
+	"originalReleaseDate": "/Date(1508803200000)/",
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d5/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d5/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d5/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Just-Dance-2018/66acd000-77fe-1000-9115-d802555308d5",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 2436
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308d5/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802555308d5",
+			"title": "Just Dance 2018",
+			"description": "Just Dance 2018 is coming back on October 26th 2017 with over 40 tracks at launch.  From the hottest hits to family favorites, dance to 40 new tracks, including: • Shape of You - Ed Sheeran • Despacito - Luis Fonsi & Daddy Yankee • 24K Magic - Bruno Mars • John Wayne - Lady Gaga • Waka Waka - Shakira • Naughty Girl - Beyoncé • Rockabye - Clean Bandit Ft. Sean Paul & Anne-Marie ...and many more!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 2436
+				}
+			},
+			"originalReleaseDate": "/Date(1478595600000)/",
+			"contentRating": null,
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Music"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d5/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308d5",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

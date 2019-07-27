@@ -1,0 +1,138 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024256083a",
+	"title": "KOTOR II",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "This time your choices affect everyone around you  It is a time of darkness, five years after the events of the award-winning KOTOR.  The Sith Lords have hunted the Jedi Order to the edge of extinction and a lone Jedi Knight remains - you.  As you struggle to reconnect with the Force, your decisions will lead you to the light or dark side and will affect everyone around you.  The fate of the galaxy rests in your hands!",
+	"genres": [
+		{
+			"label": "Role Playing"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "LucasArts",
+	"studio": "Obsidian Entertainment",
+	"originalReleaseDate": "/Date(1524700800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Blood",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/screenlg1.jpg"
+	],
+	"detailsUrl": "/en-US/Product/KOTOR-II/66acd000-77fe-1000-9115-d8024256083a",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083a/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024256083a",
+			"title": "KOTOR II",
+			"description": "This time your choices affect everyone around you  It is a time of darkness, five years after the events of the award-winning KOTOR.  The Sith Lords have hunted the Jedi Order to the edge of extinction and a lone Jedi Knight remains - you.  As you struggle to reconnect with the Force, your decisions will lead you to the light or dark side and will affect everyone around you.  The fate of the galaxy rests in your hands!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1524474000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Blood",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Role Playing"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024256083a/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024256083a",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,241 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802533007d0",
+	"title": "Caladrius",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports both English and Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Experience entrancing graphics that bring the game world to life, impressive sound, a grand story, and characters that tie it all together! Introducing a new gothic horror shooting game that shatters the boundaries of existing shooters to bring you new levels of excitement and satisfaction! Packed with innovative and exciting gameplay elements such as the \"elemental shot\" system that allows you to strategically upgrade your weapons, and \"Shame break\" that expose your character's secrets! Features a variety of game modes, including Boss Rush and Score Attack, as well as a Gallery that allows you to fully enjoy the game's setting and characters.",
+	"genres": [
+		{
+			"label": "Shooter"
+		}
+	],
+	"publisher": "MOSS Co., Ltd.",
+	"studio": "MOSS Co., Ltd.",
+	"originalReleaseDate": "/Date(1441324800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Partial Nudity",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": "http://download.xbox.com/content/533007d0/CaladriusEN_GonD_20150212.pdf",
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Caladrius/66acd000-77fe-1000-9115-d802533007d0",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 217
+		}
+	},
+	"price": {
+		"goldPrice": "$19.99",
+		"silverPrice": "$19.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 19.99,
+			"display": "$19.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802533007d0/Children",
+	"childDownloads": [
+		{
+			"id": "7f11fff0-90db-4f59-976d-6438708a58af",
+			"title": "Additional Characters: \"Nightmare of the Lilith\"",
+			"description": "Use the new character Nightmare of the Lilith as a player character. Lilith was born of the collective hatred of those who were sacrificed for the sake of properly harnessing the power of forbidden magic, and uses shadow elemental shots. Learn more about her hatred for the world and her desire to curse all of existence as you play the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 13
+				}
+			},
+			"originalReleaseDate": "/Date(1442566800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Partial Nudity",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/7f11fff0-90db-4f59-976d-6438708a58af/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/7f11fff0-90db-4f59-976d-6438708a58af",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "385394eb-42e9-4b98-8808-7560f9546fef",
+			"title": "Additional Characters: \"Sophia Fulcanelli\"",
+			"description": "Use the navigation character Sophia Fulcanelli as a player character. Sophia sacrificed herself for her master Paracelsus, and has water elemental shots at her disposal. Learn more about her feelings about alchemy and her interactions with the other characters as you play the game.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 10
+				}
+			},
+			"originalReleaseDate": "/Date(1442566800000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Partial Nudity",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/385394eb-42e9-4b98-8808-7560f9546fef/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/385394eb-42e9-4b98-8808-7560f9546fef",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d802533007d0",
+			"title": "Caladrius",
+			"description": "The Games on Demand version supports both English and Japanese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Experience entrancing graphics that bring the game world to life, impressive sound, a grand story, and characters that tie it all together! Introducing a new gothic horror shooting game that shatters the boundaries of existing shooters to bring you new levels of excitement and satisfaction! Packed with innovative and exciting gameplay elements such as the \"elemental shot\" system that allows you to strategically upgrade your weapons, and \"Shame break\" that expose your character's secrets! Features a variety of game modes, including Boss Rush and Score Attack, as well as a Gallery that allows you to fully enjoy the game's setting and characters.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 217
+				}
+			},
+			"originalReleaseDate": "/Date(1441357200000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Partial Nudity",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802533007d0/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802533007d0",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$19.99",
+				"silverPrice": "$19.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 19.99,
+					"display": "$19.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

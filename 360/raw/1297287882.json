@@ -1,0 +1,137 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d8024d530aca",
+	"title": "Fuzion Frenzy",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/boxartlg.jpg",
+	"backgroundImage": null,
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Fuzion Frenzy® combines the continuous, frenetic action of a futuristic street sport with the action-packed fun of mini-games set in a dynamic 3-D urban environment. Six arenas and more than 45 mini-games provide plenty of competitive fun for up to four players.",
+	"genres": [
+		{
+			"label": "Family"
+		},
+		{
+			"label": "Classics"
+		},
+		{
+			"label": "Puzzle & Trivia"
+		}
+	],
+	"publisher": "Xbox Game Studios",
+	"studio": "Blitz Games",
+	"originalReleaseDate": "/Date(1560211200000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Fuzion-Frenzy/66acd000-77fe-1000-9115-d8024d530aca",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d530aca/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d8024d530aca",
+			"title": "Fuzion Frenzy",
+			"description": "Fuzion Frenzy® combines the continuous, frenetic action of a futuristic street sport with the action-packed fun of mini-games set in a dynamic 3-D urban environment. Six arenas and more than 45 mini-games provide plenty of competitive fun for up to four players.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1560243600000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Family"
+				},
+				{
+					"label": "Classics"
+				},
+				{
+					"label": "Puzzle & Trivia"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d530aca/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d8024d530aca",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

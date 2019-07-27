@@ -1,0 +1,136 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802555308d3",
+	"title": "JD2016",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Music Downloads Not Rated by the ESRB  The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Finnish, Norwegian, Brazilian, Swedish  The world's best-selling dance game is back! Get ready to dance to the best hits from MEGHAN TRAINOR, MARTIN GARRIX, MARK RONSON FT. BRUNO MARS, THE BLACK EYED PEAS, LADY GAGA, JASON DERULO, and much more!",
+	"genres": [
+		{
+			"label": "Music"
+		},
+		{
+			"label": "Kinect"
+		}
+	],
+	"publisher": "Ubisoft",
+	"studio": "Ubisoft",
+	"originalReleaseDate": "/Date(1445472000000)/",
+	"contentRating": {
+		"label": "E10 (Everyone 10+)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+		"age": 10,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Mild Lyrics",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/screenlg7.jpg"
+	],
+	"detailsUrl": "/en-US/Product/JD2016/66acd000-77fe-1000-9115-d802555308d3",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4,
+			"Count": 1794
+		}
+	},
+	"price": {
+		"goldPrice": "$39.99",
+		"silverPrice": "$39.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 39.99,
+			"display": "$39.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308d3/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802555308d3",
+			"title": "JD2016",
+			"description": "Music Downloads Not Rated by the ESRB  The Games on Demand version supports English, French, Italian, German, Spanish, Danish, Dutch, Finnish, Norwegian, Brazilian, Swedish  The world's best-selling dance game is back! Get ready to dance to the best hits from MEGHAN TRAINOR, MARTIN GARRIX, MARK RONSON FT. BRUNO MARS, THE BLACK EYED PEAS, LADY GAGA, JASON DERULO, and much more!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 1794
+				}
+			},
+			"originalReleaseDate": "/Date(1445331600000)/",
+			"contentRating": {
+				"label": "E10 (Everyone 10+)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/20.png",
+				"age": 10,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Mild Lyrics",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Music"
+				},
+				{
+					"label": "Kinect"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308d3/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802555308d3",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$39.99",
+				"silverPrice": "$39.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 39.99,
+					"display": "$39.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

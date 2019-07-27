@@ -1,0 +1,105 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80253450832",
+	"title": "End of Eternity",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "天頂に向かってそびえ立つ巨大な機械 「バーゼル」の中でしか生き永らえぬ人々。 世界には太古に忘れ去られた秘密がある―。 終わりゆく世界で“運命”が交錯し、物語は始まる。 奥深いストーリーと銃弾飛び交う激しいバトル。 数々のRPGを手がけたトライエースとセガによる完全新作RPG",
+	"genres": [
+		{
+			"label": "Role Playing"
+		}
+	],
+	"publisher": "SEGA",
+	"studio": "tri-Ace Inc.",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg10.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg11.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg12.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg13.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg14.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg15.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg16.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg17.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg18.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg19.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/screenlg20.jpg"
+	],
+	"detailsUrl": "/en-US/Product/End-of-Eternity/66acd000-77fe-1000-9115-d80253450832",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.75,
+			"Count": 2955
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GameVideo"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80253450832/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-400b-80bf-000553450832",
+			"title": "Resonance of Fate Ann Trailer (HD)",
+			"description": "Download this trailer.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 156
+				}
+			},
+			"originalReleaseDate": "/Date(1268298000000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Role Playing"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450832/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-400b-80bf-000553450832",
+			"downloadTypeClass": "GameVideo",
+			"downloadTypeText": "Video",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

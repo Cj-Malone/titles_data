@@ -1,0 +1,149 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802595607d2",
+	"title": "Hunter: The Reckoning",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "You have been chosen to join the reckoning - to step into the World of Darkness where humanity is ravaged by vampires and marauding monsters. As a Hunter, you are immune to these beasts' illusions, but with your power comes a daunting destiny; to destroy these evil beings before mankind is massacred. Prey for your life.",
+	"genres": [
+		{
+			"label": "Fighting"
+		},
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "Interplay Entertainment",
+	"studio": "High Voltage Software",
+	"originalReleaseDate": "/Date(1523923200000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/screenlg6.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Hunter-The-Reckoning/66acd000-77fe-1000-9115-d802595607d2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$14.99",
+		"silverPrice": "$14.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 14.99,
+			"display": "$14.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802595607d2/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802595607d2",
+			"title": "Hunter: The Reckoning",
+			"description": "You have been chosen to join the reckoning - to step into the World of Darkness where humanity is ravaged by vampires and marauding monsters. As a Hunter, you are immune to these beasts' illusions, but with your power comes a daunting destiny; to destroy these evil beings before mankind is massacred. Prey for your life.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1523610000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Fighting"
+				},
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802595607d2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802595607d2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$14.99",
+				"silverPrice": "$14.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 14.99,
+					"display": "$14.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

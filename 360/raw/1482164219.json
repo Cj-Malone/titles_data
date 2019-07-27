@@ -1,0 +1,125 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802585807fb",
+	"title": "Champions of Gaming",
+	"image": "http://mktplassets.xbox.com/NR/rdonlyres/3275A684-AADF-48CD-87E6-5C5464B487F3/0/cboxchampionsofgaming.jpg",
+	"backgroundImage": null,
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Download the new Champions of Gaming Gamer Pic's and Themes!",
+	"genres": [
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Xbox LIVE",
+	"studio": "EA Sports",
+	"originalReleaseDate": null,
+	"contentRating": null,
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Champions-of-Gaming/66acd000-77fe-1000-9115-d802585807fb",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 3627
+		}
+	},
+	"price": {
+		"goldPrice": null,
+		"silverPrice": null
+	},
+	"prices": [
+
+	],
+	"childDownloadTypes": [
+		"GamerPic",
+		"Theme"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802585807fb/Children",
+	"childDownloads": [
+		{
+			"id": "00000000-0000-4002-802f-0001585807fb",
+			"title": "Champions of Gaming - Picture pack",
+			"description": "Get the new Champions of Gaming Pics!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.75,
+					"Count": 186
+				}
+			},
+			"originalReleaseDate": "/Date(1225443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://mktplassets.xbox.com/NR/rdonlyres/3275A684-AADF-48CD-87E6-5C5464B487F3/0/cboxchampionsofgaming.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4002-802f-0001585807fb",
+			"downloadTypeClass": "GamerPic",
+			"downloadTypeText": "GamerPic",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "00000000-0000-4003-803f-0001585807fb",
+			"title": "Champions of Gaming Theme",
+			"description": "Get the new Champions of Gaming Theme!",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 135
+				}
+			},
+			"originalReleaseDate": "/Date(1225443600000)/",
+			"contentRating": null,
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://mktplassets.xbox.com/NR/rdonlyres/3275A684-AADF-48CD-87E6-5C5464B487F3/0/cboxchampionsofgaming.jpg",
+			"url": "/en-US/X8/Game/00000000-0000-4003-803f-0001585807fb",
+			"downloadTypeClass": "Theme",
+			"downloadTypeText": "Theme",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "Free",
+				"silverPrice": "Free"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 0,
+					"display": "Free",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

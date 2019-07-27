@@ -1,0 +1,133 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d802573607e2",
+	"title": "WRC 5",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "The Games on Demand version supports English, French, Italian, German, Spanish.Find all the cars, all the drivers and all the official rallies of the 2015 FIA World Rally Championship in THE racing simulation standard. Realistic driving on different road surfaces, dynamic damage, day/night system, weather… Experience all the sensations of rally racing in WRC 5! ",
+	"genres": [
+		{
+			"label": "Racing & Flying"
+		},
+		{
+			"label": "Sports & Recreation"
+		}
+	],
+	"publisher": "Bigben Interactive",
+	"studio": "Kylotonn Racing Games",
+	"originalReleaseDate": "/Date(1444694400000)/",
+	"contentRating": {
+		"label": "E (Everyone)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+		"age": 6,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg3.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg4.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg5.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg6.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg7.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg8.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg9.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/screenlg10.jpg"
+	],
+	"detailsUrl": "/en-US/Product/WRC-5/66acd000-77fe-1000-9115-d802573607e2",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 3.5,
+			"Count": 1811
+		}
+	},
+	"price": {
+		"goldPrice": "$34.99",
+		"silverPrice": "$34.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 34.99,
+			"display": "$34.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802573607e2/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d802573607e2",
+			"title": "WRC 5",
+			"description": "The Games on Demand version supports English, French, Italian, German, Spanish.Find all the cars, all the drivers and all the official rallies of the 2015 FIA World Rally Championship in THE racing simulation standard. Realistic driving on different road surfaces, dynamic damage, day/night system, weather… Experience all the sensations of rally racing in WRC 5! ",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 3.5,
+					"Count": 1811
+				}
+			},
+			"originalReleaseDate": "/Date(1444726800000)/",
+			"contentRating": {
+				"label": "E (Everyone)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/10.png",
+				"age": 6,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Racing & Flying"
+				},
+				{
+					"label": "Sports & Recreation"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802573607e2/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d802573607e2",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$34.99",
+				"silverPrice": "$34.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 34.99,
+					"display": "$34.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

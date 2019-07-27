@@ -1,0 +1,130 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80242560837",
+	"title": "Star Wars Battlefront II",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Fight on the front lines where every weapon and vehicle is yours.  And now for the first time, Star Wars Battlefront II lets you...  Fight as a Jedi - Earn the ability to wield a lightsaber and use Force powers like Yoda, Darth Vader and many other Heroes and Villains.  Battle in Space - Dogfight in X-wings, TIE fighters, Jedi Starfighters and other classic starships, or land your ship on a Star Destroyer and fight it out on foot aboard enemy ships.  Play 16 New Locations - Battle across Star Wars: Episode III environments such as Utapau, Mustafar and the epic space battle above Coruscant.  Engage in Massive Online Battles",
+	"genres": [
+		{
+			"label": "Shooter"
+		},
+		{
+			"label": "Classics"
+		}
+	],
+	"publisher": "LucasArts",
+	"studio": "Pandemic Studios",
+	"originalReleaseDate": "/Date(1524700800000)/",
+	"contentRating": {
+		"label": "T (Teen)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+		"age": 13,
+		"purchaseAgeGate": false,
+		"videoAgeGate": false,
+		"descriptors": [
+			{
+				"label": "Violence",
+				"image": null
+			}
+		],
+		"disclaimers": [
+
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+
+	],
+	"detailsUrl": "/en-US/Product/Star-Wars-Battlefront-II/66acd000-77fe-1000-9115-d80242560837",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 0,
+			"Count": 0
+		}
+	},
+	"price": {
+		"goldPrice": "$9.99",
+		"silverPrice": "$9.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 9.99,
+			"display": "$9.99",
+			"tax": "plus tax",
+			"user": "silver"
+		}
+	],
+	"childDownloadTypes": [
+		"Game"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560837/Children",
+	"childDownloads": [
+		{
+			"id": "66acd000-77fe-1000-9115-d80242560837",
+			"title": "Star Wars Battlefront II",
+			"description": "Fight on the front lines where every weapon and vehicle is yours.  And now for the first time, Star Wars Battlefront II lets you...  Fight as a Jedi - Earn the ability to wield a lightsaber and use Force powers like Yoda, Darth Vader and many other Heroes and Villains.  Battle in Space - Dogfight in X-wings, TIE fighters, Jedi Starfighters and other classic starships, or land your ship on a Star Destroyer and fight it out on foot aboard enemy ships.  Play 16 New Locations - Battle across Star Wars: Episode III environments such as Utapau, Mustafar and the epic space battle above Coruscant.  Engage in Massive Online Battles",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 0,
+					"Count": 0
+				}
+			},
+			"originalReleaseDate": "/Date(1524474000000)/",
+			"contentRating": {
+				"label": "T (Teen)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/30.png",
+				"age": 13,
+				"purchaseAgeGate": false,
+				"videoAgeGate": false,
+				"descriptors": [
+					{
+						"label": "Violence",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": [
+				"Game"
+			],
+			"genres": [
+				{
+					"label": "Shooter"
+				},
+				{
+					"label": "Classics"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80242560837/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80242560837",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}

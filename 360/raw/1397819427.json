@@ -1,0 +1,965 @@
+{
+	"version": "1",
+	"id": "66acd000-77fe-1000-9115-d80253510823",
+	"title": "Rise of the Tomb Raider",
+	"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/boxartlg.jpg",
+	"backgroundImage": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/background.jpg",
+	"downloadTypeClass": "Game",
+	"downloadTypeText": "Game",
+	"platform": "Xbox",
+	"description": "Featuring epic, high-octane action moments set in the most beautifully hostile environments on earth, Rise of the Tomb Raider delivers a cinematic survival action adventure where you will join Lara Croft on her first tomb raiding expedition.  Explore Awe-Inspiring Deadly Tombs - Huge ancient spaces littered with deadly traps, solve dramatic environmental puzzles, and decipher ancient texts to reveal crypts as you take on a world filled with secrets to discover. Woman vs. Wild - Conquer a world fiercely protecting its secrets, endure perilous conditions and unstable landscapes, face dangerous wildlife that act as guardians to ancient tombs, and explore huge interactive environments. Guerrilla Combat - Use the environment to your advantage, scale trees and dive underwater to avoid or takedown enemies, configure Lara's gear, weapons, and ammo to suit your play style, craft explosives on the fly to sow chaos, and wield Lara’s signature combat bows and climbing axe.",
+	"genres": [
+		{
+			"label": "Action & Adventure"
+		}
+	],
+	"publisher": "Square Enix",
+	"studio": "Nixxes",
+	"originalReleaseDate": "/Date(1447113600000)/",
+	"contentRating": {
+		"label": "M (Mature)",
+		"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+		"age": 17,
+		"purchaseAgeGate": true,
+		"videoAgeGate": true,
+		"descriptors": [
+			{
+				"label": "Blood and Gore",
+				"image": null
+			},
+			{
+				"label": "Intense Violence",
+				"image": null
+			},
+			{
+				"label": "Strong Language",
+				"image": null
+			}
+		],
+		"disclaimers": [
+			"Online Interactions Not Rated by the ESRB"
+		]
+	},
+	"trailers": [
+
+	],
+	"gameManual": null,
+	"screenshots": [
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/screenlg1.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/screenlg2.jpg",
+		"http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/screenlg3.jpg"
+	],
+	"detailsUrl": "/en-US/Product/Rise-of-the-Tomb-Raider/66acd000-77fe-1000-9115-d80253510823",
+	"userRating": {
+		"allowed": true,
+		"current": {
+			"Aggregate": 4.5,
+			"Count": 4408
+		}
+	},
+	"price": {
+		"goldPrice": "$7.99",
+		"silverPrice": "$11.99"
+	},
+	"prices": [
+		{
+			"method": "currency",
+			"amount": 11.99,
+			"display": "$11.99",
+			"tax": "plus tax",
+			"user": "silver"
+		},
+		{
+			"method": "currency",
+			"amount": 7.99,
+			"display": "$7.99",
+			"tax": "plus tax",
+			"user": "gold"
+		}
+	],
+	"childDownloadTypes": [
+		"Game",
+		"GameAddon"
+	],
+	"childDownloadsUrl": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80253510823/Children",
+	"childDownloads": [
+		{
+			"id": "15d4739f-95a8-49d6-80e7-4345ad2f9448",
+			"title": "Ancient Vanguard",
+			"description": "Includes the \"Ancient Vanguard\" outfit that reduces the delay before Lara regenerates her health, the \"Guiding Light\" Bow skin and a card pack with two guaranteed rare cards and three other cards that have an increased chance at being rare.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 123
+				}
+			},
+			"originalReleaseDate": "/Date(1452589200000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/15d4739f-95a8-49d6-80e7-4345ad2f9448/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/15d4739f-95a8-49d6-80e7-4345ad2f9448",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "945ff831-0934-4d3e-9f33-a1c1404f4a24",
+			"title": "Apex Predator Pack",
+			"description": "Includes the \"Apex Predator\" outfit that reduces all damage inflicted by animals, and the \"Venom Hand Cannon\" that offers  incredible stopping power with a complete upgrade path.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 30
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/945ff831-0934-4d3e-9f33-a1c1404f4a24/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/945ff831-0934-4d3e-9f33-a1c1404f4a24",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "81ab49ff-cd40-408c-8e0b-eea549f8400f",
+			"title": "Baba Yaga: The Temple of the Witch",
+			"description": "Deep in the wilds of Siberia lies a forest that no man will enter, where a Soviet expedition vanished without a trace. Lara enters the Wicked Vale in search of a missing man, but she finds a nightmare that defies explanation. Is the witch, Baba Yaga, haunting the forest? Or is there more to the myth? Featuring three hours of new gameplay, Lara will face new adversaries, explore a new tomb, solve a decades old mystery, and face off against an ancient evil. Includes a new outfit, and a new bow.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 260
+				}
+			},
+			"originalReleaseDate": "/Date(1453798800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/81ab49ff-cd40-408c-8e0b-eea549f8400f/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/81ab49ff-cd40-408c-8e0b-eea549f8400f",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.49",
+				"silverPrice": "$3.49"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 3.49,
+					"display": "$3.49",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 2.49,
+					"display": "$2.49",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "e0d8b35d-1a23-4527-9605-3f0b5fcef1cb",
+			"title": "Cold Darkness Awakened",
+			"description": "Decommissioned during the Cold War, a dormant weapons research base has been breached, unleashing a mysterious affliction into the Siberian wilderness that transforms men into blood-thirsty, mindless killers. Lara must overcome increasingly dangerous waves of these infected adversaries while scavenging their equipment and crafting additional gear on the fly, in kill or be killed survival-combat. Fight for your life against new enemies and complete new challenges, while discovering a way to stop or perhaps even reverse this impending catastrophe. Includes the Ushanka outfit, which reduces Lara’s damage from melee attacks, the devastating Voidhammer shotgun, and the Cold Darkness Awakened Card Pack which includes over 15 new Expedition Cards.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 172
+				}
+			},
+			"originalReleaseDate": "/Date(1459242000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/e0d8b35d-1a23-4527-9605-3f0b5fcef1cb/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/e0d8b35d-1a23-4527-9605-3f0b5fcef1cb",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "400a0aac-6a61-420a-bb30-ace95cfc9ab9",
+			"title": "Endurance Mode",
+			"description": "Alone and in the wild, Lara must scrounge, scavenge, craft and survive the harsh elements by day, as well as lethal threats from enemies, both man and beast, by night. This is her ultimate woman-versus-wild test to push the limits of how long she can survive on her own in sprawling, unforgiving landscapes. Fire takes fuel, cold kills the unprepared, food restores health, but everything must be caught, collected, or crafted. You start with nothing and must find everything. Challenge friends to your longest survival run and battle to the top of the leaderboards for the title of Ultimate Survivor. Includes a new outfit and weapon.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 86
+				}
+			},
+			"originalReleaseDate": "/Date(1451379600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/400a0aac-6a61-420a-bb30-ace95cfc9ab9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/400a0aac-6a61-420a-bb30-ace95cfc9ab9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$9.99",
+				"silverPrice": "$9.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 9.99,
+					"display": "$9.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "fd56e871-a2b8-46c7-b52f-11a4b22aa931",
+			"title": "Hope's Bastion Pack",
+			"description": "Includes the \"Hope's Bastion\" outfit that boosts Lara's charged bow shots, the \"Wreckoner\" Battle Axe skin, and the rare\"Juggernaut\" foil card which gives Lara additional armor with each kill for a limited time.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 29
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/fd56e871-a2b8-46c7-b52f-11a4b22aa931/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/fd56e871-a2b8-46c7-b52f-11a4b22aa931",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "269a643e-9682-46b6-9788-864ca207cb2d",
+			"title": "Prophet's Legacy",
+			"description": "Includes the \"Immortal Guardian\" outfit that reduces Lara's damage from Greek Fire, the \"Piercing Truth\" dagger and a card pack with two guaranteed rare cards and three other cards that have an increased chance at being rare.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 75
+				}
+			},
+			"originalReleaseDate": "/Date(1450774800000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/269a643e-9682-46b6-9788-864ca207cb2d/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/269a643e-9682-46b6-9788-864ca207cb2d",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "15d854ad-3497-4809-972e-4973247bd2e6",
+			"title": "Remnant Resistance Pack",
+			"description": "Includes the \"Remnant\" outfit which gives Lara a chance to bandage without using any resources, the \"Moon Shadow\" Heavy Pistol skin, and the rare \"Bullet Resistance\" foil card, which gives Lara extra damage resistance to gunfire.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 31
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/15d854ad-3497-4809-972e-4973247bd2e6/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/15d854ad-3497-4809-972e-4973247bd2e6",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "66acd000-77fe-1000-9115-d80253510823",
+			"title": "Rise of the Tomb Raider",
+			"description": "Featuring epic, high-octane action moments set in the most beautifully hostile environments on earth, Rise of the Tomb Raider delivers a cinematic survival action adventure where you will join Lara Croft on her first tomb raiding expedition.  Explore Awe-Inspiring Deadly Tombs - Huge ancient spaces littered with deadly traps, solve dramatic environmental puzzles, and decipher ancient texts to reveal crypts as you take on a world filled with secrets to discover. Woman vs. Wild - Conquer a world fiercely protecting its secrets, endure perilous conditions and unstable landscapes, face dangerous wildlife that act as guardians to ancient tombs, and explore huge interactive environments. Guerrilla Combat - Use the environment to your advantage, scale trees and dive underwater to avoid or takedown enemies, configure Lara's gear, weapons, and ammo to suit your play style, craft explosives on the fly to sow chaos, and wield Lara’s signature combat bows and climbing axe.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 4408
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+					"Online Interactions Not Rated by the ESRB"
+				]
+			},
+			"childDownloadTypes": [
+				"Game",
+				"GameAddon"
+			],
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510823/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/66acd000-77fe-1000-9115-d80253510823",
+			"downloadTypeClass": "Game",
+			"downloadTypeText": "Game",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$7.99",
+				"silverPrice": "$11.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 11.99,
+					"display": "$11.99",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 7.99,
+					"display": "$7.99",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "34cc42ef-8e05-4afd-9bf9-053f622e6f14",
+			"title": "Rise of the Tomb Raider Season Pass",
+			"description": "The Season Pass for Rise of the Tomb Raider includes a range of content that will extend your single-player campaign, and also allow you to compete with friends. Three major releases will challenge you to survive the extreme conditions of Endurance Mode, explore a new tomb that houses an ancient terror in Baba Yaga: The Temple of the Witch, and combat waves of infected predators in Cold Darkness Awakened. In addition, a steady stream of outfits, weapons, and Expedition Cards beginning on Day 1 and continuing over four months will keep you customizing, expanding, and challenging your friends to new adventures.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 258
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/34cc42ef-8e05-4afd-9bf9-053f622e6f14/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/34cc42ef-8e05-4afd-9bf9-053f622e6f14",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$7.49",
+				"silverPrice": "$10.49"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 10.49,
+					"display": "$10.49",
+					"tax": "plus tax",
+					"user": "silver"
+				},
+				{
+					"method": "currency",
+					"amount": 7.49,
+					"display": "$7.49",
+					"tax": "plus tax",
+					"user": "gold"
+				}
+			]
+		},
+		{
+			"id": "aeba5060-4c00-4e82-b0df-003547e3e9b8",
+			"title": "Siberian Ranger",
+			"description": "Siberian Ranger: Includes the “Siberian Ranger” outfit which increases Lara’s carrying capacity of all special ammunition, the “Accipiter Nox” Semi-Automatic Pistol skin, and a card pack with a guaranteed rare card and an increased chance for additional rare cards.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4,
+					"Count": 46
+				}
+			},
+			"originalReleaseDate": "/Date(1448355600000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/aeba5060-4c00-4e82-b0df-003547e3e9b8/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/aeba5060-4c00-4e82-b0df-003547e3e9b8",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "05cdd61b-d2d9-4c34-86db-94d17e221360",
+			"title": "Sparrowhawk Pack",
+			"description": "Includes the “Sparrowhawk” outfit that boosts Lara’s hunting ability, the “White Wood\" Recurve bow skin, and the rare “Master Hunter”  foil card which deals double damage to animals and gives Lara double the resources from them.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.5,
+					"Count": 26
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/05cdd61b-d2d9-4c34-86db-94d17e221360/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/05cdd61b-d2d9-4c34-86db-94d17e221360",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "096f5d6e-f3ba-4964-bb94-0f03936a42c9",
+			"title": "Tactical Survivor Pack",
+			"description": "Includes the \"Tactical Kit\" outfit which enables Lara to craft special ammunition with fewer resources, a \"Carbon Fiber\" Compound bow skin, and the rare \"Bow Master\" foil card, which gives Lara all bow upgrades, increased damage, and zooms further.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 33
+				}
+			},
+			"originalReleaseDate": "/Date(1447146000000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/096f5d6e-f3ba-4964-bb94-0f03936a42c9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/096f5d6e-f3ba-4964-bb94-0f03936a42c9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		},
+		{
+			"id": "541dec59-eb96-4480-9589-f0063cc050a9",
+			"title": "Wilderness Survivor",
+			"description": "Includes the \"Nightshade\" outfit that gives Lara the chance of looting an exotic animal resource from a common animal, the \"Deathsong\" Bloody Hatchet and a card pack with two guaranteed rare cards and three other cards that have an increased chance at being rare.",
+			"userRating": {
+				"allowed": true,
+				"current": {
+					"Aggregate": 4.25,
+					"Count": 60
+				}
+			},
+			"originalReleaseDate": "/Date(1455008400000)/",
+			"contentRating": {
+				"label": "M (Mature)",
+				"image": "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/0/default/Values/40.png",
+				"age": 17,
+				"purchaseAgeGate": true,
+				"videoAgeGate": true,
+				"descriptors": [
+					{
+						"label": "Blood and Gore",
+						"image": null
+					},
+					{
+						"label": "Intense Violence",
+						"image": null
+					},
+					{
+						"label": "Strong Language",
+						"image": null
+					}
+				],
+				"disclaimers": [
+
+				]
+			},
+			"childDownloadTypes": null,
+			"genres": [
+				{
+					"label": "Action & Adventure"
+				}
+			],
+			"image": "http://download.xbox.com/content/images/541dec59-eb96-4480-9589-f0063cc050a9/1033/boxartlg.jpg",
+			"url": "/en-US/X8/Game/541dec59-eb96-4480-9589-f0063cc050a9",
+			"downloadTypeClass": "GameAddon",
+			"downloadTypeText": "Add-on",
+			"platform": "Xbox",
+			"price": {
+				"goldPrice": "$2.99",
+				"silverPrice": "$2.99"
+			},
+			"prices": [
+				{
+					"method": "currency",
+					"amount": 2.99,
+					"display": "$2.99",
+					"tax": "plus tax",
+					"user": "silver"
+				}
+			]
+		}
+	]
+}
